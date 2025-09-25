@@ -1,5 +1,5 @@
 Translation Benchmark Results for hag-eng
-Generated on: 2025-09-25 08:31:25
+Generated on: 2025-09-25 19:54:59
 
 Model Performance:
 kimi-k2-instruct-0905: 57.06%

@@ -1,5 +1,5 @@
 Translation Benchmark Results for abr-eng
-Generated on: 2025-09-25 08:30:29
+Generated on: 2025-09-25 19:54:00
 
 Model Performance:
 kimi-k2-instruct-0905: 70.66%

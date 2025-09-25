@@ -1,5 +1,5 @@
 Translation Benchmark Results for nyb-eng
-Generated on: 2025-09-25 08:30:59
+Generated on: 2025-09-25 19:54:30
 
 Model Performance:
 kimi-k2-instruct-0905: 37.56%

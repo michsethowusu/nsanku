@@ -1,5 +1,5 @@
 Translation Benchmark Results for bim-eng
-Generated on: 2025-09-25 08:30:51
+Generated on: 2025-09-25 19:54:21
 
 Model Performance:
 kimi-k2-instruct-0905: 29.86%

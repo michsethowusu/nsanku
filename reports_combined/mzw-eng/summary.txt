@@ -1,5 +1,5 @@
 Translation Benchmark Results for mzw-eng
-Generated on: 2025-09-25 08:30:30
+Generated on: 2025-09-25 19:54:02
 
 Model Performance:
 kimi-k2-instruct-0905: 51.62%

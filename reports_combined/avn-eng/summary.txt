@@ -1,5 +1,5 @@
 Translation Benchmark Results for avn-eng
-Generated on: 2025-09-25 08:30:26
+Generated on: 2025-09-25 19:53:57
 
 Model Performance:
 kimi-k2-instruct-0905: 42.95%

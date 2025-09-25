@@ -1,5 +1,5 @@
 Translation Benchmark Results for ada-eng
-Generated on: 2025-09-25 08:30:27
+Generated on: 2025-09-25 19:53:59
 
 Model Performance:
 llama-4-maverick-17b-128e-instruct: 42.95%

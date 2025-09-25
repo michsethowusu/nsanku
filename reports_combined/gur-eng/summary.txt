@@ -1,5 +1,5 @@
 Translation Benchmark Results for gur-eng
-Generated on: 2025-09-25 08:30:46
+Generated on: 2025-09-25 19:54:17
 
 Model Performance:
 gpt-oss-120b: 23.65%

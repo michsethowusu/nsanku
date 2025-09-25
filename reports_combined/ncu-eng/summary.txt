@@ -1,5 +1,5 @@
 Translation Benchmark Results for ncu-eng
-Generated on: 2025-09-25 08:31:20
+Generated on: 2025-09-25 19:54:53
 
 Model Performance:
 qwen3-32b: 36.54%

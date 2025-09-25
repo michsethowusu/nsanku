@@ -1,5 +1,5 @@
 Translation Benchmark Results for bwu-eng
-Generated on: 2025-09-25 08:30:53
+Generated on: 2025-09-25 19:54:23
 
 Model Performance:
 kimi-k2-instruct-0905: 47.45%

@@ -1,13 +1,13 @@
 {
-  "timestamp": "2025-09-25T08:31:42.115718",
+  "timestamp": "2025-09-25T19:55:19.043483",
   "total_language_pairs": 43,
   "total_models": 5,
   "model_performance": {
+    "qwen3-32b": 34.140655566325584,
+    "kimi-k2-instruct-0905": 40.278297327302326,
     "llama-4-maverick-17b-128e-instruct": 32.76145871874419,
     "gemma2-9b-it": 32.15909761627907,
-    "kimi-k2-instruct-0905": 40.278297327302326,
-    "gpt-oss-120b": 19.326603542976745,
-    "qwen3-32b": 34.140655566325584
+    "gpt-oss-120b": 19.326603542976745
   },
   "language_performance": {
     "Avatime": 27.253856185999997,

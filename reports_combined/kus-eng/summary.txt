@@ -1,5 +1,5 @@
 Translation Benchmark Results for kus-eng
-Generated on: 2025-09-25 08:31:09
+Generated on: 2025-09-25 19:54:41
 
 Model Performance:
 gemma2-9b-it: 53.05%

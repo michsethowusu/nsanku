@@ -1,5 +1,5 @@
 Translation Benchmark Results for biv-eng
-Generated on: 2025-09-25 08:31:11
+Generated on: 2025-09-25 19:54:43
 
 Model Performance:
 qwen3-32b: 53.59%

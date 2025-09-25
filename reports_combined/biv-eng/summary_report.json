@@ -1,6 +1,6 @@
 {
   "language_pair": "biv-eng",
-  "timestamp": "2025-09-25T08:31:11.476495",
+  "timestamp": "2025-09-25T19:54:43.937199",
   "models": {
     "llama-4-maverick-17b-128e-instruct": 31.22109552,
     "gemma2-9b-it": 31.547886999999996,

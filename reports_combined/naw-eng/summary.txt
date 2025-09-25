@@ -1,5 +1,5 @@
 Translation Benchmark Results for naw-eng
-Generated on: 2025-09-25 08:30:34
+Generated on: 2025-09-25 19:54:05
 
 Model Performance:
 gemma2-9b-it: 33.79%
