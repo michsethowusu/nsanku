@@ -1,11 +1,11 @@
-ref,text,translated,similarity_score,source_zip_file
-You will show the right path to all who worship you.,Ma tenya Nana Bulu ifu? Mʋgyi ɔha ánɩ́ Nana Bulu tosuna ɔtsʋnkpa.,Do you know Nana Bulu? I saw him and Nana Bulu is ill today.,0.018273681,output_23092025-2
-or go with evil crowds.,Ntekisi aha lalahɛ ofiakpa yɔ. Mɩa lalahɛ abwɛpʋ anɩtamatsia.,,0.16357696,output_23092025-2
-"God has put every nation under our power,","Ɔtɛba ɔmá-ɔmá asɩ, pʋ amʋ́ wa anɩ asɩ. Ɔlɛha anɩlegyi ɔmá fɛ́ɛ́sʋ.",,0.124995485,output_23092025-2
-"Disappoint and confuse all who are glad to see me in trouble; disgrace and embarrass my proud enemies who say to me, “You are nothing!”","Pɛlɩ ɩkɩta aha ánɩ́ mɩ ɩkplan bʋ amʋ́ ansigyi. Ha amʋ abʋgyigya, pɛlɩ mʋ́a nsʋpa ɩtʋ ɩwɩ atsupʋ anfɩ bʋdɛ ɩwɩ tsu suna mɩ anfɩ.",,0.19643107,output_23092025-2
-"Don't be annoyed by anyone who does wrong, and don't envy them.","Mákpla lakpan abwɛpʋ. Lalahɛ abwɛpʋ tɔtɔ mápɛ fʋ ansɩ,",,0.16307476,output_23092025-2
-You will show the right path to all who worship you.,Ma tenya Nana Bulu ifu? Mʋgyi ɔha ánɩ́ Nana Bulu tosuna ɔtsʋnkpa.,Do you know Nana Bulu? I saw him and Nana Bulu is ill today.,0.018273681,output_23092025
-or go with evil crowds.,Ntekisi aha lalahɛ ofiakpa yɔ. Mɩa lalahɛ abwɛpʋ anɩtamatsia.,,0.16357696,output_23092025
-"God has put every nation under our power,","Ɔtɛba ɔmá-ɔmá asɩ, pʋ amʋ́ wa anɩ asɩ. Ɔlɛha anɩlegyi ɔmá fɛ́ɛ́sʋ.",,0.124995485,output_23092025
-"Disappoint and confuse all who are glad to see me in trouble; disgrace and embarrass my proud enemies who say to me, “You are nothing!”","Pɛlɩ ɩkɩta aha ánɩ́ mɩ ɩkplan bʋ amʋ́ ansigyi. Ha amʋ abʋgyigya, pɛlɩ mʋ́a nsʋpa ɩtʋ ɩwɩ atsupʋ anfɩ bʋdɛ ɩwɩ tsu suna mɩ anfɩ.",,0.19643107,output_23092025
-"Don't be annoyed by anyone who does wrong, and don't envy them.","Mákpla lakpan abwɛpʋ. Lalahɛ abwɛpʋ tɔtɔ mápɛ fʋ ansɩ,",,0.16307476,output_23092025
+ref,text,translated,source_zip_file,similarity_score
+"My enemies whisper about me. They think the worst,","Mɩ alupʋ amʋ fɛ́ɛ́ bʋtetsii mɩ, blɩ mɩ ɩwɩ asʋn bɛɛ,","I’m sorry, but I don’t know how to translate that text.",output_25092025,
+All who hate me are controlled by the power of evil. Sentence them to death and send them down alive to the world of the dead.,"Mɩ alupʋ lowu ifwie amʋ́tɔ. Bʋyɔ afulitɔ amʋ́ ansɩ bʋya, tsufɛ lalahɛ labʋla amʋ́ woyi pʋ́ amʋ́ klʋntɔ.",I'll go there tomorrow to the market. They bring the food and then sell it at the market.,output_25092025,
+"You are faithful, and I trust you because you rescued me.","Napʋ mɩ ɔŋɛ wa fʋ ɩbɩtɔ. Oo! Nana Bulu, Bulu Ɔnɔkwalɩpʋ, fahɔ mɩ.","I cannot go to the market. Oh! Chief Bulu, Bulu the leader, help me.",output_25092025,
+"Make everyone praise you, God, and shout your praises.","Oo Bulu, ha ɔmá-ɔmá abʋkanfʋ fʋ. Ha ɔmá fɛ́ɛ́ abʋkanfʋ fʋ!","Oh Bulu, please give us a child. Please give us a child!",output_25092025,
+"Open the ancient gates, so that the glorious king may come in.","Bulu ɔtswɛkpa aklʋn, mlɩfinki. Bɩmbɩ ɔpá aklʋn, mlɩfinki ɩwɩ, Numnyam Owie obitiwie.","I’m sorry, but I don’t have enough information to translate this Nkonya text.",output_25092025,
+You will show the right path to all who worship you.,Ma tenya Nana Bulu ifu? Mʋgyi ɔha ánɩ́ Nana Bulu tosuna ɔtsʋnkpa.,Do you know Nana Bulu? I saw him and Nana Bulu is ill today.,output_23092025,0.018273681
+or go with evil crowds.,Ntekisi aha lalahɛ ofiakpa yɔ. Mɩa lalahɛ abwɛpʋ anɩtamatsia.,,output_23092025,0.16357696
+"God has put every nation under our power,","Ɔtɛba ɔmá-ɔmá asɩ, pʋ amʋ́ wa anɩ asɩ. Ɔlɛha anɩlegyi ɔmá fɛ́ɛ́sʋ.",,output_23092025,0.124995485
+"Disappoint and confuse all who are glad to see me in trouble; disgrace and embarrass my proud enemies who say to me, “You are nothing!”","Pɛlɩ ɩkɩta aha ánɩ́ mɩ ɩkplan bʋ amʋ́ ansigyi. Ha amʋ abʋgyigya, pɛlɩ mʋ́a nsʋpa ɩtʋ ɩwɩ atsupʋ anfɩ bʋdɛ ɩwɩ tsu suna mɩ anfɩ.",,output_23092025,0.19643107
+"Don't be annoyed by anyone who does wrong, and don't envy them.","Mákpla lakpan abwɛpʋ. Lalahɛ abwɛpʋ tɔtɔ mápɛ fʋ ansɩ,",,output_23092025,0.16307476

@@ -1,5 +1,5 @@
 Translation Benchmark Results for dga-eng
-Generated on: 2025-09-24 14:06:30
+Generated on: 2025-09-25 07:32:40
 
 Model Performance:
 qwen3-32b: 35.76%

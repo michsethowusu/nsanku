@@ -1,9 +1,9 @@
 {
   "language_pair": "xon-eng",
-  "timestamp": "2025-09-24T14:06:29.977490",
+  "timestamp": "2025-09-25T07:32:38.923756",
   "models": {
     "qwen3-32b": 47.5421694,
-    "gemma2-9b-it": 24.830141199999993,
+    "gemma2-9b-it": 24.8301412,
     "llama-4-maverick-17b-128e-instruct": 39.57132972,
     "gpt-oss-120b": 11.02732934,
     "kimi-k2-instruct-0905": 43.388779799999995

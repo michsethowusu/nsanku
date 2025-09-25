@@ -1,5 +1,5 @@
 Translation Benchmark Results for akp-eng
-Generated on: 2025-09-24 14:06:30
+Generated on: 2025-09-25 07:32:39
 
 Model Performance:
 llama-4-maverick-17b-128e-instruct: 56.88%
