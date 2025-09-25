@@ -308,11 +308,11 @@ def display_menu():
     print("\n" + "="*50)
     print("Translation Pipeline Menu")
     print("="*50)
- #  print("1. Run translation")
- #  print("2. Run only similarity comparison")
+ #  print("4. Run translation")
+ #  print("5. Run only similarity comparison")
     print("1. Run LLM Evaluation")
     print("2. Generate reports only")
- #  print("5. Reset processing state")
+ #  print("6. Reset processing state")
     print("3. Exit")
     print("="*50)
     
@@ -357,20 +357,21 @@ def main():
     while True:
         choice = display_menu()
         
-        if choice == "1":
+        if choice == "4":
             run_translation_only(input_dir, output_dir, recipes, state)
-        elif choice == "2":
-            run_similarity_only(input_dir, output_dir, recipes, state)
-        elif choice == "3":
-            run_full_process(input_dir, output_dir, recipes, state)
-        elif choice == "4":
-            generate_report(output_dir)
         elif choice == "5":
+            run_similarity_only(input_dir, output_dir, recipes, state)
+        elif choice == "1":
+            run_full_process(input_dir, output_dir, recipes, state)
+        elif choice == "2":
+            generate_report(output_dir)
+        elif choice == "6":
             reset_processing_state()
             state = {}  # Reset in-memory state
-        elif choice == "6":
+        elif choice == "3":
             print("Exiting...")
             break
 
 if __name__ == "__main__":
     main()
+
