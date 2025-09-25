@@ -1,6 +1,6 @@
 {
   "language_pair": "ncu-eng",
-  "timestamp": "2025-09-25T07:32:40.094161",
+  "timestamp": "2025-09-25T08:10:04.256342",
   "models": {
     "gpt-oss-120b": 27.926532692,
     "gemma2-9b-it": 31.320446280000002,

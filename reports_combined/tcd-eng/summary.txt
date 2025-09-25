@@ -1,5 +1,5 @@
 Translation Benchmark Results for tcd-eng
-Generated on: 2025-09-25 07:32:41
+Generated on: 2025-09-25 08:10:27
 
 Model Performance:
 kimi-k2-instruct-0905: 46.18%

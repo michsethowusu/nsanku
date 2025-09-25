@@ -1,5 +1,5 @@
 Translation Benchmark Results for acd-eng
-Generated on: 2025-09-25 07:32:39
+Generated on: 2025-09-25 08:09:26
 
 Model Performance:
 kimi-k2-instruct-0905: 40.57%

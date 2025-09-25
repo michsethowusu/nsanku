@@ -1,5 +1,5 @@
 Translation Benchmark Results for xon-eng
-Generated on: 2025-09-25 07:32:38
+Generated on: 2025-09-25 08:09:18
 
 Model Performance:
 qwen3-32b: 47.54%

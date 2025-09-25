@@ -1,5 +1,5 @@
 Translation Benchmark Results for sfw-eng
-Generated on: 2025-09-25 07:32:39
+Generated on: 2025-09-25 08:09:43
 
 Model Performance:
 gemma2-9b-it: 44.51%

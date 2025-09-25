@@ -1,6 +1,6 @@
 {
   "language_pair": "sig-eng",
-  "timestamp": "2025-09-25T07:32:40.748165",
+  "timestamp": "2025-09-25T08:10:12.839030",
   "models": {
     "llama-4-maverick-17b-128e-instruct": 37.3515494,
     "qwen3-32b": 39.9692888,

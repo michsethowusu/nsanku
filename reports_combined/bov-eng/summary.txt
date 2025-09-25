@@ -1,5 +1,5 @@
 Translation Benchmark Results for bov-eng
-Generated on: 2025-09-25 07:32:40
+Generated on: 2025-09-25 08:10:08
 
 Model Performance:
 gemma2-9b-it: 42.79%

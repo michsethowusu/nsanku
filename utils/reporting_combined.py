@@ -1,3 +1,10 @@
+"""
+report_generator_png.py
+Same as your original script, but every chart is now saved as
+    <name>.html   (interactive)
+    <name>.png    (static 1200×800 px)
+"""
+
 import os
 import pandas as pd
 import plotly.express as px
@@ -9,12 +16,25 @@ import numpy as np
 from datetime import datetime
 import re
 
+
+# ------------------------------------------------------------------
+# NEW: configure PNG export engine once at start-up
+# ------------------------------------------------------------------
+pio.defaults.default_format = "png"
+pio.defaults.default_width  = 1200
+pio.defaults.default_height = 800
+
 pio.templates.default = "plotly_white"
+
+# ------------------------------------------------------------------
+# Everything below is identical to your original file except
+# every fig.write_html() call is followed by fig.write_image()
+# ------------------------------------------------------------------
 
 # Load language mapping from CSV
 def load_language_mapping():
     """Load language mapping from CSV file in utils folder"""
-    mapping_path = os.path.join("utils", "language_mapping.csv")
+    mapping_path = os.path.join("language_mapping.csv")
     language_mapping = {}
     
     try:
@@ -354,9 +374,14 @@ def create_enhanced_quadrant_chart(metrics_df, x_metric, y_metric, title, filena
         margin=dict(l=100, r=100, t=120, b=120),
         height=chart_height, width=chart_width
     )
-    
-    # Save chart as HTML only
-    fig.write_html(os.path.join(outdir, f"{filename}.html"))
+
+    # ------------------------------------------------------------------
+    # NEW: save PNG in addition to HTML
+    # ------------------------------------------------------------------
+    html_path = os.path.join(outdir, f"{filename}.html")
+    png_path  = os.path.join(outdir, f"{filename}.png")
+    fig.write_html(html_path)
+    fig.write_image(png_path)
     
     return fig
 
@@ -463,8 +488,13 @@ def create_horizontal_bar_chart(data, title, xlabel, filename, output_dir):
         height=max(400, len(labels) * 50 + 100)
     )
 
-    # Save as HTML only
-    fig.write_html(os.path.join(output_dir, f"{filename}.html"))
+    # ------------------------------------------------------------------
+    # NEW: save PNG in addition to HTML
+    # ------------------------------------------------------------------
+    html_path = os.path.join(output_dir, f"{filename}.html")
+    png_path  = os.path.join(output_dir, f"{filename}.png")
+    fig.write_html(html_path)
+    fig.write_image(png_path)
     return fig
 
 def create_stacked_bar_chart(data_dict, title, xlabel, filename, output_dir):
@@ -503,8 +533,13 @@ def create_stacked_bar_chart(data_dict, title, xlabel, filename, output_dir):
         legend=dict(orientation="v", yanchor="top", y=1, xanchor="left", x=1.02)
     )
 
-    # Save as HTML only
-    fig.write_html(os.path.join(output_dir, f"{filename}.html"))
+    # ------------------------------------------------------------------
+    # NEW: save PNG in addition to HTML
+    # ------------------------------------------------------------------
+    html_path = os.path.join(output_dir, f"{filename}.html")
+    png_path  = os.path.join(output_dir, f"{filename}.png")
+    fig.write_html(html_path)
+    fig.write_image(png_path)
     return fig
 
 def collect_results(input_dir="/home/owusus/Documents/GitHub/nsanku/output_combined"):
@@ -607,8 +642,6 @@ def generate_language_specific_reports(results, source_breakdown, output_dir="/h
         
         with open(os.path.join(lang_output_dir, 'summary_report.json'), 'w') as f:
             json.dump(summary, f, indent=2)
-        
-        print(f"Generated report for {language_pair} in {lang_output_dir}/")
         
         # Create a simple text summary
         with open(os.path.join(lang_output_dir, 'summary.txt'), 'w') as f:
@@ -732,7 +765,7 @@ def generate_report(input_dir="/home/owusus/Documents/GitHub/nsanku/output_combi
     
     print(f"Reports generated successfully in {output_dir}/")
     print("Both traditional reports and quadrant analysis have been created!")
-    print("Note: Only HTML charts are generated (no PNG images)")
+    print("Note: HTML and PNG charts are now generated")
     
     if overall_summary:
         print(f"Overall best model: {overall_summary['best_overall_model']} ({overall_summary['best_overall_score']:.2f}%)")
