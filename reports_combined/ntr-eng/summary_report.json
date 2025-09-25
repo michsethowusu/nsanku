@@ -1,6 +1,6 @@
 {
   "language_pair": "ntr-eng",
-  "timestamp": "2025-09-25T08:10:24.813717",
+  "timestamp": "2025-09-25T08:31:38.173075",
   "models": {
     "llama-4-maverick-17b-128e-instruct": 21.131882200000003,
     "qwen3-32b": 32.202806,

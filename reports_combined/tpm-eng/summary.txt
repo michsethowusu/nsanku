@@ -1,5 +1,5 @@
 Translation Benchmark Results for tpm-eng
-Generated on: 2025-09-25 08:10:06
+Generated on: 2025-09-25 08:31:21
 
 Model Performance:
 kimi-k2-instruct-0905: 39.24%

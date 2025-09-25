@@ -1,6 +1,6 @@
 {
   "language_pair": "dga-eng",
-  "timestamp": "2025-09-25T08:10:14.794936",
+  "timestamp": "2025-09-25T08:31:28.983837",
   "models": {
     "llama-4-maverick-17b-128e-instruct": 27.1289702,
     "qwen3-32b": 35.761749576,

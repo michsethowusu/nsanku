@@ -1,5 +1,5 @@
 Translation Benchmark Results for ntr-eng
-Generated on: 2025-09-25 08:10:24
+Generated on: 2025-09-25 08:31:38
 
 Model Performance:
 gemma2-9b-it: 37.59%

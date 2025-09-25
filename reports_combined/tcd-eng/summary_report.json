@@ -1,6 +1,6 @@
 {
   "language_pair": "tcd-eng",
-  "timestamp": "2025-09-25T08:10:27.127995",
+  "timestamp": "2025-09-25T08:31:39.910106",
   "models": {
     "gemma2-9b-it": 43.088655,
     "kimi-k2-instruct-0905": 46.1779709,

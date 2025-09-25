@@ -1,5 +1,5 @@
 Translation Benchmark Results for gjn-eng
-Generated on: 2025-09-25 08:10:00
+Generated on: 2025-09-25 08:31:16
 
 Model Performance:
 gemma2-9b-it: 52.20%

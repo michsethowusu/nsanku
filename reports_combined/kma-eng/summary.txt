@@ -1,5 +1,5 @@
 Translation Benchmark Results for kma-eng
-Generated on: 2025-09-25 08:09:21
+Generated on: 2025-09-25 08:30:43
 
 Model Performance:
 llama-4-maverick-17b-128e-instruct: 40.61%

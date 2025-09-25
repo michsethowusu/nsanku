@@ -1,5 +1,5 @@
 Translation Benchmark Results for bib-eng
-Generated on: 2025-09-25 08:09:36
+Generated on: 2025-09-25 08:30:56
 
 Model Performance:
 llama-4-maverick-17b-128e-instruct: 37.33%

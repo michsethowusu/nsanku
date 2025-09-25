@@ -1,5 +1,5 @@
 Translation Benchmark Results for snw-eng
-Generated on: 2025-09-25 08:10:20
+Generated on: 2025-09-25 08:31:34
 
 Model Performance:
 llama-4-maverick-17b-128e-instruct: 36.66%

@@ -446,7 +446,7 @@ def generate_quadrant_reports(combined_df, outdir="/home/owusus/Documents/GitHub
     create_enhanced_quadrant_chart(
         metrics_df, 'avg_score', 'consistency',
         'Model Performance vs Consistency Analysis',
-        'model_performance_quadrant', outdir,
+        'model_performance_vs_consistency_quadrant', outdir,
         id_column='model', size_metric='coverage', color_metric='versatility'
     )
     
@@ -454,7 +454,7 @@ def generate_quadrant_reports(combined_df, outdir="/home/owusus/Documents/GitHub
     create_language_quadrant(
         combined_df,
         'Language Performance vs Consistency Analysis',
-        'language_performance_quadrant', outdir
+        'language_performance_vs_consistency_quadrant', outdir
     )
     
     print("Quadrant reports generated successfully!")
@@ -730,7 +730,7 @@ def generate_overall_summary(results, source_breakdown, output_dir="/home/owusus
             model_performance,
             'Overall Model Performance Across All Languages',
             'Average Accuracy Score (%)',
-            'overall_performance',
+            'model_performance',
             output_dir
         )
     
