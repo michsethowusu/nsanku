@@ -8,7 +8,7 @@ Nsanku is an ongoing community-driven initiative that evaluates how well various
 
 ## Current Progress
 
-We're currently at 15 out of 250 target sentences evaluated (6% complete), with a goal of evaluating 250 sentences across all 43 Ghanaian languages for 5 LLMs.
+We're currently at 15 out of 250 target sentences evaluated for 43 languages (6% complete).
 
 ## Current Results
 
