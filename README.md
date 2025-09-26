@@ -6,6 +6,22 @@ A project by Ghana NLP to test the performance of Large Language Models (LLMs) o
 
 Nsanku is an ongoing community-driven initiative that evaluates how well various open-source language models perform when working with Ghanaian languages. This project aims to benchmark model capabilities and identify areas for improvement in multilingual AI systems.
 
+## Current Progress
+
+We're currently at 15 out of 250 target sentences evaluated (6% complete), with a goal of evaluating 250 sentences across all 43 Ghanaian languages for 5 LLMs.
+
+## Current Results
+
+Based on the 15 sentences evaluated so far per language:
+
+![Language Performance vs Consistency](https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/language_performance_vs_consistency_quadrant.png)
+
+![Language Performance](https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/language_performance.png)
+
+![Model Performance vs Consistency](https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/model_performance_vs_consistency_quadrant.png)
+
+![Model Performance](https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/model_performance.png)
+
 ## Contributing
 
 We welcome contributions from the community! To contribute:
