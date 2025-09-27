@@ -8,19 +8,25 @@ Nsanku is an ongoing community-driven initiative that evaluates how well various
 
 ## Current Progress
 
-We're currently at 15 out of 250 target sentences evaluated for 43 languages (6% complete).
+We're currently at 15 of 250 target sentences evaluated for 43 languages (6% complete). Watch [this video](https://www.youtube.com/watch?v=R5MB4lUvCe0) to learn how to contribute.
 
 ## Current Results
 
-Based on the 15 sentences evaluated so far per language:
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+  <a href="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/language_performance_vs_consistency_quadrant.png">
+    <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/language_performance_vs_consistency_quadrant.png" width="45%">
+  </a>
+  <a href="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/language_performance.png">
+    <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/language_performance.png" width="45%">
+  </a>
+  <a href="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/model_performance_vs_consistency_quadrant.png">
+    <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/model_performance_vs_consistency_quadrant.png" width="45%">
+  </a>
+  <a href="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/model_performance.png">
+    <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/model_performance.png" width="45%">
+  </a>
+</div>
 
-![Language Performance vs Consistency](https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/language_performance_vs_consistency_quadrant.png)
-
-![Language Performance](https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/language_performance.png)
-
-![Model Performance vs Consistency](https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/model_performance_vs_consistency_quadrant.png)
-
-![Model Performance](https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/model_performance.png)
 
 ## Contributing
 
