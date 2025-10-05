@@ -8,7 +8,7 @@ Nsanku is an ongoing community-driven initiative that evaluates how well various
 
 ## Current Progress
 
-We're currently at 15 of 250 target sentences evaluated for 43 languages (6% complete). Watch [this video](https://www.youtube.com/watch?v=R5MB4lUvCe0) to learn how to contribute.
+We're currently at 20 of 250 target sentences evaluated for 43 languages (8% complete). Watch [this video](https://www.youtube.com/watch?v=R5MB4lUvCe0) to learn how to contribute.
 
 ## Current Results
 
