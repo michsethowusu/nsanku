@@ -1,12 +1,12 @@
 Translation Benchmark Results for nyb-eng
-Generated on: 2025-09-25 19:54:30
+Generated on: 2025-10-05 08:21:57
 
 Model Performance:
-kimi-k2-instruct-0905: 37.56%
-qwen3-32b: 23.98%
-llama-4-maverick-17b-128e-instruct: 21.68%
-gemma2-9b-it: 20.35%
-gpt-oss-120b: 12.10%
+qwen3-32b: 35.81%
+kimi-k2-instruct-0905: 32.85%
+gemma2-9b-it: 30.34%
+gpt-oss-120b: 23.65%
+llama-4-maverick-17b-128e-instruct: 21.92%
 
-Best Model: kimi-k2-instruct-0905 (37.56%)
-Average Score: 23.13%
+Best Model: qwen3-32b (35.81%)
+Average Score: 28.91%

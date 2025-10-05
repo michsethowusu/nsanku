@@ -1,12 +1,12 @@
 Translation Benchmark Results for tcd-eng
-Generated on: 2025-09-25 19:55:16
+Generated on: 2025-10-05 08:22:31
 
 Model Performance:
-kimi-k2-instruct-0905: 46.18%
-gemma2-9b-it: 43.09%
-llama-4-maverick-17b-128e-instruct: 36.31%
-qwen3-32b: 32.46%
-gpt-oss-120b: 10.29%
+gemma2-9b-it: 34.44%
+llama-4-maverick-17b-128e-instruct: 30.62%
+qwen3-32b: 28.22%
+kimi-k2-instruct-0905: 27.85%
+gpt-oss-120b: 20.77%
 
-Best Model: kimi-k2-instruct-0905 (46.18%)
-Average Score: 33.66%
+Best Model: gemma2-9b-it (34.44%)
+Average Score: 28.38%

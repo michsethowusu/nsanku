@@ -1,12 +1,12 @@
 Translation Benchmark Results for mzw-eng
-Generated on: 2025-09-25 19:54:02
+Generated on: 2025-10-05 08:21:33
 
 Model Performance:
-kimi-k2-instruct-0905: 51.62%
-qwen3-32b: 37.73%
-gemma2-9b-it: 37.11%
-llama-4-maverick-17b-128e-instruct: 22.48%
-gpt-oss-120b: 16.06%
+kimi-k2-instruct-0905: 42.55%
+qwen3-32b: 39.05%
+llama-4-maverick-17b-128e-instruct: 37.49%
+gemma2-9b-it: 28.74%
+gpt-oss-120b: 19.33%
 
-Best Model: kimi-k2-instruct-0905 (51.62%)
-Average Score: 33.00%
+Best Model: kimi-k2-instruct-0905 (42.55%)
+Average Score: 33.43%

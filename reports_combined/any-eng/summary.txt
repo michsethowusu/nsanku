@@ -1,12 +1,12 @@
 Translation Benchmark Results for any-eng
-Generated on: 2025-09-25 19:55:08
+Generated on: 2025-10-05 08:22:25
 
 Model Performance:
-kimi-k2-instruct-0905: 28.37%
-gemma2-9b-it: 26.96%
-qwen3-32b: 15.67%
-llama-4-maverick-17b-128e-instruct: 10.23%
-gpt-oss-120b: 9.81%
+kimi-k2-instruct-0905: 27.99%
+gemma2-9b-it: 26.34%
+qwen3-32b: 25.04%
+llama-4-maverick-17b-128e-instruct: 19.24%
+gpt-oss-120b: 15.76%
 
-Best Model: kimi-k2-instruct-0905 (28.37%)
-Average Score: 18.21%
+Best Model: kimi-k2-instruct-0905 (27.99%)
+Average Score: 22.87%

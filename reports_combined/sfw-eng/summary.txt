@@ -1,12 +1,12 @@
 Translation Benchmark Results for sfw-eng
-Generated on: 2025-09-25 19:54:33
+Generated on: 2025-10-05 08:22:00
 
 Model Performance:
-gemma2-9b-it: 44.51%
-kimi-k2-instruct-0905: 35.53%
-llama-4-maverick-17b-128e-instruct: 33.34%
-qwen3-32b: 27.21%
-gpt-oss-120b: 1.44%
+gemma2-9b-it: 44.50%
+kimi-k2-instruct-0905: 40.73%
+qwen3-32b: 39.41%
+llama-4-maverick-17b-128e-instruct: 36.75%
+gpt-oss-120b: 26.48%
 
-Best Model: gemma2-9b-it (44.51%)
-Average Score: 28.40%
+Best Model: gemma2-9b-it (44.50%)
+Average Score: 37.57%
