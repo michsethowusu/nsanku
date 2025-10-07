@@ -70,7 +70,6 @@ The project currently evaluates **43 Ghanaian languages**:
 
 We recognize the following contributors to the Nsanku Project:
 
-- [Mich-Seth Owusu](https://www.linkedin.com/in/mich-seth-owusu/)
 - [Gerhardt Datsomor](https://www.linkedin.com/in/gerhardt-datsomor/)
 - [Edmund O. Benefo (PhD)](https://www.linkedin.com/in/edmund-o-benefo/)
 
