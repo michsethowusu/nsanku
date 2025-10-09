@@ -1,12 +1,12 @@
 Translation Benchmark Results for dga-eng
-Generated on: 2025-10-05 08:22:22
+Generated on: 2025-10-09 07:09:22
 
 Model Performance:
-qwen3-32b: 37.10%
-kimi-k2-instruct-0905: 35.14%
-gemma2-9b-it: 31.69%
-llama-4-maverick-17b-128e-instruct: 28.03%
-gpt-oss-120b: 26.73%
+qwen3-32b: 37.06%
+kimi-k2-instruct-0905: 35.98%
+gemma2-9b-it: 32.27%
+llama-4-maverick-17b-128e-instruct: 28.39%
+gpt-oss-120b: 25.46%
 
-Best Model: qwen3-32b (37.10%)
-Average Score: 31.74%
+Best Model: qwen3-32b (37.06%)
+Average Score: 31.83%

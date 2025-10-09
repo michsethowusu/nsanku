@@ -1,12 +1,12 @@
 Translation Benchmark Results for kma-eng
-Generated on: 2025-10-05 08:21:44
+Generated on: 2025-10-09 07:08:43
 
 Model Performance:
-gemma2-9b-it: 33.11%
-kimi-k2-instruct-0905: 31.71%
-llama-4-maverick-17b-128e-instruct: 27.45%
-qwen3-32b: 24.33%
-gpt-oss-120b: 20.13%
+gemma2-9b-it: 31.90%
+kimi-k2-instruct-0905: 30.90%
+llama-4-maverick-17b-128e-instruct: 25.96%
+qwen3-32b: 24.73%
+gpt-oss-120b: 19.83%
 
-Best Model: gemma2-9b-it (33.11%)
-Average Score: 27.35%
+Best Model: gemma2-9b-it (31.90%)
+Average Score: 26.66%

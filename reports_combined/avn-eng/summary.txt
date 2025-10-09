@@ -1,12 +1,12 @@
 Translation Benchmark Results for avn-eng
-Generated on: 2025-10-05 08:21:29
+Generated on: 2025-10-09 07:08:29
 
 Model Performance:
-kimi-k2-instruct-0905: 37.23%
-qwen3-32b: 31.46%
-gemma2-9b-it: 28.76%
-llama-4-maverick-17b-128e-instruct: 26.30%
-gpt-oss-120b: 21.30%
+kimi-k2-instruct-0905: 37.14%
+qwen3-32b: 29.42%
+llama-4-maverick-17b-128e-instruct: 29.07%
+gemma2-9b-it: 28.15%
+gpt-oss-120b: 22.32%
 
-Best Model: kimi-k2-instruct-0905 (37.23%)
-Average Score: 29.01%
+Best Model: kimi-k2-instruct-0905 (37.14%)
+Average Score: 29.22%

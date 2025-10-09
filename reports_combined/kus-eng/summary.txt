@@ -1,12 +1,12 @@
 Translation Benchmark Results for kus-eng
-Generated on: 2025-10-05 08:22:06
+Generated on: 2025-10-09 07:09:06
 
 Model Performance:
-kimi-k2-instruct-0905: 52.87%
-gemma2-9b-it: 48.56%
-qwen3-32b: 48.10%
-llama-4-maverick-17b-128e-instruct: 43.75%
-gpt-oss-120b: 38.59%
+kimi-k2-instruct-0905: 56.40%
+gemma2-9b-it: 49.99%
+llama-4-maverick-17b-128e-instruct: 42.61%
+qwen3-32b: 41.17%
+gpt-oss-120b: 39.66%
 
-Best Model: kimi-k2-instruct-0905 (52.87%)
-Average Score: 46.37%
+Best Model: kimi-k2-instruct-0905 (56.40%)
+Average Score: 45.97%

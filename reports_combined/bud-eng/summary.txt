@@ -1,12 +1,12 @@
 Translation Benchmark Results for bud-eng
-Generated on: 2025-10-05 08:21:39
+Generated on: 2025-10-09 07:08:39
 
 Model Performance:
-qwen3-32b: 41.15%
-kimi-k2-instruct-0905: 40.52%
-gemma2-9b-it: 37.68%
-llama-4-maverick-17b-128e-instruct: 35.19%
-gpt-oss-120b: 28.94%
+qwen3-32b: 39.32%
+kimi-k2-instruct-0905: 38.14%
+gemma2-9b-it: 33.67%
+llama-4-maverick-17b-128e-instruct: 33.46%
+gpt-oss-120b: 29.81%
 
-Best Model: qwen3-32b (41.15%)
-Average Score: 36.69%
+Best Model: qwen3-32b (39.32%)
+Average Score: 34.88%

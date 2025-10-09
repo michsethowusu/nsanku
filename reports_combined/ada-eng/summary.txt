@@ -1,12 +1,12 @@
 Translation Benchmark Results for ada-eng
-Generated on: 2025-10-05 08:21:30
+Generated on: 2025-10-09 07:08:30
 
 Model Performance:
-kimi-k2-instruct-0905: 43.84%
-llama-4-maverick-17b-128e-instruct: 36.62%
-qwen3-32b: 31.37%
-gemma2-9b-it: 28.84%
-gpt-oss-120b: 27.92%
+kimi-k2-instruct-0905: 42.82%
+llama-4-maverick-17b-128e-instruct: 34.80%
+qwen3-32b: 31.92%
+gemma2-9b-it: 29.16%
+gpt-oss-120b: 28.54%
 
-Best Model: kimi-k2-instruct-0905 (43.84%)
-Average Score: 33.72%
+Best Model: kimi-k2-instruct-0905 (42.82%)
+Average Score: 33.45%

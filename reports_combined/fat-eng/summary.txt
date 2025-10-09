@@ -1,12 +1,12 @@
 Translation Benchmark Results for fat-eng
-Generated on: 2025-10-05 08:21:35
+Generated on: 2025-10-09 07:08:34
 
 Model Performance:
-kimi-k2-instruct-0905: 59.60%
-gpt-oss-120b: 57.77%
-llama-4-maverick-17b-128e-instruct: 53.85%
-gemma2-9b-it: 52.95%
-qwen3-32b: 45.65%
+kimi-k2-instruct-0905: 58.75%
+gpt-oss-120b: 57.26%
+llama-4-maverick-17b-128e-instruct: 54.50%
+gemma2-9b-it: 48.94%
+qwen3-32b: 43.27%
 
-Best Model: kimi-k2-instruct-0905 (59.60%)
-Average Score: 53.96%
+Best Model: kimi-k2-instruct-0905 (58.75%)
+Average Score: 52.54%

@@ -1,12 +1,12 @@
 Translation Benchmark Results for cko-eng
-Generated on: 2025-10-05 08:22:10
+Generated on: 2025-10-09 07:09:10
 
 Model Performance:
-kimi-k2-instruct-0905: 35.17%
-llama-4-maverick-17b-128e-instruct: 34.57%
-qwen3-32b: 33.69%
-gemma2-9b-it: 29.75%
-gpt-oss-120b: 24.80%
+qwen3-32b: 35.12%
+kimi-k2-instruct-0905: 34.84%
+llama-4-maverick-17b-128e-instruct: 32.69%
+gemma2-9b-it: 31.77%
+gpt-oss-120b: 28.43%
 
-Best Model: kimi-k2-instruct-0905 (35.17%)
-Average Score: 31.60%
+Best Model: qwen3-32b (35.12%)
+Average Score: 32.57%

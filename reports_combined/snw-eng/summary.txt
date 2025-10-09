@@ -1,12 +1,12 @@
 Translation Benchmark Results for snw-eng
-Generated on: 2025-10-05 08:22:26
+Generated on: 2025-10-09 07:09:27
 
 Model Performance:
-gemma2-9b-it: 34.19%
-qwen3-32b: 29.08%
-kimi-k2-instruct-0905: 27.41%
-llama-4-maverick-17b-128e-instruct: 26.30%
-gpt-oss-120b: 21.97%
+gemma2-9b-it: 35.57%
+qwen3-32b: 31.66%
+kimi-k2-instruct-0905: 29.38%
+llama-4-maverick-17b-128e-instruct: 25.78%
+gpt-oss-120b: 21.19%
 
-Best Model: gemma2-9b-it (34.19%)
-Average Score: 27.79%
+Best Model: gemma2-9b-it (35.57%)
+Average Score: 28.72%
