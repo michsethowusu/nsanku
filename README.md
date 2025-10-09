@@ -8,7 +8,7 @@ Nsanku is an ongoing community-driven initiative that evaluates how well various
 
 ## Current Progress
 
-We're currently at 20 of 100 target sentences evaluated for 43 languages (20% complete) thanks to our awesome [contributors](https://github.com/GhanaNLP/nsanku?tab=readme-ov-file#contributors). Watch [this video](https://www.youtube.com/watch?v=R5MB4lUvCe0) to learn how to contribute.
+We're currently at 25 of 100 target sentences evaluated for 43 languages (20% complete) thanks to our awesome [contributors](https://github.com/GhanaNLP/nsanku?tab=readme-ov-file#contributors). Watch [this video](https://www.youtube.com/watch?v=R5MB4lUvCe0) to learn how to contribute.
 
 ## Current Results
 
@@ -70,8 +70,9 @@ The project currently evaluates **43 Ghanaian languages**:
 
 We recognize the following contributors to the Nsanku Project:
 
+- [Kelvin (Cecil) Newman](https://www.linkedin.com/in/kelvin-newman-09b961255/)
+- [Edmund O. Benefo](https://www.linkedin.com/in/edmund-o-benefo/)
 - [Gerhardt Datsomor](https://www.linkedin.com/in/gerhardt-datsomor/)
-- [Edmund O. Benefo (PhD)](https://www.linkedin.com/in/edmund-o-benefo/)
 
 *Your name could be here! Contribute to the project and we'll add you to our list of contributors.*
 
