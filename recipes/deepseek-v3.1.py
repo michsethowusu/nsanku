@@ -10,7 +10,7 @@ from typing import List
 # Load environment variables from .env file
 load_dotenv()
 
-# Initialize NVIDIA API client
+# Initialize NVIDIA client
 client = OpenAI(
     base_url="https://integrate.api.nvidia.com/v1",
     api_key=os.getenv("NVIDIA_BUILD_API_KEY")
@@ -26,7 +26,7 @@ similarity_model_name = "sentence-transformers/all-mpnet-base-v2"
 similarity_model = SentenceTransformer(similarity_model_name)
 
 def translate_text_with_nvidia(text, source_lang, target_lang, max_retries=5):
-    """Translate text using NVIDIA Build API via OpenAI client"""
+    """Translate text using NVIDIA API"""
     source_lang_name = get_language_name(source_lang)
     target_lang_name = get_language_name(target_lang)
 
@@ -35,7 +35,7 @@ def translate_text_with_nvidia(text, source_lang, target_lang, max_retries=5):
     for attempt in range(max_retries):
         try:
             completion = client.chat.completions.create(
-                model="deepseek-ai/deepseek-v3.1",
+                model="deepseek-ai/deepseek-v3.1",  # You can change this to other NVIDIA models
                 messages=[
                     {
                         "role": "user",
@@ -43,10 +43,9 @@ def translate_text_with_nvidia(text, source_lang, target_lang, max_retries=5):
                     }
                 ],
                 temperature=0.3,
-                top_p=0.95,
                 max_tokens=2024,
+                top_p=0.95,
                 stream=False
-                
             )
             
             # Directly get the response content
@@ -80,13 +79,13 @@ def calculate_similarity(translated, reference):
 def translation_only(df, source_lang, target_lang):
     """Only perform translation without similarity calculation"""
     print(f"Translation: NVIDIA Build API")
-    print(f"Rate limiting: 38 requests per minute (~1.6 seconds between requests)")
+    print(f"Model: meta/llama-3.1-405b-instruct")
 
     result_df = df.copy()
     result_df['translated'] = ""
 
-    # Calculate delay between requests to achieve 38 requests per minute
-    delay_between_requests = 1.6
+    # Add a small delay to be respectful of the API
+    delay_between_requests = 2.0  # 2 second delay
 
     # Translations with rate limiting
     total_texts = len(result_df)
@@ -104,9 +103,8 @@ def translation_only(df, source_lang, target_lang):
         else:
             print("  → [Translation failed]")
         
-        # Rate limiting: wait before next request (except after the last one)
+        # Small delay to be respectful of the API
         if i < total_texts - 1:
-            print(f"Waiting {delay_between_requests:.2f} seconds before next request...")
             time.sleep(delay_between_requests)
 
     print("Translation process completed!")
