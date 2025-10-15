@@ -1,4 +1,4 @@
-# Nsanku Project
+# Nsanku
 
 A project by Ghana NLP to test the performance of Large Language Models (LLMs) on Ghanaian languages.
 
