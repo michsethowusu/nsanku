@@ -83,6 +83,7 @@ We recognize the following contributors to the Nsanku Project:
 - [Kelvin (Cecil) Newman](https://www.linkedin.com/in/kelvin-newman-09b961255/)
 - [Edmund O. Benefo](https://www.linkedin.com/in/edmund-o-benefo/)
 - [Gerhardt Datsomor](https://www.linkedin.com/in/gerhardt-datsomor/)
+- [Mich-Seth Owusu](https://www.linkedin.com/in/mich-seth-owusu/)
 
 *Your name could be here! Contribute to the project and we'll add you to our list of contributors.*
 
