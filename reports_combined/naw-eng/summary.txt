@@ -1,12 +1,16 @@
 Translation Benchmark Results for naw-eng
-Generated on: 2025-10-09 07:08:36
+Generated on: 2025-10-17 06:38:41
 
 Model Performance:
-kimi-k2-instruct-0905: 35.08%
+qwen3-235b-a22b: 43.26%
+kimi-k2-instruct-0905: 36.45%
 qwen3-32b: 33.27%
 gemma2-9b-it: 32.51%
+deepseek-v3.1: 32.18%
+llama-3.1-405b-instruct: 29.68%
+llama-3.3-70b-instruct: 28.73%
 gpt-oss-120b: 28.36%
 llama-4-maverick-17b-128e-instruct: 22.96%
 
-Best Model: kimi-k2-instruct-0905 (35.08%)
-Average Score: 30.43%
+Best Model: qwen3-235b-a22b (43.26%)
+Average Score: 31.93%

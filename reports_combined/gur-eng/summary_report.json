@@ -1,14 +1,18 @@
 {
   "language_pair": "gur-eng",
-  "timestamp": "2025-10-09T07:08:46.808073",
+  "timestamp": "2025-10-17T06:38:52.049376",
   "models": {
-    "kimi-k2-instruct-0905": 33.280290702,
+    "llama-3.3-70b-instruct": 33.32216872,
+    "deepseek-v3.1": 35.99448319999999,
+    "llama-3.1-405b-instruct": 45.179569,
+    "kimi-k2-instruct-0905": 31.469824308333322,
     "llama-4-maverick-17b-128e-instruct": 25.268207053200005,
     "gpt-oss-120b": 19.515534135600003,
     "qwen3-32b": 27.042901691999997,
+    "qwen3-235b-a22b": 50.92387652,
     "gemma2-9b-it": 25.445044132
   },
-  "average_score": 26.110395542960003,
-  "best_model": "kimi-k2-instruct-0905",
-  "best_score": 33.280290702
+  "average_score": 32.68462319568148,
+  "best_model": "qwen3-235b-a22b",
+  "best_score": 50.92387652
 }

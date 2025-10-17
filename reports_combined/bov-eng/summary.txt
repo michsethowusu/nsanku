@@ -1,12 +1,16 @@
 Translation Benchmark Results for bov-eng
-Generated on: 2025-10-09 07:09:18
+Generated on: 2025-10-17 06:39:24
 
 Model Performance:
+llama-3.3-70b-instruct: 51.38%
 qwen3-32b: 39.38%
+kimi-k2-instruct-0905: 35.51%
 gemma2-9b-it: 34.09%
+qwen3-235b-a22b: 33.96%
 llama-4-maverick-17b-128e-instruct: 32.11%
-kimi-k2-instruct-0905: 31.93%
+llama-3.1-405b-instruct: 30.57%
+deepseek-v3.1: 22.27%
 gpt-oss-120b: 19.93%
 
-Best Model: qwen3-32b (39.38%)
-Average Score: 31.49%
+Best Model: llama-3.3-70b-instruct (51.38%)
+Average Score: 33.24%

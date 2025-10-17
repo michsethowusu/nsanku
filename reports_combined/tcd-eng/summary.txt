@@ -1,12 +1,16 @@
 Translation Benchmark Results for tcd-eng
-Generated on: 2025-10-09 07:09:31
+Generated on: 2025-10-17 06:39:42
 
 Model Performance:
 llama-4-maverick-17b-128e-instruct: 33.60%
 gemma2-9b-it: 33.42%
 qwen3-32b: 29.15%
-kimi-k2-instruct-0905: 28.99%
+kimi-k2-instruct-0905: 29.07%
+deepseek-v3.1: 27.01%
+llama-3.1-405b-instruct: 26.38%
+qwen3-235b-a22b: 25.88%
 gpt-oss-120b: 19.23%
+llama-3.3-70b-instruct: 12.82%
 
 Best Model: llama-4-maverick-17b-128e-instruct (33.60%)
-Average Score: 28.88%
+Average Score: 26.28%

@@ -1,12 +1,16 @@
 Translation Benchmark Results for maw-eng
-Generated on: 2025-10-09 07:09:28
+Generated on: 2025-10-17 06:39:38
 
 Model Performance:
-kimi-k2-instruct-0905: 64.11%
+llama-3.1-405b-instruct: 63.34%
+kimi-k2-instruct-0905: 62.52%
+deepseek-v3.1: 48.58%
+qwen3-235b-a22b: 38.85%
+llama-3.3-70b-instruct: 37.47%
 qwen3-32b: 30.07%
 llama-4-maverick-17b-128e-instruct: 27.79%
 gemma2-9b-it: 26.55%
 gpt-oss-120b: 20.76%
 
-Best Model: kimi-k2-instruct-0905 (64.11%)
-Average Score: 33.86%
+Best Model: llama-3.1-405b-instruct (63.34%)
+Average Score: 39.55%

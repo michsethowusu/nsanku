@@ -1,12 +1,16 @@
 Translation Benchmark Results for sig-eng
-Generated on: 2025-10-09 07:09:21
+Generated on: 2025-10-17 06:39:27
 
 Model Performance:
+deepseek-v3.1: 45.91%
+llama-3.3-70b-instruct: 40.99%
 qwen3-32b: 35.19%
-kimi-k2-instruct-0905: 34.11%
+kimi-k2-instruct-0905: 33.76%
+llama-3.1-405b-instruct: 32.47%
 llama-4-maverick-17b-128e-instruct: 28.78%
 gpt-oss-120b: 26.36%
+qwen3-235b-a22b: 25.60%
 gemma2-9b-it: 21.10%
 
-Best Model: qwen3-32b (35.19%)
-Average Score: 29.11%
+Best Model: deepseek-v3.1 (45.91%)
+Average Score: 32.24%

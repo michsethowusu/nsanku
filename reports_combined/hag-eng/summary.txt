@@ -1,12 +1,16 @@
 Translation Benchmark Results for hag-eng
-Generated on: 2025-10-09 07:09:19
+Generated on: 2025-10-17 06:39:25
 
 Model Performance:
-kimi-k2-instruct-0905: 50.25%
+llama-3.1-405b-instruct: 54.58%
+kimi-k2-instruct-0905: 50.12%
+llama-3.3-70b-instruct: 40.95%
 llama-4-maverick-17b-128e-instruct: 35.22%
+qwen3-235b-a22b: 32.88%
+deepseek-v3.1: 32.26%
 qwen3-32b: 31.48%
 gemma2-9b-it: 29.20%
 gpt-oss-120b: 12.77%
 
-Best Model: kimi-k2-instruct-0905 (50.25%)
-Average Score: 31.79%
+Best Model: llama-3.1-405b-instruct (54.58%)
+Average Score: 35.50%

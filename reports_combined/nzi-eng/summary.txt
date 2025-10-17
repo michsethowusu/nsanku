@@ -1,12 +1,16 @@
 Translation Benchmark Results for nzi-eng
-Generated on: 2025-10-09 07:08:55
+Generated on: 2025-10-17 06:39:01
 
 Model Performance:
-kimi-k2-instruct-0905: 27.45%
+llama-3.1-405b-instruct: 41.37%
+deepseek-v3.1: 35.94%
+llama-3.3-70b-instruct: 34.23%
+qwen3-235b-a22b: 27.36%
+kimi-k2-instruct-0905: 27.35%
 qwen3-32b: 24.22%
 gemma2-9b-it: 24.21%
 llama-4-maverick-17b-128e-instruct: 21.54%
 gpt-oss-120b: 18.35%
 
-Best Model: kimi-k2-instruct-0905 (27.45%)
-Average Score: 23.15%
+Best Model: llama-3.1-405b-instruct (41.37%)
+Average Score: 28.28%

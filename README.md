@@ -6,9 +6,13 @@ A project by Ghana NLP to test the performance of Large Language Models (LLMs) o
 
 Nsanku is an ongoing community-driven initiative that evaluates how well various open-source language models perform when working with Ghanaian languages. This project aims to benchmark model capabilities and identify areas for improvement in multilingual AI systems.
 
+## Why Nsanku Matters
+
+As AI engineers work to bring Ghanaian languages into large language models, it’s essential to have reliable evidence on how existing models perform. Nsanku provides insights that help developers identify which open-source models are most suitable for building upon, and which languages currently have stronger or weaker support. This understanding enables realistic decisions about where to focus efforts and resources to advance multilingual AI in Ghana and across Africa.
+
 ## Current Progress
 
-We're currently at 25 of 100 target sentences evaluated for 43 languages (20% complete) thanks to our awesome [contributors](https://github.com/GhanaNLP/nsanku?tab=readme-ov-file#contributors). Watch [this video](https://www.youtube.com/watch?v=R5MB4lUvCe0) to learn how to contribute.
+We're currently at 30 sentences evaluated for 43 languages across 9 models thanks to our awesome [contributors](https://github.com/GhanaNLP/nsanku?tab=readme-ov-file#contributors). Watch [this video](https://www.youtube.com/watch?v=R5MB4lUvCe0) to learn how to contribute.
 
 ## Current Results
 
@@ -70,6 +74,7 @@ The project currently evaluates **43 Ghanaian languages**:
 
 We recognize the following contributors to the Nsanku Project:
 
+- [Onesimus Addo Appiah](https://www.linkedin.com/in/onesimus-appiah/)
 - [Kelvin (Cecil) Newman](https://www.linkedin.com/in/kelvin-newman-09b961255/)
 - [Edmund O. Benefo](https://www.linkedin.com/in/edmund-o-benefo/)
 - [Gerhardt Datsomor](https://www.linkedin.com/in/gerhardt-datsomor/)

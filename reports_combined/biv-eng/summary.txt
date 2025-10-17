@@ -1,12 +1,16 @@
 Translation Benchmark Results for biv-eng
-Generated on: 2025-10-09 07:09:08
+Generated on: 2025-10-17 06:39:13
 
 Model Performance:
 gemma2-9b-it: 37.80%
 llama-4-maverick-17b-128e-instruct: 33.84%
 qwen3-32b: 33.28%
-kimi-k2-instruct-0905: 31.22%
+kimi-k2-instruct-0905: 32.05%
+qwen3-235b-a22b: 31.97%
+llama-3.1-405b-instruct: 31.89%
+llama-3.3-70b-instruct: 24.95%
+deepseek-v3.1: 23.98%
 gpt-oss-120b: 21.56%
 
 Best Model: gemma2-9b-it (37.80%)
-Average Score: 31.54%
+Average Score: 30.15%

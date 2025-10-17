@@ -1,12 +1,16 @@
 Translation Benchmark Results for bud-eng
-Generated on: 2025-10-09 07:08:39
+Generated on: 2025-10-17 06:38:44
 
 Model Performance:
+deepseek-v3.1: 55.37%
+kimi-k2-instruct-0905: 40.34%
 qwen3-32b: 39.32%
-kimi-k2-instruct-0905: 38.14%
+llama-3.3-70b-instruct: 37.29%
 gemma2-9b-it: 33.67%
 llama-4-maverick-17b-128e-instruct: 33.46%
+llama-3.1-405b-instruct: 33.09%
 gpt-oss-120b: 29.81%
+qwen3-235b-a22b: 28.79%
 
-Best Model: qwen3-32b (39.32%)
-Average Score: 34.88%
+Best Model: deepseek-v3.1 (55.37%)
+Average Score: 36.79%
