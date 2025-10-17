@@ -51,6 +51,11 @@ The following open-source models are currently being evaluated:
 - `kimi-k2-instruct-0905`
 - `llama-4-maverick-17b-128e-instruct`
 - `qwen3-32b`
+- `llama-3.1-405b-instruct`
+- `qwen3-235b-a22b`
+- `deepseek-v3.1`
+- `llama-3.3-70b-instruct`
+
 
 ## Languages Evaluated
 
