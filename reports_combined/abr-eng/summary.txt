@@ -1,16 +1,16 @@
 Translation Benchmark Results for abr-eng
-Generated on: 2025-10-18 06:37:08
+Generated on: 2025-10-18 17:11:57
 
 Model Performance:
-llama-3.3-70b-instruct: 63.56%
-kimi-k2-instruct-0905: 60.86%
-deepseek-v3.1: 60.34%
+kimi-k2-instruct-0905: 62.36%
+deepseek-v3.1: 60.50%
+llama-3.3-70b-instruct: 57.74%
 gpt-oss-120b: 55.79%
 gemma2-9b-it: 48.46%
-llama-3.1-405b-instruct: 47.67%
-qwen3-235b-a22b: 43.50%
+qwen3-235b-a22b: 47.02%
+llama-3.1-405b-instruct: 43.57%
 llama-4-maverick-17b-128e-instruct: 40.79%
 qwen3-32b: 36.63%
 
-Best Model: llama-3.3-70b-instruct (63.56%)
-Average Score: 50.84%
+Best Model: kimi-k2-instruct-0905 (62.36%)
+Average Score: 50.32%

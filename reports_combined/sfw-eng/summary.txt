@@ -1,16 +1,16 @@
 Translation Benchmark Results for sfw-eng
-Generated on: 2025-10-18 06:37:42
+Generated on: 2025-10-18 17:11:59
 
 Model Performance:
-deepseek-v3.1: 54.12%
-kimi-k2-instruct-0905: 47.54%
-llama-3.3-70b-instruct: 45.47%
+deepseek-v3.1: 50.10%
+kimi-k2-instruct-0905: 48.57%
 gemma2-9b-it: 44.28%
-llama-3.1-405b-instruct: 43.72%
+llama-3.1-405b-instruct: 41.20%
+llama-3.3-70b-instruct: 40.94%
 qwen3-32b: 40.83%
+qwen3-235b-a22b: 40.38%
 llama-4-maverick-17b-128e-instruct: 39.89%
-qwen3-235b-a22b: 38.81%
 gpt-oss-120b: 25.15%
 
-Best Model: deepseek-v3.1 (54.12%)
-Average Score: 42.20%
+Best Model: deepseek-v3.1 (50.10%)
+Average Score: 41.26%

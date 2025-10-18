@@ -1,16 +1,16 @@
 Translation Benchmark Results for bim-eng
-Generated on: 2025-10-18 06:37:30
+Generated on: 2025-10-18 17:11:58
 
 Model Performance:
-qwen3-235b-a22b: 33.27%
-llama-3.3-70b-instruct: 30.97%
-llama-3.1-405b-instruct: 30.88%
+qwen3-235b-a22b: 32.82%
+llama-3.3-70b-instruct: 30.64%
+deepseek-v3.1: 30.06%
 qwen3-32b: 30.03%
-kimi-k2-instruct-0905: 28.94%
+llama-3.1-405b-instruct: 28.69%
 llama-4-maverick-17b-128e-instruct: 28.10%
-deepseek-v3.1: 27.97%
+kimi-k2-instruct-0905: 28.08%
 gemma2-9b-it: 19.06%
 gpt-oss-120b: 14.65%
 
-Best Model: qwen3-235b-a22b (33.27%)
-Average Score: 27.10%
+Best Model: qwen3-235b-a22b (32.82%)
+Average Score: 26.90%

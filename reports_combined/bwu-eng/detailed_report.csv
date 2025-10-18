@@ -1,9 +1,9 @@
 Model,Similarity Score (%),Raw Score
-deepseek-v3.1,41.00%,40.99666612
-llama-3.3-70b-instruct,40.51%,40.51095256
-kimi-k2-instruct-0905,39.34%,39.341147235
-qwen3-235b-a22b,38.80%,38.80156326666667
-llama-3.1-405b-instruct,35.75%,35.7461292
+kimi-k2-instruct-0905,40.80%,40.80319852000001
+deepseek-v3.1,39.47%,39.468182765
+llama-3.3-70b-instruct,38.14%,38.13865252000001
+qwen3-235b-a22b,37.09%,37.086861475
+llama-3.1-405b-instruct,36.55%,36.5498237
 qwen3-32b,32.91%,32.911441
 llama-4-maverick-17b-128e-instruct,32.06%,32.05958928
 gemma2-9b-it,26.28%,26.283741267999993

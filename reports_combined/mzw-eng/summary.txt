@@ -1,16 +1,16 @@
 Translation Benchmark Results for mzw-eng
-Generated on: 2025-10-18 06:37:10
+Generated on: 2025-10-18 17:11:57
 
 Model Performance:
-deepseek-v3.1: 43.11%
-kimi-k2-instruct-0905: 42.46%
-qwen3-235b-a22b: 39.23%
-llama-3.3-70b-instruct: 38.15%
+deepseek-v3.1: 46.60%
+kimi-k2-instruct-0905: 42.66%
+qwen3-235b-a22b: 38.22%
+llama-3.3-70b-instruct: 37.43%
 qwen3-32b: 36.73%
-llama-3.1-405b-instruct: 34.71%
 llama-4-maverick-17b-128e-instruct: 34.48%
+llama-3.1-405b-instruct: 34.03%
 gemma2-9b-it: 29.44%
 gpt-oss-120b: 18.97%
 
-Best Model: deepseek-v3.1 (43.11%)
-Average Score: 35.25%
+Best Model: deepseek-v3.1 (46.60%)
+Average Score: 35.40%

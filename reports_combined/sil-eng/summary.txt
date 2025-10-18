@@ -1,16 +1,16 @@
 Translation Benchmark Results for sil-eng
-Generated on: 2025-10-18 06:37:16
+Generated on: 2025-10-18 17:11:57
 
 Model Performance:
-kimi-k2-instruct-0905: 45.76%
-llama-3.3-70b-instruct: 44.95%
-qwen3-235b-a22b: 44.53%
+qwen3-235b-a22b: 47.06%
+kimi-k2-instruct-0905: 45.41%
+deepseek-v3.1: 41.80%
+llama-3.3-70b-instruct: 41.29%
 gemma2-9b-it: 40.55%
-llama-3.1-405b-instruct: 39.66%
 llama-4-maverick-17b-128e-instruct: 39.60%
-deepseek-v3.1: 37.65%
+llama-3.1-405b-instruct: 39.07%
 qwen3-32b: 34.73%
 gpt-oss-120b: 31.33%
 
-Best Model: kimi-k2-instruct-0905 (45.76%)
-Average Score: 39.86%
+Best Model: qwen3-235b-a22b (47.06%)
+Average Score: 40.09%

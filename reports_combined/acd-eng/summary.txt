@@ -1,16 +1,16 @@
 Translation Benchmark Results for acd-eng
-Generated on: 2025-10-18 06:37:28
+Generated on: 2025-10-18 17:11:58
 
 Model Performance:
-qwen3-235b-a22b: 40.67%
-deepseek-v3.1: 36.62%
-llama-3.1-405b-instruct: 36.02%
-kimi-k2-instruct-0905: 35.40%
-llama-3.3-70b-instruct: 29.90%
+qwen3-235b-a22b: 41.55%
+llama-3.1-405b-instruct: 38.65%
+deepseek-v3.1: 37.61%
+kimi-k2-instruct-0905: 35.35%
+llama-3.3-70b-instruct: 28.95%
 gpt-oss-120b: 28.83%
 gemma2-9b-it: 27.37%
 qwen3-32b: 26.29%
 llama-4-maverick-17b-128e-instruct: 26.07%
 
-Best Model: qwen3-235b-a22b (40.67%)
-Average Score: 31.91%
+Best Model: qwen3-235b-a22b (41.55%)
+Average Score: 32.30%

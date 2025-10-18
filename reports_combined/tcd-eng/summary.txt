@@ -1,16 +1,16 @@
 Translation Benchmark Results for tcd-eng
-Generated on: 2025-10-18 06:38:23
+Generated on: 2025-10-18 17:12:01
 
 Model Performance:
-deepseek-v3.1: 40.04%
-llama-3.1-405b-instruct: 36.26%
-qwen3-235b-a22b: 34.77%
+deepseek-v3.1: 37.27%
 llama-4-maverick-17b-128e-instruct: 33.60%
+qwen3-235b-a22b: 33.47%
 gemma2-9b-it: 33.42%
-kimi-k2-instruct-0905: 30.63%
+llama-3.1-405b-instruct: 32.31%
+kimi-k2-instruct-0905: 30.46%
 qwen3-32b: 29.15%
-llama-3.3-70b-instruct: 20.07%
+llama-3.3-70b-instruct: 24.79%
 gpt-oss-120b: 19.23%
 
-Best Model: deepseek-v3.1 (40.04%)
-Average Score: 30.80%
+Best Model: deepseek-v3.1 (37.27%)
+Average Score: 30.41%

@@ -1,16 +1,16 @@
 Translation Benchmark Results for nko-eng
-Generated on: 2025-10-18 06:37:25
+Generated on: 2025-10-18 17:11:58
 
 Model Performance:
-kimi-k2-instruct-0905: 18.79%
+kimi-k2-instruct-0905: 20.61%
 llama-4-maverick-17b-128e-instruct: 18.14%
+deepseek-v3.1: 17.73%
 gemma2-9b-it: 17.04%
-llama-3.3-70b-instruct: 16.55%
 qwen3-32b: 16.52%
-deepseek-v3.1: 16.30%
-qwen3-235b-a22b: 16.16%
-llama-3.1-405b-instruct: 15.25%
+llama-3.3-70b-instruct: 16.17%
+qwen3-235b-a22b: 16.07%
+llama-3.1-405b-instruct: 15.91%
 gpt-oss-120b: 15.06%
 
-Best Model: kimi-k2-instruct-0905 (18.79%)
-Average Score: 16.64%
+Best Model: kimi-k2-instruct-0905 (20.61%)
+Average Score: 17.03%

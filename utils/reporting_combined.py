@@ -18,17 +18,14 @@ import re
 
 
 # ------------------------------------------------------------------
-# NEW: configure PNG export engine once at start-up
+# FIXED: Configure PNG export settings properly
 # ------------------------------------------------------------------
-pio.defaults.default_format = "png"
-pio.defaults.default_width  = 1200
-pio.defaults.default_height = 800
-
+pio.kaleido.scope.default_width = 1200
+pio.kaleido.scope.default_height = 800
 pio.templates.default = "plotly_white"
 
 # ------------------------------------------------------------------
-# Everything below is identical to your original file except
-# every fig.write_html() call is followed by fig.write_image()
+# Everything below with fixes for font weight issue
 # ------------------------------------------------------------------
 
 # Load language mapping from CSV
@@ -254,9 +251,10 @@ def create_enhanced_quadrant_chart(metrics_df, x_metric, y_metric, title, filena
             fillcolor=region['color'], opacity=0.2, line_width=0
         )
         
-        # Add region labels positioned on axis lines
+        # Add region labels positioned on axis lines (FIXED: removed 'weight' parameter)
         label_color = 'darkgreen' if 'LEADERS' in region['label'] else 'darkred' if 'NEEDS' in region['label'] else 'gray'
-        font_weight = 'bold' if 'LEADERS' in region['label'] else 'normal'
+        # Use larger font size for emphasis instead of weight
+        font_size = 14 if 'LEADERS' in region['label'] else 12
         
         fig.add_annotation(
             x=region['label_x'], 
@@ -264,7 +262,7 @@ def create_enhanced_quadrant_chart(metrics_df, x_metric, y_metric, title, filena
             text=region['label'], 
             showarrow=False,
             xanchor=region['align'],
-            font=dict(size=12, color=label_color, weight=font_weight), 
+            font=dict(size=font_size, color=label_color, family="Arial Black" if 'LEADERS' in region['label'] else "Arial"), 
             opacity=0.8,
             bgcolor="white",
             bordercolor=label_color,
@@ -375,13 +373,11 @@ def create_enhanced_quadrant_chart(metrics_df, x_metric, y_metric, title, filena
         height=chart_height, width=chart_width
     )
 
-    # ------------------------------------------------------------------
-    # NEW: save PNG in addition to HTML
-    # ------------------------------------------------------------------
+    # Save both HTML and PNG
     html_path = os.path.join(outdir, f"{filename}.html")
     png_path  = os.path.join(outdir, f"{filename}.png")
     fig.write_html(html_path)
-    fig.write_image(png_path)
+    fig.write_image(png_path, width=1200, height=800)
     
     return fig
 
@@ -488,13 +484,11 @@ def create_horizontal_bar_chart(data, title, xlabel, filename, output_dir):
         height=max(400, len(labels) * 50 + 100)
     )
 
-    # ------------------------------------------------------------------
-    # NEW: save PNG in addition to HTML
-    # ------------------------------------------------------------------
+    # Save both HTML and PNG
     html_path = os.path.join(output_dir, f"{filename}.html")
     png_path  = os.path.join(output_dir, f"{filename}.png")
     fig.write_html(html_path)
-    fig.write_image(png_path)
+    fig.write_image(png_path, width=1200, height=800)
     return fig
 
 def create_stacked_bar_chart(data_dict, title, xlabel, filename, output_dir):
@@ -533,13 +527,11 @@ def create_stacked_bar_chart(data_dict, title, xlabel, filename, output_dir):
         legend=dict(orientation="v", yanchor="top", y=1, xanchor="left", x=1.02)
     )
 
-    # ------------------------------------------------------------------
-    # NEW: save PNG in addition to HTML
-    # ------------------------------------------------------------------
+    # Save both HTML and PNG
     html_path = os.path.join(output_dir, f"{filename}.html")
     png_path  = os.path.join(output_dir, f"{filename}.png")
     fig.write_html(html_path)
-    fig.write_image(png_path)
+    fig.write_image(png_path, width=1200, height=800)
     return fig
 
 def collect_results(input_dir="/home/owusus/Documents/GitHub/nsanku/output_combined"):
