@@ -80,7 +80,7 @@ The project currently evaluates **43 Ghanaian languages**:
 We recognize the following contributors to the Nsanku Project:
 
 - [Onesimus Addo Appiah](https://www.linkedin.com/in/onesimus-appiah/)
-- [Kelvin (Cecil) Newman](https://www.linkedin.com/in/kelvin-newman-09b961255/)
+- [Kelvin Newman](https://www.linkedin.com/in/kelvin-newman-09b961255/)
 - [Edmund O. Benefo](https://www.linkedin.com/in/edmund-o-benefo/)
 - [Gerhardt Datsomor](https://www.linkedin.com/in/gerhardt-datsomor/)
 - [Mich-Seth Owusu](https://www.linkedin.com/in/mich-seth-owusu/)
