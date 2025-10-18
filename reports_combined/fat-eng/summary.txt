@@ -1,16 +1,16 @@
 Translation Benchmark Results for fat-eng
-Generated on: 2025-10-17 06:38:40
+Generated on: 2025-10-18 06:37:12
 
 Model Performance:
-deepseek-v3.1: 71.08%
-llama-3.1-405b-instruct: 63.37%
-qwen3-235b-a22b: 59.28%
-kimi-k2-instruct-0905: 58.30%
+deepseek-v3.1: 73.37%
+llama-3.1-405b-instruct: 67.14%
+kimi-k2-instruct-0905: 60.35%
 gpt-oss-120b: 57.26%
 llama-4-maverick-17b-128e-instruct: 54.50%
+llama-3.3-70b-instruct: 53.24%
+qwen3-235b-a22b: 51.56%
 gemma2-9b-it: 48.94%
-llama-3.3-70b-instruct: 44.03%
 qwen3-32b: 43.27%
 
-Best Model: deepseek-v3.1 (71.08%)
-Average Score: 55.56%
+Best Model: deepseek-v3.1 (73.37%)
+Average Score: 56.62%

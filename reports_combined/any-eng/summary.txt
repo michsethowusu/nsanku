@@ -1,16 +1,16 @@
 Translation Benchmark Results for any-eng
-Generated on: 2025-10-17 06:39:32
+Generated on: 2025-10-18 06:38:16
 
 Model Performance:
-llama-3.1-405b-instruct: 40.28%
-qwen3-235b-a22b: 33.46%
-llama-3.3-70b-instruct: 31.24%
-deepseek-v3.1: 29.71%
+llama-3.1-405b-instruct: 32.60%
+llama-3.3-70b-instruct: 28.12%
 gemma2-9b-it: 26.77%
-kimi-k2-instruct-0905: 25.43%
+deepseek-v3.1: 26.16%
+qwen3-235b-a22b: 25.88%
+kimi-k2-instruct-0905: 25.83%
 qwen3-32b: 22.58%
 llama-4-maverick-17b-128e-instruct: 18.70%
 gpt-oss-120b: 16.35%
 
-Best Model: llama-3.1-405b-instruct (40.28%)
-Average Score: 27.17%
+Best Model: llama-3.1-405b-instruct (32.60%)
+Average Score: 24.78%

@@ -1,16 +1,16 @@
 Translation Benchmark Results for xon-eng
-Generated on: 2025-10-17 06:38:47
+Generated on: 2025-10-18 06:37:21
 
 Model Performance:
-deepseek-v3.1: 61.47%
-qwen3-235b-a22b: 56.79%
-kimi-k2-instruct-0905: 42.68%
-llama-3.1-405b-instruct: 40.22%
+deepseek-v3.1: 48.97%
+qwen3-235b-a22b: 46.38%
+kimi-k2-instruct-0905: 43.96%
+llama-3.1-405b-instruct: 40.37%
 qwen3-32b: 38.61%
 llama-4-maverick-17b-128e-instruct: 35.01%
 gemma2-9b-it: 34.12%
-llama-3.3-70b-instruct: 30.22%
+llama-3.3-70b-instruct: 30.08%
 gpt-oss-120b: 24.24%
 
-Best Model: deepseek-v3.1 (61.47%)
-Average Score: 40.37%
+Best Model: deepseek-v3.1 (48.97%)
+Average Score: 37.97%

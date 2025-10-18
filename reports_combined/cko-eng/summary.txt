@@ -1,16 +1,16 @@
 Translation Benchmark Results for cko-eng
-Generated on: 2025-10-17 06:39:16
+Generated on: 2025-10-18 06:37:56
 
 Model Performance:
-llama-3.1-405b-instruct: 44.45%
-deepseek-v3.1: 41.23%
-kimi-k2-instruct-0905: 36.65%
+llama-3.3-70b-instruct: 38.35%
+kimi-k2-instruct-0905: 37.96%
+deepseek-v3.1: 37.59%
+llama-3.1-405b-instruct: 36.26%
 qwen3-32b: 35.12%
-qwen3-235b-a22b: 34.37%
+qwen3-235b-a22b: 34.75%
 llama-4-maverick-17b-128e-instruct: 32.69%
 gemma2-9b-it: 31.77%
-llama-3.3-70b-instruct: 30.18%
 gpt-oss-120b: 28.43%
 
-Best Model: llama-3.1-405b-instruct (44.45%)
-Average Score: 34.99%
+Best Model: llama-3.3-70b-instruct (38.35%)
+Average Score: 34.77%

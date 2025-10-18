@@ -1,16 +1,16 @@
 Translation Benchmark Results for nyb-eng
-Generated on: 2025-10-17 06:39:02
+Generated on: 2025-10-18 06:37:39
 
 Model Performance:
-llama-3.1-405b-instruct: 45.67%
-qwen3-235b-a22b: 36.09%
-kimi-k2-instruct-0905: 34.26%
+qwen3-235b-a22b: 39.67%
+deepseek-v3.1: 39.17%
+llama-3.3-70b-instruct: 37.24%
+llama-3.1-405b-instruct: 36.80%
 qwen3-32b: 33.39%
-llama-3.3-70b-instruct: 33.25%
 gemma2-9b-it: 33.00%
-deepseek-v3.1: 25.53%
+kimi-k2-instruct-0905: 31.94%
 llama-4-maverick-17b-128e-instruct: 22.33%
 gpt-oss-120b: 21.96%
 
-Best Model: llama-3.1-405b-instruct (45.67%)
-Average Score: 31.72%
+Best Model: qwen3-235b-a22b (39.67%)
+Average Score: 32.83%

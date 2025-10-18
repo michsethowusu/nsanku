@@ -1,16 +1,16 @@
 Translation Benchmark Results for bwu-eng
-Generated on: 2025-10-17 06:38:56
+Generated on: 2025-10-18 06:37:32
 
 Model Performance:
-deepseek-v3.1: 57.57%
-llama-3.1-405b-instruct: 49.57%
-kimi-k2-instruct-0905: 40.12%
-qwen3-235b-a22b: 34.15%
+deepseek-v3.1: 41.00%
+llama-3.3-70b-instruct: 40.51%
+kimi-k2-instruct-0905: 39.34%
+qwen3-235b-a22b: 38.80%
+llama-3.1-405b-instruct: 35.75%
 qwen3-32b: 32.91%
 llama-4-maverick-17b-128e-instruct: 32.06%
-llama-3.3-70b-instruct: 26.39%
 gemma2-9b-it: 26.28%
 gpt-oss-120b: 21.93%
 
-Best Model: deepseek-v3.1 (57.57%)
-Average Score: 35.67%
+Best Model: deepseek-v3.1 (41.00%)
+Average Score: 34.29%

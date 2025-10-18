@@ -1,18 +1,18 @@
 {
   "language_pair": "bib-eng",
-  "timestamp": "2025-10-17T06:38:59.524987",
+  "timestamp": "2025-10-18T06:37:35.785890",
   "models": {
-    "qwen3-235b-a22b": 33.90777512,
-    "qwen3-32b": 22.870321856,
-    "gpt-oss-120b": 19.397427135999997,
-    "deepseek-v3.1": 22.252102200000003,
+    "qwen3-235b-a22b": 29.912414666666663,
+    "qwen3-32b": 22.870321856000004,
+    "gpt-oss-120b": 19.397427136,
+    "deepseek-v3.1": 33.005556399999996,
     "gemma2-9b-it": 28.523501964000005,
     "llama-4-maverick-17b-128e-instruct": 28.177789223999998,
-    "llama-3.3-70b-instruct": 39.021779,
-    "kimi-k2-instruct-0905": 32.10372274199999,
-    "llama-3.1-405b-instruct": 23.34891932
+    "llama-3.3-70b-instruct": 27.925029599999995,
+    "kimi-k2-instruct-0905": 31.1810526915,
+    "llama-3.1-405b-instruct": 19.628337686
   },
-  "average_score": 27.733704284666665,
-  "best_model": "llama-3.3-70b-instruct",
-  "best_score": 39.021779
+  "average_score": 26.73571458046296,
+  "best_model": "deepseek-v3.1",
+  "best_score": 33.005556399999996
 }

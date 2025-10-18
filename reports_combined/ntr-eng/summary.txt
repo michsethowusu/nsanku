@@ -1,16 +1,16 @@
 Translation Benchmark Results for ntr-eng
-Generated on: 2025-10-17 06:39:40
+Generated on: 2025-10-18 06:38:21
 
 Model Performance:
-kimi-k2-instruct-0905: 39.72%
-deepseek-v3.1: 39.31%
+kimi-k2-instruct-0905: 37.13%
+deepseek-v3.1: 36.50%
 llama-4-maverick-17b-128e-instruct: 35.53%
 gemma2-9b-it: 34.39%
-llama-3.3-70b-instruct: 33.91%
 qwen3-32b: 32.99%
-qwen3-235b-a22b: 32.71%
-llama-3.1-405b-instruct: 30.60%
+llama-3.3-70b-instruct: 32.90%
+llama-3.1-405b-instruct: 32.23%
+qwen3-235b-a22b: 30.08%
 gpt-oss-120b: 14.75%
 
-Best Model: kimi-k2-instruct-0905 (39.72%)
-Average Score: 32.66%
+Best Model: kimi-k2-instruct-0905 (37.13%)
+Average Score: 31.84%

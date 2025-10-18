@@ -1,16 +1,16 @@
 Translation Benchmark Results for dga-eng
-Generated on: 2025-10-17 06:39:29
+Generated on: 2025-10-18 06:38:11
 
 Model Performance:
-deepseek-v3.1: 47.63%
+deepseek-v3.1: 43.74%
 qwen3-32b: 37.06%
-kimi-k2-instruct-0905: 36.40%
+kimi-k2-instruct-0905: 34.16%
 gemma2-9b-it: 32.27%
-llama-3.1-405b-instruct: 30.14%
+llama-3.1-405b-instruct: 31.39%
+qwen3-235b-a22b: 30.47%
 llama-4-maverick-17b-128e-instruct: 28.39%
-qwen3-235b-a22b: 27.51%
 gpt-oss-120b: 25.46%
-llama-3.3-70b-instruct: 18.54%
+llama-3.3-70b-instruct: 22.67%
 
-Best Model: deepseek-v3.1 (47.63%)
-Average Score: 31.49%
+Best Model: deepseek-v3.1 (43.74%)
+Average Score: 31.73%

@@ -1,16 +1,16 @@
 Translation Benchmark Results for avn-eng
-Generated on: 2025-10-17 06:38:34
+Generated on: 2025-10-18 06:37:04
 
 Model Performance:
-kimi-k2-instruct-0905: 39.62%
-llama-3.1-405b-instruct: 36.56%
-llama-3.3-70b-instruct: 33.91%
+qwen3-235b-a22b: 43.11%
+llama-3.3-70b-instruct: 41.51%
+kimi-k2-instruct-0905: 37.60%
+llama-3.1-405b-instruct: 36.88%
+deepseek-v3.1: 29.93%
 qwen3-32b: 29.42%
 llama-4-maverick-17b-128e-instruct: 29.07%
 gemma2-9b-it: 28.15%
-qwen3-235b-a22b: 27.66%
-deepseek-v3.1: 25.54%
 gpt-oss-120b: 22.32%
 
-Best Model: kimi-k2-instruct-0905 (39.62%)
-Average Score: 30.25%
+Best Model: qwen3-235b-a22b (43.11%)
+Average Score: 33.11%
