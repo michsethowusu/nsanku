@@ -89,7 +89,8 @@ We recognize the following contributors to the Nsanku Project:
 
 ## Contact
 
-For questions, comments, or to share your results, send an email to michsethowusu@gmail.com. 
+For questions or comments, please email [natural.language.processing.gh@gmail.com](mailto:natural.language.processing.gh@gmail.com).  
+To submit your contributions, send them to [michsethowusu@gmail.com](mailto:michsethowusu@gmail.com).
 
 ## License
 
