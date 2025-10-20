@@ -1,16 +1,16 @@
 Translation Benchmark Results for lip-eng
-Generated on: 2025-10-18 17:11:59
+Generated on: 2025-10-20 10:24:56
 
 Model Performance:
-qwen3-235b-a22b: 42.67%
 qwen3-32b: 38.36%
-kimi-k2-instruct-0905: 32.51%
-deepseek-v3.1: 32.47%
+qwen3-235b-a22b: 37.75%
+kimi-k2-instruct-0905: 32.81%
 gemma2-9b-it: 31.39%
-llama-3.3-70b-instruct: 29.72%
+deepseek-v3.1: 31.14%
+llama-3.3-70b-instruct: 30.62%
 llama-4-maverick-17b-128e-instruct: 29.31%
-llama-3.1-405b-instruct: 26.24%
+llama-3.1-405b-instruct: 27.20%
 gpt-oss-120b: 18.92%
 
-Best Model: qwen3-235b-a22b (42.67%)
-Average Score: 31.29%
+Best Model: qwen3-32b (38.36%)
+Average Score: 30.83%

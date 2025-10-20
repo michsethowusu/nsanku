@@ -1,16 +1,16 @@
 Translation Benchmark Results for ada-eng
-Generated on: 2025-10-18 17:11:56
+Generated on: 2025-10-20 10:24:53
 
 Model Performance:
-deepseek-v3.1: 42.26%
-kimi-k2-instruct-0905: 38.84%
+deepseek-v3.1: 43.12%
+kimi-k2-instruct-0905: 39.49%
 llama-4-maverick-17b-128e-instruct: 34.80%
-qwen3-235b-a22b: 34.23%
-llama-3.1-405b-instruct: 32.85%
+llama-3.1-405b-instruct: 34.37%
+qwen3-235b-a22b: 33.37%
+llama-3.3-70b-instruct: 32.99%
 qwen3-32b: 31.92%
-llama-3.3-70b-instruct: 31.58%
 gemma2-9b-it: 29.16%
 gpt-oss-120b: 28.54%
 
-Best Model: deepseek-v3.1 (42.26%)
-Average Score: 33.80%
+Best Model: deepseek-v3.1 (43.12%)
+Average Score: 34.20%

@@ -1,16 +1,16 @@
 Translation Benchmark Results for kus-eng
-Generated on: 2025-10-18 17:11:59
+Generated on: 2025-10-20 10:24:56
 
 Model Performance:
 gemma2-9b-it: 49.99%
-kimi-k2-instruct-0905: 49.98%
-deepseek-v3.1: 48.32%
-llama-3.3-70b-instruct: 46.91%
-qwen3-235b-a22b: 46.45%
-llama-3.1-405b-instruct: 46.32%
+kimi-k2-instruct-0905: 49.11%
+deepseek-v3.1: 47.91%
+llama-3.3-70b-instruct: 45.46%
+qwen3-235b-a22b: 45.10%
+llama-3.1-405b-instruct: 43.17%
 llama-4-maverick-17b-128e-instruct: 42.61%
 qwen3-32b: 41.17%
 gpt-oss-120b: 39.66%
 
 Best Model: gemma2-9b-it (49.99%)
-Average Score: 45.71%
+Average Score: 44.91%

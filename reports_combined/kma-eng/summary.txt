@@ -1,16 +1,16 @@
 Translation Benchmark Results for kma-eng
-Generated on: 2025-10-18 17:11:58
+Generated on: 2025-10-20 10:24:54
 
 Model Performance:
-llama-3.1-405b-instruct: 37.91%
-deepseek-v3.1: 35.66%
-qwen3-235b-a22b: 34.02%
+llama-3.1-405b-instruct: 37.23%
+deepseek-v3.1: 33.44%
 gemma2-9b-it: 31.90%
-kimi-k2-instruct-0905: 28.50%
+qwen3-235b-a22b: 29.78%
+kimi-k2-instruct-0905: 28.92%
 llama-4-maverick-17b-128e-instruct: 25.96%
-llama-3.3-70b-instruct: 25.82%
 qwen3-32b: 24.73%
+llama-3.3-70b-instruct: 23.82%
 gpt-oss-120b: 19.83%
 
-Best Model: llama-3.1-405b-instruct (37.91%)
-Average Score: 29.37%
+Best Model: llama-3.1-405b-instruct (37.23%)
+Average Score: 28.40%

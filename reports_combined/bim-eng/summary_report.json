@@ -1,18 +1,18 @@
 {
   "language_pair": "bim-eng",
-  "timestamp": "2025-10-18T17:11:58.514635",
+  "timestamp": "2025-10-20T10:24:55.309888",
   "models": {
-    "qwen3-235b-a22b": 32.81621789999999,
+    "qwen3-235b-a22b": 33.428432736,
     "gpt-oss-120b": 14.648376888,
-    "kimi-k2-instruct-0905": 28.083436535555556,
-    "llama-3.3-70b-instruct": 30.6355700075,
-    "llama-3.1-405b-instruct": 28.693429692000006,
+    "kimi-k2-instruct-0905": 27.454346388,
+    "llama-3.3-70b-instruct": 30.796483886000004,
+    "llama-3.1-405b-instruct": 30.390572553600002,
     "qwen3-32b": 30.026065708,
     "llama-4-maverick-17b-128e-instruct": 28.096694779999996,
     "gemma2-9b-it": 19.062045618,
-    "deepseek-v3.1": 30.063639319999997
+    "deepseek-v3.1": 30.045302216000003
   },
-  "average_score": 26.902830716561724,
+  "average_score": 27.105368974844442,
   "best_model": "qwen3-235b-a22b",
-  "best_score": 32.81621789999999
+  "best_score": 33.428432736
 }

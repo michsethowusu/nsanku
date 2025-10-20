@@ -1,16 +1,16 @@
 Translation Benchmark Results for dag-eng
-Generated on: 2025-10-18 17:12:01
+Generated on: 2025-10-20 10:24:57
 
 Model Performance:
-deepseek-v3.1: 74.77%
-kimi-k2-instruct-0905: 66.25%
-llama-3.1-405b-instruct: 66.15%
-llama-3.3-70b-instruct: 58.79%
+deepseek-v3.1: 73.88%
+kimi-k2-instruct-0905: 66.43%
+llama-3.1-405b-instruct: 66.30%
+llama-3.3-70b-instruct: 57.80%
 llama-4-maverick-17b-128e-instruct: 49.55%
 qwen3-32b: 40.78%
+qwen3-235b-a22b: 35.47%
 gemma2-9b-it: 34.78%
 gpt-oss-120b: 34.05%
-qwen3-235b-a22b: 33.99%
 
-Best Model: deepseek-v3.1 (74.77%)
-Average Score: 51.01%
+Best Model: deepseek-v3.1 (73.88%)
+Average Score: 51.00%

@@ -79,7 +79,7 @@ def calculate_similarity(translated, reference):
 def translation_only(df, source_lang, target_lang):
     """Only perform translation without similarity calculation"""
     print(f"Translation: NVIDIA Build API")
-    print(f"Model: meta/llama-3.1-405b-instruct")
+    print(f"Model: moonshotai/kimi-k2-instruct-0905")
 
     result_df = df.copy()
     result_df['translated'] = ""

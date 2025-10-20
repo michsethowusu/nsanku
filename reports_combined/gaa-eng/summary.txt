@@ -1,16 +1,16 @@
 Translation Benchmark Results for gaa-eng
-Generated on: 2025-10-18 17:12:00
+Generated on: 2025-10-20 10:24:56
 
 Model Performance:
-kimi-k2-instruct-0905: 47.64%
-deepseek-v3.1: 44.08%
+kimi-k2-instruct-0905: 48.87%
 llama-4-maverick-17b-128e-instruct: 42.71%
-qwen3-235b-a22b: 41.97%
+deepseek-v3.1: 42.31%
+llama-3.1-405b-instruct: 39.56%
+qwen3-235b-a22b: 39.10%
 qwen3-32b: 38.67%
 gemma2-9b-it: 37.53%
-llama-3.1-405b-instruct: 35.84%
-llama-3.3-70b-instruct: 34.77%
+llama-3.3-70b-instruct: 37.32%
 gpt-oss-120b: 25.13%
 
-Best Model: kimi-k2-instruct-0905 (47.64%)
-Average Score: 38.71%
+Best Model: kimi-k2-instruct-0905 (48.87%)
+Average Score: 39.02%

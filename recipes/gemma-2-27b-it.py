@@ -35,7 +35,7 @@ def translate_text_with_nvidia(text, source_lang, target_lang, max_retries=5):
     for attempt in range(max_retries):
         try:
             completion = client.chat.completions.create(
-                model="deepseek-ai/deepseek-v3.1",  # You can change this to other NVIDIA models
+                model="google/gemma-2-27b-it",  # You can change this to other NVIDIA models
                 messages=[
                     {
                         "role": "user",
@@ -79,7 +79,7 @@ def calculate_similarity(translated, reference):
 def translation_only(df, source_lang, target_lang):
     """Only perform translation without similarity calculation"""
     print(f"Translation: NVIDIA Build API")
-    print(f"Model: deepseek-ai/deepseek-v3.1")
+    print(f"Model: google/gemma-2-27b-it")
 
     result_df = df.copy()
     result_df['translated'] = ""

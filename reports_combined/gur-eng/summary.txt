@@ -1,16 +1,16 @@
 Translation Benchmark Results for gur-eng
-Generated on: 2025-10-18 17:11:58
+Generated on: 2025-10-20 10:24:55
 
 Model Performance:
-qwen3-235b-a22b: 40.96%
-kimi-k2-instruct-0905: 36.54%
-deepseek-v3.1: 34.99%
-llama-3.1-405b-instruct: 30.14%
-llama-3.3-70b-instruct: 27.35%
+qwen3-235b-a22b: 40.53%
+kimi-k2-instruct-0905: 37.43%
+deepseek-v3.1: 33.24%
+llama-3.1-405b-instruct: 32.29%
+llama-3.3-70b-instruct: 30.31%
 qwen3-32b: 27.04%
 gemma2-9b-it: 25.45%
 llama-4-maverick-17b-128e-instruct: 25.27%
 gpt-oss-120b: 19.52%
 
-Best Model: qwen3-235b-a22b (40.96%)
-Average Score: 29.69%
+Best Model: qwen3-235b-a22b (40.53%)
+Average Score: 30.12%
