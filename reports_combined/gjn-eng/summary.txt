@@ -1,16 +1,17 @@
 Translation Benchmark Results for gjn-eng
-Generated on: 2025-10-20 10:24:56
+Generated on: 2025-10-23 06:59:10
 
 Model Performance:
-deepseek-v3.1: 50.62%
-llama-3.3-70b-instruct: 43.49%
-kimi-k2-instruct-0905: 43.07%
+deepseek-v3.1: 48.80%
+llama-3.3-70b-instruct: 44.21%
+kimi-k2-instruct-0905: 43.71%
 gemma2-9b-it: 40.38%
-qwen3-235b-a22b: 39.03%
-llama-3.1-405b-instruct: 37.94%
+qwen3-235b-a22b: 39.58%
+llama-3.1-405b-instruct: 37.91%
 llama-4-maverick-17b-128e-instruct: 37.32%
 qwen3-32b: 35.19%
+gemma-2-27b-it: 32.46%
 gpt-oss-120b: 29.66%
 
-Best Model: deepseek-v3.1 (50.62%)
-Average Score: 39.63%
+Best Model: deepseek-v3.1 (48.80%)
+Average Score: 38.92%

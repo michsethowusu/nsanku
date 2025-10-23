@@ -1,6 +1,6 @@
 {
   "language_pair": "naw-eng",
-  "timestamp": "2025-10-20T10:24:54.354058",
+  "timestamp": "2025-10-23T06:59:08.539813",
   "models": {
     "llama-4-maverick-17b-128e-instruct": 22.955351581200002,
     "qwen3-235b-a22b": 32.236116432,

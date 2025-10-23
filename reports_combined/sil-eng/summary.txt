@@ -1,5 +1,5 @@
 Translation Benchmark Results for sil-eng
-Generated on: 2025-10-20 10:24:54
+Generated on: 2025-10-23 06:59:08
 
 Model Performance:
 kimi-k2-instruct-0905: 45.22%

@@ -1,6 +1,6 @@
 {
   "language_pair": "twi-eng",
-  "timestamp": "2025-10-20T10:24:55.905707",
+  "timestamp": "2025-10-23T06:59:10.051205",
   "models": {
     "llama-3.3-70b-instruct": 65.5079262,
     "gemma2-9b-it": 63.2993166,

@@ -1,6 +1,6 @@
 {
   "language_pair": "vag-eng",
-  "timestamp": "2025-10-20T10:24:56.104387",
+  "timestamp": "2025-10-23T06:59:10.228672",
   "models": {
     "llama-4-maverick-17b-128e-instruct": 42.763347128,
     "qwen3-32b": 36.898695816,
