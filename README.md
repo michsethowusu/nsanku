@@ -89,11 +89,12 @@ We recognize these awesome contributors:
 |------|----------------------|
 | [Onesimus Addo Appiah](https://www.linkedin.com/in/onesimus-appiah/) | 30 |
 | [Mich-Seth Owusu](https://www.linkedin.com/in/mich-seth-owusu/) | 10 |
+| [Elias Dzobo](https://www.linkedin.com/in/eliasdzobo/) | 5 |
 | [Kelvin Newman](https://www.linkedin.com/in/kelvin-newman-09b961255/) | 5 |
 | [Edmund O. Benefo](https://www.linkedin.com/in/edmund-o-benefo/) | 5 |
 | [Gerhardt Datsomor](https://www.linkedin.com/in/gerhardt-datsomor/) | 5 |
 
-*Your name could be here! Contribute to the project and we'll add you to our list of contributors.*
+*Your name could be here! Contribute to the project and we'll add you to our list of contributors, and you'll also get access to on of our curated datasets for Ghanaian languages*
 
 ## Contact
 
