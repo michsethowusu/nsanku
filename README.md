@@ -45,17 +45,22 @@ We welcome contributions from the community! To contribute:
 
 ## Evaluated Models
 
-The following open-source models are currently being evaluated:
-- `gemma2-9b-it`
-- `gpt-oss-120b`
-- `kimi-k2-instruct-0905`
-- `llama-4-maverick-17b-128e-instruct`
-- `qwen3-32b`
-- `llama-3.1-405b-instruct`
-- `qwen3-235b-a22b`
-- `deepseek-v3.1`
-- `llama-3.3-70b-instruct`
-- `google/gemma-2-27b-it`
+The following open-source models are being tested:
+
+- `deepseek-v3.1`  
+- `gemma-2-9b-it`  
+- `gemma-2-27b-it`  
+- `gpt-oss-120b`  
+- `kimi-k2-instruct-0905`  
+- `llama-3.1-405b-instruct`  
+- `llama-3.3-70b-instruct`  
+- `llama-4-maverick-17b-128e-instruct`  
+- `mistral-7b-instruct-v0.3`  
+- `mistral-medium-3-instruct`  
+- `palmyra-med-70b`  
+- `qwen3-235b-a22b`  
+- `qwq-32b`  
+- `seed-oss-36b-instruct`  
 
 
 ## Languages Evaluated
