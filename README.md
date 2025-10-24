@@ -99,7 +99,7 @@ We recognize these awesome contributors:
 ## Contact
 
 For questions or comments, please email [natural.language.processing.gh@gmail.com](mailto:natural.language.processing.gh@gmail.com).  
-To submit your contributions, send them to [michsethowusu@gmail.com](mailto:michsethowusu@gmail.com).
+To submit your contributions, send them to [akwasi@khaya.ai](mailto:akwasi@khaya.ai).
 
 ## License
 
