@@ -1,6 +1,6 @@
 {
   "language_pair": "akp-eng",
-  "timestamp": "2025-10-23T06:59:09.640947",
+  "timestamp": "2025-10-24T14:23:39.544916",
   "models": {
     "llama-4-maverick-17b-128e-instruct": 39.337788884000005,
     "gpt-oss-120b": 30.269715247199997,

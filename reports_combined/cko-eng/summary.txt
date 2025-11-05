@@ -1,5 +1,5 @@
 Translation Benchmark Results for cko-eng
-Generated on: 2025-10-23 06:59:10
+Generated on: 2025-10-24 14:23:42
 
 Model Performance:
 llama-3.1-405b-instruct: 40.59%

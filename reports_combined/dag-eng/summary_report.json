@@ -1,6 +1,6 @@
 {
   "language_pair": "dag-eng",
-  "timestamp": "2025-10-23T06:59:11.649165",
+  "timestamp": "2025-10-24T14:23:44.368296",
   "models": {
     "llama-3.3-70b-instruct": 56.188978466666676,
     "gpt-oss-120b": 34.050714448,

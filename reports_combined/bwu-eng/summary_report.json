@@ -1,6 +1,6 @@
 {
   "language_pair": "bwu-eng",
-  "timestamp": "2025-10-23T06:59:09.548049",
+  "timestamp": "2025-10-24T14:23:39.351150",
   "models": {
     "llama-3.1-405b-instruct": 34.23310152613333,
     "qwen3-235b-a22b": 33.906153610000004,

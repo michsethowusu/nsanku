@@ -1,6 +1,6 @@
 {
   "language_pair": "gur-eng",
-  "timestamp": "2025-10-23T06:59:09.246256",
+  "timestamp": "2025-10-24T14:23:38.520409",
   "models": {
     "llama-3.3-70b-instruct": 30.75576266666667,
     "deepseek-v3.1": 36.06420669333333,

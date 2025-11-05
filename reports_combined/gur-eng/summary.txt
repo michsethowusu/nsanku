@@ -1,5 +1,5 @@
 Translation Benchmark Results for gur-eng
-Generated on: 2025-10-23 06:59:09
+Generated on: 2025-10-24 14:23:38
 
 Model Performance:
 qwen3-235b-a22b: 39.15%

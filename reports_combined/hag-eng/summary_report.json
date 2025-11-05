@@ -1,6 +1,6 @@
 {
   "language_pair": "hag-eng",
-  "timestamp": "2025-10-23T06:59:11.359422",
+  "timestamp": "2025-10-24T14:23:43.733486",
   "models": {
     "llama-3.3-70b-instruct": 31.768492866666666,
     "gpt-oss-120b": 12.768127122000001,

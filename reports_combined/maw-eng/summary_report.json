@@ -1,6 +1,6 @@
 {
   "language_pair": "maw-eng",
-  "timestamp": "2025-10-23T06:59:11.939272",
+  "timestamp": "2025-10-24T14:23:44.913741",
   "models": {
     "llama-3.1-405b-instruct": 48.18903603333332,
     "qwen3-32b": 30.0696889052,

@@ -1,5 +1,5 @@
 Translation Benchmark Results for vag-eng
-Generated on: 2025-10-23 06:59:10
+Generated on: 2025-10-24 14:23:41
 
 Model Performance:
 llama-4-maverick-17b-128e-instruct: 42.76%

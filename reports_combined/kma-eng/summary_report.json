@@ -1,6 +1,6 @@
 {
   "language_pair": "kma-eng",
-  "timestamp": "2025-10-23T06:59:09.033548",
+  "timestamp": "2025-10-24T14:23:38.092138",
   "models": {
     "llama-3.3-70b-instruct": 26.151331906666663,
     "gpt-oss-120b": 19.833131624,
