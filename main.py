@@ -98,29 +98,50 @@ def save_processing_state(state, state_file="processing_state.json"):
     except Exception as e:
         print(f"Error saving state: {str(e)}")
 
-def sample_dataframe(df, sample_size=5, random_seed=42):
-    """Randomly sample rows from dataframe with fixed seed for consistency"""
-    if len(df) <= sample_size:
-        return df.copy()
+def get_common_sentence_ids(input_dir, sample_size=5, random_seed=42):
+    """Get common sentence IDs that exist in all language pairs"""
+    csv_files = [f for f in os.listdir(input_dir) if f.endswith(".csv")]
     
-    # Use fixed seed for consistent sampling across runs
-    sampled_df = df.copy().sample(n=sample_size, random_state=random_seed).reset_index(drop=True)
+    if not csv_files:
+        raise ValueError("No CSV files found in input directory")
     
-    print(f"Sampled {len(sampled_df)} rows from {len(df)} total rows")
-    return sampled_df
+    # Read the first file to get available sentence IDs
+    first_file = os.path.join(input_dir, csv_files[0])
+    first_df = pd.read_csv(first_file)
+    
+    # Get all available sentence IDs from first file
+    all_sentence_ids = list(range(len(first_df)))
+    
+    # Sample once for all languages
+    random.seed(random_seed)
+    selected_ids = random.sample(all_sentence_ids, min(sample_size, len(all_sentence_ids)))
+    selected_ids.sort()  # Sort for consistent ordering
+    
+    print(f"Selected sentence IDs for all languages: {selected_ids}")
+    return selected_ids
 
-def precompute_samples(input_dir, sample_size=5):
-    """Precompute samples for all language pairs at the beginning"""
+def load_sampled_data(input_dir, sentence_ids):
+    """Load the same sentence IDs from all CSV files"""
     samples = {}
     csv_files = [f for f in os.listdir(input_dir) if f.endswith(".csv")]
     
-    print(f"Precomputing samples for {len(csv_files)} language pairs...")
+    print(f"Loading same {len(sentence_ids)} sentences for all {len(csv_files)} language pairs...")
     
     for file in csv_files:
         input_path = os.path.join(input_dir, file)
         df = pd.read_csv(input_path)
-        samples[file] = sample_dataframe(df, sample_size=sample_size)
-        print(f"  - {file}: sampled {sample_size} sentences")
+        
+        # Select the same sentence IDs for all files
+        if len(df) > max(sentence_ids):
+            sampled_df = df.iloc[sentence_ids].reset_index(drop=True)
+            samples[file] = sampled_df
+            print(f"  - {file}: loaded sentences {sentence_ids}")
+        else:
+            print(f"  - WARNING: {file} has only {len(df)} rows, cannot load all requested sentences")
+            # Use available sentences
+            available_ids = [sid for sid in sentence_ids if sid < len(df)]
+            sampled_df = df.iloc[available_ids].reset_index(drop=True)
+            samples[file] = sampled_df
     
     return samples
 
@@ -145,8 +166,11 @@ def run_translation_only(input_dir, output_dir, recipes, state):
     print("Running translation only...")
     print(f"Initial state: {len(state)} entries")
     
-    # Precompute samples for all language pairs
-    samples = precompute_samples(input_dir, sample_size=5)
+    # Get common sentence IDs that will be used for ALL languages
+    sentence_ids = get_common_sentence_ids(input_dir, sample_size=5, random_seed=42)
+    
+    # Load the same sentences for all language pairs
+    samples = load_sampled_data(input_dir, sentence_ids)
     
     # Calculate total tasks for ETA
     total_tasks = 0
@@ -182,9 +206,9 @@ def run_translation_only(input_dir, output_dir, recipes, state):
         lang_pair_dir = os.path.join(output_dir, f"{source_lang}-{target_lang}")
         os.makedirs(lang_pair_dir, exist_ok=True)
         
-        # Get the pre-sampled data for this language pair
+        # Get the pre-sampled data for this language pair (same sentences as all others)
         sampled_df = samples[file]
-        print(f"\nUsing same 5 sentences for all models processing {file} ({source_lang}-{target_lang})")
+        print(f"\nUsing same {len(sampled_df)} sentences for {file} ({source_lang}-{target_lang})")
         
         for recipe_name, recipe_module in recipes.items():
             # Generate recipe-specific output filename
