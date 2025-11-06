@@ -1,0 +1,248 @@
+{
+  "gur-eng/gur-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T14:57:20.523356"
+  },
+  "gjn-eng/gjn-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T14:57:54.857051"
+  },
+  "kma-eng/kma-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T14:58:18.919068"
+  },
+  "ntr-eng/ntr-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T14:58:46.037564"
+  },
+  "xsm-eng/xsm-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T14:59:08.488402"
+  },
+  "xon-eng/xon-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T14:59:36.636543"
+  },
+  "vag-eng/vag-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T15:04:09.049164"
+  },
+  "bud-eng/bud-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T15:04:36.682914"
+  },
+  "sig-eng/sig-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T15:04:59.747212"
+  },
+  "sil-eng/sil-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T15:05:25.815153"
+  },
+  "naw-eng/naw-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T15:05:45.930759"
+  },
+  "maw-eng/maw-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T15:06:05.904590"
+  },
+  "any-eng/any-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T15:06:29.960989"
+  },
+  "biv-eng/biv-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T15:06:48.788728"
+  },
+  "snw-eng/snw-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T15:07:14.018854"
+  },
+  "nko-eng/nko-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T15:07:32.699014"
+  },
+  "ada-eng/ada-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T15:07:54.570356"
+  },
+  "bib-eng/bib-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T15:08:20.272673"
+  },
+  "bwu-eng/bwu-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T15:08:42.238383"
+  },
+  "abr-eng/abr-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T15:09:03.433374"
+  },
+  "akp-eng/akp-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T15:09:26.120416"
+  },
+  "bim-eng/bim-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T15:09:47.198975"
+  },
+  "tpm-eng/tpm-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T15:10:08.162395"
+  },
+  "gaa-eng/gaa-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T15:10:31.548360"
+  },
+  "tcd-eng/tcd-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T15:11:04.946393"
+  },
+  "nyb-eng/nyb-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T15:11:40.989653"
+  },
+  "hag-eng/hag-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T15:12:08.972949"
+  },
+  "twi-eng/twi-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T15:12:27.748267"
+  },
+  "nzi-eng/nzi-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T15:12:56.278863"
+  },
+  "dga-eng/dga-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T15:13:18.779099"
+  },
+  "cko-eng/cko-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T15:13:42.668973"
+  },
+  "fat-eng/fat-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T15:20:33.508911"
+  },
+  "dag-eng/dag-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T15:20:51.095616"
+  },
+  "avn-eng/avn-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T15:21:21.525683"
+  },
+  "mzw-eng/mzw-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T15:21:47.904188"
+  },
+  "sfw-eng/sfw-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T15:22:10.160059"
+  },
+  "lip-eng/lip-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T15:22:34.798724"
+  },
+  "kus-eng/kus-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T15:22:53.375570"
+  },
+  "lef-eng/lef-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T15:23:25.803088"
+  },
+  "bov-eng/bov-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T15:23:52.735609"
+  },
+  "acd-eng/acd-eng.csv/deepseek-v3.1": {
+    "translation_completed": true,
+    "similarity_completed": true,
+    "rows_processed": 5,
+    "timestamp": "2025-11-05T15:24:19.688938"
+  }
+}

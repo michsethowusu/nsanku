@@ -110,7 +110,7 @@ def sample_dataframe(df, sample_size=5):
     print(f"Randomly sampled {len(sampled_df)} rows from {len(df)} total rows")
     return sampled_df
 
-def process_csv(input_path, recipe_module, source_lang, target_lang, mode="translation_only"):
+def process_csv(input_path, recipe_module, source_lang, target_lang, mode="full"):
     # Read the CSV and sample 5 rows randomly
     df = pd.read_csv(input_path)
     sampled_df = sample_dataframe(df, sample_size=5)
@@ -121,7 +121,7 @@ def process_csv(input_path, recipe_module, source_lang, target_lang, mode="trans
     elif mode == "similarity_only" and hasattr(recipe_module, 'similarity_only'):
         processed_df = recipe_module.similarity_only(sampled_df)
     else:
-        processed_df = recipe_module.translation_only(sampled_df, source_lang=source_lang, target_lang=target_lang)
+        processed_df = recipe_module.process_dataframe(sampled_df, source_lang=source_lang, target_lang=target_lang)
     
     return processed_df
 
@@ -186,6 +186,152 @@ def run_translation_only(input_dir, output_dir, recipes, state):
     
     print(f"Translation process completed! Final state: {len(state)} entries")
 
+def run_similarity_only(input_dir, output_dir, recipes, state):
+    """Run only the similarity comparison part"""
+    print("Running similarity comparison only...")
+    print(f"Initial state: {len(state)} entries")
+    
+    # Process each CSV file in the input directory
+    for file in os.listdir(input_dir):
+        if file.endswith(".csv"):
+            # Extract language pair from filename
+            source_lang, target_lang = extract_language_pair_from_filename(file)
+            if not source_lang or not target_lang:
+                print(f"Skipping {file}: filename should be in format 'source-target.csv'")
+                continue
+                
+            # Create output directory for this language pair
+            lang_pair_dir = os.path.join(output_dir, f"{source_lang}-{target_lang}")
+            os.makedirs(lang_pair_dir, exist_ok=True)
+            
+            for recipe_name, recipe_module in recipes.items():
+                # Generate recipe-specific output filename
+                output_filename = get_output_filename(file, recipe_name)
+                output_path = os.path.join(lang_pair_dir, output_filename)
+                
+                # Check if translation has been completed
+                state_key = f"{source_lang}-{target_lang}/{file}/{recipe_name}"
+                if not state.get(state_key, {}).get('translation_completed', False):
+                    print(f"Skipping similarity for {recipe_name} on {file} ({source_lang}-{target_lang}) - translation not completed")
+                    continue
+                
+                # Check if similarity has already been completed
+                if state.get(state_key, {}).get('similarity_completed', False):
+                    print(f"Skipping similarity for {recipe_name} on {file} ({source_lang}-{target_lang}) - already completed")
+                    continue
+                
+                print(f"Processing similarity for {recipe_name} on {file} ({source_lang}-{target_lang})")
+                
+                try:
+                    # Check if recipe supports similarity only mode
+                    if hasattr(recipe_module, 'similarity_only'):
+                        # Read the file that should contain translations
+                        if os.path.exists(output_path):
+                            # For similarity only, we don't resample - we use the already sampled data
+                            df = pd.read_csv(output_path)
+                            print(f"Processing {len(df)} previously sampled rows for similarity")
+                            
+                            result_df = process_csv(output_path, recipe_module, 
+                                                  source_lang, target_lang, "similarity_only")
+                            result_df.to_csv(output_path, index=False)
+                            
+                            # Update state
+                            state[state_key]['similarity_completed'] = True
+                            state[state_key]['similarity_timestamp'] = pd.Timestamp.now().isoformat()
+                            save_processing_state(state)
+                            
+                            print(f"Completed similarity with {recipe_name} on {file} for {source_lang}-{target_lang}")
+                        else:
+                            print(f"File not found: {output_path}")
+                    else:
+                        print(f"Recipe {recipe_name} doesn't support similarity-only mode")
+                except Exception as e:
+                    print(f"Error applying similarity with {recipe_name} to {file} for {source_lang}-{target_lang}: {str(e)}")
+    
+    print(f"Similarity process completed! Final state: {len(state)} entries")
+
+def run_full_process(input_dir, output_dir, recipes, state):
+    """Run the full process (translation + similarity)"""
+    print("Running full process...")
+    print(f"Initial state: {len(state)} entries")
+    
+    # Process each CSV file in the input directory
+    for file in os.listdir(input_dir):
+        if file.endswith(".csv"):
+            # Extract language pair from filename
+            source_lang, target_lang = extract_language_pair_from_filename(file)
+            if not source_lang or not target_lang:
+                print(f"Skipping {file}: filename should be in format 'source-target.csv'")
+                continue
+                
+            input_path = os.path.join(input_dir, file)
+            
+            # Create output directory for this language pair
+            lang_pair_dir = os.path.join(output_dir, f"{source_lang}-{target_lang}")
+            os.makedirs(lang_pair_dir, exist_ok=True)
+            
+            for recipe_name, recipe_module in recipes.items():
+                # Generate recipe-specific output filename
+                output_filename = get_output_filename(file, recipe_name)
+                output_path = os.path.join(lang_pair_dir, output_filename)
+                
+                # Check if this recipe has already processed this file
+                state_key = f"{source_lang}-{target_lang}/{file}/{recipe_name}"
+                if state.get(state_key, {}).get('similarity_completed', False):
+                    print(f"Skipping {recipe_name} for {file} ({source_lang}-{target_lang}) - already processed")
+                    continue
+                
+                print(f"Processing {input_path} with recipe {recipe_name} for {source_lang}-{target_lang}")
+                print(f"Output will be saved to {output_path}")
+                
+                try:
+                    result_df = process_csv(input_path, recipe_module, source_lang, target_lang)
+                    result_df.to_csv(output_path, index=False)
+                    
+                    # Update state
+                    state[state_key] = {
+                        'translation_completed': True,
+                        'similarity_completed': True,
+                        'rows_processed': len(result_df),
+                        'timestamp': pd.Timestamp.now().isoformat()
+                    }
+                    save_processing_state(state)
+                    
+                    print(f"Completed {recipe_name} on {file} for {source_lang}-{target_lang}")
+                except Exception as e:
+                    print(f"Error applying {recipe_name} to {file} for {source_lang}-{target_lang}: {str(e)}")
+    
+    print(f"Full process completed! Final state: {len(state)} entries")
+
+def display_menu():
+    """Display the menu options"""
+    print("\n" + "="*50)
+    print("Translation Pipeline Menu")
+    print("="*50)
+    print("1. Run LLM Evaluation")
+    print("2. Generate reports only")
+    print("3. Exit")
+    print("="*50)
+    
+    while True:
+        try:
+            choice = input("Please select an option (1-3): ")
+            if choice in ["1", "2", "3"]:
+                return choice
+            else:
+                print("Invalid option. Please enter a number between 1 and 3.")
+        except KeyboardInterrupt:
+            print("\nExiting...")
+            sys.exit(0)
+
+def reset_processing_state(state_file="processing_state.json"):
+    """Reset the processing state"""
+    if os.path.exists(state_file):
+        os.remove(state_file)
+        print("Processing state has been reset.")
+    else:
+        print("No state file found to reset.")
+
 def main():
     # Setup API key first
     api_key = setup_api_key()
@@ -205,10 +351,16 @@ def main():
     state = load_processing_state()
     print(f"Loaded state with {len(state)} entries")
     
-    # Run translation automatically without menu
-    run_translation_only(input_dir, output_dir, recipes, state)
-    
-    print("Translation completed! Now run reporting_combined.py to calculate similarity and generate reports.")
+    while True:
+        choice = display_menu()
+        
+        if choice == "1":
+            run_full_process(input_dir, output_dir, recipes, state)
+        elif choice == "2":
+            generate_report(output_dir)
+        elif choice == "3":
+            print("Exiting...")
+            break
 
 if __name__ == "__main__":
     main()

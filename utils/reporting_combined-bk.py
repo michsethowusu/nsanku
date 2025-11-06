@@ -1,6 +1,8 @@
 """
-reporting_combined.py
-Updated to calculate similarity scores using mpnet before generating reports
+report_generator_png.py
+Same as your original script, but every chart is now saved as
+    <name>.html   (interactive)
+    <name>.png    (static 1200×800 px)
 """
 
 import os
@@ -13,7 +15,7 @@ import json
 import numpy as np
 from datetime import datetime
 import re
-from sentence_transformers import SentenceTransformer, util
+
 
 # ------------------------------------------------------------------
 # FIXED: Configure PNG export settings properly
@@ -21,10 +23,6 @@ from sentence_transformers import SentenceTransformer, util
 pio.kaleido.scope.default_width = 1200
 pio.kaleido.scope.default_height = 800
 pio.templates.default = "plotly_white"
-
-# Initialize similarity model
-similarity_model_name = "sentence-transformers/all-mpnet-base-v2"
-similarity_model = SentenceTransformer(similarity_model_name)
 
 # ------------------------------------------------------------------
 # Everything below with fixes for font weight issue
@@ -66,7 +64,7 @@ def get_language_display_name(language_pair):
     
     return source_name if source_name != source_lang else language_pair
 
-def get_available_recipes(recipes_dir="recipes"):
+def get_available_recipes(recipes_dir="/home/owusus/Documents/GitHub/nsanku/recipes"):
     recipes = []
     for file in os.listdir(recipes_dir):
         if file.endswith(".py") and file != "__init__.py":
@@ -83,55 +81,14 @@ def extract_recipe_name_from_filename(filename, available_recipes):
         return match.group(1)
     return "unknown_recipe"
 
-def calculate_similarity_batch(df, batch_size=32):
-    """Calculate similarity scores for translated text using batch processing"""
-    print("Calculating similarity scores with batch processing...")
-    
-    # Check if required columns exist
-    if 'translated' not in df.columns or 'ref' not in df.columns:
-        print("Error: Missing required columns 'translated' or 'ref'")
-        return df
-    
-    # Prepare data for batch processing
-    translated_texts = df['translated'].fillna('').tolist()
-    ref_texts = df['ref'].fillna('').tolist()
-    
-    # Calculate similarity in batches
-    similarities = []
-    total_batches = (len(translated_texts) + batch_size - 1) // batch_size
-    
-    for i in range(0, len(translated_texts), batch_size):
-        batch_translated = translated_texts[i:i+batch_size]
-        batch_ref = ref_texts[i:i+batch_size]
-        
-        # Calculate embeddings for both batches
-        embeddings_translated = similarity_model.encode(batch_translated, convert_to_tensor=True)
-        embeddings_ref = similarity_model.encode(batch_ref, convert_to_tensor=True)
-        
-        # Calculate cosine similarities
-        batch_similarities = util.pytorch_cos_sim(embeddings_translated, embeddings_ref)
-        
-        # Extract the diagonal (each translation compared to its corresponding reference)
-        batch_diagonal = batch_similarities.diag().cpu().numpy()
-        similarities.extend(batch_diagonal)
-        
-        # Show progress
-        batch_num = i // batch_size + 1
-        print(f"Processed similarity batch {batch_num}/{total_batches}")
-    
-    df['similarity_score'] = similarities
-    print("Similarity calculation completed!")
-    return df
-
-def combine_all_datasets(input_dir="output"):
+def combine_all_datasets(input_dir="/home/owusus/Documents/GitHub/nsanku/output_combined"):
     """
     Combine all CSV files from all directories into one main dataset
-    Calculate similarity scores if missing
     """
     all_data = []
     recipes = get_available_recipes()
     
-    print("Combining all datasets and calculating similarity scores...")
+    print("Combining all datasets...")
     
     for root, _, files in os.walk(input_dir):
         for file in files:
@@ -147,11 +104,8 @@ def combine_all_datasets(input_dir="output"):
             
             try:
                 df = pd.read_csv(os.path.join(root, file))
-                
-                # Check if similarity_score column exists, if not calculate it
                 if "similarity_score" not in df.columns:
-                    print(f"Calculating similarity scores for {file}...")
-                    df = calculate_similarity_batch(df)
+                    continue
                 
                 # Add metadata columns
                 df['language_pair'] = f"{src}-{tgt}"
@@ -464,7 +418,7 @@ def create_language_quadrant(df, title, filename, outdir):
         id_column='display_name', size_metric='model_coverage', color_metric='avg_score'
     )
 
-def generate_quadrant_reports(combined_df, outdir="reports_combined"):
+def generate_quadrant_reports(combined_df, outdir="/home/owusus/Documents/GitHub/nsanku/reports_combined"):
     """
     Generate quadrant chart reports
     """
@@ -580,7 +534,7 @@ def create_stacked_bar_chart(data_dict, title, xlabel, filename, output_dir):
     fig.write_image(png_path, width=1200, height=800)
     return fig
 
-def collect_results(input_dir="output"):
+def collect_results(input_dir="/home/owusus/Documents/GitHub/nsanku/output_combined"):
     results, source_breakdown = {}, {}
     available_recipes = get_available_recipes()
 
@@ -607,7 +561,7 @@ def collect_results(input_dir="output"):
                         continue
     return results, source_breakdown
 
-def generate_language_specific_reports(results, source_breakdown, output_dir="reports_combined"):
+def generate_language_specific_reports(results, source_breakdown, output_dir="/home/owusus/Documents/GitHub/nsanku/reports_combined"):
     """Generate individual reports for each language pair with source breakdown"""
     for language_pair, model_results in results.items():
         lang_output_dir = os.path.join(output_dir, language_pair)
@@ -691,7 +645,7 @@ def generate_language_specific_reports(results, source_breakdown, output_dir="re
             f.write(f"\nBest Model: {summary['best_model']} ({summary['best_score']:.2f}%)\n")
             f.write(f"Average Score: {summary['average_score']:.2f}%\n")
 
-def generate_language_performance_summary(results, output_dir="reports_combined"):
+def generate_language_performance_summary(results, output_dir="/home/owusus/Documents/GitHub/nsanku/reports_combined"):
     """Generate a summary of how languages cumulatively performed across models"""
     if not results:
         return {}
@@ -724,7 +678,7 @@ def generate_language_performance_summary(results, output_dir="reports_combined"
     
     return language_performance
 
-def generate_overall_summary(results, source_breakdown, output_dir="reports_combined"):
+def generate_overall_summary(results, source_breakdown, output_dir="/home/owusus/Documents/GitHub/nsanku/reports_combined"):
     """Generate an overall summary across all language pairs"""
     if not results:
         return
@@ -774,14 +728,14 @@ def generate_overall_summary(results, source_breakdown, output_dir="reports_comb
     
     return summary
 
-def generate_report(input_dir="output", output_dir="reports_combined"):
-    """Main function to generate reports with similarity calculation and quadrant analysis"""
-    print("Generating performance reports with similarity calculation and quadrant analysis...")
+def generate_report(input_dir="/home/owusus/Documents/GitHub/nsanku/output_combined", output_dir="/home/owusus/Documents/GitHub/nsanku/reports_combined"):
+    """Main function to generate reports with quadrant analysis"""
+    print("Generating performance reports with quadrant analysis...")
     
     # Create output directory if it doesn't exist
     os.makedirs(output_dir, exist_ok=True)
     
-    # Step 1: Combine all datasets and calculate similarity scores if missing
+    # Step 1: Combine all datasets for quadrant analysis
     combined_df = combine_all_datasets(input_dir)
     
     # Step 2: Generate quadrant reports if we have data
