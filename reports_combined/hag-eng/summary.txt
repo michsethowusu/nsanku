@@ -1,0 +1,23 @@
+Translation Benchmark Results for hag-eng
+Generated on: 2025-11-07 13:48:51
+
+Model Performance:
+kimi-k2-instruct-0905: 47.14%
+deepseek-v3.1: 45.51%
+palmyra-med-70b: 37.41%
+qwen3-235b-a22b: 37.35%
+llama-3.1-405b-instruct: 37.06%
+seed-oss-36b-instruct: 34.75%
+llama-4-maverick-17b-128e-instruct: 33.32%
+llama-3.3-70b-instruct: 31.76%
+qwen3-32b: 31.48%
+gemma2-9b-it: 29.20%
+mistral-7b-instruct-v0.3: 27.62%
+gemma-2-9b-it: 27.15%
+gemma-2-27b-it: 27.06%
+mistral-medium-3-instruct: 24.18%
+qwq-32b: 23.24%
+gpt-oss-120b: 14.76%
+
+Best Model: kimi-k2-instruct-0905 (47.14%)
+Average Score: 31.81%

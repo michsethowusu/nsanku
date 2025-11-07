@@ -134,7 +134,7 @@ def combine_matching_csvs_from_zips(root_folder, output_path=None):
 # Example usage
 if __name__ == "__main__":
     # Specify your paths here
-    root_path = "/home/owusus/Documents/GitHub/nsanku/output"  # Folder containing the zip files
+    root_path = "output"  # Folder containing the zip files
     
-    combine_matching_csvs_from_zips(root_path, "/home/owusus/Documents/GitHub/nsanku/output_combined")
+    combine_matching_csvs_from_zips(root_path, "output_combined")
     

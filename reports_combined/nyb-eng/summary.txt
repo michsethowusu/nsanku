@@ -1,0 +1,23 @@
+Translation Benchmark Results for nyb-eng
+Generated on: 2025-11-07 13:48:49
+
+Model Performance:
+deepseek-v3.1: 41.74%
+palmyra-med-70b: 37.61%
+llama-3.3-70b-instruct: 36.86%
+qwen3-235b-a22b: 36.65%
+gemma-2-9b-it: 35.27%
+llama-3.1-405b-instruct: 33.88%
+qwen3-32b: 33.39%
+gemma2-9b-it: 33.00%
+kimi-k2-instruct-0905: 32.64%
+seed-oss-36b-instruct: 31.12%
+gemma-2-27b-it: 29.50%
+llama-4-maverick-17b-128e-instruct: 26.66%
+mistral-7b-instruct-v0.3: 26.45%
+qwq-32b: 24.95%
+mistral-medium-3-instruct: 24.16%
+gpt-oss-120b: 19.00%
+
+Best Model: deepseek-v3.1 (41.74%)
+Average Score: 31.43%

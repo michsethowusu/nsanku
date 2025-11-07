@@ -1,0 +1,115 @@
+ref,text,translated,similarity_score,source_zip_file
+"Then God's angel called me by name. I answered,","Laleɛ ne anu, Nyameɛ abɔfo frɛle me kyɛ, ‘Yakob.’ Na nzurole kyɛ, ‘Me ɛhe!’","The voice and the spirit of God called me here, 'Jacob.' And I answered, 'Here I am!'",0.56396794,output_jonathan
+"Before Lot and his guests could go to bed, every man in Sodom, young and old, came and stood outside his house","Né bennya bɛllale po, yeɛ Sodom kurotue ne amukoraa, fite mmɛɛmaa so kodwu mbanyi so, bɛɛpɛle sua ne anwo beyiale ɔ.","There was a gathering at Bennya, and Sodom, which was overthrown due to their sins, the consuming fire from God's judgment, leaving none of their people remaining.",0.5341468,output_jonathan
+"Abraham's servant ran to her and said, “Please let me have a drink of water.”","Somvoɛ ne tuli amirika ooyiale ye, na osele ye kyɛ, “Mesrɛ wɔ, maa nno wɔ bua ye anu nzue ye kãa.”",Translation here,0.100348726,output_jonathan
+Abram and Sarai took everything they owned and went to the Southern Desert. Lot went with them.,"Yiti Abram fili Misraim hɔle ngwaen dɔ aseɛ ne aso dɔ, ɔne ɔye ne bɔ wanya ye amukoraa, na Lɔto ne ye bɛhɔle.","Abram went to Egypt with all his household, for the famine was severe in the land. He feared that the Egyptians might know that the woman was his wife, so Lot went with him.",0.6702013,output_jonathan
+"Then the Lord took Abram outside and said, “Look at the sky and see if you can count the stars. That's how many descendants you will have.”","Afei Nyameɛ fale ye fitele, na osele kyɛ, “To wɔ nye anwuro na ka nzramaa nemɔ, na nea sɛ ɛkɔhora kɔha bɛ a.” Na osele ye kyɛ, “Sɔ ala yeɛ wɔ boso ama kɔyɛ ɔ.”","Afei Nyame did something, and the story says, ""To had a problem, so he went to the river there, and if it rains, it will flood."" Then the story says, ""Therefore, you are in the forest or it is there.""",0.3477967,output_jonathan
+So God created humans to be like himself; he made men and women.,"Yiti Nyameɛ bɔle sona kyɛ ye bɔbɔ ye sɛso, Nyameɛ sɛso yeɛ ɔbɔle ye ɔ; ɔbɔle bienzua ne brasua.","Praise to God, whose power has given him to speak the truth; God's truth is his power, the power to bind and loose.",0.22455379366874695,output_mich003
+Take seven pairs of every kind of animal that can be used for sacrifice and one pair of all others.,"Ngaka mukoraa bɔ bɛ nwo te ne, fa nyii ne beleɛ nzoo nzoo; ngaka bɔ bɛ nwo nde ne, fa nyii ne beleɛ nyɔ nyɔ;","Okay, I need to translate this Esahie text into English. Let me start by looking at the sentence structure. The user provided the text: ""Ngaka mukoraa bɔ bɛ nwo te ne, fa nyii ne beleɛ nzoo nzoo; ngaka bɔ bɛ nwo nde ne, fa nyii ne beleɛ nyɔ nyɔ;"". 
+
+First, I should note that Esahie is a language I'm not familiar with, so I might need to rely on any existing knowledge or possible patterns. Since the user is asking for a translation, maybe it's similar to other African languages, perhaps Akan or Twi? The words like ""bɔ"" and ""nyii"" might have meanings in those languages. Let me think.
+
+Breaking it down: ""Ngaka mukoraa bɔ bɛ nwo te ne, fa nyii ne beleɛ nzoo nzoo; ngaka bɔ bɛ nwo nde ne, fa nyii ne beleɛ nyɔ nyɔ;""
+
+Looking at parts:
+
+- ""Ngaka"" could be ""if"" or ""when"" in some languages.
+- ""mukoraa"" might be a verb, maybe ""to know"" or ""understand"".
+- ""bɔ"" could be a pronoun like ""he"" or ""she"".
+- ""bɛ"" might be a form of ""be"" or ""is"".
+- ""nwo"" could mean ""now"" or ""current"".
+- ""te ne"" perhaps ""then"" or ""therefore"".
+- ""fa"" might mean ""so"" or ""therefore"".
+- ""nyii"" could be ""they"" or ""those"".
+- ""beleɛ"" might be ""believe"" or ""trust"".
+- ""nzoo nzoo"" could be an intensifier like ""very much"" or ""truly"".
+- ""nde"" might be ""not"" or ""without"".
+- ""nyɔ nyɔ"" could be another intensifier, maybe ""truly"" or ""completely"".
+
+Putting it together: The first part might be something like ""If someone knows the truth now, then they truly believe; if they know it now without, then they completely believe.""
+
+Wait, maybe ""nde"" is a negation? So ""ngaka bɔ bɛ nwo nde ne"" could be ""if he knows it now without..."" which might mean ""if he doesn't know it now...""?
+
+Alternatively, maybe ""nde"" is ""without"" so ""without knowing it now"". Hmm.
+
+Alternatively, maybe ""nde"" is a conjunction. Let me try another approach. Maybe the structure is similar to Akan. In Akan, ""ngaka"" can mean ""if"". ""Mukoraa"" might be ""to know"" (mukora is know, so mukoraa could be past tense or perfective). ""Bɔ"" could be ""he"". ""Bɛ"" could be ""is"" or ""be"". ""Nwo"" could be ""now"". ""Te ne"" maybe ""then"". ""Fa"" is ""so"" or ""therefore"". ""Nyii"" could be ""they"". ""Beleɛ"" as ""believe"". ""Nzoo nzoo"" as ""truly"" or ""very much"".
+
+So first clause: ""If (ngaka) someone (mukoraa?) knows (maybe mukoraa is the verb?), the truth (bɔ bɛ nwo te ne?), then (fa) they (nyii) truly believe (beleɛ nzoo nzoo).""
+
+Wait, maybe ""bɔ bɛ nwo te ne"" is ""the truth now then""? Not sure. Alternatively, ""bɔ"" as ""he"", ""bɛ"" as ""is"", ""nwo te ne"" as ""now then"".
+
+Alternatively, maybe ""mukoraa"" is the subject, like ""the knower"" or ""one who knows"". So ""Ngaka mukoraa bɔ bɛ nwo te ne"" could be ""If the knower (bɔ = he?) is now then..."" Not sure.
+
+Alternatively, perhaps ""Ngaka mukoraa bɔ bɛ nwo te ne"" translates to ""If someone knows the truth now, then..."" and the rest follows. The second part is similar but with ""nde"" instead of ""te"". Maybe ""nde"" is ""not"", so ""if he knows it now not, then they completely believe"".
+
+Alternatively, ""nde"" could mean ""without"", so ""if he knows it now without (something), then they completely believe"".
+
+This is a bit tricky without more context. Maybe the translation is something like:
+
+""If one knows the truth now, then they truly believe; if one knows it now without, then they completely believe.""
+
+Alternatively, maybe ""without knowing it now"" would make sense. So the second part could be ""if one does not know it now, then they completely believe"".
+
+Alternatively, ""nde"" could be a conjunction meaning ""and"", but that might not fit. Alternatively, ""nde"" as ""therefore"".
+
+Hmm. Maybe the user expects a more natural translation. Let me think of possible translations. Maybe the first part is ""If someone knows the truth now, then they truly believe; if they know it now without (something), then they completely believe.""
+
+Alternatively, maybe ""nzoo nzoo"" and ""nyɔ nyɔ"" are both intensifiers, so ""truly"" and ""completely"".
+
+Alternatively, maybe ""beleɛ nzoo nzoo"" is ""have true faith"" and ""beleɛ nyɔ nyɔ"" is ""have complete faith"".
+
+Putting it all together, perhaps the translation is:
+
+""If one knows the truth now, then they truly believe; if they know it now without, then they completely believe.""
+
+Alternatively, maybe ""without doubt"" for ""nde"". So ""if they know it now without doubt, then they completely believe.""
+
+Alternatively, maybe ""nde"" is ""not"", so ""if they do not know it now, then they completely believe."" But that might not make sense.
+
+Alternatively, maybe ""nde"" is ""then"" again, but that's redundant.
+
+Alternatively, perhaps ""ngaka bɔ bɛ nwo nde ne"" is ""if he is now without..."", so ""if he is now without (something), then they completely believe.""
+
+This is challenging. Maybe the user expects a translation that's more fluid. Let me try to make it coherent. Maybe the first part is about knowing the truth leading to true belief, and the second part is knowing something else leading to complete belief. Alternatively, maybe ""without"" refers to not having something, so ""if they know it now without hesitation, then they completely believe.""
+
+Alternatively, perhaps ""nde"" is a negation, so ""if they do not know it now, then they completely believe."" But that might not make sense.
+
+Alternatively, maybe ""nde"" is a conjunction meaning ""and"", so ""if they know it now and..."", but that might not fit.
+
+Alternatively, maybe ""nde"" is ""therefore"", so ""if they know it now, therefore they completely believe.""
+
+Hmm. Maybe the best approach is to go with the structure where ""ngaka"" is ""if"", ""mukoraa"" is the subject (someone who knows), ""bɔ bɛ nwo te ne"" is ""the truth now then"", but that's unclear. Alternatively, maybe ""bɔ"" is the object, so ""know the truth now"".
+
+Alternatively, perhaps ""mukoraa"" is the verb ""to know"", so ""Ngaka mukoraa bɔ bɛ nwo te ne"" could be ""If one knows the truth now, then..."" and the second part is similar but with ""nde"".
+
+Alternatively, maybe ""nde"" is ""not"", so ""if one does not know it now, then they completely believe."" That could be a possible translation.
+
+Alternatively, maybe ""beleɛ nyɔ nyɔ"" is ""completely believe"", so the translation could be:
+
+""If one knows the truth now, then they truly believe; if one does not know it now, then they completely believe.""
+
+But that seems contradictory. Alternatively, maybe ""without knowing it now"" leading to complete belief. Not sure.
+
+Alternatively, maybe ""nde"" is ""without"", so ""if one knows it now without (something), then they completely believe.""
+
+Alternatively, perhaps the structure is similar to Akan, where ""ngaka"" is ""if"", ""mukoraa"" is ""to know"", ""bɔ"" is ""he"", ""bɛ"" is ""is"", ""nwo"" is ""now"", ""te ne"" is ""then"". So ""If the knower (mukoraa) is now then..."" Not sure.
+
+Alternatively, maybe ""mukoraa"" is the verb, so ""If someone knows (mukoraa) the truth (bɔ bɛ nwo?), then they truly believe.""
+
+Alternatively, maybe ""bɔ bɛ nwo te ne"" is ""the truth now then"".
+
+Alternatively, perhaps ""bɔ"" is ""he"", ""bɛ"" is ""is"", ""nwo"" is ""now"", ""te ne"" is ""then"".
+
+So ""If someone knows (mukoraa) that he is now then..."" Not sure.
+
+This is quite challenging without knowing the language. Maybe I should proceed with the best possible guess based on possible Akan/Twi roots.
+
+Assuming ""ngaka"" = if, ""mukoraa"" = knows, ""bɔ"" = the truth (maybe ""bɔ"" is ""he"" but in this context could be ""the truth""), ""bɛ"" = is, ""n",0.006149875000119209,output_mich003
+"and said, “Please come to my home where I can serve you.","na ɔhane kyɛ, “Me Mene, sɛ alo me anwu me anwumvoin de a, nzaade mesrɛ wɔ, nnesã w’akoaa nwo kɔ.","And the voice said, ""Me Mene, because the path of the sun and moon is there, gather the truth, and tell the people to come now.""",0.36410248279571533,output_mich003
+Then he put the branches where the sheep and goats would see them while they were drinking from the water trough. The goats mated there,"Ɔfale mmakaa bɔ wawɔngyewɔngye bɛ nwo ne guale nningyein bɔ ngaka nemɔ no nu nzue ne anwo. Né sɛ ngaka nemɔ ba kyɛ bɛbaano nzue a, berɛ yeɛ bɛfo bɛ nwo ɔ.","Good morning, let us work together to go there along the path of knowledge, taking the road and the way. If the path is endless, they must go before us.",0.1448073387145996,output_mich003
+"Jacob said, “Now tell me your name.” “Don't you know who I am?” he asked. And he blessed Jacob.","Yeɛ Yakob sele ye kyɛ, “Mesrɛ wɔ, bɔ wɔ dumaa kyire me.” Na Biaa ne buale kyɛ, “Nzu ati yeɛ ebisa me dumaa ɔ?” Na oyirale Yakob wɔ berɛ.","Then Jacob said to him, ""Listen, take this as my command."" And Biaa replied, ""What is this command of yours?"" So Jacob answered him in the morning.",0.7060521841049194,output_mich003
+"Jacob was so frightened that he divided his people, sheep, cattle, and camels into two groups.","Edwirɛ ne mane ɛserɛ piri hane Yakob; ɔhyɛle mmenia bɔ né bɛboka ye so ne anu nyɔ, ɔne mmoaen ne nandwie ne mbɔngɔ mɔ koso nu kure nyɔ.","Edwirɛ and the man who was near Jacob's place; he said that they brought this book and another thing, and the mother and the follower went along the road to seek and find.",0.45050693,output_onesimus007
+At that time the Lord made an agreement with Abram and told him: I will give your descendants the land east of the Shihor River on the border of Egypt as far as the Euphrates River.,"Na sɔ kyẽa ne ala, AWURADE ne Abram yɛle apam, na ɔhane kyɛ, “Wɔ boso ama yeɛ méfa sɔ aseɛ he méma bɛ ɔ: ofi Misraim asue noa bɔ ɔkwaadwu asue piri Yufreti noa,","So the Lord descended to the land, God spoke to Abram, and he said, 'Do not go down to Egypt, for I will multiply you here. If you go to Egypt, you will go to the Nile region in Egypt.'",0.6810365,output_onesimus007
+"Three days later, while the king was celebrating his birthday with a dinner for his officials, he sent for his personal servant and the chief cook.","Ye ɛlɛsa ne aso, né ɔte Faro krakyẽa. Ɔtole poen mane ye mbanyi amukoraa. Na ɔyele nzaasulɛfoɛ so panyi ne paanootonɛfoɛ so panyi ne fili kuku nu maa beegyinane ye mbanyi nemɔ anyunu.","The story and the time, when Faro spoke. They gathered the people in the many amukoraa. And they went with the nzaasulɛfoɛ and the paanootonɛfoɛ, and the fili kuku to the maa beegyinane with the many among them.",0.17357151,output_onesimus007
+"The next day the older daughter said to her sister, “I slept with my father last night. We'll get him drunk again tonight, so you can sleep with him, and we can each have a child.”","Na aleɛ hyene ne, bamuɛbaa ne sele kãa ne kyɛ, “Nea, me ne me baba yɛlale anoma kɔngɔen. Maa yɛma ye nzaa ma ɔno ɛnɛ kɔngɔen ye koso, na ɛne ye bɛɛla, amaa ɔnate yɛ baba so yanya yɛ boso ama.”","Now, the story goes that the great one said to the people, ""Listen, I and my father are the ones who established this kingdom. But they say that whoever among them is the true king, and that is why he is the true king, because he is the one who founded the dynasty.""",0.17553954,output_onesimus007
+"At this time the Canaanites and the Perizzites were still living in the same area, and so there wasn't enough pastureland left for Abram and Lot with all of their animals. Besides this, the men who took care of Abram's animals and the ones who took care of Lot's animals started quarreling.","Na edwudwolɛ wale Abram ngaka neafoɛ nemɔ ne Lɔto ngaka neafoɛ nemɔ afia. Na sɔ mmerɛ ne, né Kanaanfoɛ ne Perisifoɛ wɔ sɔ aseɛ ne aso.","And so Abram and Lot each had their own land and their descendants in the land of Canaan, and the Perizzites were in the land of their sojourn.",0.6725024,output_onesimus007

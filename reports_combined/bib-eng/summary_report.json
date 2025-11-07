@@ -1,0 +1,25 @@
+{
+  "language_pair": "bib-eng",
+  "timestamp": "2025-11-07T13:48:48.872209",
+  "models": {
+    "qwen3-235b-a22b": 28.96173275291487,
+    "gemma-2-9b-it": 29.06208989119446,
+    "mistral-medium-3-instruct": 35.76582435569608,
+    "qwen3-32b": 22.870321855999997,
+    "gpt-oss-120b": 22.875550154431707,
+    "deepseek-v3.1": 31.200172873516742,
+    "gemma-2-27b-it": 30.388870247339632,
+    "gemma2-9b-it": 28.523501964000005,
+    "palmyra-med-70b": 21.1241497,
+    "llama-4-maverick-17b-128e-instruct": 26.944627675409738,
+    "qwq-32b": 33.4671181745311,
+    "llama-3.3-70b-instruct": 33.669155258909136,
+    "kimi-k2-instruct-0905": 34.54742856257916,
+    "seed-oss-36b-instruct": 27.797583393606057,
+    "llama-3.1-405b-instruct": 27.10769251333101,
+    "mistral-7b-instruct-v0.3": 15.526344860000002
+  },
+  "average_score": 28.11451026459123,
+  "best_model": "mistral-medium-3-instruct",
+  "best_score": 35.76582435569608
+}

@@ -1,0 +1,23 @@
+Translation Benchmark Results for ewe-eng
+Generated on: 2025-11-07 13:48:47
+
+Model Performance:
+llama-4-maverick-17b-128e-instruct: 59.96%
+deepseek-v3.1: 58.81%
+kimi-k2-instruct-0905: 53.29%
+qwen3-235b-a22b: 46.55%
+llama-3.1-405b-instruct: 45.72%
+gpt-oss-120b: 39.54%
+qwq-32b: 39.46%
+llama-3.3-70b-instruct: 38.46%
+gemma-2-27b-it: 37.71%
+qwen3-32b: 37.29%
+mistral-medium-3-instruct: 36.97%
+palmyra-med-70b: 35.08%
+mistral-7b-instruct-v0.3: 34.88%
+gemma-2-9b-it: 33.88%
+seed-oss-36b-instruct: 31.56%
+gemma2-9b-it: 31.56%
+
+Best Model: llama-4-maverick-17b-128e-instruct (59.96%)
+Average Score: 41.30%

@@ -1,0 +1,61 @@
+ref,text,translated,similarity_score,source_zip_file
+"You opened the heavens like curtains, and you came down with storm clouds under your feet.","Ɔlɛnɛ ɔsʋsʋ, kplɩ ba ayasɩ. Oklun tuun bun mʋ ayabiasɩ.","Alene was there, he went to the market. Oklu's time with the house he worked.",0.13040592,output_jonathan
+"Mighty king, glorious ruler, strap on your sword","Otumipʋ, tsu fʋ ɔdayi tsan. Kɩta fʋ numnyam pʋ́ fʋ iwiegyitɔ.","Otumipʋ, this is the one who knows. He provides the food here, he prepares it properly.",0.21750398,output_jonathan
+"Only God can save me, and I calmly wait for him.","Mɩ ɔkla labwɛ diin, ɔdɛ Bulu ansɩtɔ kɩ wʋlɛ, tsufɛ mʋ ɩbɩtɔ nénya nkpahɔ tsu.","The person who came to the village, Bulu asked him to stay at home because he was afraid of the night.",0.08291489,output_jonathan
+God will destroy you forever! He will grab you and drag you from your homes. You will be uprooted and left to die.,"Tamɛ Bulu ɔbɛ́da fʋ lɛ da, fʋmɛ́ɛtra kʋsʋ ɛkɛkɛɛkɛ. Ɔbɛ́lɛ fʋ lɛ fʋ tati-obuto, puli fʋ lɛ akɩankpapʋ ɔsʋlʋsʋ. Ɩya.","Tamɛ Bulu has arrived today, the earth trembles beneath his footsteps. His coming heralds the day of reckoning, yet it also carries the promise of renewal through his journey. Amen.",0.16843453,output_jonathan
+"Then they will have plenty, and their children will receive the land.","Mʋ obétsia ɔdwɛtɔ, mʋ abi-aná bégyi ɔsʋlʋ amʋ.","I ask you for help, I do not know where to go.",0.02656178,output_jonathan
+because you protect and bless your people.,"Nana Bulu, fʋ ɩbɩtɔ nkpahɔ bʋ. Ha fʋ oyula ɩba fʋ abisʋ. Ɩya.","Chief Bulu, who built a big house. He went to the farm and finished working. Yes.",0.12338212132453918,output_mich003
+"But you see the trouble and the distress, and you will do something. The poor can count on you, and so can orphans.","Tamɛ togyitɔ ɩda fʋ ansɩtɔ, tsufɛ fʋdɛ ɩwɩɔsɩn pʋ́ ipian awunpʋ wun. Fʋtekleá fɔ́bʋa amʋ́ bregyibrɛ. Apɔnpʋ bʋtɔpʋ ansɩ dɩnka fʋsʋ, fʋtegyi awumbi bʋalɛ bregyibrɛ.","The person who supplies water in the area, because they consume it, there is a current problem. The container is causing the people's sickness. The community is experiencing water supply issues in the region, the contaminated source causing the illness.",0.16677623987197876,output_mich003
+"Don't let lions eat me. You rescued me from the horns of wild bulls,",Lɛ mɩ tsu agyata anfɩ ɔnɔ. Tsú akpokpo anfɩ bʋbʋ ɩyɩn anfɩ nsiebi ɔnɔ.,It is my understanding that the truth lies within the heart. And the profound roots within nurture the heart's strength.,0.13766101002693176,output_mich003
+"You love justice and hate evil. And so, your God chose you and made you happier than any of your friends.","Fʋtekle yilebwɛ. Lalahɛbwɛ mʋ́ a, fʋtekisi. Mʋ́ sʋ fʋ Wie Bulu lada fʋ ofuli, pʋ ansigyi bʋla fʋtɔ dʋn fʋ aba.",Fvtkle is here. I came and saw Fvtkisi. I went to see Wie Bulu across the river Ofuli and found the big tree at the back.,0.14936940371990204,output_mich003
+"You plan brutal crimes, and your lying words cut like a sharp razor.","fʋdɛ lalahɛ susu. Ofunupʋ olembiapʋ, fʋ ɔdandʋ bʋ ogya fɛ ɔdayibi.","The mother's milk is enough. Ofunupu, after gathering, took the milk to use for the day's provisions.",-0.0413200706243515,output_mich003
+"I long for someone from Zion to come and save Israel! Our God, when you bless your people again, Jacob's family will be glad, and Israel will celebrate.","Nhɩɛ ndɛ Bulu kokoli mbɛɛ, ɔkʋ otsu Sionbʋsʋ bɔhɔ Israelfɔ. Ɛkɛá Bulu ɔbɛ́latsu mʋ aha kʋsʋ a, ɩhɩɛ wa Yakob abi-aná ɔdwɛ, ansɩ ɩhɩɛ gyi Israelfɔ.","Therefore, King Bulu, the mighty ruler, led Sionbusu to the land of Israel. When Bulu led them through the wilderness, they were the descendants of Jacob, and thus they became Israel.",0.39538774,output_onesimus007
+"Why am I discouraged? Why am I restless? I trust you, Lord! And I will praise you again because you help me, and you are my God.","Mɩ ɔkla, ntogyi sʋ asʋn dɛ fʋ han alɩ? Ntogyi sʋ fawa nwɛ alɩ? Pʋ ansɩ dɩnka Bulusʋ, tsufɛ nɛ́lakanfʋ mɩ bʋalɛ ogyipʋ pʋ́ mɩ Bulu.","Do you know what this thing is doing here? Why are you going this way? He responded to the Bulusv, since he wanted to inform me that he had asked me about Bulu.",0.21719992,output_onesimus007
+"“What am I waiting for? I depend on you, Lord!","“Mɩ Wie, ntɔ ntsie ngyo? Fʋsʋ mɩ ansɩ dɩn.","Okay, I need to translate the Nkonya text provided into English. The user wants only the translation inside square brackets. Let me start by looking at the original text:
+
+“Mɩ Wie, ntɔ ntsie ngyo? Fʋsʋ mɩ ansɩ dɩn.”
+
+First, I should break down each part. ""Mɩ Wie"" – ""Wie"" is likely ""God"" in Nkonya, so ""Mɩ"" might be a pronoun or particle. Maybe ""My God"" or ""Oh God""? 
+
+Next, ""ntɔ ntsie ngyo?"" – ""ntɔ"" could be a verb. ""Ntsie"" might be a question word. The structure ""ntɔ ntsie ngyo?"" might translate to something like ""why are you doing this?"" or ""what are you doing?""
+
+Then ""Fʋsʋ mɩ ansɩ dɩn."" – ""Fʋsʋ"" could be a verb phrase. ""ansɩ"" might be a noun or adjective. ""dɩn"" could be an adverb or particle. Putting it together, maybe ""I cannot bear it anymore"" or ""I can't take it anymore.""
+
+Wait, let me think again. ""Fʋsʋ"" might be ""fusee"" which in some languages means ""to endure"" or ""bear."" So ""Fʋsʋ mɩ ansɩ dɩn"" could be ""I cannot endure this anymore.""
+
+Putting it all together: ""Oh God, why are you doing this? I cannot endure this anymore.""
+
+I need to make sure the translation is accurate. Maybe check if ""ntɔ ntsie ngyo"" is a common phrase. Alternatively, ""ntɔ"" could be ""you"" and ""ntsie"" the verb. Maybe ""What are you doing to me?"" 
+
+Alternatively, ""ntɔ ntsie ngyo?"" could be ""Why have you done this?"" depending on context. 
+
+The second part ""Fʋsʋ mɩ ansɩ dɩn"" – ""ansɩ"" might mean ""this"" so ""I cannot bear this anymore.""
+
+Hmm. Let me try to structure it again. 
+
+First sentence: ""Mɩ Wie, ntɔ ntsie ngyo?"" → ""Oh God, what are you doing to me?"" or ""Oh God, why are you doing this?""
+
+Second sentence: ""Fʋsʋ mɩ ansɩ dɩn."" → ""I can't take this anymore.""
+
+So combining both parts, the translation would be something like:
+
+“Oh God, what are you doing? I can’t bear this anymore.”
+
+Alternatively, maybe ""Oh God, why are you doing this to me? I can't endure it anymore.""
+
+I think the key is to capture the emotional tone. The user wants only the translation inside square brackets, so I should present it concisely. Let me go with the first version but check for any possible errors. Maybe ""ntɔ ntsie ngyo"" is a question structure. ""Ngyo"" could be ""you"" or ""to you."" 
+
+Alternatively, ""ntɔ ntsie ngyo"" might mean ""why have you done this?"" but without more context, it's a bit tricky. 
+
+Considering common phrases, ""why are you doing this?"" seems plausible. The second part is clearer as ""I can't bear this anymore."" 
+
+So the final translation would be:
+
+“Oh God, why are you doing this? I can’t bear it anymore.”
+
+I think that's the best I can do with the given information. Let me put it in the required format.
+</think>
+
+“Oh God, why are you doing this? I can’t bear it anymore.”",0.28390604,output_onesimus007
+Keep your eyes on the Lord! You will shine like the sun and never blush with shame.,Aha ánɩ́ bʋtodunka mʋ ansɩtɔ tɛtɩn. Pɛlɩ mɛ́ɛkɩta amʋ́ ɛkɛkɛɛkɛ.,I have work to do early in the morning. I will go to the market.,0.14434794,output_onesimus007
+"The grave will be their home forever and ever, although they once had land of their own.","Ɩbʋ mʋ́tɔá bʋtɔpʋ amʋ́ ada dɩnka amʋ́ ɔsʋlʋsʋ, tamɛ ntsantɔ gyi amʋ́ otsiakpa brɛ fɛ́ɛ́.","The food that the people of Dinka gathered for the children is insufficient. However, they have come to ask for help because of the problem.",0.10711944,output_onesimus007

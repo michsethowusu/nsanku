@@ -1,0 +1,124 @@
+ref,text,translated,similarity_score,source_zip_file
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Denii Kɔraawiizi ŋɔ, “Ií gil ya ma newea bá du lugɔ yaa, di du yaa duula, bá dɔɔ fɔŋŋa muuzeŋ nyinni, zumbizi, kundɛɛzaa, pir sela ani kuntuuzaa maa ni.”","Denii Kɔraawiizi says, ""If you don't know where you're going, any path you take will be through thick forest undergrowth, thorns, hardships, and things you can't overcome.""",0.1977897,output_jonathan
+"Abraham put the wood on Isaac's shoulder, but he carried the hot coals and the knife. As the two of them walked along,","Denii Abraham gil Aizik kpa a daazi chi, ka u ge himmaa jaa kpogli kizee ani niŋ. Banna la la,","Denii Abraham and Isaac went to the market, and they brought home a large animal. Banna la la.",0.5371736,output_jonathan
+"If a wild animal killed one of your sheep or goats, I paid for it myself. In fact, you demanded the full price, whether the animal was killed during the day or at night.","Haali di sechɔgii wa lau bɛl maa, an turgi u kinnɛ. Maa ɔɔ kpau ba i na gba. I ɔɔ giluu n turgi unla maa baŋ ŋmɛɛwɛ, haali di hamuŋaa gɛɛ di wibaŋa gbaa.","Haali went to the main house, but they decided to stay. The road there is blocked. There is a need to find another path because Haali's home is far from here.",0.19764969,output_jonathan
+"Then Rachel let Jacob marry Bilhah,","Awia, u kpa Bilha tɛɛ u jaari, u nuu chɔɔ.",something,0.12135044,output_jonathan
+"So Joseph lived in the home of Potiphar, his Egyptian owner. Soon Potiphar realized that the Lord was helping Joseph to be successful in whatever he did.","Denii u dɔɔri la n wa zummɛ lugɔ Kɔraawiizi du Joosɛf benii, u wia maa dɔɔ siwee la,","Denii, you have come to the heart of Koraawizi, Joseph benii, you have brought with you.",0.3292663,output_jonathan
+So God created humans to be like himself; he made men and women.,"Awia, u ta newea, ba liu. U ta baabuu ba du u himmaa duula, di ɛɛ baal ni haaŋ.","Awia, you are new, but it is so. You are going to your home's door, because the water is cold.",0.05557883530855179,output_mich003
+Get some good lumber and build a boat. Put rooms in it and cover it with tar inside and out.,"Awia, nyiŋŋi daananaa di kuari muugberzenzeŋ bɛl, í wer di ra zuu u biini lugɔ dia. Nyiŋŋi kotaal ham u biini ni u harbɔɔ maa nɛnnɛ.","Awia, you are consulting the elders about the path to the village. You must go to the village and bring the medicine for them.",0.08830763399600983,output_mich003
+"I will give you a lot of descendants, and they will become great nations. Some of them will even be kings.","N daŋ tɛi nannakpila werge, baŋhina daŋ ɛɛ koorizenaa. I daŋ dɔɔ nannakpila werge, guŋ gil bá birgi hɛrkpila hina.","I am the one who crosses the river, but my heart is heavy with sorrow. You are the one who goes across the river, but the path is blocked by the fierce current.",0.1773231029510498,output_mich003
+"When they had another son,",Denii Zilpa kaa lul biibaal tɛɛ Jekɔb.,Denii Zilpa says to Jacob: Come.,0.1684095561504364,output_mich003
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Jekɔb n wa na baa u ŋɔ, “Kɔraawiizi ni u mɛlikazi chɔɔllɛ keŋ!” U faa dau de sɔŋ Mahanam.","Jacob said, ""Courage, for this is your true calling!"" He then journeyed to Mahanam.",0.5298558473587036,output_mich003
+"When Joseph came to his brothers, they pulled off his fancy coat","Joosɛf n wa hel ba be, ba lawuu manaŋ, di lau u tagtajannanii la u mɛɛ n tɛu la di wir,","Joseph was there when they came, and the people stayed, for they gathered together to speak of all they knew.",0.3331329,output_onesimus007
+"Instead, go back to the land where I was born and find a wife for him from among my relatives.”","Ka la n himmaa hɛri n nɛra be, di ga nyiŋŋi haaŋ wa tɛu.”","""Because he asked them to know, they speak the truth; keep your promise.""",0.20709614,output_onesimus007
+Why don't you start letting your families marry into our families and ours marry into yours?,"Ií gil ya ɛɛ nuukpaŋ, ii biizi yuu yaa biizi, yaa ge biizi paagi ii ge biizi.","I went to the sky's place, this bird and that bird, each flies.",0.09558989,output_onesimus007
+"Jacob built an altar there and called it “God of Bethel,” because that was the place where God had appeared to him when he was running from Esau.","Jekɔb faa jaa ma mbusu lizibɔr de, di dau de sɔŋ Ɛl Bɛtɛl, dikuubɛɛwiai, denii Kɔraawiizi faa ba u be, saŋa la uŋ chɔwɛɛ di ra lii u kpɛɛma Ɛsau be la.","Then Jacob took his family and left the land of Bethel, fleeing to Canaan because Koraawiizi told him, ""You must go and see the place where Esau commanded you.""",0.53995293,output_onesimus007
+"Isaac was old and almost blind, when he called in his first-born son Esau, who asked him, “Father, what can I do for you?”","Aizik n wa zɛŋŋɛ werge, waa kaa ra na nɛnnɛ, u yir u biinabɔma Ɛsau, di ŋɔ, “N biibaal,” Ɛsau sɛɛ, di ŋɔ, “Minuu keŋ.”","Okay, let's tackle this translation request. The user provided a Vagla text and wants it translated into English, with only the translation inside square brackets. First, I need to make sure I understand the Vagla language. Since I don't have prior knowledge of Vagla, I'll have to rely on any available resources or context clues.
+
+Looking at the text: ""Aizik n wa zɛŋŋɛ werge, waa kaa ra na nɛnnɛ, u yir u biinabɔma Ɛsau, di ŋɔ, “N biibaal,” Ɛsau sɛɛ, di ŋɔ, “Minuu keŋ.”""
+
+I notice some names like ""Aizik"" which could be Isaac in English. The word ""Ɛsau"" might be Esau. The phrases in quotes like “N biibaal” and “Minuu keŋ” are probably direct speech. 
+
+Breaking it down:
+
+- ""Aizik n wa zɛŋŋɛ werge"" – Maybe Isaac and someone else (since ""n wa"" could mean ""and his"") doing something. ""Werge"" might be a verb, perhaps ""asked"" or ""pleaded"".
+- ""waa kaa ra na nɛnnɛ"" – Possibly ""when he came to his mother"" or similar.
+- ""u yir u biinabɔma Ɛsau"" – ""he said to Esau"" or ""he spoke to Esau"".
+- The quoted parts: “N biibaal” – ""I am poor"" or ""I am hungry""? ""Minuu keŋ"" – ""my son"" or ""my child""?
+
+Putting it together, it seems like a biblical reference, maybe the story of Isaac, Esau, and Jacob. In Genesis, Esau sells his birthright for food, so ""N biibaal"" could be ""I am about to die"" (as in the original story where Esau says he's dying of hunger), but maybe here it's different. Alternatively, ""Minuu keŋ"" is ""my son"".
+
+Wait, ""Minuu keŋ"" – ""Minuu"" could be ""my son"", and ""keŋ"" might be a particle or part of the name. Alternatively, ""keŋ"" could be ""king""? Not sure. 
+
+Alternatively, maybe ""Minuu keŋ"" is ""my son, please"" or ""my child, here"". 
+
+The structure seems like Isaac is talking to someone, maybe his son Esau. The quotes might be Esau asking for something, and Isaac responding. 
+
+Another approach: Check if there's a known translation of this passage. Since it's Vagla, which is a language spoken in Ghana, maybe part of the Bible translation. Let me think of the story where Esau comes in hungry and asks Jacob for stew, and Jacob makes him swear for the birthright. 
+
+In that case, ""N biibaal"" could be ""I am about to die"" (Esau's line), and ""Minuu keŋ"" could be ""my son"" (Isaac's address to Esau). 
+
+Putting it all together, the translation might be something like:
+
+Isaac then said to his wife, when he came to his mother, he said to Esau, ""I am about to die,"" Esau said, ""My son, here.""
+
+Wait, but the structure is a bit unclear. Let me parse the original again:
+
+""Aizik n wa zɛŋŋɛ werge, waa kaa ra na nɛnnɛ, u yir u biinabɔma Ɛsau, di ŋɔ, “N biibaal,” Ɛsau sɛɛ, di ŋɔ, “Minuu keŋ.”""
+
+Breaking into clauses:
+
+- Aizik n wa zɛŋŋɛ werge: Isaac and his wife (n wa = and his?) werge (maybe ""asked"" or ""pleaded"")
+- waa kaa ra na nɛnnɛ: when he came to his mother? (maybe ""when he came to her"")
+- u yir u biinabɔma Ɛsau: he said to Esau (biinabɔma = to speak to someone)
+- di ŋɔ: then he said
+- ""N biibaal"": ""I am poor"" or ""I am hungry""
+- Ɛsau sɛɛ, di ŋɔ, “Minuu keŋ.”: Esau said, ""My son, here.""
+
+Hmm, maybe the structure is that Isaac and his wife were doing something, then when he came to his mother (maybe Isaac's mother?), he spoke to Esau, who replied. Alternatively, perhaps the subject is Esau.
+
+Alternatively, maybe ""Aizik n wa zɛŋŋɛ werge"" is Isaac and his wife were pleading, then when he (Esau?) came to his mother, he spoke to Esau... Wait, that might not make sense. 
+
+Alternatively, maybe ""waa kaa ra na nɛnnɛ"" is ""when he came to his mother's house"" or ""when he came to her"".
+
+Alternatively, ""u yir u biinabɔma Ɛsau"" could be ""he said to Esau, '...'""
+
+Putting it all together as a narrative:
+
+Isaac and his wife were pleading, when he came to his mother, he said to Esau, ""I am about to die,"" Esau said, ""My son, here.""
+
+Wait, that might not make sense. Maybe the subject is Esau? Like, Isaac and his wife were doing something, then when Esau came to his mother (maybe Rebekah?), he spoke to Esau (maybe a different person?), but that's confusing.
+
+Alternatively, maybe the structure is:
+
+Isaac and his wife were pleading. When he (Esau?) came to his mother, he said to Esau (maybe a different person?), but that's unclear.
+
+Alternatively, perhaps ""Aizik n wa zɛŋŋɛ werge"" is Isaac and his wife were pleading, then when he (Isaac?) came to his mother (Rebekah?), he spoke to Esau, who replied.
+
+Alternatively, maybe the translation is better approached by considering known Bible verses. In Genesis 25-27, the story of Esau and Jacob. For example, in Genesis 27:19, Jacob says he is Esau, and Isaac asks, ""My son, how did you find it so quickly?"" Jacob replies, ""Because the Lord your God brought it to me.""
+
+Alternatively, maybe the text here is from when Esau comes in from the field hungry and asks Jacob for stew, saying ""I am about to die of hunger"" (Genesis 25:32). Then Jacob makes him swear.
+
+In that case, the Vagla text might be:
+
+Isaac and his wife were talking, when he (Esau?) came to his mother, he said to Esau (maybe a mistake?), but perhaps the structure is different.
+
+Alternatively, maybe the translation is:
+
+Isaac then said to his wife, when he came to his mother, he said to Esau, ""I am hungry,"" Esau said, ""My son, here.""
+
+Wait, but ""Minuu keŋ"" as ""My son, here"" might be Isaac addressing Esau. 
+
+Alternatively, ""Minuu keŋ"" could be ""my son, here it is"" or ""my son, take it"".
+
+Alternatively, perhaps ""di ŋɔ"" is ""and he said"", so the structure is:
+
+Isaac and his wife were pleading. When he came to his mother, he spoke to Esau, and said, ""I am about to die,"" Esau said, ""My son, here.""
+
+Hmm, perhaps the subject is Esau. Maybe the narrative is that Isaac and his wife were pleading, then when Esau came to his mother (Rebekah?), he spoke to Esau (maybe a different person?), but that's confusing.
+
+Alternatively, maybe ""Aizik n wa zɛŋŋɛ werge"" is Isaac and his wife were pleading, then when he (Isaac?) came to his mother (Rebekah?), he spoke to Esau, who replied.
+
+Alternatively, perhaps the translation is better approached by taking each part step by step, even if unsure.
+
+""Aizik n wa zɛŋŋɛ werge"" – Isaac and his wife were pleading.
+
+""waa kaa ra na nɛnnɛ"" – when he came to his mother (maybe Rebekah?)
+
+""u yir u biinabɔma Ɛsau"" – he said to Esau
+
+""di ŋɔ, “N biibaal,”"" – and said, ""I am about to die,""
+
+""Ɛsau sɛɛ, di ŋɔ, “Minuu keŋ.”"" – Esau said, ""My son, here.""
+
+Wait, that might not make sense. If Isaac is speaking to Esau, then Esau wouldn't be addressing Isaac as ""my son"". Maybe it's the other way around. Perhaps Isaac is addressing Esau as ""my son"".
+
+Alternatively, maybe the structure is:
+
+Isaac and his wife were pleading. When he (Esau?) came to his mother, he said to Esau (maybe a mistake in the text?), but perhaps it's Isaac speaking to Esau.
+
+Alternatively, maybe ""u yir u biinabɔma Ɛsau"" is ""he said to Esau, '...'""
+
+Then the quotes are from Isaac and Esau.
+
+Putting it all together",0.43803883,output_onesimus007

@@ -1,0 +1,23 @@
+Translation Benchmark Results for sfw-eng
+Generated on: 2025-11-07 13:48:49
+
+Model Performance:
+mistral-medium-3-instruct: 46.87%
+kimi-k2-instruct-0905: 46.67%
+deepseek-v3.1: 45.07%
+gemma2-9b-it: 44.28%
+llama-3.3-70b-instruct: 42.59%
+llama-3.1-405b-instruct: 41.36%
+qwen3-235b-a22b: 41.18%
+llama-4-maverick-17b-128e-instruct: 41.04%
+qwen3-32b: 40.83%
+qwq-32b: 38.77%
+seed-oss-36b-instruct: 38.13%
+gemma-2-27b-it: 36.12%
+palmyra-med-70b: 34.33%
+gemma-2-9b-it: 29.75%
+mistral-7b-instruct-v0.3: 29.10%
+gpt-oss-120b: 27.36%
+
+Best Model: mistral-medium-3-instruct (46.87%)
+Average Score: 38.97%

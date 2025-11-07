@@ -1,0 +1,23 @@
+Translation Benchmark Results for ntr-eng
+Generated on: 2025-11-07 13:48:52
+
+Model Performance:
+seed-oss-36b-instruct: 40.51%
+mistral-medium-3-instruct: 37.50%
+llama-3.3-70b-instruct: 37.29%
+llama-4-maverick-17b-128e-instruct: 37.29%
+gemma-2-9b-it: 36.81%
+gemma-2-27b-it: 36.43%
+qwen3-235b-a22b: 36.22%
+gemma2-9b-it: 34.39%
+kimi-k2-instruct-0905: 33.74%
+qwen3-32b: 32.99%
+deepseek-v3.1: 32.27%
+llama-3.1-405b-instruct: 31.21%
+palmyra-med-70b: 29.24%
+qwq-32b: 24.89%
+mistral-7b-instruct-v0.3: 24.71%
+gpt-oss-120b: 18.71%
+
+Best Model: seed-oss-36b-instruct (40.51%)
+Average Score: 32.76%

@@ -1,0 +1,23 @@
+Translation Benchmark Results for bim-eng
+Generated on: 2025-11-07 13:48:48
+
+Model Performance:
+mistral-medium-3-instruct: 34.83%
+qwen3-235b-a22b: 32.67%
+qwq-32b: 31.98%
+qwen3-32b: 30.03%
+llama-3.3-70b-instruct: 29.88%
+llama-4-maverick-17b-128e-instruct: 29.49%
+llama-3.1-405b-instruct: 28.84%
+deepseek-v3.1: 28.53%
+seed-oss-36b-instruct: 27.60%
+kimi-k2-instruct-0905: 27.08%
+palmyra-med-70b: 26.73%
+gemma-2-9b-it: 23.57%
+mistral-7b-instruct-v0.3: 22.97%
+gemma-2-27b-it: 21.86%
+gemma2-9b-it: 19.06%
+gpt-oss-120b: 15.74%
+
+Best Model: mistral-medium-3-instruct (34.83%)
+Average Score: 26.93%

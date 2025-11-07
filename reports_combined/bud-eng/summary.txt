@@ -1,0 +1,23 @@
+Translation Benchmark Results for bud-eng
+Generated on: 2025-11-07 13:48:47
+
+Model Performance:
+palmyra-med-70b: 45.90%
+deepseek-v3.1: 40.80%
+llama-3.1-405b-instruct: 39.59%
+qwen3-32b: 39.32%
+gemma-2-27b-it: 38.16%
+kimi-k2-instruct-0905: 38.01%
+gemma2-9b-it: 33.67%
+qwen3-235b-a22b: 33.09%
+llama-3.3-70b-instruct: 33.08%
+llama-4-maverick-17b-128e-instruct: 32.97%
+gemma-2-9b-it: 32.43%
+seed-oss-36b-instruct: 31.89%
+mistral-medium-3-instruct: 26.52%
+mistral-7b-instruct-v0.3: 25.96%
+gpt-oss-120b: 24.99%
+qwq-32b: 20.83%
+
+Best Model: palmyra-med-70b (45.90%)
+Average Score: 33.58%

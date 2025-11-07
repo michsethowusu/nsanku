@@ -1,0 +1,23 @@
+Translation Benchmark Results for tcd-eng
+Generated on: 2025-11-07 13:48:52
+
+Model Performance:
+palmyra-med-70b: 40.83%
+mistral-medium-3-instruct: 37.44%
+deepseek-v3.1: 35.94%
+gemma-2-27b-it: 33.75%
+qwen3-235b-a22b: 33.74%
+gemma2-9b-it: 33.42%
+gemma-2-9b-it: 33.02%
+qwq-32b: 32.69%
+llama-4-maverick-17b-128e-instruct: 32.62%
+seed-oss-36b-instruct: 31.94%
+llama-3.1-405b-instruct: 31.93%
+kimi-k2-instruct-0905: 31.72%
+qwen3-32b: 29.15%
+mistral-7b-instruct-v0.3: 28.10%
+llama-3.3-70b-instruct: 26.51%
+gpt-oss-120b: 19.90%
+
+Best Model: palmyra-med-70b (40.83%)
+Average Score: 32.04%

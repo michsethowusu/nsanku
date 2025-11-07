@@ -1,0 +1,23 @@
+Translation Benchmark Results for kus-eng
+Generated on: 2025-11-07 13:48:50
+
+Model Performance:
+kimi-k2-instruct-0905: 51.03%
+deepseek-v3.1: 50.17%
+gemma2-9b-it: 49.99%
+llama-3.1-405b-instruct: 46.48%
+llama-3.3-70b-instruct: 46.37%
+palmyra-med-70b: 45.65%
+qwen3-235b-a22b: 45.48%
+llama-4-maverick-17b-128e-instruct: 44.94%
+gemma-2-9b-it: 41.61%
+gpt-oss-120b: 41.19%
+qwen3-32b: 41.17%
+seed-oss-36b-instruct: 40.99%
+mistral-medium-3-instruct: 39.30%
+gemma-2-27b-it: 37.81%
+qwq-32b: 36.93%
+mistral-7b-instruct-v0.3: 22.05%
+
+Best Model: kimi-k2-instruct-0905 (51.03%)
+Average Score: 42.57%

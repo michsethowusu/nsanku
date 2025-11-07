@@ -1,0 +1,23 @@
+Translation Benchmark Results for vag-eng
+Generated on: 2025-11-07 13:48:49
+
+Model Performance:
+qwen3-235b-a22b: 42.37%
+palmyra-med-70b: 41.61%
+llama-4-maverick-17b-128e-instruct: 38.46%
+kimi-k2-instruct-0905: 38.14%
+llama-3.3-70b-instruct: 37.71%
+mistral-medium-3-instruct: 37.46%
+qwen3-32b: 36.90%
+gemma-2-9b-it: 36.73%
+deepseek-v3.1: 36.36%
+gemma2-9b-it: 36.09%
+llama-3.1-405b-instruct: 34.94%
+seed-oss-36b-instruct: 34.54%
+gemma-2-27b-it: 29.32%
+gpt-oss-120b: 27.73%
+qwq-32b: 26.78%
+mistral-7b-instruct-v0.3: 25.73%
+
+Best Model: qwen3-235b-a22b (42.37%)
+Average Score: 35.05%

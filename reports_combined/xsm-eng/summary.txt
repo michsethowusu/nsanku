@@ -1,0 +1,23 @@
+Translation Benchmark Results for xsm-eng
+Generated on: 2025-11-07 13:48:49
+
+Model Performance:
+qwen3-235b-a22b: 34.38%
+qwen3-32b: 32.49%
+llama-3.3-70b-instruct: 30.76%
+deepseek-v3.1: 30.67%
+kimi-k2-instruct-0905: 28.56%
+qwq-32b: 27.16%
+llama-3.1-405b-instruct: 26.99%
+llama-4-maverick-17b-128e-instruct: 26.63%
+gemma-2-27b-it: 26.49%
+palmyra-med-70b: 23.05%
+seed-oss-36b-instruct: 22.12%
+mistral-medium-3-instruct: 21.75%
+gemma-2-9b-it: 20.41%
+gpt-oss-120b: 20.13%
+gemma2-9b-it: 19.87%
+mistral-7b-instruct-v0.3: 17.22%
+
+Best Model: qwen3-235b-a22b (34.38%)
+Average Score: 25.54%
