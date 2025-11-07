@@ -12,7 +12,7 @@ As AI engineers work to bring Ghanaian languages into large language models, itâ
 
 ## Current Progress
 
-We're currently at 55 sentences evaluated for 43 languages across 14 models thanks to our awesome [contributors](https://github.com/GhanaNLP/nsanku?tab=readme-ov-file#contributors). Watch [this video](https://www.youtube.com/watch?v=R5MB4lUvCe0) to learn how to contribute.
+We're currently at 70 sentences evaluated for 43 languages across 14 models thanks to our awesome [contributors](https://github.com/GhanaNLP/nsanku?tab=readme-ov-file#contributors). Watch [this video](https://www.youtube.com/watch?v=R5MB4lUvCe0) to learn how to contribute.
 
 ## Current Results
 
@@ -45,7 +45,7 @@ We welcome contributions from the community! To contribute:
 
 ## Evaluated Models
 
-The following open-source models are being tested:
+We are running evaluations of these models:
 
 - `deepseek-v3.1`  
 - `gemma-2-9b-it`  
@@ -55,9 +55,7 @@ The following open-source models are being tested:
 - `llama-3.1-405b-instruct`  
 - `llama-3.3-70b-instruct`  
 - `llama-4-maverick-17b-128e-instruct`  
-- `mistral-7b-instruct-v0.3`  
 - `mistral-medium-3-instruct`  
-- `palmyra-med-70b`  
 - `qwen3-235b-a22b`  
 - `qwq-32b`  
 - `seed-oss-36b-instruct`  
@@ -83,16 +81,17 @@ The project currently evaluates **43 Ghanaian languages**:
 
 ## Contributors
 
-We recognize these awesome contributors:
+We recognize our contributors:
 
-| Name | Sentences Evaluated |
+| Name | Sentences | LLM Queries |
 |------|----------------------|
-| [Onesimus Addo Appiah](https://www.linkedin.com/in/onesimus-appiah/) | 30 |
-| [Mich-Seth Owusu](https://www.linkedin.com/in/mich-seth-owusu/) | 10 |
-| [Elias Dzobo](https://www.linkedin.com/in/eliasdzobo/) | 5 |
-| [Kelvin Newman](https://www.linkedin.com/in/kelvin-newman-09b961255/) | 5 |
-| [Edmund O. Benefo](https://www.linkedin.com/in/edmund-o-benefo/) | 5 |
-| [Gerhardt Datsomor](https://www.linkedin.com/in/gerhardt-datsomor/) | 5 |
+| [Onesimus Addo Appiah](https://www.linkedin.com/in/onesimus-appiah/) | 35 | 90,300 |
+| [Mich-Seth Owusu](https://www.linkedin.com/in/mich-seth-owusu/) | 15 | 38,700 |
+| [Jonathan Asiamah](https://www.linkedin.com/in/jonathan-asiamah-4639a5147/) | 5 | 2,580 |
+| [Elias Dzobo](https://www.linkedin.com/in/eliasdzobo/) | 5 | 2,580 |
+| [Kelvin Newman](https://www.linkedin.com/in/kelvin-newman-09b961255/) | 5 | 2,580 |
+| [Edmund O. Benefo](https://www.linkedin.com/in/edmund-o-benefo/) | 5 | 2,580 |
+| [Gerhardt Datsomor](https://www.linkedin.com/in/gerhardt-datsomor/) | 5 | 2,580 |
 
 *Your name could be here! Contribute to the project and we'll add you to our list of contributors, and you'll also get access to on of our curated datasets for Ghanaian languages*
 
