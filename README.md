@@ -84,7 +84,7 @@ The project currently evaluates **43 Ghanaian languages**:
 We recognize our contributors:
 
 | Name | Sentences | LLM Queries |
-|------|----------------------|
+|------|------------|-------------|
 | [Onesimus Addo Appiah](https://www.linkedin.com/in/onesimus-appiah/) | 35 | 90,300 |
 | [Mich-Seth Owusu](https://www.linkedin.com/in/mich-seth-owusu/) | 15 | 38,700 |
 | [Jonathan Asiamah](https://www.linkedin.com/in/jonathan-asiamah-4639a5147/) | 5 | 2,580 |
