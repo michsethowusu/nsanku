@@ -56,3 +56,50 @@ Then they had a meeting and decided to buy a field that belonged to someone who 
 "Then others won't know you are going without eating. But your Father sees what is done in private, and he will reward you. Treasures in Heaven (Luke",Kʋntʋ mʋ wʋ́ pa nɔɔn-nɔɔnʋ bá lwarɩ nɩ n vɔgɩ ni. N Ko Wɛ dɩlʋ na wʋ jǝgǝ kalʋ na sǝgi nɩ tɩn yɩranɩ mʋ ye. Dɩntʋ nan naɩ kʋlʋ n na sǝgi n kɩ tɩn. DƖ laan wʋ́ pa n na nyɔɔrɩ kʋ ŋwaanɩ.» Wɛ-sɔŋɔ jɩjɩgɩrʋ taanɩ (Luki,Kuntu mu wu pa noon-noonu ba lware ni n vogi ni. N Ko We dilu na wu jega kalu na segi ni tin yirani mu ye. Dintu nan nai kulü n na segi n ki tin. Di laan wu pa na nyori ku nwani.» We-songo jijigiru taani (Luki,0.08880387,output_onesimus007
 "We are now on our way to Jerusalem where the Son of Man will be handed over to the chief priests and the teachers of the Law of Moses. They will sentence him to death and hand him over to foreigners,","O maa ta dɩ ba o wɩ: «Taá ye-na, dɩ́ na maa ve Zeruzalɛm tɩn, dáanɩ mʋ ba laan wʋ́ ja amʋ Nabiin-bu wʋm ba kɩ Zwifǝ kaanɩm yigǝ tiinǝ bam dɩ ba cullu karanyɩna tiinǝ bam jɩŋa nɩ. Nɔɔna bam kʋntʋ wʋ́ di a taanɩ ba wɩ, kʋ maŋɩ sɩ a tɩ mʋ, yɩ ba daarɩ ba kɩ-nɩ dwi-gɛ tiinǝ bam jɩŋa nɩ.","O people, listen to me: ""Indeed, I have come to you from Jerusalem, and I have been commanded to guide you in the way of the Prophet, to follow the path of Zwifǝ, adhering to the teachings of the righteous and the upright. You must obey me in this matter, for I am your guide, and I will lead you to the straight path, away from the ways of ignorance and deviation.""",0.5479485,output_onesimus007
 "So they left the crowd, and his disciples started across the lake with him in the boat. Some other boats followed along.","O na je naboro kʋm wʋnɩ kʋntʋ tɩn, ba ma kwe-o ba ja viiri yɩ ba daarɩ kɔgɔ kʋm. Nabwǝǝru tɩdonnǝ dɩ maa tɔgɩ-ba tɩ veǝ.","He went to the market with one basket, but he didn't know where to sell his goods. Nabwuruh stayed there and waited for the owner to return.",0.29955184,output_onesimus007
+"So the Lord's promise came true, just as the prophet Jeremiah had said,",Biǝ bam gʋm dɩm ma pa Wɛ nijoŋnu Zeremi na tagɩ Wɛ kwǝrǝ kalʋ faŋa faŋa tɩn sɩɩnɩ kʋ kɩ.,"Come, gather together, do not go. They asked Zeremi and with their words, they brought them together, then saw and finished.",0.41711002588272095,output_johnayernor
+But the gate to life is very narrow. The road that leads there is so hard to follow that only a few people find it. A Tree and Its Fruit (Luke,"Kʋ daarɩ cwǝŋǝ kalʋ nmʋ na wʋ́ da sɩ n vu n joŋi ŋwɩa Wɛ tee nɩ tɩn ni yɩ mɩmɩna mʋ, yɩ ka pɩɩnɩ. Nɔɔna fɩnfɩɩn yɩranɩ mʋ tɔgɩ cwǝŋǝ kam kʋntʋ.» Ba lwarɩ tiu kʋ biǝ lǝrim nɩ mʋ (Luki","A certain expert in the law stood up to test Jesus. “Teacher, what must I do to inherit eternal life?” “What is written in the Law?” he replied. “How does it read to you?” He answered, ‘Love the Lord your God with all your heart... (Luke...)"" but not sure.
+
+Alternatively, maybe it's from Luke 10:25-28. Let me check the exact verses:
+
+Luke 10:25-28 (NIV):
+
+""25 On one occasion an expert in the law stood up to test Jesus. “Teacher,” he asked, “what must I do to inherit eternal life?”
+
+26 “What is written in the Law?” he replied. “What is your reading of it?”
+
+27 He answered, “‘Love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind’; and, ‘Love your neighbor as yourself.’
+
+28 “You have answered correctly,” Jesus replied. “Do this and you will live.”""
+
+Comparing with the Kasem text structure, the first part mentions someone standing up (daarɩ cwǝŋǝ?), asking Jesus (ŋwɩa?), then Jesus responds with a question about the Law (maybe ""Wɛ tee nɩ tɩn ni yɩ mɩmɩna mʋ"" is ""What is written in the Law?""), then the person answers, and Jesus says they are correct and to do it to live.
+
+So the translation might be:
+
+""[A certain expert in the law stood up to test Jesus. 'Teacher, what must I do to inherit eternal life?' 'What is written in the Law?' he replied. 'What is your reading of it?' He answered, 'Love the Lord your God with all your heart... (Luke""
+
+But since the user wants only the translation inside brackets, and the original ends with ""(Luki"", maybe it's the beginning of Luke's chapter. Alternatively, perhaps the exact translation is slightly different but following that structure.
+
+Alternatively, maybe the Kasem text is shorter. Let me try to parse each part:
+
+""Kʋ daarɩ cwǝŋǝ kalʋ nmʋ na wʋ́ da sɩ n vu n joŋi ŋwɩa"" 
+
+- ""Kʋ"" could be ""a certain"", ""daarɩ"" as ""stood up"", ""cwǝŋǝ"" as ""expert"" or ""lawyer"", ""kalʋ nmʋ"" maybe ""to test"", ""na wʋ́ da sɩ n vu n joŋi ŋwɩa"" perhaps ""to test Jesus"".
+
+""Wɛ tee nɩ tɩn ni yɩ mɩmɩna mʋ, yɩ ka pɩɩnɩ."" 
+
+- ""Wɛ"" might be ""What"", ""tee nɩ tɩn ni yɩ mɩmɩna mʋ"" could be ""is written in the Law"", and ""yɩ ka pɩɩnɩ"" as ""how does it read to you"".
+
+""Nɔɔna fɩnfɩɩn yɩranɩ mʋ tɔgɩ cwǝŋǝ kam kʋntʋ."" 
+
+- ""Nɔɔna"" as ""He answered"", ""fɩnfɩɩn yɩranɩ mʋ"" as ""Love the Lord your God..."", ""tɔgɩ cwǝŋǝ kam kʋntʋ"" maybe ""with all your heart, soul, strength, mind"".
+
+""Ba lwarɩ tiu kʋ biǝ lǝrim nɩ mʋ (Luki"" 
+
+- ""Ba lwarɩ tiu"" could be ""You have answered correctly"", ""kʋ biǝ lǝrim nɩ mʋ"" as ""do this and you will live"", ending with ""(Luki"" as ""(Luke"".
+
+Putting it all together, the translation would be:
+
+[A certain expert in the law stood up to test Jesus. 'Teacher, what must I do to inherit eternal life?' 'What is written in the Law?' he replied. 'How does it read to you?' He answered, 'Love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind'; and, 'Love your neighbor as yourself.' You have answered correctly,' Jesus replied. Do this and you will live. (Luke",0.3535192310810089,output_johnayernor
+"When the net is full, it is dragged to the shore, and the fishermen sit down to separate the fish. They keep the good ones, but throw the bad ones away.",Ka ma ba ka su lanyɩranɩ. Nɔɔna bam laan ma vaŋɩ-ka ba tuuri ba ja bɛ. Ba laan ma jǝni tɩga nɩ ba kuri kalǝŋ-ŋwɩ sɩm ba kɩ ba tampwarʋ wʋnɩ. Ba ma daarɩ ba kwe sɩlʋ na ba lana tɩn ba dʋlɩ ba yagɩ.,We went to the market. Nana led them to the town to find the path. They went to the forest to find the medicine and took the herbs. They came back with the knowledge and the three days' journey.,0.18223080039024353,output_johnayernor
+Then they had a meeting and decided to buy a field that belonged to someone who made clay pots. They wanted to use it as a graveyard for foreigners.,"Ba ma bwɛ daanɩ, yɩ ba ma-kʋ ba yǝgi tɩga kadoŋ, ka yɩrɩ mʋ Kamɔ-mɔrʋ tɩga, yɩ ba ma kɩ vǝrǝ yibeelǝ jǝgǝ.","I went to the farm, you told me to come to your house early in the morning, so I went to Kamɔ-mɔrʋ's place, you should come to the market early.",0.30980589985847473,output_johnayernor
+"Jesus went back home, and once again such a large crowd gathered that there was no chance even to eat.",Zezi ma joori o vu sɔŋɔ. Kɔgɔ zanzan daa ta ma ba kʋ gilimi sɔŋɔ kʋm. Kʋ ma pa Zezi dɩ o karabiǝ bam daa warɩ ba na laŋa sɩ ba di wʋdiu dɩ.,"Zezi's joy is coming to Sɔŋɔ. Bring all the people to my mother at Gilimi Sɔŋɔ again. At my father Zezi's place, the car is at the market, and they speak the river language.",0.12954287230968475,output_johnayernor

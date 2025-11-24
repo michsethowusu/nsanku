@@ -12,7 +12,7 @@ As AI engineers work to bring Ghanaian languages into large language models, itâ
 
 ## Current Progress
 
-We're currently at 70 sentences evaluated for 43 languages across 12 models thanks to our awesome [contributors](https://github.com/GhanaNLP/nsanku?tab=readme-ov-file#contributors). Watch [this video](https://www.youtube.com/watch?v=R5MB4lUvCe0) to learn how to contribute.
+We're currently at 75 sentences evaluated for 43 languages across 12 models thanks to our awesome [contributors](https://github.com/GhanaNLP/nsanku?tab=readme-ov-file#contributors). Watch [this video](https://www.youtube.com/watch?v=R5MB4lUvCe0) to learn how to contribute.
 
 ## Current Results
 
@@ -92,6 +92,7 @@ We recognize our contributors:
 | [Kelvin Newman](https://www.linkedin.com/in/kelvin-newman-09b961255/) | 5 | 2,580 |
 | [Edmund O. Benefo](https://www.linkedin.com/in/edmund-o-benefo/) | 5 | 2,580 |
 | [Gerhardt Datsomor](https://www.linkedin.com/in/gerhardt-datsomor/) | 5 | 2,580 |
+| [John Ayernor](https://www.linkedin.com/in/john-kwabena-ayernor-45b497186/) | 5 | 2,580 |
 
 *Your name could be here! Contribute to the project and we'll add you to our list of contributors, and you'll also get access to on of our curated datasets for Ghanaian languages*
 
