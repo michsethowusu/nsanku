@@ -12,7 +12,7 @@ As AI engineers work to bring Ghanaian languages into large language models, itâ
 
 ## Current Progress
 
-We're currently at 75 sentences evaluated for each of the 43 languages across 12 models. This is a total of  thanks to our awesome [contributors](https://github.com/GhanaNLP/nsanku?tab=readme-ov-file#contributors). Watch [this video](https://www.youtube.com/watch?v=R5MB4lUvCe0) to learn how to contribute.
+We're currently at 75 sentences evaluated for each of the 43 Ghanaian languages across 12 models which is a total of 41,280 model queries. This is a total of  thanks to our awesome [contributors](https://github.com/GhanaNLP/nsanku?tab=readme-ov-file#contributors). Watch [this video](https://www.youtube.com/watch?v=R5MB4lUvCe0) to learn how to contribute.
 
 ## Current Results
 
@@ -83,16 +83,17 @@ The project currently evaluates **43 Ghanaian languages**:
 
 We recognize our contributors:
 
-| Name | Sentences | LLM Queries |
-|------|------------|-------------|
-| [Onesimus Addo Appiah](https://www.linkedin.com/in/onesimus-appiah/) | 35 | 90,300 |
-| [Mich-Seth Owusu](https://www.linkedin.com/in/mich-seth-owusu/) | 15 | 38,700 |
-| [Jonathan Asiamah](https://www.linkedin.com/in/jonathan-asiamah-4639a5147/) | 5 | 2,580 |
-| [Elias Dzobo](https://www.linkedin.com/in/eliasdzobo/) | 5 | 2,580 |
-| [Kelvin Newman](https://www.linkedin.com/in/kelvin-newman-09b961255/) | 5 | 2,580 |
-| [Edmund O. Benefo](https://www.linkedin.com/in/edmund-o-benefo/) | 5 | 2,580 |
-| [Gerhardt Datsomor](https://www.linkedin.com/in/gerhardt-datsomor/) | 5 | 2,580 |
-| [John Ayernor](https://www.linkedin.com/in/john-kwabena-ayernor-45b497186/) | 5 | 2,580 |
+| Name | Model Queries |
+|------|----------------|
+| [Onesimus Addo Appiah](https://www.linkedin.com/in/onesimus-appiah/) | 18,060 |
+| [Mich-Seth Owusu](https://www.linkedin.com/in/mich-seth-owusu/) | 7,740 |
+| [Jonathan Asiamah](https://www.linkedin.com/in/jonathan-asiamah-4639a5147/) | 2,580 |
+| [Elias Dzobo](https://www.linkedin.com/in/eliasdzobo/) | 2,580 |
+| [Kelvin Newman](https://www.linkedin.com/in/kelvin-newman-09b961255/) | 2,580 |
+| [Edmund O. Benefo](https://www.linkedin.com/in/edmund-o-benefo/) | 2,580 |
+| [Gerhardt Datsomor](https://www.linkedin.com/in/gerhardt-datsomor/) | 2,580 |
+| [John Ayernor](https://www.linkedin.com/in/john-kwabena-ayernor-45b497186/) | 2,580 |
+
 
 *Your name could be here! Contribute to the project and we'll add you to our list of contributors, and you'll also get access to on of our curated datasets for Ghanaian languages*
 
