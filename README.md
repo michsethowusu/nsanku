@@ -12,7 +12,7 @@ As AI engineers work to bring Ghanaian languages into large language models, itâ
 
 ## Current Progress
 
-We're currently at 75 sentences evaluated for each of the 43 Ghanaian languages across 12 models which is a total of 41,280 model queries. This is a total of  thanks to our awesome [contributors](https://github.com/GhanaNLP/nsanku?tab=readme-ov-file#contributors). Watch [this video](https://www.youtube.com/watch?v=R5MB4lUvCe0) to learn how to contribute.
+We're currently at 75 sentences evaluated for each of the 43 Ghanaian languages across 12 models which is a total of 41,280 model queries. This is possible because of our awesome [contributors](https://github.com/GhanaNLP/nsanku?tab=readme-ov-file#contributors). Watch [this video](https://www.youtube.com/watch?v=R5MB4lUvCe0) to learn how to contribute.
 
 ## Current Results
 
