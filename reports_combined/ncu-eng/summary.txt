@@ -1,23 +1,23 @@
 Translation Benchmark Results for ncu-eng
-Generated on: 2025-11-07 13:48:50
+Generated on: 2026-01-12 13:35:19
 
 Model Performance:
-gemma-2-27b-it: 39.40%
-kimi-k2-instruct-0905: 38.55%
-llama-3.3-70b-instruct: 38.52%
+kimi-k2-instruct-0905: 45.24%
+llama-3.1-405b-instruct: 45.15%
+mistral-medium-3-instruct: 41.78%
+deepseek-v3.1: 40.21%
+qwen3-235b-a22b: 39.37%
+llama-4-maverick-17b-128e-instruct: 38.84%
+llama-3.3-70b-instruct: 38.30%
 gemma2-9b-it: 38.18%
-deepseek-v3.1: 37.77%
-qwq-32b: 36.78%
-mistral-medium-3-instruct: 35.98%
-llama-3.1-405b-instruct: 35.63%
-qwen3-235b-a22b: 33.98%
+qwq-32b: 35.43%
+gemma-2-9b-it: 34.77%
 qwen3-32b: 33.60%
-llama-4-maverick-17b-128e-instruct: 32.87%
-seed-oss-36b-instruct: 32.47%
 palmyra-med-70b: 31.59%
-gpt-oss-120b: 31.24%
-gemma-2-9b-it: 28.80%
 mistral-7b-instruct-v0.3: 28.27%
+gemma-2-27b-it: 28.22%
+seed-oss-36b-instruct: 26.63%
+gpt-oss-120b: 20.10%
 
-Best Model: gemma-2-27b-it (39.40%)
-Average Score: 34.60%
+Best Model: kimi-k2-instruct-0905 (45.24%)
+Average Score: 35.36%

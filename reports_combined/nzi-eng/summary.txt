@@ -1,23 +1,23 @@
 Translation Benchmark Results for nzi-eng
-Generated on: 2025-11-07 13:48:49
+Generated on: 2026-01-12 13:35:17
 
 Model Performance:
-qwen3-235b-a22b: 31.94%
-kimi-k2-instruct-0905: 30.46%
-deepseek-v3.1: 28.46%
-llama-3.1-405b-instruct: 28.42%
 mistral-7b-instruct-v0.3: 26.60%
-llama-3.3-70b-instruct: 26.46%
-mistral-medium-3-instruct: 26.23%
+kimi-k2-instruct-0905: 26.41%
 palmyra-med-70b: 25.72%
-qwq-32b: 25.70%
-gemma-2-9b-it: 25.53%
-seed-oss-36b-instruct: 25.38%
 qwen3-32b: 24.22%
 gemma2-9b-it: 24.21%
-llama-4-maverick-17b-128e-instruct: 24.03%
-gpt-oss-120b: 20.55%
-gemma-2-27b-it: 20.22%
+qwen3-235b-a22b: 22.04%
+llama-4-maverick-17b-128e-instruct: 21.64%
+llama-3.1-405b-instruct: 21.50%
+gemma-2-27b-it: 20.68%
+mistral-medium-3-instruct: 20.61%
+gemma-2-9b-it: 20.20%
+gpt-oss-120b: 20.07%
+deepseek-v3.1: 20.06%
+llama-3.3-70b-instruct: 18.88%
+qwq-32b: 17.29%
+seed-oss-36b-instruct: 16.41%
 
-Best Model: qwen3-235b-a22b (31.94%)
-Average Score: 25.88%
+Best Model: mistral-7b-instruct-v0.3 (26.60%)
+Average Score: 21.66%

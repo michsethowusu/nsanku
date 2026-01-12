@@ -1,23 +1,23 @@
 Translation Benchmark Results for avn-eng
-Generated on: 2025-11-07 13:48:46
+Generated on: 2026-01-12 13:35:14
 
 Model Performance:
 palmyra-med-70b: 48.00%
-qwen3-235b-a22b: 41.40%
-llama-3.1-405b-instruct: 38.28%
-seed-oss-36b-instruct: 38.10%
-kimi-k2-instruct-0905: 37.38%
-gemma-2-27b-it: 34.73%
-llama-3.3-70b-instruct: 34.64%
-mistral-medium-3-instruct: 32.72%
-llama-4-maverick-17b-128e-instruct: 31.89%
-gemma-2-9b-it: 29.90%
-deepseek-v3.1: 29.66%
+gemma-2-27b-it: 41.78%
+mistral-medium-3-instruct: 39.94%
+qwen3-235b-a22b: 39.42%
+llama-3.1-405b-instruct: 39.24%
+seed-oss-36b-instruct: 38.86%
+kimi-k2-instruct-0905: 38.20%
+llama-3.3-70b-instruct: 36.37%
+gemma-2-9b-it: 36.08%
+qwq-32b: 33.40%
+llama-4-maverick-17b-128e-instruct: 31.53%
 qwen3-32b: 29.42%
-qwq-32b: 28.64%
+deepseek-v3.1: 28.31%
 gemma2-9b-it: 28.15%
 mistral-7b-instruct-v0.3: 26.71%
-gpt-oss-120b: 22.96%
+gpt-oss-120b: 23.68%
 
 Best Model: palmyra-med-70b (48.00%)
-Average Score: 33.29%
+Average Score: 34.94%

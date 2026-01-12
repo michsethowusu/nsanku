@@ -1,23 +1,23 @@
 Translation Benchmark Results for bib-eng
-Generated on: 2025-11-07 13:48:48
+Generated on: 2026-01-12 13:35:17
 
 Model Performance:
-mistral-medium-3-instruct: 35.77%
-kimi-k2-instruct-0905: 34.55%
-llama-3.3-70b-instruct: 33.67%
-qwq-32b: 33.47%
-deepseek-v3.1: 31.20%
-gemma-2-27b-it: 30.39%
-gemma-2-9b-it: 29.06%
-qwen3-235b-a22b: 28.96%
+deepseek-v3.1: 40.51%
+kimi-k2-instruct-0905: 40.08%
+mistral-medium-3-instruct: 37.84%
+llama-4-maverick-17b-128e-instruct: 35.77%
+gemma-2-9b-it: 35.50%
+qwen3-235b-a22b: 35.29%
+qwq-32b: 33.86%
+seed-oss-36b-instruct: 33.03%
+llama-3.3-70b-instruct: 32.59%
+llama-3.1-405b-instruct: 30.32%
 gemma2-9b-it: 28.52%
-seed-oss-36b-instruct: 27.80%
-llama-3.1-405b-instruct: 27.11%
-llama-4-maverick-17b-128e-instruct: 26.94%
-gpt-oss-120b: 22.88%
+gemma-2-27b-it: 28.23%
+gpt-oss-120b: 26.11%
 qwen3-32b: 22.87%
 palmyra-med-70b: 21.12%
 mistral-7b-instruct-v0.3: 15.53%
 
-Best Model: mistral-medium-3-instruct (35.77%)
-Average Score: 28.11%
+Best Model: deepseek-v3.1 (40.51%)
+Average Score: 31.07%

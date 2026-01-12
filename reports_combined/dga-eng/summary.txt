@@ -1,23 +1,23 @@
 Translation Benchmark Results for dga-eng
-Generated on: 2025-11-07 13:48:51
+Generated on: 2026-01-12 13:35:21
 
 Model Performance:
 qwen3-32b: 37.06%
-deepseek-v3.1: 36.23%
-kimi-k2-instruct-0905: 33.27%
-llama-4-maverick-17b-128e-instruct: 33.06%
 gemma2-9b-it: 32.27%
-llama-3.1-405b-instruct: 32.12%
-gemma-2-27b-it: 31.25%
-qwen3-235b-a22b: 31.04%
-mistral-medium-3-instruct: 29.22%
-llama-3.3-70b-instruct: 27.41%
-gpt-oss-120b: 26.59%
-gemma-2-9b-it: 26.16%
-qwq-32b: 25.96%
+llama-4-maverick-17b-128e-instruct: 30.11%
+kimi-k2-instruct-0905: 28.03%
+llama-3.1-405b-instruct: 27.26%
+qwen3-235b-a22b: 26.42%
+deepseek-v3.1: 25.85%
 mistral-7b-instruct-v0.3: 24.51%
+mistral-medium-3-instruct: 23.42%
+llama-3.3-70b-instruct: 23.03%
 palmyra-med-70b: 22.86%
-seed-oss-36b-instruct: 22.49%
+gpt-oss-120b: 21.90%
+gemma-2-27b-it: 21.88%
+gemma-2-9b-it: 21.04%
+seed-oss-36b-instruct: 20.93%
+qwq-32b: 17.40%
 
 Best Model: qwen3-32b (37.06%)
-Average Score: 29.47%
+Average Score: 25.25%

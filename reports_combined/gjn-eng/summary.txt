@@ -1,23 +1,23 @@
 Translation Benchmark Results for gjn-eng
-Generated on: 2025-11-07 13:48:50
+Generated on: 2026-01-12 13:35:19
 
 Model Performance:
-llama-3.3-70b-instruct: 43.60%
-kimi-k2-instruct-0905: 42.95%
-deepseek-v3.1: 42.31%
-qwen3-235b-a22b: 40.77%
 gemma2-9b-it: 40.38%
-mistral-medium-3-instruct: 40.23%
-gemma-2-27b-it: 36.66%
-llama-3.1-405b-instruct: 36.37%
+llama-3.3-70b-instruct: 38.36%
+kimi-k2-instruct-0905: 38.01%
+qwen3-235b-a22b: 37.62%
+deepseek-v3.1: 36.72%
 qwen3-32b: 35.19%
-llama-4-maverick-17b-128e-instruct: 34.07%
 mistral-7b-instruct-v0.3: 32.92%
-seed-oss-36b-instruct: 30.85%
+qwq-32b: 32.29%
+seed-oss-36b-instruct: 31.47%
 palmyra-med-70b: 30.03%
-gpt-oss-120b: 28.18%
-gemma-2-9b-it: 28.08%
-qwq-32b: 24.59%
+gemma-2-27b-it: 29.46%
+mistral-medium-3-instruct: 27.48%
+gemma-2-9b-it: 26.28%
+llama-3.1-405b-instruct: 25.77%
+llama-4-maverick-17b-128e-instruct: 25.16%
+gpt-oss-120b: 22.12%
 
-Best Model: llama-3.3-70b-instruct (43.60%)
-Average Score: 35.45%
+Best Model: gemma2-9b-it (40.38%)
+Average Score: 31.83%
