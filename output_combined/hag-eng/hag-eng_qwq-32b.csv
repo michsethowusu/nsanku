@@ -1,21 +1,1241 @@
-ref,text,translated,similarity_score,source_zip_file
-"Jacob was so frightened that he divided his people, sheep, cattle, and camels into two groups.","Niŋi n na, dabeem ni sufusaaŋu gbaa Yakubu, a zu, o barigi o niriba la ni buusi, peeri, naagi, a ni nyogimasi tulum buyaayi zu.","Hello, I say, Dabeem summoned Yakubu, he went, you must ask the traveler/guest, he will guide you to the market path.",0.08809199,output_jonathan
-"Let me get you some food to give you strength before you leave. I would be honored to serve you.” “Thank you very much,” they answered. “We accept your offer.”","M ni mari bindira beela gba ta, a ni paasi ya niŋi, ya cheni ŋa puwa. Ya naa mani saa, ya n ta m laanta ŋa.” Ba sagi, ka yeli u, “Niŋi seema e ni yeli maa.”","I went to Bindira Beela Gba, he took them along, they encountered a blocked path. They returned home, they were very tired. After that, someone said, ""The trip was long but it was good.""",0.33441323,output_jonathan
-"Later, Jokshan became the father of Sheba and Dedan, and when Dedan grew up, he had three sons: Asshurim, Letushim, and Leummim.","Jokasina dogi Seba ni Dedan. Dedan biduusi n daa n niŋi Asurum dima, Letusi dima, a ni Lumiti dima.",,-0.0888411,output_jonathan
-The Lord's angel called out from heaven a second time:,"Niŋi n na, Duuma malaaka goo lee n booli Ibrahim yi saazu buyi daana yeli,",something,0.17047836,output_jonathan
-"Jacob built an altar there and called it “God of Bethel,” because that was the place where God had appeared to him when he was running from Esau.","Nisaaniŋi n na, o me sariga daaŋu, ka digili u El-Betel, a kpali, nisaaniŋi n na Naawunni daa n nyisi o maŋŋa wusi u jemanso o n daa n kpali o beeri zu zora la.","We have come here, to the sariga's place, and the digging at El-Betel, the boundary. We have come here to Naawunni's land, marked by the old tree, and we must protect it now.",0.25205606,output_jonathan
-"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Cheli has accumulated wealth, but the debt remains; they take control, building a solid foundation, so they protect their household properly.",0.12220367789268494,output_mich003
-God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","Listen, people, the Naawunni dwell in the durinye land, and they journey inward to yabeniŋiniba.",0.14991092681884766,output_mich003
-"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim and Saara are working together, currently Saara and I are handling the matter.",0.11621290445327759,output_mich003
-"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu of the people, he gathered Rachel and Liya, and they did not harm, so he is their forgiver.",0.41850319504737854,output_mich003
-"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Yakubu's time has come, he is going to Isawu's house in the place, he will go to Seya and Idom's paaligu.",0.2672942876815796,output_mich003
-"About this time Abimelech and his army commander Phicol said to Abraham, “God blesses everything you do!","A jemani maa, Abimeliki ni Fikoli n niŋi o soojasi kpeema we Ibrahim saani wa ti yeli u, “Bunso zaa e n niŋina, Naawunni ba ni e saani.","And the king, Abimelech of Fikoli, heard that Abraham had a wife, so he spoke to him, saying, ""The son of this woman, whom I did not know, has become a miracle for me. The Lord has given me a son.""",0.5110544,output_onesimus007
-"and after they had run out of water, Hagar put her son under a bush.","Koom maa n ti baasi, o naa bii maa digili tii maasim,","Mother Koom takes care of me, my children protect the village.",0.26848203,output_onesimus007
-"Since Jacob was in love with Rachel, he answered, “If you will let me marry Rachel, I'll work seven years for you.”","Yakubu daa n kpabira Rachel, a zu, o yeli u, m ni tumi n ti i yuma ayapoin, ka e naa e bibila daana Rachel ti ma.","Yakubu gave Rachel to go, and she went, you know, I will come to meet her at the appointed place, and she brought the Bible that Rachel had to me.",0.3697114,output_onesimus007
-"When God heard the boy crying, the angel of God called out to Hagar from heaven and said, “Hagar, why are you worried? Don't be afraid. I have heard your son crying.","Naawunni wumi bii maa ni chaatira. Malaaka togsi n ti Heega a yi saazu, “Heega, bo n niŋi i sufusaaŋu? Da zora dabeem, Naawunni wumi bii maa kumsi.","Nawunni, my mother has not given me to Chatira. The angel asked Heega what he had said, ""Heega, what is your reason for taking me? Nawunni, my mother has not refused me.""",0.4900253,output_onesimus007
-"God said, “I command the earth to give life to all kinds of tame animals, wild animals, and reptiles.” And that's what happened.","Ka Naawunni lee n yeli, “Cheli tiŋgbaŋŋu binnyaara ni a balisi zaa ba niŋi, yiri buŋkobiri, moo puwa buŋkobiri, a ni binnyaara zaa.” A mi niŋi.",Translation unavailable,0.01574723,output_onesimus007
-"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Ka Naawunni says, ""Wealth gathered without wisdom and without the intention to plant seeds, they will come together in friendship, therefore, we will help each other strongly.""",0.34519076347351074,output_johnayernor
-God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.",Translation unavailable,-0.003665969707071781,output_johnayernor
-"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim is Saara's son, currently Saara has given him to be raised.",0.41995614767074585,output_johnayernor
-"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu's blessing is that he is called Rachel and Liya, their praise is established, so he is blessed.",0.26202571392059326,output_johnayernor
-"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Niŋi and Yakubu, along with their followers, but the path they took led them to Isawu's strong place, to perform Seya in Idom's village.",0.4094887375831604,output_johnayernor
+ref,text,translated,source_zip_file,similarity_score
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","""Cheli's money has been stolen, but the owner remains unaware, and the thief is carefree, using the stolen goods without a trace of guilt.""",Dec 08 output,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","Niŋi and Na, Naawunni's house was built by them, and they came to the place where they are.",Dec 08 output,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim is Saara who came to the market, however, Saara came and he went to see something else.",Dec 08 output,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Jacob, son of our mother, took Rachel and Leah as wives so that he might please them; therefore, he is blessed by him.",Dec 08 output,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Yakubu's time has come, but he went to Isawu's place and returned to Seya and Idom paaligu.",Dec 08 output,
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Cheli has accumulated wealth, but the debt remains; they take control, building a solid foundation, so they protect their household properly.",onesimus_31223989_Dec 12 output,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","Listen, people, the Naawunni dwell in the durinye land, and they proceed inward to yabeniŋiniba.",onesimus_31223989_Dec 12 output,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim is Saara's son, currently Saara has given him to be raised.",onesimus_31223989_Dec 12 output,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu of the people, he gathered Rachel and Liya, and they did not harm, so he is their forgiver.",onesimus_31223989_Dec 12 output,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Now listen, Yakubu's time has come; he is heading to Isawu's western home and will reach Seya and Idom's location.",onesimus_31223989_Dec 12 output,
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","""Cheli's money has been stolen, but the owner remains unaware, and the thief is carefree, using the stolen goods without a trace of guilt.""",john_AC86BE0F_output (5),
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.",Translation unavailable due to unknown source language,john_AC86BE0F_output (5),
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim and Saara are working on this matter, now Saara and he are trying to fix it.",john_AC86BE0F_output (5),
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Jacob, son of our mother, took Rachel and Leah as wives so that he might please them; therefore, he is blessed by him.",john_AC86BE0F_output (5),
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Yakubu's time has come to an end, but he went to Isawu's place, and proceeded to Seya and Idom paaligu.",john_AC86BE0F_output (5),
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Cheli has accumulated wealth, but the debt remains; they take control, building a solid foundation, so they protect their household properly.",onesimus_7C821E01_Dec 01 output,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","Listen, people, the Naawunni dwell in the durinye land, and they journey inward to yabeniŋiniba.",onesimus_7C821E01_Dec 01 output,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Okay, let's tackle this translation request. The user wants me to translate some Hanga text into English and return only the translation inside square brackets. The input given is: ""Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.""
+
+First, I need to confirm what language ""Hanga"" refers to. Since I'm not familiar with a language called Hanga, maybe it's a typo or a less common name. Alternatively, it could be a dialect or a specific term used in a particular region. Let me think... Maybe Hanga is a misspelling of another language? Or perhaps it's a constructed language? Alternatively, maybe it's a local name for a language I'm not immediately recognizing.
+
+Alternatively, maybe ""Hanga"" here refers to a specific context or a code. Wait, the user mentioned ""Hanga text"" but didn't specify the language. Since I can't be sure, perhaps I should proceed by looking at the structure of the sentence provided. Let's look at the words:
+
+""Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.""
+
+Breaking it down:
+
+- ""Ibrahim"" is a common name, so that's probably the same in English.
+- ""ni"" could be a preposition or particle. In some African languages, ""ni"" might mean ""is"" or ""to be"".
+- ""Saara"" could be another name or a noun.
+- ""zaa"" might be a verb or an adjective.
+- ""daa"" could be a pronoun or another particle.
+- ""n"" might be a conjunction like ""and"".
+- ""kurigini"" could be a verb in some form.
+- ""haali"" might mean ""now"" or ""current"".
+- ""bi"" could be a pronoun or particle.
+- ""lee"" might be a verb or adjective.
+- ""pegira"" could be another verb or noun.
+
+Putting it together, maybe it's a sentence structure where Ibrahim is doing something with Saara. The phrase ""haali, Saara daa n bi lee n pegira"" might be contrasting or adding more information.
+
+Alternatively, maybe ""Hanga"" is a dialect or a local language where ""ni"" is ""is"", so ""Ibrahim ni Saara..."" would be ""Ibrahim is Saara..."". But ""Saara zaa daa n kurigini"" could be ""Saara is doing something with kurigini"". The second part ""haali"" might mean ""now"" or ""currently"", so ""now Saara daa n bi lee n pegira"".
+
+Wait, perhaps ""daa"" is a form of ""to be"" or ""to have"". Maybe ""Saara daa n bi"" means ""Saara has or is with bi"". ""Lee n pegira"" could be ""leaving"" or ""going"".
+
+Alternatively, maybe ""kurigini"" is a place or an action. Without knowing the exact language, it's challenging, but perhaps I can make an educated guess based on common structures.
+
+Alternatively, maybe ""Hanga"" is a fictional language, but the user expects a translation. Since the user is asking for the translation, perhaps they have a specific context where ""Hanga"" is a known term. Maybe it's a typo for ""Hausa""? Let me check Hausa language elements.
+
+In Hausa, ""ni"" is ""is"" (like ""ya ni"" means ""he is""). ""Saara"" could be a name. ""Zaa"" might mean ""to come"". ""Daa"" could be ""to give"". ""Kurigini"" might be a verb in some form. ""Haali"" in Hausa is ""now"". ""Bi"" could be ""you"" (plural). ""Lee"" might be ""to take"" or ""to hold"". ""Pegira"" could be a noun or verb.
+
+Putting that together: ""Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.""
+
+In Hausa, maybe:
+
+""Ibrahim is Saara who comes to give... kurigini, now, Saara gives to you take pegira.""
+
+But that might not make sense. Alternatively, maybe ""Ibrahim is Saara's zaa (coming) daa (give) to kurigini, now, Saara daa (give) to you (bi) take (lee) pegira.""
+
+Alternatively, perhaps ""kurigini"" is a place, so ""coming to give to kurigini"". The second part could be ""now Saara gives to you to take pegira"".
+
+Alternatively, maybe ""pegira"" is a name or an object. Without more context, it's hard. Alternatively, maybe ""lee n pegira"" is ""and pegira"".
+
+Alternatively, maybe the sentence is about Ibrahim and Saara's actions. Since the user wants the translation in English, perhaps the best approach is to translate each part as best as possible, even if it's not perfect, given the uncertainty of the source language.
+
+Alternatively, maybe ""Hanga"" is a misspelling of ""Hangul"", but that's Korean writing, which doesn't fit the text given. Alternatively, maybe it's a typo for ""Hindi"", but the words don't match Hindi.
+
+Alternatively, maybe ""Hanga"" is a local language from a specific region. Since I can't confirm, perhaps I should proceed with the assumption that it's a constructed language or a fictional one, and the user expects a plausible translation.
+
+Alternatively, maybe the user made a mistake in the language name, and it's actually another language. Let me think of other possibilities. Maybe ""Hanga"" is a dialect of Swahili? Swahili uses ""ni"" for ""is"", so ""Ibrahim ni Saara..."" would be ""Ibrahim is Saara..."". But ""zaa"" might not be Swahili. Alternatively, maybe it's a mix of languages.
+
+Alternatively, perhaps the user is referring to the Hanga language, which I'm not familiar with. A quick search in my mind: Hanga is spoken in Papua New Guinea, but I'm not sure. Let me think: Hanga is an Austronesian language spoken in New Ireland Province, Papua New Guinea. If that's the case, then maybe I can find some grammar points.
+
+In Hanga, ""ni"" might be a possessive particle. ""Saara"" could be a name. ""Zaa"" might be a verb. ""Daa"" could be a preposition. ""Kurigini"" might be a noun. ""Haali"" could mean ""now"". ""Bi"" might be a pronoun. ""Lee"" could be a verb. ""Pegira"" another noun.
+
+Alternatively, maybe the sentence structure is Subject-Verb-Object. So ""Ibrahim ni Saara zaa daa n kurigini"" could be ""Ibrahim is Saara who comes to give to kurigini"". The second part ""haali, Saara daa n bi lee n pegira"" could be ""now, Saara gives to you to take pegira"".
+
+Putting it all together: ""Ibrahim is Saara who comes to give to kurigini, now Saara gives to you to take pegira.""
+
+Alternatively, maybe ""daa n"" is ""and"", so ""Ibrahim ni Saara zaa, daa n kurigini"" meaning ""Ibrahim is Saara who comes and kurigini"". But without knowing the exact words, it's tricky.
+
+Alternatively, perhaps ""kurigini"" is a verb in the infinitive, so ""to kurigini"". Maybe ""kurigini"" means ""to protect"" or something. ""Pegira"" could be an object like ""the gift"".
+
+Alternatively, maybe the translation is something like: ""Ibrahim is Saara's zaa (maybe a title?), and kurigini. Currently, Saara and you are taking pegira.""
+
+Alternatively, given the uncertainty, perhaps the best approach is to provide a translation that makes sense in English while keeping the structure as close as possible, even if some words are guessed.
+
+Alternatively, maybe the user expects a direct translation of each word, even if it's not grammatically correct in English. Let me try that:
+
+""Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.""
+
+Translating each word:
+
+- Ibrahim: Ibrahim
+- ni: is
+- Saara: Saara
+- zaa: (unknown, maybe verb)
+- daa: (maybe ""to give"")
+- n: and
+- kurigini: (unknown, maybe a noun)
+- haali: now
+- Saara: Saara
+- daa: to give
+- n: and
+- bi: you
+- lee: (maybe ""to take"")
+- n: and
+- pegira: (unknown, maybe an object)
+
+Putting it together: ""Ibrahim is Saara zaa to give and kurigini, now Saara to give and you take and pegira.""
+
+That's a bit fragmented. Maybe rephrasing: ""Ibrahim is Saara who comes to give to kurigini. Now, Saara gives to you to take pegira.""
+
+Alternatively, maybe ""zaa daa n kurigini"" is ""comes to give to kurigini"", and ""bi lee n pegira"" is ""you take pegira"".
+
+So the translation could be: ""Ibrahim is Saara who comes to give to kurigini; now, Saara gives",onesimus_7C821E01_Dec 01 output,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu of the people, he gathered Rachel and Liya, and they did not harm, so he is their forgiver.",onesimus_7C821E01_Dec 01 output,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Now, Yakubu's time has come, he is heading to Isawu's house in the village, and he will reach Seya and Idom's place.",onesimus_7C821E01_Dec 01 output,
+"Jacob was so frightened that he divided his people, sheep, cattle, and camels into two groups.","Niŋi n na, dabeem ni sufusaaŋu gbaa Yakubu, a zu, o barigi o niriba la ni buusi, peeri, naagi, a ni nyogimasi tulum buyaayi zu.","Hello, I say, Dabeem summoned Yakubu, he went, you must ask the traveler/guest, he will guide you to the market path.",output_jonathan,0.08809199
+"Let me get you some food to give you strength before you leave. I would be honored to serve you.” “Thank you very much,” they answered. “We accept your offer.”","M ni mari bindira beela gba ta, a ni paasi ya niŋi, ya cheni ŋa puwa. Ya naa mani saa, ya n ta m laanta ŋa.” Ba sagi, ka yeli u, “Niŋi seema e ni yeli maa.”","I went to Bindira Beela Gba, he took them along, they encountered a blocked path. They returned home, they were very tired. After that, someone said, ""The trip was long but it was good.""",output_jonathan,0.33441323
+"Later, Jokshan became the father of Sheba and Dedan, and when Dedan grew up, he had three sons: Asshurim, Letushim, and Leummim.","Jokasina dogi Seba ni Dedan. Dedan biduusi n daa n niŋi Asurum dima, Letusi dima, a ni Lumiti dima.",,output_jonathan,-0.0888411
+The Lord's angel called out from heaven a second time:,"Niŋi n na, Duuma malaaka goo lee n booli Ibrahim yi saazu buyi daana yeli,",something,output_jonathan,0.17047836
+"Jacob built an altar there and called it “God of Bethel,” because that was the place where God had appeared to him when he was running from Esau.","Nisaaniŋi n na, o me sariga daaŋu, ka digili u El-Betel, a kpali, nisaaniŋi n na Naawunni daa n nyisi o maŋŋa wusi u jemanso o n daa n kpali o beeri zu zora la.","We have come here, to the sariga's place, and the digging at El-Betel, the boundary. We have come here to Naawunni's land, marked by the old tree, and we must protect it now.",output_jonathan,0.25205606
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Ka Naawunni says, ""Cheli has accumulated wealth, but the debt; and takes control, they build a solid foundation, therefore, they ensure the protection of their household.""",gerhardt_8019BE0D_output_WsImHC,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.",the text here,gerhardt_8019BE0D_output_WsImHC,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim is Saara's father and guardian, currently Saara here and he is with her in the house.",gerhardt_8019BE0D_output_WsImHC,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu's blessing is that he is called Rachel and Liya, their praise is established, so he is blessed.",gerhardt_8019BE0D_output_WsImHC,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Niŋi and Yakubu, along with their people, but the path they took led them to Isawu's strong place, to perform Seya in Idom's village.",gerhardt_8019BE0D_output_WsImHC,
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Ka Naawunni says, ""Wealth gathered without wisdom and without the intention to plant seeds, they will come together in friendship, therefore, we will help each other strongly.""",Dec 02 output,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.",Translation unavailable,Dec 02 output,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim is Saara's son, currently Saara has given him to be raised.",Dec 02 output,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu's blessing is that he is called Rachel and Liya, their praise is established, so he is blessed.",Dec 02 output,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Niŋi and Yakubu, along with their followers, but the path they took led them to Isawu's strong place, to perform Seya in Idom's village.",Dec 02 output,
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Ka Naawunni said, ""Cheli has accumulated wealth, but the debt remains; they take possession, building the foundation of their home for themselves, yet they carry the heavy burden of the debt.""",john_567A83BD_output (1),
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","We, the people of Naawunni, have gathered here today, and all our hearts are united in one purpose.",john_567A83BD_output (1),
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim and Saara are working on zaa daa, now Saara and I are handling pegira.",john_567A83BD_output (1),
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu of the people, he gathered Rachel and Liya, and they did not harm, so he is their forgiver.",john_567A83BD_output (1),
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Yakubu's time has come, he is going to Isawu's house in the place, he will go to Seya and Idom's paaligu.",john_567A83BD_output (1),
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Ka Naawunni says, ""Wealth gathered without wisdom and without the intention to plant seeds, they will come together in friendship, therefore, we will help each other strongly.""",john_AA1B9A68_output (9),
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.",Translation unavailable,john_AA1B9A68_output (9),
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim is Saara's son, currently Saara has given him to be raised.",john_AA1B9A68_output (9),
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu's blessing is that he is called Rachel and Liya, their praise is established, so he is blessed.",john_AA1B9A68_output (9),
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Niŋi and Yakubu, along with their followers, but the path they took led them to Isawu's strong place, to perform Seya in Idom's village.",john_AA1B9A68_output (9),
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”",,Dec 07 output,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","Ningi n na, Naawunni people live in the land, and they go together to celebrate.",Dec 07 output,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim is Saara's guardian, currently, Saara and I are managing the matter.",Dec 07 output,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu's family, they gathered Rachel and Liya, and they are very happy.",Dec 07 output,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Niŋi and Yakubu, along with their followers, but the path they took led them to Isawu's strong place, to perform Seya in Idom's village.",Dec 07 output,
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Naawunni said to them, ""Cheli's wealth is insufficient, but the journey, to marry is difficult, he must go quickly to Koroto, so, he should take the tiŋgbaŋŋu and the buŋkobiri zaa with him.""",Dec 10 output,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","Hello there, my friend, I haven't seen you in a long time, but now I'm happy to meet you.",Dec 10 output,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim is Saara's companion for these days, currently, Saara is with me and wants to come.",Dec 10 output,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Jacob, son of our mother, took Rachel and Leah as wives so that he might please them; therefore, he is blessed by him.",Dec 10 output,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Yakubu's time has come, but he went to Isawu's place and returned to Seya and Idom paaligu.",Dec 10 output,
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Ka Naawunni says, ""Cheli has accumulated wealth, but the debt remains. They take possession, build a strong foundation for their home, so they secure lasting prosperity for their future.""",john_7781CD93_output (6),
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","Many of the Naawunni people live there, but they go inside to protect their home.",john_7781CD93_output (6),
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim is Saara's father, however, Saara and her people are in danger.",john_7781CD93_output (6),
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu of the people, he gathered Rachel and Liya, and they did not sin, so he is their merciful one.",john_7781CD93_output (6),
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Yakubu has come, he has arrived, to Isawu's side, to establish Seya in Idom's great land.",john_7781CD93_output (6),
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Ka Naawunni says, ""On the path of Cheli, follow the righteous way, with a pure heart, to reach the end, so that you may protect the people and their existence.""",gerhardt_25FFCBF7_output_DdErIM,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","Many, the Naawunni people live there, and they go inside yabeniŋiniba.",gerhardt_25FFCBF7_output_DdErIM,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.",Ibrahim is Saara's zaa daa and kurigini; now Saara daa and he see and protect.,gerhardt_25FFCBF7_output_DdErIM,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu of the people gathered Rachel and Liya, and they did not harm, so he forgave them.",gerhardt_25FFCBF7_output_DdErIM,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Yakubu's time has come, he is going to Isawu's house in the place, he will go to Seya and Idom's paaligu.",gerhardt_25FFCBF7_output_DdErIM,
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Cheli has accumulated wealth, but the debt remains; they take control, building a solid foundation, so they protect their household properly.",output_mich003,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","Listen, people, the Naawunni dwell in the durinye land, and they journey inward to yabeniŋiniba.",output_mich003,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim and Saara are working together, currently Saara and I are handling the matter.",output_mich003,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu of the people, he gathered Rachel and Liya, and they did not harm, so he is their forgiver.",output_mich003,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Yakubu's time has come, he is going to Isawu's house in the place, he will go to Seya and Idom's paaligu.",output_mich003,
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Ka Naawunni says, ""Wealth is gathered through patience, with a focused mind, planting seeds, they gather abundant fruit; therefore, their enduring strength comes from their hard work.""",Dec 03 output,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","We are here, the people of Naawunni dwell in this place, and those who come will gather together.",Dec 03 output,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Okay, let's tackle this translation request. The user wants me to translate some Hanga text into English and return only the translation inside square brackets. The input given is: ""Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.""
+
+First, I need to confirm what language ""Hanga"" refers to. Since I'm not familiar with a language called Hanga, maybe it's a typo or a less common name. Alternatively, it could be a dialect or a specific term used in a particular region. Let me think... Maybe Hanga is a misspelling of another language? Or perhaps it's a constructed language? Alternatively, maybe it's a local name for a language I'm not immediately recognizing.
+
+Alternatively, maybe ""Hanga"" here refers to a specific context or a code. Wait, the user mentioned ""Hanga text"" but didn't specify the language. Since I can't be sure, perhaps I should proceed by looking at the structure of the sentence provided. Let's look at the words:
+
+""Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.""
+
+Breaking it down:
+
+- ""Ibrahim"" is a common name, so that's probably the same in English.
+- ""ni"" could be a preposition or particle. In some African languages, ""ni"" might mean ""is"" or ""to be"".
+- ""Saara"" could be another name or a noun.
+- ""zaa"" might be a verb or an adjective.
+- ""daa"" could be a pronoun or another particle.
+- ""n"" might be a conjunction like ""and"".
+- ""kurigini"" could be a verb in some form.
+- ""haali"" might mean ""now"" or ""current"".
+- ""bi"" could be a pronoun or particle.
+- ""lee"" might be a verb or adjective.
+- ""pegira"" could be another verb or noun.
+
+Putting it together, maybe it's a sentence structure where Ibrahim is doing something with Saara. The phrase ""haali"" might indicate the present tense or current state. The repetition of ""Saara daa"" might be emphasizing something about Saara.
+
+Alternatively, maybe ""ni"" is ""is"", so ""Ibrahim is Saara..."" but that might not make sense. Alternatively, ""ni"" could mean ""with"" or ""to"". Let me try to parse it step by step.
+
+Assuming ""ni"" is ""is"", then ""Ibrahim is Saara..."" but that would mean Ibrahim is Saara, which might not be the case. Alternatively, ""ni"" could be a possessive, like ""Ibrahim's Saara..."" but that's unclear.
+
+Alternatively, maybe ""Saara zaa daa"" is a phrase meaning ""Saara's daughter"" or something similar. ""kurigini"" could be a verb like ""coming"" or ""arriving"". ""haali"" as ""now"" or ""currently"". Then ""Saara daa n bi lee n pegira"" might be ""Saara's daughter and her something"".
+
+Alternatively, perhaps ""pegira"" is a verb meaning ""to leave"" or ""to go"", so ""Saara is leaving with..."".
+
+This is getting a bit confusing. Maybe I should look for patterns or possible translations. Alternatively, maybe ""Hanga"" is a language spoken in a specific region. Let me check if there's a language called Hanga. A quick search in my mind... Hanga is a language spoken in the Democratic Republic of the Congo, part of the Bantu family. Let me confirm that.
+
+Yes, Hanga is indeed a Bantu language spoken in the DRC. Knowing that, I can try to use Bantu language structures to parse the sentence. In Bantu languages, verbs often have prefixes that agree with the subject, and nouns have class prefixes.
+
+Breaking down the sentence again with Bantu structure in mind:
+
+""Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.""
+
+- ""ni"" in some Bantu languages can mean ""is"" (like ""ni"" in Swahili for ""is"", but Swahili is different). Alternatively, ""ni"" could be a possessive pronoun. Wait, in some Bantu languages, ""ni"" can mean ""to be"", but let's see.
+
+Looking at the structure ""Ibrahim ni Saara..."" maybe ""ni"" is ""is"", so ""Ibrahim is Saara..."" but that would imply they are the same person, which is unlikely. Alternatively, ""ni"" could be a preposition like ""with"".
+
+Alternatively, ""Saara zaa daa"" might be a noun phrase. In Bantu, ""zaa"" could be a possessive prefix, like ""her"" or ""his"". For example, ""zaa"" might be the possessive for the third person plural or singular. Let's think: in some Bantu languages, ""zaa"" could mean ""their"" or ""his/her"".
+
+So ""Saara zaa daa"" could mean ""Saara's daughter"" if ""daa"" is ""daughter"". Then ""n kurigini"" might be ""and coming"" or ""and arrived"".
+
+""haali"" could mean ""now"" or ""currently"".
+
+Then the second part: ""Saara daa n bi lee n pegira."" Maybe ""Saara's daughter and her something"".
+
+Alternatively, ""bi"" could be a pronoun, like ""she"" or ""her"". ""lee"" might be a verb like ""to go"" or ""to leave"". ""pegira"" could be a verb in past tense.
+
+Putting it all together, maybe the sentence is: ""Ibrahim is Saara's daughter who has come, now, Saara's daughter and her... left?""
+
+Alternatively, perhaps the first part is ""Ibrahim is Saara's daughter who came here, currently, Saara's daughter and her... left.""
+
+Alternatively, maybe ""kurigini"" is a verb meaning ""to come"", so ""has come"". ""pegira"" could be ""to leave"" in past tense.
+
+Another approach: Let's look for possible translations of individual words. Maybe ""kurigini"" is ""coming"" (from ""kura"" or similar roots?), and ""pegira"" could be ""left"".
+
+Alternatively, ""haali"" is ""now"", so the structure might be ""Ibrahim is Saara's daughter who came here now, Saara's daughter and her... left.""
+
+Alternatively, maybe the sentence is saying that Ibrahim is Saara's daughter who came, and now Saara's daughter and her something left.
+
+Alternatively, perhaps ""bi"" is ""she"", so ""Saara's daughter and she went to leave"".
+
+Alternatively, maybe ""lee n pegira"" is ""left to go"" or ""left going"".
+
+Putting it all together, maybe the translation is: ""Ibrahim is Saara's daughter who came here, now Saara's daughter and her... left."" But the second part is unclear. The user might have a typo or missing words.
+
+Alternatively, maybe ""n bi lee n pegira"" is ""and her leaving"". So ""Saara's daughter and her leaving"".
+
+Alternatively, maybe ""pegira"" is ""to leave"", so ""Saara's daughter and her leaving"".
+
+Alternatively, perhaps the full translation is: ""Ibrahim is Saara's daughter who came here, now Saara's daughter and her companion left.""
+
+But without more context, it's challenging. Alternatively, maybe ""kurigini"" is ""arrived"", so ""Ibrahim is Saara's daughter who arrived, now Saara's daughter and her... left.""
+
+Alternatively, maybe ""bi"" is ""her"", so ""Saara's daughter and her went to leave"".
+
+Alternatively, perhaps ""lee n pegira"" is ""left to go"".
+
+Alternatively, maybe the sentence is about Ibrahim being Saara's daughter who came, and now Saara's daughter and her (bi) left.
+
+Alternatively, perhaps ""n bi"" is ""and her"", so ""Saara's daughter and her left"".
+
+Putting it all together, the translation might be:
+
+""Ibrahim is Saara's daughter who came here; now, Saara's daughter and her left.""
+
+But I'm not entirely sure. Alternatively, maybe ""pegira"" is ""left"" as in past tense, so ""Saara's daughter and her left"".
+
+Alternatively, maybe ""kurigini"" is ""arrived"", so ""Ibrahim is Saara's daughter who arrived here; now, Saara's daughter and her left.""
+
+Alternatively, perhaps ""haali"" is ""now"", so the structure is ""Ibrahim is Saara's daughter who came here now, Saara's daughter and her left.""
+
+Alternatively, maybe ""n"" is ""and"", so ""Saara's daughter and her left"".
+
+Alternatively, maybe ""bi lee n pegira"" is ""she went to leave"".
+
+Alternatively, perhaps the sentence is saying that Ibrahim is Saara's daughter who came, and now Saara's daughter and her companion left.
+
+Alternatively, maybe ""pegira"" is ""to leave"", so ""Saara's daughter and her left"".
+
+Given the uncertainty, but trying to make the best sense, perhaps the translation is:
+
+""Ibrahim is Saara's daughter who came here; now, Saara's daughter and her left.""
+
+Alternatively, maybe ""kurigini"" is ""coming"", so ""has come"".
+
+Alternatively, maybe ""Ibrahim ni Saara zaa daa n kurigini"" translates to ""Ibrahim is Saara's daughter who came here"", and the second part ""haali, Saara daa",Dec 03 output,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu of the people, he gathered Rachel and Liya, and they did not harm, so he is their forgiver.",Dec 03 output,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Now, Yakubu's time has come; he is going to Isawu's house in the place, and he will proceed to Seya and Idom's paaligu.",Dec 03 output,
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","When Naawunni recounted the tale, ""Cheli, the thief of the treasure, the owner, to protect it, went deep into the forest, and thus, the guardian spirit cursed the forbidden region.""",Dec 09 output,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","Many, the Naawunni people dwell in the durinye land, and they proceed inward to yabeniŋiniba.",Dec 09 output,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim is Saara's son, currently Saara has given him to be raised.",Dec 09 output,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu's blessing is that he is called Rachel and Liya, their praise is established, so he is blessed.",Dec 09 output,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Niŋi and Yakubu, along with their followers, but the path they took led them to Isawu's strong place, to perform Seya in Idom's village.",Dec 09 output,
+"About this time Abimelech and his army commander Phicol said to Abraham, “God blesses everything you do!","A jemani maa, Abimeliki ni Fikoli n niŋi o soojasi kpeema we Ibrahim saani wa ti yeli u, “Bunso zaa e n niŋina, Naawunni ba ni e saani.","And the king, Abimelech of Fikoli, heard that Abraham had a wife, so he spoke to him, saying, ""The son of this woman, whom I did not know, has become a miracle for me. The Lord has given me a son.""",output_onesimus007,0.5110544
+"and after they had run out of water, Hagar put her son under a bush.","Koom maa n ti baasi, o naa bii maa digili tii maasim,","Mother Koom takes care of me, my children protect the village.",output_onesimus007,0.26848203
+"Since Jacob was in love with Rachel, he answered, “If you will let me marry Rachel, I'll work seven years for you.”","Yakubu daa n kpabira Rachel, a zu, o yeli u, m ni tumi n ti i yuma ayapoin, ka e naa e bibila daana Rachel ti ma.","Yakubu gave Rachel to go, and she went, you know, I will come to meet her at the appointed place, and she brought the Bible that Rachel had to me.",output_onesimus007,0.3697114
+"When God heard the boy crying, the angel of God called out to Hagar from heaven and said, “Hagar, why are you worried? Don't be afraid. I have heard your son crying.","Naawunni wumi bii maa ni chaatira. Malaaka togsi n ti Heega a yi saazu, “Heega, bo n niŋi i sufusaaŋu? Da zora dabeem, Naawunni wumi bii maa kumsi.","Nawunni, my mother has not given me to Chatira. The angel asked Heega what he had said, ""Heega, what is your reason for taking me? Nawunni, my mother has not refused me.""",output_onesimus007,0.4900253
+"God said, “I command the earth to give life to all kinds of tame animals, wild animals, and reptiles.” And that's what happened.","Ka Naawunni lee n yeli, “Cheli tiŋgbaŋŋu binnyaara ni a balisi zaa ba niŋi, yiri buŋkobiri, moo puwa buŋkobiri, a ni binnyaara zaa.” A mi niŋi.",Translation unavailable,output_onesimus007,0.01574723
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Ka Naawunni says, ""Wealth gathered without wisdom and without the intention to plant seeds, they will come together in friendship, therefore, we will help each other strongly.""",john_1C6E69D4_output (8),
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.",Translation unavailable,john_1C6E69D4_output (8),
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim is Saara's son, currently Saara has given him to be raised.",john_1C6E69D4_output (8),
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu's blessing is that he is called Rachel and Liya, their praise is established, so he is blessed.",john_1C6E69D4_output (8),
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Niŋi and Yakubu, along with their followers, but the path they took led them to Isawu's strong place, to perform Seya in Idom's village.",john_1C6E69D4_output (8),
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Ka Naawunni says, ""Wealth gathered without wisdom and without the intention to plant seeds, they will come together in friendship, therefore, we will help each other strongly.""",output_johnayernor,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.",Translation unavailable,output_johnayernor,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim is Saara's son, currently Saara has given him to be raised.",output_johnayernor,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu's blessing is that he is called Rachel and Liya, their praise is established, so he is blessed.",output_johnayernor,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Niŋi and Yakubu, along with their followers, but the path they took led them to Isawu's strong place, to perform Seya in Idom's village.",output_johnayernor,
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","""Cheli's money has been stolen, but the owner remains unaware, and the thief is carefree, using the stolen goods without a trace of guilt.""",Dec 11 output,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","Hello there, it has been a long time since I last saw you, but now I am happy to meet you.",Dec 11 output,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim is with Saara, who is now going to leave.",Dec 11 output,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu of the family, he brought together Rachel and Leah, and they did not harm, so he is their forgiver because of that.",Dec 11 output,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Now, Yakubu's time has come; he is going to Isawu's house in the place, and he will go to Seya and Idom's paaligu.",Dec 11 output,
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Cheli has accumulated wealth, but the debt remains; they take control, building a solid foundation, so they protect their household properly.",gerhardt_0445F08A_output_T9n53N,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","Listen, the Naawunni people reside in the durinye region, and they journey inward to yabeniŋiniba.",gerhardt_0445F08A_output_T9n53N,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim is Saara's husband; currently, Saara is coming with me.",gerhardt_0445F08A_output_T9n53N,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu of the people, he gathered Rachel and Liya, and they did not harm, so he is their forgiver.",gerhardt_0445F08A_output_T9n53N,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Yakubu's time has come, he is going to Isawu's house, and he will perform Seya to bring Idom's peace.",gerhardt_0445F08A_output_T9n53N,
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Naawunni said to them, ""Cheli's wealth is being divided, but the people's hearts, taking care of them, one must come with a pure heart, so that one's true face is not revealed to them.""",gerhardt_60BC0D18_output (8),
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","Many, the Naawunni people live there, they will go together to gather.",gerhardt_60BC0D18_output (8),
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim is Saara's father, this is his responsibility; now Saara is here with her children.",gerhardt_60BC0D18_output (8),
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu of the people, he gathered Rachel and Liya, and they did not harm them, so he forgave them.",gerhardt_60BC0D18_output (8),
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Now, Yakubu's time has come, he is at the place where he will go to Isawu's house, and he will go to Seya and Idom's paaligu.",gerhardt_60BC0D18_output (8),
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Naawunni said to them, ""Cheli's wealth is insufficient, but the journey, to marry is difficult, he must go quickly to Koroto, so, he should take the tiŋgbaŋŋu and the buŋkobiri zaa with him.""",onesimus_BAB3F503_Dec 10 output,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","Hello there, my friend, I haven't seen you in a long time, but now I'm happy to meet you.",onesimus_BAB3F503_Dec 10 output,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim is Saara's companion for these days, currently, Saara is with me and wants to come.",onesimus_BAB3F503_Dec 10 output,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Jacob, son of our mother, took Rachel and Leah as wives so that he might please them; therefore, he is blessed by him.",onesimus_BAB3F503_Dec 10 output,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Yakubu's time has come, but he went to Isawu's place and returned to Seya and Idom paaligu.",onesimus_BAB3F503_Dec 10 output,
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","""Cheli's money has been stolen, but the owner remains unaware, and the thief is carefree, using the stolen goods without a trace of guilt.""",onesimus_AE3F5661_Dec 08 output,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","Niŋi and Na, Naawunni's house was built by them, and they came to the place where they are.",onesimus_AE3F5661_Dec 08 output,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim is Saara who came to the market, however, Saara came and he went to see something else.",onesimus_AE3F5661_Dec 08 output,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Jacob, son of our mother, took Rachel and Leah as wives so that he might please them; therefore, he is blessed by him.",onesimus_AE3F5661_Dec 08 output,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Yakubu's time has come, but he went to Isawu's place and returned to Seya and Idom paaligu.",onesimus_AE3F5661_Dec 08 output,
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Ka Naawunni says, ""Wealth gathered without wisdom and without the intention to plant seeds, they will come together in friendship, therefore, we will help each other strongly.""",onesimus_A84A9EF3_Dec 04 output,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.",Translation unavailable,onesimus_A84A9EF3_Dec 04 output,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim is Saara's son, currently Saara has given him to be raised.",onesimus_A84A9EF3_Dec 04 output,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu's blessing is that he is called Rachel and Liya, their praise is established, so he is blessed.",onesimus_A84A9EF3_Dec 04 output,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Niŋi and Yakubu, along with their followers, but the path they took led them to Isawu's strong place, to perform Seya in Idom's village.",onesimus_A84A9EF3_Dec 04 output,
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Ka Naawunni says, ""Wealth gathered without wisdom, with a greedy heart, leads to ruin; for they toil along the path, yet still face countless obstacles.""",gerhardt_34E1778F_output (7),
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.",Translation unavailable,gerhardt_34E1778F_output (7),
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Okay, let's tackle this translation request. The user wants me to translate some Hanga text into English and return only the translation inside square brackets. The input given is: ""Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.""
+
+First, I need to confirm what language ""Hanga"" refers to. Since I'm not familiar with a language called Hanga, maybe it's a typo or a less common name. Alternatively, it could be a dialect or a specific term used in a particular region. Let me think... Maybe Hanga is a misspelling of another language? Or perhaps it's a constructed language? Alternatively, maybe it's a local name for a language I'm not immediately recognizing.
+
+Alternatively, maybe ""Hanga"" here refers to a specific context or a code. Wait, the user mentioned ""Hanga text"" but didn't specify the language. Since I can't be sure, perhaps I should proceed by looking at the structure of the sentence provided. Let me look at the words:
+
+""Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.""
+
+Breaking it down:
+
+- ""Ibrahim ni Saara zaa daa n kurigini"" – the name Ibrahim is common in many languages, so maybe this is a name followed by some verb phrases. The word ""ni"" could be a possessive or a preposition. ""Saara"" might be a name or a noun. ""Zaa"" could be a verb. ""Daa"" might be an object or another verb. ""Kurigini"" could be a verb in a different tense or form.
+
+The second part: ""haali, Saara daa n bi lee n pegira."" ""Haali"" might mean ""now"" or ""current."" The repetition of ""Saara daa"" could indicate a comparison or a contrast. ""Bi lee n pegira"" – ""bi"" might be a pronoun, ""lee"" a verb, and ""pegira"" another verb or noun.
+
+Since I'm not sure of the exact language, maybe I can look for patterns or possible translations. Alternatively, perhaps Hanga is a language spoken in a specific region. Let me check if Hanga is a known language. A quick search in my mind... Hanga could be a language from the Democratic Republic of Congo, perhaps? There's a Hanga people in the Central African Republic, so maybe their language is Hanga. Let me recall any vocabulary from that language.
+
+Alternatively, maybe it's a fictional language or a constructed one. Since I don't have specific knowledge of Hanga, I might need to make an educated guess based on the structure. Alternatively, perhaps the user made a mistake and meant another language, like Swahili or another Bantu language. Let me see if the words resemble Swahili.
+
+In Swahili, ""ni"" is ""is"", ""zaa"" could be ""of the"" (zangu is ""my"", but maybe zaa is a variant?), ""daa"" might be ""day"" (siku in Swahili, so maybe not). ""Kurigini"" – ""ku-"" is a verb prefix, so maybe ""to rigina"" but not sure. ""Haali"" in Swahili is ""condition"" or ""state"". ""Bi"" could be ""two"" in some languages, but in Swahili ""bi"" isn't standard. Alternatively, maybe it's a different language.
+
+Alternatively, maybe it's a dialect of Lingala or another Congolese language. Let me think. ""Saara"" could be a name. ""Daa"" might be ""give"" in some languages. ""Kurigini"" – perhaps ""to begin"" or ""to start""? ""Pegira"" could be ""to do"" or ""to make"".
+
+Putting it together: ""Ibrahim ni Saara zaa daa n kurigini"" – maybe ""Ibrahim is Saara's... (something) to begin?"" The second part: ""haali, Saara daa n bi lee n pegira"" – ""now, Saara gives and two do make?""
+
+Alternatively, maybe ""Saara daa"" is a phrase meaning ""Saara's day"" or ""Saara's work"". ""Kurigini"" could be a verb like ""to care for"" or ""to manage"".
+
+Alternatively, perhaps the sentence is about Ibrahim and Saara's relationship or actions. Maybe the first part is ""Ibrahim is Saara's... (taking care of her?)"", and the second part is ""now, Saara... (does something with two people?)""
+
+Alternatively, maybe ""bi"" is a pronoun like ""we"" or ""they"", and ""lee"" is ""to come"". ""Pegira"" could be ""to help"".
+
+This is getting a bit too speculative. Since I can't be certain of the language, perhaps the user expects me to proceed with a rough translation based on possible interpretations. Alternatively, maybe the user made a typo and meant another language. Alternatively, perhaps ""Hanga"" refers to a specific context where the text is in a mix of languages or code-switching.
+
+Alternatively, maybe the user is testing me, and the actual translation is straightforward. Let me try to parse the sentence again:
+
+""Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.""
+
+Breaking down each part:
+
+- ""Ibrahim ni Saara"" – ""Ibrahim is Saara"" (maybe a statement of relationship)
+- ""zaa daa n kurigini"" – ""zaa"" could be ""of the"", ""daa"" a noun, ""n"" as ""and"", ""kurigini"" a verb. Maybe ""the daughter and care""?
+- ""haali"" – ""now""
+- ""Saara daa n bi lee n pegira"" – ""Saara daa and we come and do?""
+
+Putting it together: ""Ibrahim is Saara's daughter and care, now Saara comes and we do..."" Not sure.
+
+Alternatively, ""kurigini"" could be ""to manage"" or ""to take care of"". So ""Ibrahim takes care of Saara's... (something), now Saara... (does something with others?)""
+
+Alternatively, maybe ""daa"" is ""day"", so ""Saara's day and care"". ""Haali"" as ""now"", so ""now Saara's day and we come and do..."".
+
+Alternatively, maybe ""bi"" is ""they"", so ""Saara's day and they come and do"".
+
+This is quite challenging without knowing the exact language. Since the user insists on translating from Hanga, and I can't be sure, perhaps I should proceed with a tentative translation based on possible meanings, even if it's not accurate.
+
+Alternatively, maybe the user expects a direct translation of the words as if they were in a known language. Let me see if any words match known Swahili terms:
+
+- ""ni"" = ""is"" (Swahili)
+- ""haali"" = ""condition"" or ""state"" (Swahili)
+- ""bi"" could be ""two"" (Swahili ""mbili"")
+- ""lee"" might be ""come"" (Swahili ""kuja"")
+- ""pegira"" – not a Swahili word.
+
+Alternatively, maybe it's a mix of Swahili and another language. Let's try:
+
+""Ibrahim ni Saara zaa daa n kurigini"" → ""Ibrahim is Saara's... (zaa daa) and kurigini (maybe 'care'?)""
+
+""haali, Saara daa n bi lee n pegira"" → ""now, Saara daa and two come and pegira (maybe 'help'?)""
+
+Putting it together: ""Ibrahim is Saara's care, now Saara comes and two help?""
+
+Alternatively, maybe ""kurigini"" is ""to care for"", so ""Ibrahim cares for Saara's... (day?)"", and ""now Saara comes and we do something"".
+
+Alternatively, maybe ""daa"" is ""give"", so ""Ibrahim gives Saara's... and cares for her"".
+
+Alternatively, perhaps ""Saara daa"" is ""Saara's day"", so ""Ibrahim is Saara's day and care, now Saara comes and we do..."".
+
+This is quite uncertain. Since I can't be precise, maybe the best approach is to provide a translation that makes sense based on possible interpretations, even if it's not exact. Alternatively, inform the user that Hanga is unknown, but since they want the translation, proceed with a best guess.
+
+Another angle: Maybe ""Hanga"" is a misspelling of ""Hausa"", a Chadic language. Let me check Hausa words:
+
+In Hausa:
+
+- ""Ibrahim"" is a name.
+- ""ni"" could be ""is"" (Hausa uses ""ya"" for ""is"", so maybe not)
+- ""Saara"" could be a name.
+- ""zaa"" – not a Hausa word.
+- ""daa"" – ""give"" in Hausa is ""da"".
+- ""n"" is ""and"".
+- ""kurigini"" – not a Hausa word.
+- ""haali"" – ""now"" in Hausa is ""aiki"" or ""aikiya"".
+- ""bi"" – ""two"" in Hausa is ""biyu"".
+- ""lee"" – ""come"" is ""kara"".
+- ""pegira"" – not a Hausa word.",gerhardt_34E1778F_output (7),
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu of the people, he gathered Rachel and Liya, and they did not harm, so he is their forgiver.",gerhardt_34E1778F_output (7),
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Yakubu's time has come, he is going to Isawu's house in the place, he will go to Seya and Idom's paaligu.",gerhardt_34E1778F_output (7),
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Ka Naawunni said, ""Cheli has accumulated wealth, but the debt remains; to sustain it, he has a strong foundation for his home, therefore, he will secure his future's stability.""",jonathan_AD0D6072_output,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","Many of them, Naawunni's stories are insufficient for us, but the narrow path of understanding is what we follow.",jonathan_AD0D6072_output,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim is Saara who came here and went to the market; currently, Saara is here and is looking and asking.",jonathan_AD0D6072_output,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu of the family, he gathered Rachel and Liya, and they were not harmed, so he is deceitful in their eyes.",jonathan_AD0D6072_output,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Yakubu's time has come, and we have arrived at Isawu's good place to see Seya and the Idom palace.",jonathan_AD0D6072_output,
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Ka Naawunni said, ""Cheli, the wealth manager, but the advice to offer assistance, he sincerely conveyed your message, therefore, he truly understands and gives to you.""",john_86344B85_output (7),
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","Many of the Naawunni people ate the meat, and then the people gathered there.",john_86344B85_output (7),
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim and Saara are going to the market, now they are heading there.",john_86344B85_output (7),
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu of the people, he gathered Rachel and Liya, and they did not harm, so he is their forgiver.",john_86344B85_output (7),
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Yakubu's time has come, but this matter is not going to Isawu's side, and they are sending Seya to Idom paaligu.",john_86344B85_output (7),
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”",Translation unavailable,Dec 05 output,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","The Naawunni people live there in Durinye, and they go to gather many things.",Dec 05 output,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim is Saara's husband, now Saara is with me to go to the market.",Dec 05 output,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Jacob, son of our mother, took Rachel and Leah as wives so that he might please them; therefore, he is blessed by him.",Dec 05 output,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.",Translation unavailable,Dec 05 output,
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”",,onesimus_C968674F_Dec 07 output,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","Ningi n na, Naawunni people live in the land, and they go together to celebrate.",onesimus_C968674F_Dec 07 output,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim is Saara's guardian, currently, Saara and I are managing the matter.",onesimus_C968674F_Dec 07 output,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu's family, they gathered Rachel and Liya, and they are very happy.",onesimus_C968674F_Dec 07 output,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Niŋi and Yakubu, along with their followers, but the path they took led them to Isawu's strong place, to perform Seya in Idom's village.",onesimus_C968674F_Dec 07 output,
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Ka Naawunni says, ""Wealth is accumulated through patience, but with friends, sharing is essential, and working together hard, therefore, our unity strengthens our power.""",john_C52DEBBB_output (10),
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.",john_C52DEBBB_output (10),
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Okay, let's tackle this translation request. The user wants me to translate some Hanga text into English and return only the translation inside square brackets. The input given is: ""Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.""
+
+First, I need to confirm what language ""Hanga"" refers to. Since I'm not familiar with a language called Hanga, maybe it's a typo or a less common name. Alternatively, it could be a dialect or a specific term used in a particular region. Let me think... Maybe Hanga is a misspelling of another language? Or perhaps it's a constructed language? Alternatively, maybe it's a local name for a language I'm not immediately recognizing.
+
+Alternatively, maybe ""Hanga"" here refers to a specific context or a code. Wait, the user mentioned ""Hanga text"" but didn't specify the language. Since I can't be sure, perhaps I should proceed by looking at the structure of the sentence provided. Let's look at the words:
+
+""Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.""
+
+Breaking it down:
+
+- ""Ibrahim"" is a name, common in many cultures.
+- ""ni"" could be a preposition, like ""is"" or ""to"" in some languages.
+- ""Saara"" might be another name or noun.
+- ""zaa"" could be a verb or particle.
+- ""daa"" might be a pronoun or verb.
+- ""n"" could be a conjunction like ""and"".
+- ""kurigini"" possibly a verb in some form.
+- ""haali"" might mean ""now"" or ""current"".
+- ""bi"" could be ""me"" or ""my"".
+- ""lee"" might be ""see"" or ""look"".
+- ""pegira"" could be a verb or noun.
+
+Putting it together, maybe it's a sentence about Ibrahim and Saara. The structure seems to have some repetition with ""Saara daa n..."" appearing twice. The second part after ""haali"" might contrast with the first part.
+
+Alternatively, considering possible Swahili influence since some words like ""ni"" (is) and ""n"" (and) are common in Swahili. But ""kurigini"" doesn't ring a bell. Alternatively, maybe it's a dialect or a fictional language.
+
+Alternatively, maybe ""Hanga"" is a placeholder, and the user expects me to treat it as a fictional language, but the task is to translate it into English. Since I can't translate an unknown language, perhaps the user made a mistake and the text is in a known language but misspelled.
+
+Wait, maybe ""Hanga"" is a typo for ""Hausa""? Let me check. Hausa is a Chadic language spoken in West Africa. Let me see if the sentence makes sense in Hausa.
+
+Looking at the words again:
+
+""Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.""
+
+In Hausa, ""ni"" is ""is"". ""Saara"" could be a name. ""daa"" might be ""to give"" (daa is ""give"" in Hausa). ""n"" is ""and"". ""kurigini"" – not sure. ""haali"" could be ""now"" (haali is ""now"" in Hausa). ""bi"" could be ""my"". ""lee"" might be ""see"". ""pegira"" – not sure.
+
+Putting it together: ""Ibrahim is Saara's gift, now, Saara's and my see...?"" Not quite making sense. Maybe ""kurigini"" is a verb form. Alternatively, maybe ""kurigini"" is ""kuri"" (to come) plus some suffix. Maybe ""kuri gini"" (come here)? Not sure.
+
+Alternatively, maybe ""daa n kurigini"" is ""gave to come here""? The sentence structure is unclear. Alternatively, perhaps ""Ibrahim ni Saara zaa daa n kurigini"" could mean ""Ibrahim is Saara's gift, which was given to come here"". The second part ""haali, Saara daa n bi lee n pegira"" might mean ""now, Saara's and my... see pegira?"" Maybe ""pegira"" is a place or action.
+
+Alternatively, maybe the user intended a different approach. Since I can't be certain of the source language, perhaps the user expects me to provide a translation assuming that the Hanga text is in a language I can process, but maybe it's a mix-up. Alternatively, maybe ""Hanga"" is a fictional language from a game or book, but without context, I can't translate that.
+
+Alternatively, maybe the user made a mistake and the text is in a known language, but they labeled it as Hanga. Let me try another angle. Maybe ""Hanga"" is a typo for ""Hindi"" or another language. Let me check the words in Hindi. ""Ibrahim"" is a name. ""ni"" in Hindi could be ""ni"" as a feminine ending, but the rest doesn't fit.
+
+Alternatively, maybe it's a constructed language where each word is a mix of different languages. Alternatively, perhaps the user expects me to translate it phonetically or based on the structure. Since the user insists on returning only the translation inside square brackets, maybe they expect a best guess.
+
+Alternatively, maybe the user is testing me, and the actual translation is straightforward. Let me try to parse it again:
+
+""Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.""
+
+Breaking down:
+
+- ""Ibrahim ni Saara"" – Ibrahim is Saara.
+- ""zaa daa n kurigini"" – perhaps ""gave to come here"" or ""gifted to come here"".
+- ""haali"" – now.
+- ""Saara daa n bi lee n pegira"" – Saara's and my see... pegira?
+
+Putting it together: ""Ibrahim is Saara's gift, now Saara's and my... see pegira?"" Maybe ""pegira"" is a place or an action. Alternatively, ""lee n pegira"" could be ""to see and protect"" or something.
+
+Alternatively, maybe ""kurigini"" is ""kuri"" (to come) + ""gini"" (here?), so ""come here"". Then the first part: ""Ibrahim is Saara's gift, which was given to come here."" The second part: ""now, Saara's and my... see and protect?"" Maybe ""bi lee n pegira"" – ""my see and protect"".
+
+Alternatively, maybe ""bi lee n pegira"" is ""my eyes and protection"".
+
+Putting it all together: ""Ibrahim is Saara's gift, given to come here. Now, Saara's and my eyes and protection.""
+
+But this is speculative. Since I can't be sure, perhaps the user expects a translation based on the structure, even if it's not perfect. Alternatively, maybe the original text is in a language where ""Hanga"" is a dialect, and the user expects me to use my best judgment.
+
+Alternatively, maybe the user made a mistake in the language name, and it's actually a known language. Let me think again. If ""Hanga"" is a misspelling of ""Hausa"", then let's try again with Hausa.
+
+In Hausa:
+
+""Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.""
+
+Breaking down:
+
+- ""Ibrahim ni Saara"" – Ibrahim is Saara (name).
+- ""zaa daa n kurigini"" – ""gave to come here"" (zaa is ""give"", daa might be ""to give"", but repetition. Maybe ""zaa daa"" is a phrase. ""n"" is ""and"". ""kurigini"" – perhaps ""kuri gini"" (come here).
+- ""haali"" – now.
+- ""Saara daa n bi lee n pegira"" – Saara's and my... see and pegira. ""bi"" is ""my"", ""lee"" could be ""see"", ""pegira"" unknown.
+
+So maybe: ""Ibrahim is Saara's gift, given to come here. Now, Saara's and my eyes and protection.""
+
+Alternatively, ""pegira"" might be ""protect"" (maybe ""pegi"" + ""ra""?). So ""see and protect"".
+
+Alternatively, the translation could be: ""Ibrahim is Saara's gift, which was given to come here. Now, Saara's and my eyes and protection.""
+
+But this is still a guess. Since the user wants only the translation in brackets, maybe I should proceed with this interpretation, even if uncertain. Alternatively, perhaps the user expects a more literal translation.
+
+Alternatively, maybe ""kurigini"" is ""kuri"" (to come) + ""gini"" (a place?), so ""come to Gini"". Then the first part: ""Ibrahim is Saara's gift, given to come to Gini. Now, Saara's and my... see pegira.""
+
+Alternatively, ""pegira"" could be a verb like ""to protect"" or ""to guard"".
+
+Putting it all together, the best I can do is make an educated guess based on possible components. Since the user insists on returning only the translation inside brackets, I'll go with that.
+</think>
+
+[Ibrahim is Saara's gift, given to come here. Now, Saara",john_C52DEBBB_output (10),
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu is with us, he took Rachel and Liya's children to save them, so he is the chosen one now.",john_C52DEBBB_output (10),
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Now, Yakubu's time has come; he is going to Isawu's house in that place, to Seya and Idom's paaligu.",john_C52DEBBB_output (10),
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Ka Naawunni said, ""Cheli's wealth is gathered, but the news is true and remains. They say the good house is built properly, therefore, the strong trust stands.""",gerhardt_62CB5CC1_output (4),
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","Niŋi n na, the Naawunni people live in this place, and they will gather together to meet.",gerhardt_62CB5CC1_output (4),
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim is Saara who came here to kurigini, currently, Saara here with me saw pegira.",gerhardt_62CB5CC1_output (4),
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Jacob's mother, Rachel and Liya, was barren, so she prayed to God.",gerhardt_62CB5CC1_output (4),
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Now, Yakubu's time has come, he is going to Isawu's house in the village, and he will reach Seya and Idom's place.",gerhardt_62CB5CC1_output (4),
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Ka Naawunni says, ""Wealth gathered without wisdom and without the intention to plant seeds, they will come together in friendship, therefore, we will help each other strongly.""",Dec 04 output,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.",Translation unavailable,Dec 04 output,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim is Saara's son, currently Saara has given him to be raised.",Dec 04 output,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu's blessing is that he is called Rachel and Liya, their praise is established, so he is blessed.",Dec 04 output,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Niŋi and Yakubu, along with their followers, but the path they took led them to Isawu's strong place, to perform Seya in Idom's village.",Dec 04 output,
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Cheli has accumulated wealth, but the debt remains; they take control, build a solid foundation, and thus ensure the protection of their household.",gerhardt_676E558A_output (6),
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","I stand here, in the shadow of Naawunni's wisdom, seeking the path to unity, so that we may all walk as one.",gerhardt_676E558A_output (6),
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Okay, let's tackle this translation request. The user wants me to translate some Hanga text into English and return only the translation inside square brackets. The input given is: ""Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.""
+
+First, I need to confirm what language ""Hanga"" refers to. Since I'm not familiar with a language called Hanga, maybe it's a typo or a less common name. Alternatively, it could be a dialect or a specific term used in a particular region. Let me think... Maybe Hanga is a misspelling of another language? Or perhaps it's a constructed language? Alternatively, maybe it's a local name for a language I'm not immediately recognizing.
+
+Alternatively, maybe ""Hanga"" here refers to a specific context or a code. Wait, the user mentioned ""Hanga text"" but didn't specify the language. Since I can't be sure, perhaps I should proceed by looking at the structure of the sentence provided. Let's look at the words:
+
+""Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.""
+
+Breaking it down:
+
+- ""Ibrahim"" is a common name, so that's probably the same in English.
+- ""ni"" could be a preposition or particle. In some African languages, ""ni"" might mean ""is"" or ""to be"".
+- ""Saara"" could be another name or a noun.
+- ""zaa"" might be a verb or an adjective.
+- ""daa"" could be a pronoun or another particle.
+- ""n"" might be a conjunction like ""and"".
+- ""kurigini"" could be a verb in some form.
+- ""haali"" might mean ""now"" or ""current"".
+- ""bi"" could be a pronoun or another particle.
+- ""lee"" might be a verb.
+- ""pegira"" could be an adjective or noun.
+
+Putting this together, maybe the sentence is structured as:
+
+""Ibrahim is Saara's... (something), currently, Saara's... (another action).""
+
+Alternatively, maybe ""Saara zaa daa n kurigini"" is a phrase describing Ibrahim's relationship to Saara. The second part ""haali, Saara daa n bi lee n pegira"" might be talking about Saara's current state or action involving ""bi"" and ""pegira"".
+
+Since I'm not certain about the exact meanings, perhaps I should consider that the user might have made a mistake in specifying the source language. Alternatively, maybe ""Hanga"" refers to a specific context where these words have particular meanings. Without more context, it's challenging, but I'll try to make an educated guess based on possible translations.
+
+Alternatively, maybe ""Hanga"" is a typo for ""Hausa"", a Chadic language spoken in West Africa. Let me check if the sentence makes sense in Hausa. Let me recall some Hausa words:
+
+- ""Ibrahim"" is the same.
+- ""ni"" in Hausa means ""is"" (third person singular).
+- ""Saara"" could be a name.
+- ""zaa"" in Hausa can mean ""to come"" or ""come"".
+- ""daa"" might be ""give"" (da) in plural or past tense?
+- ""n"" is the conjunction ""and"".
+- ""kurigini"" – not sure, maybe a verb form?
+- ""haali"" in Hausa means ""now"" or ""current"".
+- ""bi"" could be ""for"" or ""because"".
+- ""lee"" might be ""to take"" or ""to hold"".
+- ""pegira"" – not a standard Hausa word, maybe a typo or dialectal term.
+
+Putting it together in Hausa:
+
+""Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.""
+
+Translating piece by piece:
+
+""Ibrahim is Saara has come to give and kurigini, currently, Saara has given and for to take and pegira.""
+
+This doesn't make much sense. Maybe ""zaa daa"" is a phrase. Alternatively, ""zaa"" as ""come"" and ""daa"" as ""give"" could mean ""has come to give"". ""kurigini"" might be a verb in the infinitive or a noun. ""Haali"" is ""now"". The second part ""Saara daa n bi lee n pegira"" could be ""Saara has given and for to take and pegira"".
+
+Alternatively, maybe ""kurigini"" is a place or a name. Maybe ""kurigini"" is a verb meaning ""to ask"" or something else. Without knowing the exact terms, it's hard. Alternatively, perhaps ""Hanga"" is a different language.
+
+Alternatively, maybe the user made a mistake and meant another language. Alternatively, perhaps it's a fictional language, but the user expects a translation based on the given words. Since the user insists on translating into English and returning only the translation in brackets, perhaps I should proceed with a rough translation based on possible meanings.
+
+Assuming ""ni"" is ""is"", ""Saara zaa daa n kurigini"" could be ""Saara comes to give and ask"", and ""haali"" is ""now"", ""Saara daa n bi lee n pegira"" could be ""Saara has given and for to take and protect"" or something similar. Maybe ""pegira"" is ""protect"".
+
+Putting it together:
+
+""Ibrahim is Saara, who comes to give and ask, currently, Saara has given and for to take and protect.""
+
+But this is very speculative. Alternatively, maybe ""kurigini"" is a place, so ""Ibrahim is Saara's guide to Daa and Kurigini, now Saara's..."".
+
+Alternatively, maybe ""daa"" is a pronoun like ""them"", so ""Saara zaa daa n kurigini"" could be ""Saara has come with them to Kurigini"".
+
+Alternatively, perhaps ""Ibrahim ni Saara zaa daa n kurigini"" means ""Ibrahim is Saara's companion to Daa and Kurigini"".
+
+The second part ""haali, Saara daa n bi lee n pegira"" might mean ""currently, Saara has them and for to take and protect"".
+
+Alternatively, maybe ""bi"" is ""me"", so ""Saara has given and for me to take and protect"".
+
+Given the uncertainty, perhaps the best approach is to translate each part as best as possible, even if it's a rough approximation. The user might be testing my ability to handle unknown languages or expecting a certain structure.
+
+Alternatively, maybe ""Hanga"" is a misspelling of ""Hangul"", but that's Korean script, which doesn't fit the text given. Alternatively, ""Hanga"" could be a dialect or a local term.
+
+Alternatively, perhaps the user provided a sample where ""Hanga"" is a placeholder, and the actual text is in a known language. Let me check the words again.
+
+Wait, ""kurigini"" – maybe ""kuri"" is ""ask"" in some languages, and ""gini"" could be a suffix. ""Pegira"" might be ""protect"" in some form.
+
+Alternatively, maybe it's a mix of Swahili and other languages? Let me check Swahili words:
+
+- ""ni"" is ""am/is/are"" in Swahili.
+- ""Saara"" could be a name.
+- ""zaa"" – in Swahili, ""zaa"" is ""to rise"" or ""to stand"".
+- ""daa"" – not a standard Swahili word.
+- ""n"" is ""and"".
+- ""kurigini"" – ""ku-"" is infinitive prefix, ""rigini"" – maybe ""to ask"" (Swahili ""kutaja"" is to ask, so maybe not).
+- ""haali"" in Swahili is ""state"" or ""condition"".
+- ""bi"" – Swahili doesn't have ""bi"" as a common word.
+- ""lee"" – ""li"" is past tense, ""lee"" might be a verb.
+- ""pegira"" – not a Swahili word.
+
+Hmm, maybe not Swahili. Alternatively, maybe it's a mix of languages or a constructed example.
+
+Given the uncertainty, perhaps the best approach is to provide a translation that makes sense based on possible interpretations, even if it's not precise. The user might expect something like:
+
+""Ibrahim is Saara's guide to Daa and Kurigini, currently, Saara has them and for me to take and protect.""
+
+Alternatively, maybe the structure is:
+
+""Ibrahim is Saara's companion to Daa and Kurigini, now Saara has them and for me to take and protect.""
+
+Alternatively, if ""pegira"" is ""to protect"", then maybe:
+
+""Ibrahim is Saara's guide to Daa and Kurigini; currently, Saara has them and for me to take and protect.""
+
+Alternatively, maybe ""bi"" is ""with"", so ""Saara has them with me to take and protect.""
+
+Alternatively, perhaps ""lee n pegira"" is ""to take and protect"".
+
+Putting it all together, the translation might be:
+
+""Ibrahim is Saara's guide to Daa and Kurigini, currently, Saara has them and for me to take and protect.""
+
+But this is very speculative. Since the user wants only the translation in brackets, I'll go with the best possible guess based on the structure and possible meanings, even if it's not perfect.
+</think>
+
+[Ibrahim",gerhardt_676E558A_output (6),
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu of the family, he united Rachel and Liya, but they did not heed, so he became their forgotten one.",gerhardt_676E558A_output (6),
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Now, Yakubu's time has come, he is going to Isawu's house in the village, he will go to Seya and Idom's place.",gerhardt_676E558A_output (6),
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Ka Naawunni says, ""Wealth gathered without wisdom and without the intention to plant seeds, they will come together in friendship, therefore, we will help each other strongly.""",gerhardt_107423D8_output (9),
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","I know that Naawunni's news you have not seen, mother, and those who go do not believe anything.",gerhardt_107423D8_output (9),
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.",something,gerhardt_107423D8_output (9),
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu of the people, he gathered Rachel and Liya, and they did not harm, so he is their forgiver.",gerhardt_107423D8_output (9),
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Yakubu went on his journey, but he went to Isawu's place instead, to perform Seya in Idom paaligu.",gerhardt_107423D8_output (9),
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Ka Naawunni says, ""Cheli's wealth is gathered, and the people, so they live in peace, they have their own strong foundation, therefore, they are prosperous and will continue to endure.""",gerhardt_E4F773B6_output (3),
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","Many of the Naawunni people lived peacefully, and those who came to their land...",gerhardt_E4F773B6_output (3),
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim is Saara's daughter who is coming; now, Saara's daughter and I meet.",gerhardt_E4F773B6_output (3),
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu of the people, he gathered Rachel and Liya, and they did not harm, so he is their forgiver.",gerhardt_E4F773B6_output (3),
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Listen now, Yakubu's time has come, but he went to Isawu's safe place, to protect Seya and the Idom village.",gerhardt_E4F773B6_output (3),
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","""Cheli's money has been stolen, but the owner remains unaware, and the thief is carefree, using the stolen goods without a trace of guilt.""",john_B0DBB2CB_output (4),
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","""Hello there, I have not seen you for a long time, but now I am happy to meet you.""",john_B0DBB2CB_output (4),
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim is Saara's current protector, now Saara is being looked after by him.",john_B0DBB2CB_output (4),
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Jacob is our father; he chose between Rachel and Leah, and he blessed them, so he gave them the blessing.",john_B0DBB2CB_output (4),
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","The king and the people, Yakubu's story continues, is at the place where they drink beer at Isawu's house, and see Seya and the Idom people's tradition.",john_B0DBB2CB_output (4),
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","""Cheli's money has been stolen, but the owner remains unaware, and the thief is carefree, using the stolen goods without a trace of guilt.""",gerhardt_E32D1C1E_output_mzX2S5,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","Hello there, it has been a long time since I last saw you, but now I am happy to meet you.",gerhardt_E32D1C1E_output_mzX2S5,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim is Saara's husband, now Saara is with me to go to the market.",gerhardt_E32D1C1E_output_mzX2S5,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Jacob, son of our mother, took Rachel and Leah as wives so that he might please them; therefore, he is blessed by him.",gerhardt_E32D1C1E_output_mzX2S5,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Yakubu's time has come, but he went to Isawu's place and returned to Seya and Idom paaligu.",gerhardt_E32D1C1E_output_mzX2S5,
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Cheli has accumulated wealth, but the debt remains; they take control, building a solid foundation, so they protect their household properly.",gerhardt_145C11AE_output (2),
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","Listen, people, the Naawunni dwell in the durinye land, and they journey inward to yabeniŋiniba.",gerhardt_145C11AE_output (2),
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Okay, let's tackle this translation request. The user wants me to translate some Hanga text into English and return only the translation inside square brackets. The input given is: ""Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.""
+
+First, I need to confirm what language ""Hanga"" refers to. Since I'm not familiar with a language called Hanga, maybe it's a typo or a less common name. Alternatively, it could be a dialect or a specific term used in a particular region. Let me think... Maybe Hanga is a misspelling of another language? Or perhaps it's a constructed language? Alternatively, maybe it's a local name for a language I'm not immediately recognizing.
+
+Alternatively, maybe ""Hanga"" here refers to a specific context or a code. Wait, the user mentioned ""Hanga text"" but didn't specify the language. Since I can't be sure, perhaps I should proceed by looking at the structure of the sentence provided. Let's look at the words:
+
+""Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.""
+
+Breaking it down:
+
+- ""Ibrahim"" is a common name, so that's probably the same in English.
+- ""ni"" could be a preposition or particle. In some African languages, ""ni"" might mean ""is"" or ""to be"".
+- ""Saara"" could be another name or a noun.
+- ""zaa"" might be a verb or an adjective.
+- ""daa"" could be a pronoun or another particle.
+- ""n"" might be a conjunction like ""and"".
+- ""kurigini"" could be a verb in some form.
+- ""haali"" might mean ""now"" or ""current"".
+- ""bi"" could be a pronoun or particle.
+- ""lee"" might be a verb or adjective.
+- ""pegira"" could be another verb or noun.
+
+Putting it together, maybe it's a sentence structure where Ibrahim is doing something with Saara. The phrase ""haali"" might indicate the present tense or current state. The repetition of ""Saara daa"" might be emphasizing something about Saara.
+
+Alternatively, maybe ""ni"" is ""is"", so ""Ibrahim is Saara..."" but that might not make sense. Alternatively, ""ni"" could mean ""with"" or ""and"". Let me try to parse it step by step.
+
+""Ibrahim ni Saara zaa daa n kurigini"" – perhaps ""Ibrahim and Saara are doing something (kurigini) with zaa daa?"" 
+
+Then ""haali, Saara daa n bi lee n pegira."" – ""Now, Saara daa and bi are...?"" Maybe ""bi"" is a pronoun like ""he"" or ""she"", so ""Saara and he are doing something (lee and pegira).""
+
+Alternatively, maybe ""haali"" is ""now"" so the second part is a current action.
+
+Putting it all together, maybe the translation is something like:
+
+""Ibrahim and Saara are working (kurigini) with zaa daa, now Saara and he are doing (lee) pegira.""
+
+But this is very speculative. Since I don't know the actual language structure, this is a guess. Alternatively, maybe ""kurigini"" is a verb meaning ""to work"" or ""to do"", and ""pegira"" could be a noun like ""task"" or ""project"".
+
+Alternatively, ""lee"" might mean ""to be"" or ""to have"".
+
+Alternatively, maybe ""bi"" is ""me"" or ""I"", so ""Saara and I are doing..."".
+
+Alternatively, perhaps ""daa"" is a possessive, like ""my"" or ""your"".
+
+This is quite challenging without knowing the language's grammar and vocabulary. Since the user is asking for a translation, perhaps they expect me to use my best guess based on possible interpretations, even if it's not accurate.
+
+Alternatively, maybe ""Hanga"" is a misspelling of ""Hangaza"" or another language. Let me check if there's a language called Hanga. A quick search in my mind... Hanga could be a dialect in some region, perhaps in Africa? Maybe in Kenya or Tanzania? Alternatively, it could be a fictional language.
+
+Alternatively, maybe ""Hanga"" refers to the Hangul script, but that's Korean writing, which doesn't fit here.
+
+Alternatively, perhaps the user made a typo and meant ""Hausa"" or another language. Let me see if the sentence structure resembles Hausa. In Hausa, ""ni"" can mean ""is"" or ""to be"". ""Saara"" could be a name. ""Zaa"" might be ""come"" (zaa is ""come"" in Hausa). ""Daa"" could be ""give"" (daa is ""give"" in Hausa). ""n"" is ""and"". ""Kurigini"" might be a verb. ""Haali"" could mean ""now"" (in Hausa, ""haali"" is ""now""). ""Bi"" could be ""I"" (bi is ""I"" in Hausa). ""Lee"" might be ""to do"" (like ""laya"" but maybe a different form). ""Pegira"" could be a noun.
+
+Putting that together in Hausa:
+
+""Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.""
+
+Translating:
+
+""Ibrahim is Saara come give and kurigini, now, Saara give and I do and pegira.""
+
+Hmm, that doesn't make much sense. Maybe ""zaa daa"" is a phrase. Alternatively, ""ni"" as ""is"" might not be correct here. Maybe ""ni"" is ""with"" in Hausa? Wait, ""na"" is ""and"", ""ni"" could be a different particle.
+
+Alternatively, maybe ""kurigini"" is a verb in Hausa. Let me think of possible verbs. ""Kurigi"" might be ""to work"" or ""to do"". So ""kurigini"" could be ""working"" or ""doing"".
+
+Putting it together:
+
+""Ibrahim and Saara are coming to give and working, now Saara gives and I am doing pegira.""
+
+Still a bit unclear. Maybe ""pegira"" is a task or project. Alternatively, ""lee"" could be ""to be"" (like ""laya"" is ""to be"", so ""lee"" might be a form).
+
+Alternatively, maybe the sentence is structured as:
+
+""Ibrahim ni Saara zaa daa n kurigini"" → ""Ibrahim and Saara are coming to give and working""
+
+""haali, Saara daa n bi lee n pegira."" → ""now Saara gives and I am doing pegira.""
+
+But without knowing the exact language structure, it's hard. Since the user is asking for a translation, perhaps I should proceed with the best possible guess, even if it's not perfect.
+
+Alternatively, maybe ""Hanga"" is a constructed language for a specific purpose, but without more context, I can't be sure.
+
+Alternatively, maybe the user made a mistake and the language is another one. Let me try another approach. Let's see the words again:
+
+""Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.""
+
+If I consider ""ni"" as ""is"", ""n"" as ""and"", then:
+
+""Ibrahim is Saara zaa daa and kurigini, now Saara daa and bi lee and pegira.""
+
+Maybe ""Saara zaa daa"" is a phrase meaning ""Saara's work"" or something. ""Kurigini"" could be a verb in past tense. ""Haali"" as ""now"", ""bi"" as ""me"", ""lee"" as ""to be"", ""pegira"" as a noun.
+
+Alternatively, maybe the first part is ""Ibrahim and Saara are working (kurigini) with zaa daa"", and the second part is ""now Saara and I are doing pegira.""
+
+Putting it all together in English:
+
+""Ibrahim and Saara are working on zaa daa, now Saara and I are doing pegira.""
+
+But I'm not sure about ""zaa daa"" or ""pegira"". Alternatively, maybe ""kurigini"" is the verb, so ""Ibrahim and Saara are working (kurigini) with zaa daa"", and the second part is ""now Saara and I are doing (lee) pegira.""
+
+Alternatively, ""lee"" could mean ""to have"", so ""Saara has pegira.""
+
+Alternatively, maybe ""pegira"" is a place or object.
+
+Since I can't be certain, I'll have to make an educated guess based on possible interpretations. The user might be expecting a translation even if it's approximate.
+
+Another angle: Maybe ""Hanga"" is a dialect where ""ni"" is ""with"", so ""Ibrahim with Saara..."" Then ""zaa daa"" could be a verb phrase. ""Kurigini"" might be a verb in past tense. ""Haali"" as ""now"", ""bi"" as ""me"", ""lee"" as ""to be"", ""pegira"" as a noun.
+
+Putting it together: ""Ibrahim and Saara were working on zaa daa, now Saara and I are doing pegira.""
+
+Alternatively, ""pegira"" could be a task or project name.
+
+Given the uncertainty, I'll proceed with the translation as best as possible, noting that without",gerhardt_145C11AE_output (2),
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu of the people, he gathered Rachel and Liya, and they did not harm, so he is their forgiver.",gerhardt_145C11AE_output (2),
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Yakubu's time has come, he is going to Isawu's house in the place, and he will proceed to Seya and Idom's camp.",gerhardt_145C11AE_output (2),
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”",,gerhardt_087BEB88_output_loRIsq,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.",,gerhardt_087BEB88_output_loRIsq,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.",,gerhardt_087BEB88_output_loRIsq,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.",,gerhardt_087BEB88_output_loRIsq,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.",,gerhardt_087BEB88_output_loRIsq,
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Ka Naawunni says, ""Wealth gathered without wisdom and without the intention to plant seeds, they will come together in friendship, therefore, we will help each other strongly.""",john_C904F397_output (2),
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.",Translation unavailable,john_C904F397_output (2),
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Okay, let's tackle this translation request. The user wants me to translate some Hanga text into English and return only the translation inside square brackets. The input given is: ""Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.""
+
+First, I need to confirm what language ""Hanga"" refers to. Since I'm not familiar with a language called Hanga, maybe it's a typo or a less common name. Alternatively, it could be a dialect or a specific term used in a particular region. Let me think... Maybe Hanga is a misspelling of another language? Or perhaps it's a constructed language? Alternatively, maybe it's a local name for a language I'm not immediately recognizing.
+
+Alternatively, maybe ""Hanga"" here refers to a specific context or a code. Wait, the user mentioned ""Hanga text"" but didn't specify the language. Since I can't be sure, perhaps I should proceed by looking at the structure of the sentence provided. Let's look at the words:
+
+""Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.""
+
+Breaking it down:
+
+- ""Ibrahim"" is a common name, so that's probably the same in English.
+- ""ni"" could be a preposition or particle. In some African languages, ""ni"" might mean ""is"" or ""to be"".
+- ""Saara"" could be another name or a noun.
+- ""zaa"" might be a verb or an adjective.
+- ""daa"" could be a pronoun or another particle.
+- ""n"" might be a conjunction like ""and"".
+- ""kurigini"" could be a verb in some form.
+- ""haali"" might mean ""now"" or ""current"".
+- ""bi"" could be a pronoun or particle.
+- ""lee"" might be a verb or adjective.
+- ""pegira"" could be another verb or noun.
+
+Putting it together, maybe it's a sentence structure where Ibrahim is doing something with Saara. The phrase ""haali"" might indicate the present tense or current state. The repetition of ""Saara daa"" might be emphasizing something about Saara.
+
+Alternatively, maybe ""ni"" is ""is"", so ""Ibrahim is Saara..."" but that might not make sense. Alternatively, ""ni"" could mean ""with"" or ""and"". Let me try to parse it step by step.
+
+""Ibrahim ni Saara zaa daa n kurigini"" – perhaps ""Ibrahim and Saara are doing something (kurigini) with zaa daa?"" 
+
+Then ""haali, Saara daa n bi lee n pegira."" – ""Now, Saara daa and bi are...?"" Maybe ""bi"" is a pronoun like ""he"" or ""she"", so ""Saara and he are doing something (lee and pegira).""
+
+Alternatively, maybe ""haali"" is ""now"" so the second part is a current action.
+
+Putting it all together, maybe the translation is something like:
+
+""Ibrahim and Saara are working (kurigini) with zaa daa, now Saara and he are doing (lee) pegira.""
+
+But this is very speculative. Since I don't know the actual language structure, this is a guess. Alternatively, maybe ""kurigini"" is a verb meaning ""to work"" or ""to do"", and ""pegira"" could be a noun like ""task"" or ""project"".
+
+Alternatively, ""lee"" might mean ""to be"" or ""to have"".
+
+Alternatively, maybe ""bi"" is ""me"" or ""I"", so ""Saara and I are doing..."".
+
+Alternatively, perhaps ""daa"" is a possessive, like ""my"" or ""your"".
+
+This is quite challenging without knowing the language's grammar and vocabulary. Since the user is asking for a translation, perhaps they expect me to use my best guess based on possible interpretations, even if it's not accurate.
+
+Alternatively, maybe ""Hanga"" is a misspelling of ""Hangaza"" or another language. Let me check if there's a language called Hanga. A quick search in my mind... Hanga could be a dialect in some region, perhaps in Africa? Maybe in Kenya or Tanzania? Alternatively, it could be a fictional language.
+
+Alternatively, maybe ""Hanga"" refers to the Hangul script, but that's Korean writing, which doesn't fit here.
+
+Alternatively, perhaps the user made a typo and meant ""Hausa"" or another language. Let me see if the sentence structure resembles Hausa. In Hausa, ""ni"" can mean ""is"" or ""to be"". ""Saara"" could be a name. ""Zaa"" might be ""come"" (zaa is ""come"" in Hausa). ""Daa"" could be ""give"" (daa is ""give"" in Hausa). ""n"" is ""and"". ""Kurigini"" might be a verb. ""Haali"" could mean ""now"" (in Hausa, ""haali"" is ""now""). ""Bi"" could be ""I"" (bi is ""I"" in Hausa). ""Lee"" might be ""to do"" (like ""laya"" but maybe a different form). ""Pegira"" could be a noun.
+
+Putting that together in Hausa:
+
+""Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.""
+
+Translating:
+
+""Ibrahim is Saara come give and kurigini, now, Saara give and I do and pegira.""
+
+Hmm, that doesn't make much sense. Maybe ""zaa daa"" is a phrase. Alternatively, ""ni"" as ""is"" might not be correct here. Maybe ""ni"" is ""with"" in Hausa? Wait, ""na"" is ""and"", ""ni"" could be a different particle.
+
+Alternatively, maybe ""kurigini"" is a verb in Hausa. Let me think of possible verbs. ""Kurigi"" might be ""to work"" or ""to do"". So ""kurigini"" could be ""working"" or ""doing"".
+
+Putting it together:
+
+""Ibrahim and Saara are coming to give and working, now Saara gives and I am doing pegira.""
+
+Still a bit unclear. Maybe ""pegira"" is a task or project. Alternatively, ""lee"" could be ""to be"" (like ""laya"" is ""to be"", so ""lee"" might be a form).
+
+Alternatively, maybe the sentence is structured as:
+
+""Ibrahim ni Saara zaa daa n kurigini"" → ""Ibrahim and Saara are coming to give and working""
+
+""haali, Saara daa n bi lee n pegira."" → ""now Saara gives and I am doing pegira.""
+
+But without knowing the exact language structure, it's hard. Since the user is asking for a translation, perhaps I should proceed with the best possible guess, even if it's not perfect.
+
+Alternatively, maybe ""Hanga"" is a constructed language for a specific purpose, but without more context, I can't be sure.
+
+Alternatively, maybe the user made a mistake and the language is another one. Let me try another approach. Let's see the words again:
+
+""Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.""
+
+If I consider ""ni"" as ""is"", ""n"" as ""and"", then:
+
+""Ibrahim is Saara zaa daa and kurigini, now Saara daa and bi lee and pegira.""
+
+Maybe ""Saara zaa daa"" is a phrase meaning ""Saara's work"" or something. ""Kurigini"" could be a verb in past tense. ""Haali"" as ""now"", ""bi"" as ""me"", ""lee"" as ""to be"", ""pegira"" as a noun.
+
+Alternatively, maybe the first part is ""Ibrahim and Saara are working (kurigini) with zaa daa"", and the second part is ""now Saara and I are doing pegira.""
+
+Putting it all together in English:
+
+""Ibrahim and Saara are working on zaa daa, now Saara and I are doing pegira.""
+
+But I'm not sure about ""zaa daa"" or ""pegira"". Alternatively, maybe ""kurigini"" is the verb, so ""Ibrahim and Saara are working (kurigini) with zaa daa, now Saara and I are doing (lee) pegira.""
+
+Alternatively, maybe ""lee n pegira"" is ""doing pegira"".
+
+Since the user wants the translation inside square brackets, I'll go with the best possible guess even if it's not perfect. Maybe the key elements are the names and the structure indicating actions between Ibrahim and Saara, with some verbs and nouns that can be translated as placeholders.
+
+Another angle: ""kurigini"" might be ""together"" or ""collaborate"", ""pegira"" could be ""project"" or ""task"".
+
+Final attempt:
+
+""Ibrahim and Saara are collaborating on zaa daa, now Saara and I are handling pegira.""
+
+But I'm not confident. Alternatively, maybe ""haali"" is ""currently"", so ""Ibrahim and Saara are currently working on zaa daa, now Saara and I are doing pegira.""
+
+Alternatively, ""pegira"" could be a verb meaning ""to finish"" or ""complete"".
+
+Alternatively, maybe ""bi"" is ""me"", so ""Saara and I are doing..."".
+
+Given the uncertainty, I",john_C904F397_output (2),
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu of the people, he gathered Rachel and Liya, and they did not harm, so he is their forgiver.",john_C904F397_output (2),
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Yakubu's time has come, he is going to Isawu's house in the place, he will go to Seya and Idom's paaligu.",john_C904F397_output (2),
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","""Cheli's money has been stolen, but the owner remains unaware, and the thief is carefree, using the stolen goods without a trace of guilt.""",onesimus_E33AE420_Dec 11 output,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","Hello there, it has been a long time since I last saw you, but now I am happy to meet you.",onesimus_E33AE420_Dec 11 output,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim is with Saara, who is now going to leave.",onesimus_E33AE420_Dec 11 output,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu of the family, he brought together Rachel and Leah, and they did not harm, so he is their forgiver because of that.",onesimus_E33AE420_Dec 11 output,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Now, Yakubu's time has come; he is going to Isawu's house in the place, and he will go to Seya and Idom's paaligu.",onesimus_E33AE420_Dec 11 output,
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","When Naawunni recounted the tale, ""Cheli, the thief of the treasure, the owner, to protect it, went deep into the forest, and thus, the guardian spirit cursed the forbidden region.""",onesimus_48E85B7F_Dec 09 output,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","Many, the Naawunni people dwell in the durinye land, and they proceed inward to yabeniŋiniba.",onesimus_48E85B7F_Dec 09 output,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim is Saara's son, currently Saara has given him to be raised.",onesimus_48E85B7F_Dec 09 output,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu's blessing is that he is called Rachel and Liya, their praise is established, so he is blessed.",onesimus_48E85B7F_Dec 09 output,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Niŋi and Yakubu, along with their followers, but the path they took led them to Isawu's strong place, to perform Seya in Idom's village.",onesimus_48E85B7F_Dec 09 output,
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Cheli has accumulated wealth, but the debt remains; they take control, building a solid foundation, so they protect their household properly.",Dec 01 output,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","Listen, people, the Naawunni dwell in the durinye land, and they journey inward to yabeniŋiniba.",Dec 01 output,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Okay, let's tackle this translation request. The user wants me to translate some Hanga text into English and return only the translation inside square brackets. The input given is: ""Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.""
+
+First, I need to confirm what language ""Hanga"" refers to. Since I'm not familiar with a language called Hanga, maybe it's a typo or a less common name. Alternatively, it could be a dialect or a specific term used in a particular region. Let me think... Maybe Hanga is a misspelling of another language? Or perhaps it's a constructed language? Alternatively, maybe it's a local name for a language I'm not immediately recognizing.
+
+Alternatively, maybe ""Hanga"" here refers to a specific context or a code. Wait, the user mentioned ""Hanga text"" but didn't specify the language. Since I can't be sure, perhaps I should proceed by looking at the structure of the sentence provided. Let's look at the words:
+
+""Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.""
+
+Breaking it down:
+
+- ""Ibrahim"" is a common name, so that's probably the same in English.
+- ""ni"" could be a preposition or particle. In some African languages, ""ni"" might mean ""is"" or ""to be"".
+- ""Saara"" could be another name or a noun.
+- ""zaa"" might be a verb or an adjective.
+- ""daa"" could be a pronoun or another particle.
+- ""n"" might be a conjunction like ""and"".
+- ""kurigini"" could be a verb in some form.
+- ""haali"" might mean ""now"" or ""current"".
+- ""bi"" could be a pronoun or particle.
+- ""lee"" might be a verb or adjective.
+- ""pegira"" could be another verb or noun.
+
+Putting it together, maybe it's a sentence structure where Ibrahim is doing something with Saara. The phrase ""haali, Saara daa n bi lee n pegira"" might be contrasting or adding more information.
+
+Alternatively, maybe ""Hanga"" is a dialect or a local language where ""ni"" is ""is"", so ""Ibrahim ni Saara..."" would be ""Ibrahim is Saara..."". But ""Saara zaa daa n kurigini"" could be ""Saara is doing something with kurigini"". The second part ""haali"" might mean ""now"" or ""currently"", so ""now Saara daa n bi lee n pegira"".
+
+Wait, perhaps ""daa"" is a form of ""to be"" or ""to have"". Maybe ""Saara daa n bi"" means ""Saara has or is with bi"". ""Lee n pegira"" could be ""leaving"" or ""going"".
+
+Alternatively, maybe ""kurigini"" is a place or an action. Without knowing the exact language, it's challenging, but perhaps I can make an educated guess based on common structures.
+
+Alternatively, maybe ""Hanga"" is a fictional language, but the user expects a translation. Since the user is asking for the translation, perhaps they have a specific context where ""Hanga"" is a known term. Maybe it's a typo for ""Hausa""? Let me check Hausa language elements.
+
+In Hausa, ""ni"" is ""is"" (like ""ya ni"" means ""he is""). ""Saara"" could be a name. ""Zaa"" might mean ""to come"". ""Daa"" could be ""to give"". ""Kurigini"" might be a verb in some form. ""Haali"" in Hausa is ""now"". ""Bi"" could be ""you"" (plural). ""Lee"" might be ""to take"" or ""to hold"". ""Pegira"" could be a noun or verb.
+
+Putting that together: ""Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.""
+
+In Hausa, maybe:
+
+""Ibrahim is Saara who comes to give... kurigini, now, Saara gives to you take pegira.""
+
+But that might not make sense. Alternatively, maybe ""Ibrahim is Saara's zaa (coming) daa (give) to kurigini, now, Saara daa (give) to you (bi) take (lee) pegira.""
+
+Alternatively, perhaps ""kurigini"" is a place, so ""coming to give to kurigini"". The second part could be ""now Saara gives to you to take pegira"".
+
+Alternatively, maybe ""pegira"" is a name or an object. Without more context, it's hard. Alternatively, maybe ""lee n pegira"" is ""and pegira"".
+
+Alternatively, maybe the sentence is about Ibrahim and Saara's actions. Since the user wants the translation in English, perhaps the best approach is to translate each part as best as possible, even if it's not perfect, given the uncertainty of the source language.
+
+Alternatively, maybe ""Hanga"" is a misspelling of ""Hangul"", but that's Korean writing, which doesn't fit the text given. Alternatively, maybe it's a typo for ""Hindi"", but the words don't match Hindi.
+
+Alternatively, maybe ""Hanga"" is a local language from a specific region. Since I can't confirm, perhaps I should proceed with the assumption that it's a constructed language or a fictional one, and the user expects a plausible translation.
+
+Alternatively, maybe the user made a mistake in the language name, and it's actually another language. Let me think of other possibilities. Maybe ""Hanga"" is a dialect of Swahili? Swahili uses ""ni"" for ""is"", so ""Ibrahim ni Saara..."" would be ""Ibrahim is Saara..."". But ""zaa"" might not be Swahili. Alternatively, maybe it's a mix of languages.
+
+Alternatively, perhaps the user is referring to the Hanga language, which I'm not familiar with. A quick search in my mind: Hanga is spoken in Papua New Guinea, but I'm not sure. Let me think: Hanga is an Austronesian language spoken in New Ireland Province, Papua New Guinea. If that's the case, then maybe I can find some grammar points.
+
+In Hanga, ""ni"" might be a possessive particle. ""Saara"" could be a name. ""Zaa"" might be a verb. ""Daa"" could be a preposition. ""Kurigini"" might be a noun. ""Haali"" could mean ""now"". ""Bi"" might be a pronoun. ""Lee"" could be a verb. ""Pegira"" another noun.
+
+Alternatively, maybe the sentence structure is Subject-Verb-Object. So ""Ibrahim ni Saara zaa daa n kurigini"" could be ""Ibrahim is Saara who comes to give to kurigini"". The second part ""haali, Saara daa n bi lee n pegira"" could be ""now, Saara gives to you to take pegira"".
+
+Putting it all together: ""Ibrahim is Saara who comes to give to kurigini, now Saara gives to you to take pegira.""
+
+Alternatively, maybe ""daa n"" is ""and"", so ""Ibrahim ni Saara zaa, daa n kurigini"" meaning ""Ibrahim is Saara who comes and kurigini"". But without knowing the exact words, it's tricky.
+
+Alternatively, perhaps ""kurigini"" is a verb in the infinitive, so ""to kurigini"". Maybe ""kurigini"" means ""to protect"" or something. ""Pegira"" could be an object like ""the gift"".
+
+Alternatively, maybe the translation is something like: ""Ibrahim is Saara's zaa (maybe a title?), and kurigini. Currently, Saara and you are taking pegira.""
+
+Alternatively, given the uncertainty, perhaps the best approach is to provide a translation that makes sense in English while keeping the structure as close as possible, even if some words are guessed.
+
+Alternatively, maybe the user expects a direct translation of each word, even if it's not grammatically correct in English. Let me try that:
+
+""Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.""
+
+Translating each word:
+
+- Ibrahim: Ibrahim
+- ni: is
+- Saara: Saara
+- zaa: (unknown, maybe verb)
+- daa: (maybe ""to give"")
+- n: and
+- kurigini: (unknown, maybe a noun)
+- haali: now
+- Saara: Saara
+- daa: to give
+- n: and
+- bi: you
+- lee: (maybe ""to take"")
+- n: and
+- pegira: (unknown, maybe an object)
+
+Putting it together: ""Ibrahim is Saara zaa to give and kurigini, now Saara to give and you take and pegira.""
+
+That's a bit fragmented. Maybe rephrasing: ""Ibrahim is Saara who comes to give to kurigini. Now, Saara gives to you to take pegira.""
+
+Alternatively, maybe ""zaa daa n kurigini"" is ""comes to give to kurigini"", and ""bi lee n pegira"" is ""you take pegira"".
+
+So the translation could be: ""Ibrahim is Saara who comes to give to kurigini; now, Saara gives",Dec 01 output,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu of the people, he gathered Rachel and Liya, and they did not harm, so he is their forgiver.",Dec 01 output,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Now, Yakubu's time has come, he is heading to Isawu's house in the village, and he will reach Seya and Idom's place.",Dec 01 output,
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Ka Naawunni says, ""Wealth gathered without wisdom and without the intention to plant seeds, they will come together in friendship, therefore, we will help each other strongly.""",gerhardt_80805CFE_output_7z6RFo,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","Many, Naawunni's people live in peace, and the people gather there.",gerhardt_80805CFE_output_7z6RFo,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.",Ibrahim is Saara who has come to give and ask; now Saara has come with and see pegira.,gerhardt_80805CFE_output_7z6RFo,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu of the family, he took Rachel and Leah with him, and they were not harmed, so he is their protector and blessing.",gerhardt_80805CFE_output_7z6RFo,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Today, my friend, Yakubu's time has ended, but the path he took is returning to Isawu's village, he went to Seya and the Idom's journey.",gerhardt_80805CFE_output_7z6RFo,
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","""Cheli's money has been stolen, but the owner remains unaware, and the thief is carefree, using the stolen goods without a trace of guilt.""",Dec 06 output,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","Hello there, it has been a long time since I last saw you, but now I am happy to meet you.",Dec 06 output,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim is Saara's husband, now Saara is with me to go to the market.",Dec 06 output,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Jacob, son of our mother, took Rachel and Leah as wives so that he might please them; therefore, he is blessed by him.",Dec 06 output,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Yakubu's time has come, but he went to Isawu's place and returned to Seya and Idom paaligu.",Dec 06 output,
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Ka Naawunni says, ""Wealth gathered without wisdom and without the intention to plant seeds, they will come together in friendship, therefore, we will help each other strongly.""",onesimus_C6D92021_Dec 02 output,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.",Translation unavailable,onesimus_C6D92021_Dec 02 output,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim is Saara's son, currently Saara has given him to be raised.",onesimus_C6D92021_Dec 02 output,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu's blessing is that he is called Rachel and Liya, their praise is established, so he is blessed.",onesimus_C6D92021_Dec 02 output,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Niŋi and Yakubu, along with their followers, but the path they took led them to Isawu's strong place, to perform Seya in Idom's village.",onesimus_C6D92021_Dec 02 output,
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Ka Naawunni says, ""Wealth gathered without wisdom and without the intention to plant seeds, they will come together in friendship, therefore, we will help each other strongly.""",Jan output 1 ,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.",Translation unavailable,Jan output 1 ,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim is Saara's son, currently Saara has given him to be raised.",Jan output 1 ,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu's blessing is that he is called Rachel and Liya, their praise is established, so he is blessed.",Jan output 1 ,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Niŋi and Yakubu, along with their followers, but the path they took led them to Isawu's strong place, to perform Seya in Idom's village.",Jan output 1 ,
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”",Translation unavailable,onesimus_5B146D14_Dec 05 output,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","The Naawunni people live there in Durinye, and they go to gather many things.",onesimus_5B146D14_Dec 05 output,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim is Saara's husband, now Saara is with me to go to the market.",onesimus_5B146D14_Dec 05 output,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Jacob, son of our mother, took Rachel and Leah as wives so that he might please them; therefore, he is blessed by him.",onesimus_5B146D14_Dec 05 output,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.",Translation unavailable,onesimus_5B146D14_Dec 05 output,
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Naawunni says, ""Wealth is gathered through deceit, but with true friends, so drink deeply, take a firm hand on the path; therefore, open your heart and speak truthfully.""",gerhardt_428C0151_output_jQjr1f,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.",Translation unavailable,gerhardt_428C0151_output_jQjr1f,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim is Saara's companion who goes to give to Kurigini, however, Saara gives and sees and protects.",gerhardt_428C0151_output_jQjr1f,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu is with us, he went to meet Rachel and Leah, but he hasn’t returned yet, so he is not here now.",gerhardt_428C0151_output_jQjr1f,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Niŋi and Yakubu, along with their followers, but the path they took led them to Isawu's strong place, to perform Seya in Idom's village.",gerhardt_428C0151_output_jQjr1f,
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Ka Naawunni said, ""Cheli's money is insufficient, but the ŋmaani, to buy daama, they say koom puu koroto niŋi, therefore, they endure buŋkobiri completely.""",gerhardt_E4DFEBFE_output_T8d1lo,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","I am here in Naawunni, waiting during the news, and we proceed together along the path.",gerhardt_E4DFEBFE_output_T8d1lo,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim is Saara's husband, now Saara is with me to go to the market.",gerhardt_E4DFEBFE_output_T8d1lo,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Jacob, son of our mother, took Rachel and Leah as wives so that he might please them; therefore, he is blessed by him.",gerhardt_E4DFEBFE_output_T8d1lo,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Yakubu's time has come, but he went to Isawu's place and returned to Seya and Idom paaligu.",gerhardt_E4DFEBFE_output_T8d1lo,
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Ka Naawunni says, ""Wealth gathered without wisdom and without the intention to plant seeds, they will come together in friendship, therefore, we will help each other strongly.""",onesimus_4838858E_Jan output 1 ,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.",Translation unavailable,onesimus_4838858E_Jan output 1 ,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim is Saara's son, currently Saara has given him to be raised.",onesimus_4838858E_Jan output 1 ,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu's blessing is that he is called Rachel and Liya, their praise is established, so he is blessed.",onesimus_4838858E_Jan output 1 ,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Niŋi and Yakubu, along with their followers, but the path they took led them to Isawu's strong place, to perform Seya in Idom's village.",onesimus_4838858E_Jan output 1 ,
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Ka Naawunni says, ""Cheli has accumulated wealth, but the debt remains; they take control, build a solid foundation, thus ensuring the protection of their household.""",gerhardt_2F3FAF10_output (1),
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","Listen, people, the Naawunni dwell in the durinye land, and they journey inward to yabeniŋiniba.",gerhardt_2F3FAF10_output (1),
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.",something,gerhardt_2F3FAF10_output (1),
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu's blessing is that he is called Rachel and Liya, their praise is established, so he is blessed.",gerhardt_2F3FAF10_output (1),
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Niŋi and Yakubu, along with their followers, but the path they took led them to Isawu's strong place, to perform Seya in Idom's village.",gerhardt_2F3FAF10_output (1),
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","""Cheli's money has been stolen, but the owner remains unaware, and the thief is carefree, using the stolen goods without a trace of guilt.""",onesimus_778C5456_Dec 06 output,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","Hello there, it has been a long time since I last saw you, but now I am happy to meet you.",onesimus_778C5456_Dec 06 output,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim is Saara's husband, now Saara is with me to go to the market.",onesimus_778C5456_Dec 06 output,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Jacob, son of our mother, took Rachel and Leah as wives so that he might please them; therefore, he is blessed by him.",onesimus_778C5456_Dec 06 output,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Yakubu's time has come, but he went to Isawu's place and returned to Seya and Idom paaligu.",onesimus_778C5456_Dec 06 output,
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Cheli has accumulated wealth, but the debt remains; they take control, building a solid foundation, so they protect their household properly.",gerhardt_E3C23636_output_AHjhdB,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","Listen, people, the Naawunni dwell in the durinye land, and they journey inward to yabeniŋiniba.",gerhardt_E3C23636_output_AHjhdB,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim and Saara are working on something together, now Saara and I are handling the task.",gerhardt_E3C23636_output_AHjhdB,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Jacob, the blessed one, called Rachel and Leah; their peace has been granted, so he multiplies their offspring.",gerhardt_E3C23636_output_AHjhdB,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Yakubu's time has come, he is going to Isawu's house in the place, he will go to Seya and Idom's paaligu.",gerhardt_E3C23636_output_AHjhdB,
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Cheli has accumulated wealth, but the debt remains; they take control, building a solid foundation, so they protect their household properly.",Dec 12 output,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","Listen, people, the Naawunni dwell in the durinye land, and they proceed inward to yabeniŋiniba.",Dec 12 output,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim is Saara's son, currently Saara has given him to be raised.",Dec 12 output,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu of the people, he gathered Rachel and Liya, and they did not harm, so he is their forgiver.",Dec 12 output,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Now listen, Yakubu's time has come; he is heading to Isawu's western home and will reach Seya and Idom's location.",Dec 12 output,
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”","Ka Naawunni says, ""Wealth is gathered through patience, with a focused mind, planting seeds, they gather abundant fruit; therefore, their enduring strength comes from their hard work.""",onesimus_CF2838B3_Dec 03 output,
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","We are here, the people of Naawunni dwell in this place, and those who come will gather together.",onesimus_CF2838B3_Dec 03 output,
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Okay, let's tackle this translation request. The user wants me to translate some Hanga text into English and return only the translation inside square brackets. The input given is: ""Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.""
+
+First, I need to confirm what language ""Hanga"" refers to. Since I'm not familiar with a language called Hanga, maybe it's a typo or a less common name. Alternatively, it could be a dialect or a specific term used in a particular region. Let me think... Maybe Hanga is a misspelling of another language? Or perhaps it's a constructed language? Alternatively, maybe it's a local name for a language I'm not immediately recognizing.
+
+Alternatively, maybe ""Hanga"" here refers to a specific context or a code. Wait, the user mentioned ""Hanga text"" but didn't specify the language. Since I can't be sure, perhaps I should proceed by looking at the structure of the sentence provided. Let's look at the words:
+
+""Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.""
+
+Breaking it down:
+
+- ""Ibrahim"" is a common name, so that's probably the same in English.
+- ""ni"" could be a preposition or particle. In some African languages, ""ni"" might mean ""is"" or ""to be"".
+- ""Saara"" could be another name or a noun.
+- ""zaa"" might be a verb or an adjective.
+- ""daa"" could be a pronoun or another particle.
+- ""n"" might be a conjunction like ""and"".
+- ""kurigini"" could be a verb in some form.
+- ""haali"" might mean ""now"" or ""current"".
+- ""bi"" could be a pronoun or particle.
+- ""lee"" might be a verb or adjective.
+- ""pegira"" could be another verb or noun.
+
+Putting it together, maybe it's a sentence structure where Ibrahim is doing something with Saara. The phrase ""haali"" might indicate the present tense or current state. The repetition of ""Saara daa"" might be emphasizing something about Saara.
+
+Alternatively, maybe ""ni"" is ""is"", so ""Ibrahim is Saara..."" but that might not make sense. Alternatively, ""ni"" could mean ""with"" or ""to"". Let me try to parse it step by step.
+
+Assuming ""ni"" is ""is"", then ""Ibrahim is Saara..."" but that would mean Ibrahim is Saara, which might not be the case. Alternatively, ""ni"" could be a possessive, like ""Ibrahim's Saara..."" but that's unclear.
+
+Alternatively, maybe ""Saara zaa daa"" is a phrase meaning ""Saara's daughter"" or something similar. ""kurigini"" could be a verb like ""coming"" or ""arriving"". ""haali"" as ""now"" or ""currently"". Then ""Saara daa n bi lee n pegira"" might be ""Saara's daughter and her something"".
+
+Alternatively, perhaps ""pegira"" is a verb meaning ""to leave"" or ""to go"", so ""Saara is leaving with..."".
+
+This is getting a bit confusing. Maybe I should look for patterns or possible translations. Alternatively, maybe ""Hanga"" is a language spoken in a specific region. Let me check if there's a language called Hanga. A quick search in my mind... Hanga is a language spoken in the Democratic Republic of the Congo, part of the Bantu family. Let me confirm that.
+
+Yes, Hanga is indeed a Bantu language spoken in the DRC. Knowing that, I can try to use Bantu language structures to parse the sentence. In Bantu languages, verbs often have prefixes that agree with the subject, and nouns have class prefixes.
+
+Breaking down the sentence again with Bantu structure in mind:
+
+""Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.""
+
+- ""ni"" in some Bantu languages can mean ""is"" (like ""ni"" in Swahili for ""is"", but Swahili is different). Alternatively, ""ni"" could be a possessive pronoun. Wait, in some Bantu languages, ""ni"" can mean ""to be"", but let's see.
+
+Looking at the structure ""Ibrahim ni Saara..."" maybe ""ni"" is ""is"", so ""Ibrahim is Saara..."" but that would imply they are the same person, which is unlikely. Alternatively, ""ni"" could be a preposition like ""with"".
+
+Alternatively, ""Saara zaa daa"" might be a noun phrase. In Bantu, ""zaa"" could be a possessive prefix, like ""her"" or ""his"". For example, ""zaa"" might be the possessive for the third person plural or singular. Let's think: in some Bantu languages, ""zaa"" could mean ""their"" or ""his/her"".
+
+So ""Saara zaa daa"" could mean ""Saara's daughter"" if ""daa"" is ""daughter"". Then ""n kurigini"" might be ""and coming"" or ""and arrived"".
+
+""haali"" could mean ""now"" or ""currently"".
+
+Then the second part: ""Saara daa n bi lee n pegira."" Maybe ""Saara's daughter and her something"".
+
+Alternatively, ""bi"" could be a pronoun, like ""she"" or ""her"". ""lee"" might be a verb like ""to go"" or ""to leave"". ""pegira"" could be a verb in past tense.
+
+Putting it all together, maybe the sentence is: ""Ibrahim is Saara's daughter who has come, now, Saara's daughter and her... left?""
+
+Alternatively, perhaps the first part is ""Ibrahim is Saara's daughter who came here, currently, Saara's daughter and her... left.""
+
+Alternatively, maybe ""kurigini"" is a verb meaning ""to come"", so ""has come"". ""pegira"" could be ""to leave"" in past tense.
+
+Another approach: Let's look for possible translations of individual words. Maybe ""kurigini"" is ""coming"" (from ""kura"" or similar roots?), and ""pegira"" could be ""left"".
+
+Alternatively, ""haali"" is ""now"", so the structure might be ""Ibrahim is Saara's daughter who came here now, Saara's daughter and her... left.""
+
+Alternatively, maybe the sentence is saying that Ibrahim is Saara's daughter who came, and now Saara's daughter and her something left.
+
+Alternatively, perhaps ""bi"" is ""she"", so ""Saara's daughter and she went to leave"".
+
+Alternatively, maybe ""lee n pegira"" is ""left to go"" or ""left going"".
+
+Putting it all together, maybe the translation is: ""Ibrahim is Saara's daughter who came here, now Saara's daughter and her... left."" But the second part is unclear. The user might have a typo or missing words.
+
+Alternatively, maybe ""n bi lee n pegira"" is ""and her leaving"". So ""Saara's daughter and her leaving"".
+
+Alternatively, maybe ""pegira"" is ""to leave"", so ""Saara's daughter and her leaving"".
+
+Alternatively, perhaps the full translation is: ""Ibrahim is Saara's daughter who came here, now Saara's daughter and her companion left.""
+
+But without more context, it's challenging. Alternatively, maybe ""kurigini"" is ""arrived"", so ""Ibrahim is Saara's daughter who arrived, now Saara's daughter and her... left.""
+
+Alternatively, maybe ""bi"" is ""her"", so ""Saara's daughter and her went to leave"".
+
+Alternatively, perhaps ""lee n pegira"" is ""left to go"".
+
+Alternatively, maybe the sentence is about Ibrahim being Saara's daughter who came, and now Saara's daughter and her (bi) left.
+
+Alternatively, perhaps ""n bi"" is ""and her"", so ""Saara's daughter and her left"".
+
+Putting it all together, the translation might be:
+
+""Ibrahim is Saara's daughter who came here; now, Saara's daughter and her left.""
+
+But I'm not entirely sure. Alternatively, maybe ""pegira"" is ""left"" as in past tense, so ""Saara's daughter and her left"".
+
+Alternatively, maybe ""kurigini"" is ""arrived"", so ""Ibrahim is Saara's daughter who arrived here; now, Saara's daughter and her left.""
+
+Alternatively, perhaps ""haali"" is ""now"", so the structure is ""Ibrahim is Saara's daughter who came here now, Saara's daughter and her left.""
+
+Alternatively, maybe ""n"" is ""and"", so ""Saara's daughter and her left"".
+
+Alternatively, maybe ""bi lee n pegira"" is ""she went to leave"".
+
+Alternatively, perhaps the sentence is saying that Ibrahim is Saara's daughter who came, and now Saara's daughter and her companion left.
+
+Alternatively, maybe ""pegira"" is ""to leave"", so ""Saara's daughter and her left"".
+
+Given the uncertainty, but trying to make the best sense, perhaps the translation is:
+
+""Ibrahim is Saara's daughter who came here; now, Saara's daughter and her left.""
+
+Alternatively, maybe ""kurigini"" is ""coming"", so ""has come"".
+
+Alternatively, maybe ""Ibrahim ni Saara zaa daa n kurigini"" translates to ""Ibrahim is Saara's daughter who came here"", and the second part ""haali, Saara daa",onesimus_CF2838B3_Dec 03 output,
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Yakubu of the people, he gathered Rachel and Liya, and they did not harm, so he is their forgiver.",onesimus_CF2838B3_Dec 03 output,
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Now, Yakubu's time has come; he is going to Isawu's house in the place, and he will proceed to Seya and Idom's paaligu.",onesimus_CF2838B3_Dec 03 output,
+"God said, “Now we will make humans, and they will be like us. We will let them rule the fish, the birds, and all other living creatures.”","Ka Naawunni lee n yeli, “Cheli ti maali nisaaladima, ba ŋmaani ti, ka mari daama, a yi koom puu koroto niŋi, niinsi, a ni tiŋgbaŋŋu buŋkobiri zaa niŋi.”",Translation unavailable,john_BA3F5F9A_output (3),
+God knew that everyone was terribly cruel and violent.,"Niŋi n na, Naawunni nyaasi durinye niriba maa, ka ba zaa niŋini yabeniŋiniba.","We and the Naawunni, who came to durinye, did something there, and they went to niŋini to yabeniŋiniba.",john_BA3F5F9A_output (3),
+"Abraham and Sarah were very old, and Sarah was well past the age for having children.","Ibrahim ni Saara zaa daa n kurigini, haali, Saara daa n bi lee n pegira.","Ibrahim and Saara came to meet, now Saara came and saw the pegira.",john_BA3F5F9A_output (3),
+"Jacob sent for Rachel and Leah to meet him in the pasture where he kept his sheep,","Yakubu ni wumi n ŋa, o tolimi n yeli Rachel ni Liya, ni ba ta o saani, seela o ni buŋkobiri n be la.","Jacob, son of our mother, took Rachel and Leah as wives so that he might please them; therefore, he is blessed by him.",john_BA3F5F9A_output (3),
+"Jacob sent messengers on ahead to Esau, who lived in the land of Seir, also known as Edom.","Niŋi n na, Yakubu tumi o tumusi, ba pa yii we o beeri Isawu saani, a yi Seya n ba Idom paaligu.","Yakubu's time has come, to the place where Isawu's beer is, to bring Seya to Idom paaligu.",john_BA3F5F9A_output (3),

@@ -1,14 +1,424 @@
-ref,text,translated,similarity_score,source_zip_file
-"Let my share be the food that my men have eaten. But Aner, Eshcol, and Mamre went with me, so give them their share of what we brought back.","gyedɛ dza mberantsɛ no edzi no nko, na Aner, Eskol nye Mamre a wɔnye me kɔree no hɔn kyɛpɛn.","Therefore, when they came to Mberantsɛ, they stayed there, and Aner, Eskol, and Mamre, who were with them there because...",0.51857716,output_jonathan
-"Jacob, also known as Israel, traveled to the south of Eder Tower, where he set up camp.","Na Israel tui, na ɔkɔbɔɔ n’asesee wɔ Eder abantsentsen ekyir noho.","On Israel's side, they came to their rest with Edgar among the strangers there.",0.52607346,output_jonathan
-Cook some of that tasty food that I love so much and bring it to me. I want to eat it once more and give you my blessing before I die.”,"na yɛ me edziban a ɔyɛ huam, dɛ mbrɛ mepɛ, na fa brɛ me, ma mindzi; na me kra nhyira wo ana mewu.","My problem is difficult; let me take care of myself and you take care of me, but I must endure; and I beg you for mercy for my soul.",0.45388144,output_jonathan
-"You didn't have much before I came, but the Lord has blessed everything I have ever done for you. Now it's time for me to start looking out for my own family.","Na mebae no, nna kumaabi na ewɔ, nna ɔadɔr ɔayɛ pii yi; na EWURADZE ehyira wo wɔ beebiara a mefae: na afei aber bɛn na mobɔhwɛ mara me fie so?","And my child, you must listen and come, you must know and see clearly; for EWURADZE has placed you on the path I have made: why do you question my way?",0.39240193,output_jonathan
-"Abraham, you and all future members of your family must promise to obey me.","Na Nyankopɔn see Abraham dɛ, ɔwo dze, sie m’ahyɛmu, ɔwo nye w’asefo a wodzi w’ekyir, wɔ hɔn mbasantsen mu.","And God, because Abraham tested my faith, he chose your people whom you led to the land, they are in Mbasantsen.",0.585333,output_jonathan
-So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.","And God comes with mercy on the earth so that they may, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.",0.32660067081451416,output_mich003
-"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.",Ewuradze is the foundation of the earth and dwells in the heart.,0.009733159095048904,output_mich003
-I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","I have a period to provide myself with a little money, and I have to work hard.",0.1688314527273178,output_mich003
-"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah saw her, Siar aba, and she gave her son Gad, who will inherit you, Yiedzi.",0.5346800088882446,output_mich003
-"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob saw them, God spoke to him: and he called the name of that place Mahanaim.",0.9117976427078247,output_mich003
+ref,text,translated,source_zip_file,similarity_score
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.","Okay, I need to translate this Fante text into English. Let me start by looking at the original sentence:
+
+""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.""
+
+First, I'll break it down phrase by phrase. 
+
+""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do"" – ""Na"" is a conjunction, probably ""and"" or ""so"". ""Nyankopɔn"" is God. ""Bɔɔ"" means ""come"" or ""comes"". ""Nyimpa"" could be ""mercy"" or ""grace"". ""Wɔ nankasa"" might be ""in the earth"" or ""on the earth"". ""No su do"" – ""no"" is a relative pronoun, ""su do"" could be ""so that they do"" or ""so that they may"". 
+
+So maybe starting with ""And God comes with mercy on the earth so that they may..."" 
+
+Next part: ""Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa"" – ""Nyew"" is a name, maybe a place or a person. ""Na"" again, ""so that God may come with mercy"". 
+
+Then ""ɔbɔɔ hɔn ɔbanyin nye ɔbaa."" – ""ɔbɔɔ"" again ""he comes"", ""hɔn"" is ""his"", ""ɔbanyin"" might be ""people"" or ""children"", ""nye"" could be ""to give"" or ""to provide"", ""ɔbaa"" maybe ""eternal"" or ""everlasting"". 
+
+Putting it together: ""He comes to give his people an everlasting... something."" 
+
+Wait, maybe ""ɔbaa"" is ""life""? Or ""eternal life""? 
+
+Putting the whole thing together, maybe:
+
+""And God comes with mercy on the earth so that they may, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+Hmm, ""Nyew"" might be a name or a place. Maybe it's part of a proper noun. Alternatively, could it be a verb? Maybe ""Nyew"" is a verb meaning ""to know"" or something else. But in this context, since it's after a comma, perhaps it's a name. Alternatively, maybe ""Nyew"" is part of a phrase. 
+
+Alternatively, ""Nyew"" could be a name like ""Jesus"" in another form? Wait, ""Nyankopɔn"" is God, so maybe ""Nyew"" is a title or another name. Alternatively, maybe it's a typo or mishearing. 
+
+Alternatively, maybe ""Nyew"" is part of the sentence structure. Let me check some Fante grammar. 
+
+In Fante, sometimes names are used in prayers or proverbs. ""Nyew"" might be a name, perhaps ""Jesus"" in Akan is ""Yeshua"", but in Fante it might be ""Nyew"". So maybe ""Nyew"" refers to Jesus. 
+
+So the sentence could be structured as:
+
+""And God comes with mercy on the earth, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+But that might not flow perfectly. Alternatively, maybe ""Nyew"" is part of the phrase. Let me see the structure again. 
+
+Breaking it down again:
+
+""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.""
+
+The structure after the comma ""Nyew"" might be a vocative, addressing someone. So perhaps:
+
+""And God comes with mercy on the earth so that they may..., Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+Alternatively, maybe ""Nyew"" is part of the clause. Maybe ""Nyew"" is a verb. Let me think of possible translations. 
+
+Alternatively, ""Nyew"" could be ""know"" or ""understand"". But in this context, maybe it's better to keep it as a name. 
+
+Putting it all together, the translation would be something like:
+
+""And God comes with mercy on the earth so that they may, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+But that feels a bit fragmented. Maybe the first part is ""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do"" – ""And God comes with mercy on the earth so that they may..."" Then ""Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa"" – ""Nyew, God so that He may come with mercy"". Then the last part: ""He comes to give His people an everlasting life.""
+
+Alternatively, maybe ""no su do"" is ""so that they may do"" but perhaps ""so that they may receive"" or ""so that they may have"". 
+
+Alternatively, the structure might be more like:
+
+""God comes with mercy on the earth, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+But the initial ""Na"" at the beginning would mean ""And"", so maybe starting with ""And God comes with mercy on the earth so that they may, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+Alternatively, maybe ""no su do"" is ""so that they may do"" but perhaps the verb is missing. Alternatively, maybe ""no su do"" is ""so that they may be"" or ""so that they may exist"".
+
+Alternatively, maybe the first part is ""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do"" – ""And God comes with mercy on the earth so that they may..."" and then ""Nyew"" is a name, so ""Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+Hmm, perhaps the translation should be:
+
+""And God comes with mercy on the earth so that they may, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+But I'm not sure about the exact meaning of ""Nyew"" here. If it's a name, maybe it's better to leave it as is. Alternatively, if it's a verb, maybe ""know"" or ""understand"", but that might not fit. 
+
+Alternatively, maybe ""Nyew"" is part of a phrase like ""so that they may know"" or ""so that they may understand"". 
+
+Wait, ""Nyew"" could be ""nye wo"" (to know you), but maybe it's a contraction. Alternatively, ""nyew"" as a verb. 
+
+Alternatively, maybe the structure is:
+
+""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.""
+
+Breaking down each part:
+
+- ""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do"" – ""And God comes with mercy on the earth so that they may...""
+
+- ""Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa"" – ""Nyew, God so that He may come with mercy""
+
+- ""ɔbɔɔ hɔn ɔbanyin nye ɔbaa."" – ""He comes to give His people an everlasting life.""
+
+Putting it all together, maybe:
+
+""And God comes with mercy on the earth so that they may, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+Alternatively, maybe ""Nyew"" is part of the first clause. Maybe ""no su do, Nyew"" – ""so that they may, Nyew..."" but that's unclear. 
+
+Alternatively, perhaps ""Nyew"" is a name, so the translation would include it as is. 
+
+Another approach: looking for similar phrases in Akan or Twi. In Twi, ""Nyankopɔn"" is God. ""Nyimpa"" is mercy. ""Nankasa"" is earth. ""No su do"" – ""no"" is relative pronoun, ""su do"" could be ""so that they may do"". 
+
+The second part: ""Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa"" – ""Nyew, God so that He may come with mercy"". 
+
+Then the last part: ""He comes to give His people an everlasting life.""
+
+Perhaps the translation is:
+
+""And God comes with mercy on the earth so that they may, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+Alternatively, maybe the first part is ""And God comes with mercy on the earth so that they may, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+Alternatively, maybe ""Nyew"" is a name, so the sentence is addressing Nyew (maybe Jesus) as",Dec 08 output,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE is the foundation of the earth, and dwells in the heart.",Dec 08 output,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","And I have my work that gives me some money, and I have to go to the border.",Dec 08 output,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","Then Leah said, ""Mother Siar, he gave his portion to Gad so that you may inherit,"" Yiedzi.",Dec 08 output,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob arrived there, he encountered God, who spoke to him and gave him the name Mahanaim.",Dec 08 output,
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.",Translation here,onesimus_31223989_Dec 12 output,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE, who now dwells, is the strength of the earth, and she is the support in the heart.",onesimus_31223989_Dec 12 output,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","I have my body to provide for myself, and I take a strong hand, and I have asked for help.",onesimus_31223989_Dec 12 output,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","Then Leah said, ""Mother Siar, he gave his portion to Gad so that you may inherit,"" Yiedzi.",onesimus_31223989_Dec 12 output,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob arrived there, he encountered God, who spoke to him and gave him the name Mahanaim.",onesimus_31223989_Dec 12 output,
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.","And so God comes with mercy in this land, Nyew; indeed, God comes with mercy; He comes there as the one who is the mother.",john_AC86BE0F_output (5),
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE, who now remains, is a stranger on earth, and he is a companion within the heart.",john_AC86BE0F_output (5),
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","And I have a period where I provide myself with a little money, and I have to work hard.",john_AC86BE0F_output (5),
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah saw, Siar has come, and he gave his inheritance to Gad, which he established there, Yiedzi.",john_AC86BE0F_output (5),
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob came to that place, he encountered God, who said to him: and He gave him his camp, Mahanaim.",john_AC86BE0F_output (5),
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.","And God comes with mercy on the earth so that they may, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.",onesimus_7C821E01_Dec 01 output,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.",EWURADZE is the foundation of the earth and dwells in the heart.,onesimus_7C821E01_Dec 01 output,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","I have my time to provide myself with a little money, and I have hard work.",onesimus_7C821E01_Dec 01 output,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah said, ""Siar, mother, he gave his portion to Gad as he had blessed,"" Yiedzi.",onesimus_7C821E01_Dec 01 output,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob saw them, God spoke to him: and he named them Mahanaim.",onesimus_7C821E01_Dec 01 output,
+"Let my share be the food that my men have eaten. But Aner, Eshcol, and Mamre went with me, so give them their share of what we brought back.","gyedɛ dza mberantsɛ no edzi no nko, na Aner, Eskol nye Mamre a wɔnye me kɔree no hɔn kyɛpɛn.","Therefore, when they came to Mberantsɛ, they stayed there, and Aner, Eskol, and Mamre, who were with them there because...",output_jonathan,0.51857716
+"Jacob, also known as Israel, traveled to the south of Eder Tower, where he set up camp.","Na Israel tui, na ɔkɔbɔɔ n’asesee wɔ Eder abantsentsen ekyir noho.","On Israel's side, they came to their rest with Edgar among the strangers there.",output_jonathan,0.52607346
+Cook some of that tasty food that I love so much and bring it to me. I want to eat it once more and give you my blessing before I die.”,"na yɛ me edziban a ɔyɛ huam, dɛ mbrɛ mepɛ, na fa brɛ me, ma mindzi; na me kra nhyira wo ana mewu.","My problem is difficult; let me take care of myself and you take care of me, but I must endure; and I beg you for mercy for my soul.",output_jonathan,0.45388144
+"You didn't have much before I came, but the Lord has blessed everything I have ever done for you. Now it's time for me to start looking out for my own family.","Na mebae no, nna kumaabi na ewɔ, nna ɔadɔr ɔayɛ pii yi; na EWURADZE ehyira wo wɔ beebiara a mefae: na afei aber bɛn na mobɔhwɛ mara me fie so?","And my child, you must listen and come, you must know and see clearly; for EWURADZE has placed you on the path I have made: why do you question my way?",output_jonathan,0.39240193
+"Abraham, you and all future members of your family must promise to obey me.","Na Nyankopɔn see Abraham dɛ, ɔwo dze, sie m’ahyɛmu, ɔwo nye w’asefo a wodzi w’ekyir, wɔ hɔn mbasantsen mu.","And God, because Abraham tested my faith, he chose your people whom you led to the land, they are in Mbasantsen.",output_jonathan,0.585333
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.","And God comes with mercy on the earth so that they may, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.",gerhardt_8019BE0D_output_WsImHC,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE is the foundation of the earth, and she resides in the heart.",gerhardt_8019BE0D_output_WsImHC,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","And I have my body to give, I take my own money, and I have my own path to go.",gerhardt_8019BE0D_output_WsImHC,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah saw her, Siaraba, and she gave her son Gad, who will inherit you, Yiedzi.",gerhardt_8019BE0D_output_WsImHC,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob arrived there, he saw Nyankopɔn, who spoke to him in a dream, saying: 'I will give you my blessing and the camp of Mahanaim.'",gerhardt_8019BE0D_output_WsImHC,
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.",Translation here,Dec 02 output,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE, who now dwells, is the strength of the earth, and she is the support in the heart.",Dec 02 output,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","I have my body to provide for myself, and I take a strong hand, and I have asked for help.",Dec 02 output,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","Then Leah said, ""Mother Siar, he gave his portion to Gad so that you may inherit,"" Yiedzi.",Dec 02 output,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob arrived there, he encountered God, who spoke to him and gave him the name Mahanaim.",Dec 02 output,
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.","And God comes with mercy on the earth so that they may, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.",john_567A83BD_output (1),
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.",EWURADZE is the foundation of the earth and dwells in the heart.,john_567A83BD_output (1),
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","I have a period where I provide myself with a little money, and I have hard work.",john_567A83BD_output (1),
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah saw her, Siar aba, and she gave her son Gad, who will inherit you, Yiedzi.",john_567A83BD_output (1),
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob saw them, God spoke to him: and he named them Mahanaim.",john_567A83BD_output (1),
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.",Translation here,john_AA1B9A68_output (9),
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE, who now dwells, is the strength of the earth, and she is the support in the heart.",john_AA1B9A68_output (9),
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","I have my body to provide for myself, and I take a strong hand, and I have asked for help.",john_AA1B9A68_output (9),
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","Then Leah said, ""Mother Siar, he gave his portion to Gad so that you may inherit,"" Yiedzi.",john_AA1B9A68_output (9),
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob arrived there, he encountered God, who spoke to him and gave him the name Mahanaim.",john_AA1B9A68_output (9),
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.",Translation here,Dec 07 output,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.",EWURADZE is the foundation of the earth and dwells in the heart.,Dec 07 output,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","I have a time when I provide myself with a little money, and I have to work hard.",Dec 07 output,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah said, ""Mother Siar, he gave his portion to Gad so that you may inherit,"" Yiedzi.",Dec 07 output,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob saw them, God spoke to him: so he called the name of that place Mahanaim.",Dec 07 output,
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.",Translation here,Dec 10 output,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE, who now dwells, is the strength of the earth, and she is the support in the heart.",Dec 10 output,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","Okay, I need to translate this Fante text into English. Let me start by looking at the sentence: ""Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo."" 
+
+First, I'll break it down word by word. ""Na"" is a conjunction, probably meaning ""and"" or ""so"". ""Mebɛma"" is a verb form; in Fante, ""me"" is the first person singular pronoun, so ""mebɛma"" might be ""I have"" or ""I take"". The phrase ""m’ahyɛmu"" could be ""my work"" or ""my task"", since ""ahyɛmu"" relates to work. ""Ada"" might mean ""to do"" or ""to make"". ""Emi"" is ""my"" or ""mine"". ""Nye"" could be ""to give"" or ""to provide"". ""Owo ntamu"" – ""owo"" is ""hand"", so ""ntamu"" might be ""right"", making it ""right hand"". 
+
+The second part: ""na mebɛma adɔr mbordo."" ""Adɔr"" could be ""to stand"" or ""to support"". ""Mbordo"" might be ""border"" or ""edge"", but in context, maybe ""boundary"" or ""limit"". 
+
+Putting it together: ""And I have my work to do with my right hand, and I have my support at the border."" Wait, that doesn't sound quite right. Maybe ""mbordo"" is part of a phrase. Alternatively, ""adɔr mbordo"" could mean ""to stand on the border"" or ""to hold the border"". 
+
+Alternatively, ""nye ɔwo ntamu"" might mean ""to give with the right hand"", but ""emi nye"" could be ""my giving"". Maybe ""I have my work to do with my right hand's giving"". Hmm, perhaps the first part is ""I have my work to do with my right hand, and I have my support at the border."" 
+
+Alternatively, maybe ""mbordo"" is part of a different structure. Let me think of common phrases. ""Mbordo"" might be ""to the end"" or ""until the end"". Wait, ""mbordo"" could be ""border"" but in some contexts, ""until the end"". Maybe ""I have my work to do with my right hand, and I have my support until the end."" That makes more sense. 
+
+Alternatively, ""adɔr mbordo"" could mean ""to hold the border"" as in protecting a boundary. But maybe the translation is more about commitment. Let me check each word again. 
+
+""Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu"" – ""And I have my work to do with my right hand's giving"". Maybe ""nye"" here is part of a verb phrase. Alternatively, ""nye"" as ""to give"" could mean ""I have my work to do with my right hand's provision"". 
+
+Alternatively, ""ada emi nye"" might be ""my own work to give"". Hmm, perhaps the structure is ""I have my work to do with my right hand, and I have my support at the border."" 
+
+Alternatively, maybe ""mbordo"" is ""boundary"" as in a physical border, but maybe metaphorically. 
+
+Alternatively, ""adɔr mbordo"" could mean ""to stand firm"" or ""to hold on"". Maybe ""I have my work to do with my right hand, and I have my support to hold on."" 
+
+Wait, maybe ""mbordo"" is part of a different word. Let me see if ""mbordo"" is a known term. Alternatively, ""mbordo"" could be ""until the end"" if ""bordo"" is ""end"". 
+
+Alternatively, ""na mebɛma adɔr mbordo"" – ""and I have my support until the end"". 
+
+Putting it all together: ""And I have my work to do with my right hand, and I have my support until the end."" 
+
+Alternatively, maybe ""ada emi nye"" is ""my own to give"", so ""I have my work to do with my right hand's giving, and I have my support at the border."" 
+
+Hmm, not sure. Maybe ""ada emi nye"" is ""to do my own giving"". 
+
+Alternatively, the first part could be ""I have my work to do with my right hand's provision"". 
+
+Alternatively, maybe ""ɔwo ntamu"" is ""right hand"" so ""with my right hand"". 
+
+The second part: ""adɔr mbordo"" – ""to stand on the border"" or ""to hold the border"". 
+
+Alternatively, ""mbordo"" could be ""boundary"" so ""I have my support at the boundary"". 
+
+Alternatively, maybe ""mbordo"" is part of a phrase like ""mba bɔrɔ"" meaning ""until the end"", but not sure. 
+
+Alternatively, perhaps the translation is more about commitment and support. Maybe the user is trying to say something like ""I have my work to do with my right hand, and I have my support to the end."" 
+
+Alternatively, ""mbordo"" might mean ""edge"" or ""limit"", so ""I have my support at the edge"". 
+
+Hmm, perhaps I should go with the most literal translation even if it's a bit awkward. 
+
+Breaking it down again:
+
+Na = and
+
+mebɛma = I have (me + bɛma, where bɛma is ""to have"")
+
+m’ahyɛmu = my work (m’ + ahyɛmu)
+
+ada = to do (ada is a verb meaning to do)
+
+emi = my (possessive)
+
+nye = to give (maybe here as ""provision"" or ""providing"")
+
+ɔwo ntamu = right hand (ɔwo is hand, ntamu is right)
+
+na mebɛma adɔr mbordo: and I have support (adɔr) at the border (mbordo)
+
+Putting it together: ""And I have my work to do with my right hand's provision, and I have my support at the border.""
+
+Alternatively, maybe ""ada emi nye"" is ""my own to give"", so ""I have my work to do with my right hand's giving"". 
+
+Alternatively, ""ada emi nye"" could be ""my own giving work"", so ""I have my work to do with my right hand's giving"".
+
+Alternatively, maybe ""ada"" here is part of a different structure. Maybe ""ada emi nye"" is ""to do my own giving"".
+
+Alternatively, maybe ""nye"" is part of the verb. Maybe ""nye ɔwo ntamu"" is ""to give with the right hand"".
+
+Hmm, perhaps the first part is ""I have my work to do with my right hand's giving"", and the second part ""I have my support at the border"".
+
+Alternatively, maybe ""ada emi nye"" is ""my own to give"", so ""I have my work to do with my right hand's giving"".
+
+Alternatively, maybe ""ada"" is ""to do"", so ""I have my work to do with my right hand's provision"".
+
+Alternatively, maybe ""ada emi nye"" is ""to do my own giving"".
+
+Alternatively, maybe ""ada"" is part of a noun phrase. Maybe ""ada"" here is ""task"" or ""duty"".
+
+Alternatively, perhaps the sentence is saying ""I have my task to do with my right hand's provision, and I have my support at the border"".
+
+Alternatively, maybe ""mbordo"" is ""until the end"", so ""I have my support until the end"".
+
+I think the best I can do is translate as literally as possible, even if some parts are unclear. So:
+
+""And I have my work to do with my right hand's provision, and I have my support at the border.""
+
+Alternatively, maybe ""And I have my work to do with my right hand, and I have my support at the border.""
+
+Since ""nye"" might be part of the verb phrase. Maybe ""ada emi nye"" is ""my own to give"", but perhaps it's better to simplify. Alternatively, ""nye"" could be ""to give"", so ""I have my work to do with my right hand's giving"".
+
+Alternatively, maybe ""ada emi nye"" is ""my own work to give"", so ""I have my own work to give with my right hand"".
+
+Hmm, perhaps the user expects a more natural translation. Maybe ""I have my work to do with my right hand, and I have my support at the border."" 
+
+Alternatively, ""I have my task to do with my right hand, and I have my support at the boundary.""
+
+I think that's the best I can do without more context. Let me check if ""mbordo"" is a known term. Maybe ""mbordo"" is ""border"" in Fante. So ""support at the border"" or ""support on the border"".
+
+Alternatively, maybe ""mbordo"" is ""until the end"", so ""support until the end"".
+
+Alternatively, ""adɔr mbordo"" could mean ""to hold the border"" or ""to stand firm at the border"".
+
+Alternatively, maybe ""mbordo"" is part of a different word. Maybe ""mba bɔrɔ"" meaning ""until the end"", but split here as ""mbordo"".
+
+Alternatively, perhaps ""mbordo"" is ""mba bɔrɔ"" (until the end), but written as one word. So ""adɔr mbordo"" would be ""to hold until the end"".
+
+So maybe ""I have my work to do with my right",Dec 10 output,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah saw her, Siar father, and he gave his son Gad, who inherited, Yiedzi.",Dec 10 output,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob came to that place, he saw God there; and God spoke to him, saying: and He gave him that place and named it Mahanaim.",Dec 10 output,
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.","God comes with mercy in the right way, O people; God indeed does so righteously and brings mercy; He leads us along the correct path to the end.",john_7781CD93_output (6),
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.",EWURADZE is the foundation of the earth and dwells in the heart.,john_7781CD93_output (6),
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","I have my body to provide for myself, and I take a strong hand, and I have asked for help.",john_7781CD93_output (6),
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","Then Leah said, ""Mother Siar, he gave his portion to Gad so that you may inherit,"" Yiedzi.",john_7781CD93_output (6),
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob arrived there, he encountered God, who spoke to him and gave him the name Mahanaim.",john_7781CD93_output (6),
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.","And God comes with mercy on the earth so that they may, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.",gerhardt_25FFCBF7_output_DdErIM,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.",EWURADZE is the foundation of the earth and dwells in the heart.,gerhardt_25FFCBF7_output_DdErIM,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","I have a period to provide myself with a little money, and I have hard work.",gerhardt_25FFCBF7_output_DdErIM,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","Leah said, ""Father Siar, he gave his portion to Gad, who remembers you, Yiedzi.""",gerhardt_25FFCBF7_output_DdErIM,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob arrived there, he encountered God, who spoke to him and gave him the name Mahanaim.",gerhardt_25FFCBF7_output_DdErIM,
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.","And God comes with mercy on the earth so that they may, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.",output_mich003,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.",Ewuradze is the foundation of the earth and dwells in the heart.,output_mich003,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","I have a period to provide myself with a little money, and I have to work hard.",output_mich003,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah saw her, Siar aba, and she gave her son Gad, who will inherit you, Yiedzi.",output_mich003,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob saw them, God spoke to him: and he called the name of that place Mahanaim.",output_mich003,
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.","God comes with mercy in the right way, so, Nyew, God does it right and brings mercy; He leads them on the right path to the end.",Dec 03 output,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE, who now resides, is the strength on earth, and she is the support within her heart.",Dec 03 output,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","The money you borrowed is in your hand, and I have a house nearby.",Dec 03 output,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah saw her, Siaraba, and he gave his son Gad, who established the name Yiedzi.",Dec 03 output,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob and his household encountered them, God spoke to him, saying: He gave him and his camp at Mahanaim.",Dec 03 output,
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.","Okay, I need to translate this Fante text into English. Let me start by looking at the original sentence:
+
+""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.""
+
+First, I'll break it down phrase by phrase. 
+
+""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do"" – ""Na"" is a conjunction, probably ""and"" or ""so"". ""Nyankopɔn"" is God. ""Bɔɔ"" means ""come"" or ""comes"". ""Nyimpa"" could be ""mercy"" or ""grace"". ""Wɔ nankasa"" might be ""in the earth"" or ""on the earth"". ""No su do"" – ""no"" is a relative pronoun, ""su do"" could be ""so that they do"" or ""so that they may"". 
+
+So maybe starting with ""And God comes with mercy on the earth so that they may..."" 
+
+Next part: ""Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa"" – ""Nyew"" is a name, maybe a place or a person. ""Na"" again, ""so that God may come with mercy"". 
+
+Then ""ɔbɔɔ hɔn ɔbanyin nye ɔbaa."" – ""ɔbɔɔ"" again ""he comes"", ""hɔn"" is ""his"", ""ɔbanyin"" might be ""people"" or ""children"", ""nye"" could be ""to give"" or ""to provide"", ""ɔbaa"" maybe ""eternal"" or ""everlasting"". 
+
+Putting it together: ""He comes to give his people an everlasting... something."" 
+
+Wait, maybe ""ɔbaa"" is ""life""? Or ""eternal life""? 
+
+Putting the whole thing together, maybe:
+
+""And God comes with mercy on the earth so that they may, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+Hmm, ""Nyew"" might be a name or a place. Maybe it's part of a proper noun. Alternatively, could it be a verb? Maybe ""Nyew"" is a verb meaning ""to know"" or something else. But in this context, since it's after a comma, perhaps it's a name. Alternatively, maybe ""Nyew"" is part of a phrase. 
+
+Alternatively, ""Nyew"" could be a name like ""Jesus"" in another form? Wait, ""Nyankopɔn"" is God, so maybe ""Nyew"" is a title or another name. Alternatively, maybe it's a typo or mishearing. 
+
+Alternatively, maybe ""Nyew"" is part of the sentence structure. Let me check some Fante grammar. 
+
+In Fante, sometimes names are used in prayers or proverbs. ""Nyew"" might be a name, perhaps ""Jesus"" in Akan is ""Yeshua"", but in Fante it might be ""Nyew"". So maybe ""Nyew"" refers to Jesus. 
+
+So the sentence could be structured as:
+
+""And God comes with mercy on the earth, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+But that might not flow perfectly. Alternatively, maybe ""Nyew"" is part of the phrase. Let me see the structure again. 
+
+Breaking it down again:
+
+""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.""
+
+The structure after the comma ""Nyew"" might be a repetition or an interjection. Maybe it's ""O God"" or ""Lord"". Alternatively, ""Nyew"" could be ""now"" or another adverb. 
+
+Alternatively, maybe ""Nyew"" is a name, so the translation would include it as is. 
+
+Putting it all together, perhaps:
+
+""And God comes with mercy on the earth so that they may, O Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+Alternatively, maybe ""Nyew"" is part of a phrase like ""so that Nyew (God) may come with mercy"". 
+
+Alternatively, maybe the structure is:
+
+""And God comes with mercy on the earth, so that they may (do something). Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+Hmm, perhaps the first part is saying that God comes with mercy to the earth so that they (people) may do something, then the second part repeats or emphasizes with ""Nyew"" (maybe ""Lord"" or ""Jesus""), and then explains the purpose. 
+
+Alternatively, maybe ""Nyew"" is a name, so the translation would be:
+
+""And God comes with mercy on the earth so that they may, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+But that still feels a bit off. Maybe ""Nyew"" is part of the verb phrase. Alternatively, perhaps ""Nyew"" is ""now"" in Fante. Let me check. 
+
+Looking up ""Nyew"" in Fante: I think ""nyew"" can mean ""now"" or ""then"". So maybe the sentence is:
+
+""And God comes with mercy on the earth so that they may, now, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+But that still might not make perfect sense. Alternatively, maybe the structure is:
+
+""And God comes with mercy on the earth, so that they may (do something). Now, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+Alternatively, perhaps the first part is ""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do"" – ""And God comes with mercy to the earth so that they may..."" Then ""Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa"" – ""Now, God so that He may come with mercy..."" 
+
+Putting it all together, maybe the translation is:
+
+""And God comes with mercy to the earth so that they may, now, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+Alternatively, maybe ""no su do"" is ""so that they may do"", but the verb is missing. Maybe it's implied. 
+
+Alternatively, perhaps the structure is more like a poetic repetition. Maybe the first part is ""God comes with mercy to the earth so that they may..."", then ""Nyew, God so that He may come with mercy"", emphasizing again, and then the final part explains the purpose. 
+
+Alternatively, ""ɔbɔɔ hɔn ɔbanyin nye ɔbaa"" – ""He comes to give His people an everlasting life."" 
+
+Putting it all together, the translation might be:
+
+""And God comes with mercy on the earth so that they may, O Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+Alternatively, maybe ""Nyew"" is a name, so it's kept as is. 
+
+Alternatively, maybe ""Nyew"" is part of a phrase like ""so that Nyew (the people) may come with mercy"". But that might not fit. 
+
+Alternatively, perhaps ""Nyew"" is ""now"" and the sentence is structured as:
+
+""And God comes with mercy on the earth so that they may, now, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+But I'm not entirely sure. Since I'm not a native speaker, I might need to go with the best possible translation based on the components. 
+
+Another approach: ""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do"" – ""And God comes with mercy to the earth so that they may..."" 
+
+Then ""Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa"" – ""Now, God so that He may come with mercy..."" 
+
+Then the last part: ""He comes to give His people an everlasting life.""
+
+So combining: 
+
+""And God comes with mercy to the earth so that they may, now, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+Alternatively, maybe the first part is saying that God comes with mercy to the earth so that they (the people) may receive it, and then the second part emphasizes that God comes with mercy again, and the final part states the purpose. 
+
+Alternatively, maybe ""no su do"" is ""so that they may do"", but the verb is missing, so perhaps it's ""so that they may be saved"" or ""so that they may live"". 
+
+Alternatively, maybe ""nyimpa"" is ""grace"" and ""ɔbaa"" is ""everlasting life"". 
+
+Putting it all together, the most coherent translation might be:
+
+""And God comes with mercy to the earth so that they may, O Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+Alternatively, if ""Nyew"" is a name, perhaps it's better to keep it capitalized. 
+
+Alternatively, maybe the structure is more like a prayer",Dec 09 output,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE is here, who is strength on earth, and is the support within the heart.",Dec 09 output,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","I have my body to provide for myself, and I take a strong hand, and I have asked for help.",Dec 09 output,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","Then Leah said, ""Mother Siar, he gave his portion to Gad so that you may inherit,"" Yiedzi.",Dec 09 output,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob arrived there, he encountered God, who spoke to him and gave him the name Mahanaim.",Dec 09 output,
 "Then he gave clothing, as well as silver and gold jewelry, to Rebekah. He also gave expensive gifts to her brother and her mother.","Na oyii dwetɛ egudze, nye sika egudze, nye atar, na ɔdze maa Rebeka: ɔmaa no nua nye ne na so ndzɛmba a ɔsom bo.","Okay, I need to translate this Fante text into English. Let me start by looking at the sentence structure. The user provided the Fante text: ""Na oyii dwetɛ egudze, nye sika egudze, nye atar, na ɔdze maa Rebeka: ɔmaa no nua nye ne na so ndzɛmba a ɔsom bo."" 
 
 First, I'll break it down phrase by phrase. ""Na oyii dwetɛ egudze"" – ""Na"" is a conjunction, probably ""and"" or ""then"". ""Oyii"" might mean ""to give"" or ""to provide"". ""Dwetɛ"" could be ""dwetɛ"" which is a verb, maybe ""to give"" or ""to offer"". ""Egudze"" might be a noun, perhaps ""gift"" or ""offering"". So maybe ""And the offerings given"".
@@ -129,8 +539,8 @@ But maybe ""take"" here is better as ""accept"" or ""follow"". Since ""nua"" can
 
 Yes, that sounds better. So the final translation would be:
 
-[And the offerings given, and money offerings, and praises, and he said to Rebeka: he told her to accept the",0.2342178,output_onesimus007
-"and Sarai said to Abram, “The Lord has not given me any children. Sleep with my slave, and if she has a child, it will be mine.” Abram agreed,","Na Sarai see Abram dɛ, Afei hwɛ, EWURADZE esiw me awoo kwan; meserɛ wo, kɔ m’afonabaa nkyɛn; annyɛ a mibenya no ho mba. Na Abram tsiee Sarai ne ndze.","Sarai said to Abram, 'Indeed, Ewuradze has told me to ask you to grant me; obey me, come take my wife’s hand; so that she may bear children indeed.' And Abram took Sarai with him.",0.725247,output_onesimus007
+[And the offerings given, and money offerings, and praises, and he said to Rebeka: he told her to accept the",output_onesimus007,0.2342178
+"and Sarai said to Abram, “The Lord has not given me any children. Sleep with my slave, and if she has a child, it will be mine.” Abram agreed,","Na Sarai see Abram dɛ, Afei hwɛ, EWURADZE esiw me awoo kwan; meserɛ wo, kɔ m’afonabaa nkyɛn; annyɛ a mibenya no ho mba. Na Abram tsiee Sarai ne ndze.","Sarai said to Abram, 'Indeed, Ewuradze has told me to ask you to grant me; obey me, come take my wife’s hand; so that she may bear children indeed.' And Abram took Sarai with him.",output_onesimus007,0.725247
 "Leah gave birth to a son and named him Reuben. Then she said, “The Lord has taken away my sorrow. Now my husband will love me more than he does Rachel.”","Na Leah nyinsenii, na ɔwoo babanyin, na ɔfrɛɛ ne dzin Reuben a asekyerɛ nye; Monhwɛ ɔbabanyin: na ɔsee dɛ, EWURADZE ahwɛ m’amandzehu; na afei dze mo kun bɔdɔ me.","Okay, I need to translate this Fante text into English. Let me start by reading through the original text carefully.
 
 The first part is ""Na Leah nyinsenii, na ɔwoo babanyin, na ɔfrɛɛ ne dzin Reuben a asekyerɛ nye;"". Breaking it down, ""Na"" is a conjunction, probably ""and"" or ""so"". ""Leah nyinsenii"" might be ""Leah's daughter"" since ""nyinsenii"" could be ""daughter of"". Then ""ɔwoo babanyin"" – ""babanyin"" means ""young man"" or ""son"", so maybe ""she gave birth to a young man"". ""ɔfrɛɛ ne dzin Reuben a asekyerɛ nye"" – ""frɛɛ"" is ""give"", so ""she gave him the name Reuben who..."". The verb ""asekyerɛ"" might be ""to seek"" or ""to ask"", so maybe ""because he sought..."" or ""he asked for something"".
@@ -194,11 +604,1039 @@ Alternatively, the last part could be ""so that you may know me and take me"" as
 I think that's the best I can do with the information. The key points are translating each segment accurately while maintaining the flow.
 </think>
 
-[And Leah bore a daughter, and she gave birth to a young man, and she named him Reuben because he sought me; hence the young man said, 'God has become my strength'; and so you may",0.47757864,output_onesimus007
-"Rachel was at the point of death, and right before dying, she said, “I'll name him Benoni.” But Jacob called him Benjamin.","Na ɔbaa dɛ, ne kra rifi no mu no , ɔtoo no dzin Ben-oni; na n’egya dze ɔfrɛɛ no Benjamin.","And since that time, he named him Ben-oni; but she called him Benjamin.",0.73825526,output_onesimus007
-"He destroyed those cities and everyone who lived in them, as well as their land and the trees and grass that grew there.","na ɔbɔɔ nkurow no, nye Tɛtɛr no nyinara, nye hɔn a wɔtse nkurow no mu nyinara, nye dza ofifir asaase no do no.","And when the teaching comes, take Teacher's instruction, follow the teaching so that you may spread the earth's provision to them.",0.07857964,output_onesimus007
-So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.",Translation here,0.07150047272443771,output_johnayernor
-"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE, who now dwells, is the strength of the earth, and she is the support in the heart.",-0.011312633752822876,output_johnayernor
-I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","I have my body to provide for myself, and I take a strong hand, and I have asked for help.",0.27985355257987976,output_johnayernor
-"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","Then Leah said, ""Mother Siar, he gave his portion to Gad so that you may inherit,"" Yiedzi.",0.5649418234825134,output_johnayernor
-"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob arrived there, he encountered God, who spoke to him and gave him the name Mahanaim.",0.8597859740257263,output_johnayernor
+[And Leah bore a daughter, and she gave birth to a young man, and she named him Reuben because he sought me; hence the young man said, 'God has become my strength'; and so you may",output_onesimus007,0.47757864
+"Rachel was at the point of death, and right before dying, she said, “I'll name him Benoni.” But Jacob called him Benjamin.","Na ɔbaa dɛ, ne kra rifi no mu no , ɔtoo no dzin Ben-oni; na n’egya dze ɔfrɛɛ no Benjamin.","And since that time, he named him Ben-oni; but she called him Benjamin.",output_onesimus007,0.73825526
+"He destroyed those cities and everyone who lived in them, as well as their land and the trees and grass that grew there.","na ɔbɔɔ nkurow no, nye Tɛtɛr no nyinara, nye hɔn a wɔtse nkurow no mu nyinara, nye dza ofifir asaase no do no.","And when the teaching comes, take Teacher's instruction, follow the teaching so that you may spread the earth's provision to them.",output_onesimus007,0.07857964
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.",Translation here,john_1C6E69D4_output (8),
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE, who now dwells, is the strength of the earth, and she is the support in the heart.",john_1C6E69D4_output (8),
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","I have my body to provide for myself, and I take a strong hand, and I have asked for help.",john_1C6E69D4_output (8),
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","Then Leah said, ""Mother Siar, he gave his portion to Gad so that you may inherit,"" Yiedzi.",john_1C6E69D4_output (8),
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob arrived there, he encountered God, who spoke to him and gave him the name Mahanaim.",john_1C6E69D4_output (8),
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.",Translation here,output_johnayernor,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE, who now dwells, is the strength of the earth, and she is the support in the heart.",output_johnayernor,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","I have my body to provide for myself, and I take a strong hand, and I have asked for help.",output_johnayernor,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","Then Leah said, ""Mother Siar, he gave his portion to Gad so that you may inherit,"" Yiedzi.",output_johnayernor,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob arrived there, he encountered God, who spoke to him and gave him the name Mahanaim.",output_johnayernor,
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.","And God comes with praise in the morning, Nyew; God does so that He comes with praise; He comes to take His people with Him in the morning.",Dec 11 output,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE is the foundation on the earth, and is in the heart.",Dec 11 output,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","I have my body to provide for myself, and I take a strong hand, and I have asked for help.",Dec 11 output,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah said, ""Mother Siar, he gave his portion to Gad so that you may inherit,"" Yiedzi.",Dec 11 output,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob arrived there, he encountered God, who spoke to him and gave him His camp at Mahanaim.",Dec 11 output,
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.","And so God comes with mercy to the earth, Nyew, God comes so that He may bring mercy; He comes to give His people eternal life.",gerhardt_0445F08A_output_T9n53N,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE is the foundation on the earth, and dwells in the heart.",gerhardt_0445F08A_output_T9n53N,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.",m’ahyɛmu ada emi nye ɔwo ntamu,gerhardt_0445F08A_output_T9n53N,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah saw her, Siaraba, and she gave her son Gad, who will inherit you, Yiedzi.",gerhardt_0445F08A_output_T9n53N,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob and his household saw them, God spoke to him, saying: and he gave him the name Mahanaim.",gerhardt_0445F08A_output_T9n53N,
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.","And so God comes with mercy on the earth, Nyew; God comes so that He may bring mercy; He comes to His people to establish the kingdom.",gerhardt_60BC0D18_output (8),
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.",EWURADZE is the foundation of the earth and dwells in the heart.,gerhardt_60BC0D18_output (8),
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","And I have the time to take my money with me, and I have crossed the border.",gerhardt_60BC0D18_output (8),
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah saw, Father Siar, and he gave his son Gad, who was called Yiedzi.",gerhardt_60BC0D18_output (8),
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob arrived there, he encountered God, who spoke to him and gave him the name Mahanaim.",gerhardt_60BC0D18_output (8),
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.",Translation here,onesimus_BAB3F503_Dec 10 output,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE, who now dwells, is the strength of the earth, and she is the support in the heart.",onesimus_BAB3F503_Dec 10 output,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","Okay, I need to translate this Fante text into English. Let me start by looking at the sentence: ""Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo."" 
+
+First, I'll break it down word by word. ""Na"" is a conjunction, probably meaning ""and"" or ""so"". ""Mebɛma"" is a verb form; in Fante, ""me"" is the first person singular pronoun, so ""mebɛma"" might be ""I have"" or ""I take"". The phrase ""m’ahyɛmu"" could be ""my work"" or ""my task"", since ""ahyɛmu"" relates to work. ""Ada"" might mean ""to do"" or ""to make"". ""Emi"" is ""my"" or ""mine"". ""Nye"" could be ""to give"" or ""to provide"". ""Owo ntamu"" – ""owo"" is ""hand"", so ""ntamu"" might be ""right"", making it ""right hand"". 
+
+The second part: ""na mebɛma adɔr mbordo."" ""Adɔr"" could be ""to stand"" or ""to support"". ""Mbordo"" might be ""border"" or ""edge"", but in context, maybe ""boundary"" or ""limit"". 
+
+Putting it together: ""And I have my work to do with my right hand, and I have my support at the border."" Wait, that doesn't sound quite right. Maybe ""mbordo"" is part of a phrase. Alternatively, ""adɔr mbordo"" could mean ""to stand on the border"" or ""to hold the border"". 
+
+Alternatively, ""nye ɔwo ntamu"" might mean ""to give with the right hand"", but ""emi nye"" could be ""my giving"". Maybe ""I have my work to do with my right hand's giving"". Hmm, perhaps the first part is ""I have my work to do with my right hand, and I have my support at the border."" 
+
+Alternatively, maybe ""mbordo"" is part of a different structure. Let me think of common phrases. ""Mbordo"" might be ""to the end"" or ""until the end"". Wait, ""mbordo"" could be ""border"" but in some contexts, ""until the end"". Maybe ""I have my work to do with my right hand, and I have my support until the end."" That makes more sense. 
+
+Alternatively, ""adɔr mbordo"" could mean ""to hold the border"" as in protecting a boundary. But maybe the translation is more about commitment. Let me check each word again. 
+
+""Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu"" – ""And I have my work to do with my right hand's giving"". Maybe ""nye"" here is part of a verb phrase. Alternatively, ""nye"" as ""to give"" could mean ""I have my work to do with my right hand's provision"". 
+
+Alternatively, ""ada emi nye"" might be ""my own work to give"". Hmm, perhaps the structure is ""I have my work to do with my right hand, and I have my support at the border."" 
+
+Alternatively, maybe ""mbordo"" is ""boundary"" as in a physical border, but maybe metaphorically. 
+
+Alternatively, ""adɔr mbordo"" could mean ""to stand firm"" or ""to hold on"". Maybe ""I have my work to do with my right hand, and I have my support to hold on."" 
+
+Wait, maybe ""mbordo"" is part of a different word. Let me see if ""mbordo"" is a known term. Alternatively, ""mbordo"" could be ""until the end"" if ""bordo"" is ""end"". 
+
+Alternatively, ""na mebɛma adɔr mbordo"" – ""and I have my support until the end"". 
+
+Putting it all together: ""And I have my work to do with my right hand, and I have my support until the end."" 
+
+Alternatively, maybe ""ada emi nye"" is ""my own to give"", so ""I have my work to do with my right hand's giving, and I have my support at the border."" 
+
+Hmm, not sure. Maybe ""ada emi nye"" is ""to do my own giving"". 
+
+Alternatively, the first part could be ""I have my work to do with my right hand's provision"". 
+
+Alternatively, maybe ""ɔwo ntamu"" is ""right hand"" so ""with my right hand"". 
+
+The second part: ""adɔr mbordo"" – ""to stand on the border"" or ""to hold the border"". 
+
+Alternatively, ""mbordo"" could be ""boundary"" so ""I have my support at the boundary"". 
+
+Alternatively, maybe ""mbordo"" is part of a phrase like ""mba bɔrɔ"" meaning ""until the end"", but not sure. 
+
+Alternatively, perhaps the translation is more about commitment and support. Maybe the user is trying to say something like ""I have my work to do with my right hand, and I have my support to the end."" 
+
+Alternatively, ""mbordo"" might mean ""edge"" or ""limit"", so ""I have my support at the edge"". 
+
+Hmm, perhaps I should go with the most literal translation even if it's a bit awkward. 
+
+Breaking it down again:
+
+Na = and
+
+mebɛma = I have (me + bɛma, where bɛma is ""to have"")
+
+m’ahyɛmu = my work (m’ + ahyɛmu)
+
+ada = to do (ada is a verb meaning to do)
+
+emi = my (possessive)
+
+nye = to give (maybe here as ""provision"" or ""providing"")
+
+ɔwo ntamu = right hand (ɔwo is hand, ntamu is right)
+
+na mebɛma adɔr mbordo: and I have support (adɔr) at the border (mbordo)
+
+Putting it together: ""And I have my work to do with my right hand's provision, and I have my support at the border.""
+
+Alternatively, maybe ""ada emi nye"" is ""my own to give"", so ""I have my work to do with my right hand's giving"". 
+
+Alternatively, ""ada emi nye"" could be ""my own giving work"", so ""I have my work to do with my right hand's giving"".
+
+Alternatively, maybe ""ada"" here is part of a different structure. Maybe ""ada emi nye"" is ""to do my own giving"".
+
+Alternatively, maybe ""nye"" is part of the verb. Maybe ""nye ɔwo ntamu"" is ""to give with the right hand"".
+
+Hmm, perhaps the first part is ""I have my work to do with my right hand's giving"", and the second part ""I have my support at the border"".
+
+Alternatively, maybe ""ada emi nye"" is ""my own to give"", so ""I have my work to do with my right hand's giving"".
+
+Alternatively, maybe ""ada"" is ""to do"", so ""I have my work to do with my right hand's provision"".
+
+Alternatively, maybe ""ada emi nye"" is ""to do my own giving"".
+
+Alternatively, maybe ""ada"" is part of a noun phrase. Maybe ""ada"" here is ""task"" or ""duty"".
+
+Alternatively, perhaps the sentence is saying ""I have my task to do with my right hand's provision, and I have my support at the border"".
+
+Alternatively, maybe ""mbordo"" is ""until the end"", so ""I have my support until the end"".
+
+I think the best I can do is translate as literally as possible, even if some parts are unclear. So:
+
+""And I have my work to do with my right hand's provision, and I have my support at the border.""
+
+Alternatively, maybe ""And I have my work to do with my right hand, and I have my support at the border.""
+
+Since ""nye"" might be part of the verb phrase. Maybe ""ada emi nye"" is ""my own to give"", but perhaps it's better to simplify. Alternatively, ""nye"" could be ""to give"", so ""I have my work to do with my right hand's giving"".
+
+Alternatively, maybe ""ada emi nye"" is ""my own work to give"", so ""I have my own work to give with my right hand"".
+
+Hmm, perhaps the user expects a more natural translation. Maybe ""I have my work to do with my right hand, and I have my support at the border."" 
+
+Alternatively, ""I have my task to do with my right hand, and I have my support at the boundary.""
+
+I think that's the best I can do without more context. Let me check if ""mbordo"" is a known term. Maybe ""mbordo"" is ""border"" in Fante. So ""support at the border"" or ""support on the border"".
+
+Alternatively, maybe ""mbordo"" is ""until the end"", so ""support until the end"".
+
+Alternatively, ""adɔr mbordo"" could mean ""to hold the border"" or ""to stand firm at the border"".
+
+Alternatively, maybe ""mbordo"" is part of a different word. Maybe ""mba bɔrɔ"" meaning ""until the end"", but split here as ""mbordo"".
+
+Alternatively, perhaps ""mbordo"" is ""mba bɔrɔ"" (until the end), but written as one word. So ""adɔr mbordo"" would be ""to hold until the end"".
+
+So maybe ""I have my work to do with my right",onesimus_BAB3F503_Dec 10 output,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah saw her, Siar father, and he gave his son Gad, who inherited, Yiedzi.",onesimus_BAB3F503_Dec 10 output,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob came to that place, he saw God there; and God spoke to him, saying: and He gave him that place and named it Mahanaim.",onesimus_BAB3F503_Dec 10 output,
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.","Okay, I need to translate this Fante text into English. Let me start by looking at the original sentence:
+
+""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.""
+
+First, I'll break it down phrase by phrase. 
+
+""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do"" – ""Na"" is a conjunction, probably ""and"" or ""so"". ""Nyankopɔn"" is God. ""Bɔɔ"" means ""come"" or ""comes"". ""Nyimpa"" could be ""mercy"" or ""grace"". ""Wɔ nankasa"" might be ""in the earth"" or ""on the earth"". ""No su do"" – ""no"" is a relative pronoun, ""su do"" could be ""so that they do"" or ""so that they may"". 
+
+So maybe starting with ""And God comes with mercy on the earth so that they may..."" 
+
+Next part: ""Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa"" – ""Nyew"" is a name, maybe a place or a person. ""Na"" again, ""so that God may come with mercy"". 
+
+Then ""ɔbɔɔ hɔn ɔbanyin nye ɔbaa."" – ""ɔbɔɔ"" again ""he comes"", ""hɔn"" is ""his"", ""ɔbanyin"" might be ""people"" or ""children"", ""nye"" could be ""to give"" or ""to provide"", ""ɔbaa"" maybe ""eternal"" or ""everlasting"". 
+
+Putting it together: ""He comes to give his people an everlasting... something."" 
+
+Wait, maybe ""ɔbaa"" is ""life""? Or ""eternal life""? 
+
+Putting the whole thing together, maybe:
+
+""And God comes with mercy on the earth so that they may, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+Hmm, ""Nyew"" might be a name or a place. Maybe it's part of a proper noun. Alternatively, could it be a verb? Maybe ""Nyew"" is a verb meaning ""to know"" or something else. But in this context, since it's after a comma, perhaps it's a name. Alternatively, maybe ""Nyew"" is part of a phrase. 
+
+Alternatively, ""Nyew"" could be a name like ""Jesus"" in another form? Wait, ""Nyankopɔn"" is God, so maybe ""Nyew"" is a title or another name. Alternatively, maybe it's a typo or mishearing. 
+
+Alternatively, maybe ""Nyew"" is part of the sentence structure. Let me check some Fante grammar. 
+
+In Fante, sometimes names are used in prayers or proverbs. ""Nyew"" might be a name, perhaps ""Jesus"" in Akan is ""Yeshua"", but in Fante it might be ""Nyew"". So maybe ""Nyew"" refers to Jesus. 
+
+So the sentence could be structured as:
+
+""And God comes with mercy on the earth, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+But that might not flow perfectly. Alternatively, maybe ""Nyew"" is part of the phrase. Let me see the structure again. 
+
+Breaking it down again:
+
+""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.""
+
+The structure after the comma ""Nyew"" might be a vocative, addressing someone. So perhaps:
+
+""And God comes with mercy on the earth so that they may..., Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+Alternatively, maybe ""Nyew"" is part of the clause. Maybe ""Nyew"" is a verb. Let me think of possible translations. 
+
+Alternatively, ""Nyew"" could be ""know"" or ""understand"". But in this context, maybe it's better to keep it as a name. 
+
+Putting it all together, the translation would be something like:
+
+""And God comes with mercy on the earth so that they may, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+But that feels a bit fragmented. Maybe the first part is ""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do"" – ""And God comes with mercy on the earth so that they may..."" Then ""Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa"" – ""Nyew, God so that He may come with mercy"". Then the last part: ""He comes to give His people an everlasting life.""
+
+Alternatively, maybe ""no su do"" is ""so that they may do"" but perhaps ""so that they may receive"" or ""so that they may have"". 
+
+Alternatively, the structure might be more like:
+
+""God comes with mercy on the earth, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+But the initial ""Na"" at the beginning would mean ""And"", so maybe starting with ""And God comes with mercy on the earth so that they may, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+Alternatively, maybe ""no su do"" is ""so that they may do"" but perhaps the verb is missing. Alternatively, maybe ""no su do"" is ""so that they may be"" or ""so that they may exist"".
+
+Alternatively, maybe the first part is ""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do"" – ""And God comes with mercy on the earth so that they may..."" and then ""Nyew"" is a name, so ""Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+Hmm, perhaps the translation should be:
+
+""And God comes with mercy on the earth so that they may, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+But I'm not sure about the exact meaning of ""Nyew"" here. If it's a name, maybe it's better to leave it as is. Alternatively, if it's a verb, maybe ""know"" or ""understand"", but that might not fit. 
+
+Alternatively, maybe ""Nyew"" is part of a phrase like ""so that they may know"" or ""so that they may understand"". 
+
+Wait, ""Nyew"" could be ""nye wo"" (to know you), but maybe it's a contraction. Alternatively, ""nyew"" as a verb. 
+
+Alternatively, maybe the structure is:
+
+""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.""
+
+Breaking down each part:
+
+- ""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do"" – ""And God comes with mercy on the earth so that they may...""
+
+- ""Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa"" – ""Nyew, God so that He may come with mercy""
+
+- ""ɔbɔɔ hɔn ɔbanyin nye ɔbaa."" – ""He comes to give His people an everlasting life.""
+
+Putting it all together, maybe:
+
+""And God comes with mercy on the earth so that they may, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+Alternatively, maybe ""Nyew"" is part of the first clause. Maybe ""no su do, Nyew"" – ""so that they may, Nyew..."" but that's unclear. 
+
+Alternatively, perhaps ""Nyew"" is a name, so the translation would include it as is. 
+
+Another approach: looking for similar phrases in Akan or Twi. In Twi, ""Nyankopɔn"" is God. ""Nyimpa"" is mercy. ""Nankasa"" is earth. ""No su do"" – ""no"" is relative pronoun, ""su do"" could be ""so that they may do"". 
+
+The second part: ""Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa"" – ""Nyew, God so that He may come with mercy"". 
+
+Then the last part: ""He comes to give His people an everlasting life.""
+
+Perhaps the translation is:
+
+""And God comes with mercy on the earth so that they may, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+Alternatively, maybe the first part is ""And God comes with mercy on the earth so that they may, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+Alternatively, maybe ""Nyew"" is a name, so the sentence is addressing Nyew (maybe Jesus) as",onesimus_AE3F5661_Dec 08 output,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE is the foundation of the earth, and dwells in the heart.",onesimus_AE3F5661_Dec 08 output,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","And I have my work that gives me some money, and I have to go to the border.",onesimus_AE3F5661_Dec 08 output,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","Then Leah said, ""Mother Siar, he gave his portion to Gad so that you may inherit,"" Yiedzi.",onesimus_AE3F5661_Dec 08 output,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob arrived there, he encountered God, who spoke to him and gave him the name Mahanaim.",onesimus_AE3F5661_Dec 08 output,
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.",Translation here,onesimus_A84A9EF3_Dec 04 output,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE, who now dwells, is the strength of the earth, and she is the support in the heart.",onesimus_A84A9EF3_Dec 04 output,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","I have my body to provide for myself, and I take a strong hand, and I have asked for help.",onesimus_A84A9EF3_Dec 04 output,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","Then Leah said, ""Mother Siar, he gave his portion to Gad so that you may inherit,"" Yiedzi.",onesimus_A84A9EF3_Dec 04 output,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob arrived there, he encountered God, who spoke to him and gave him the name Mahanaim.",onesimus_A84A9EF3_Dec 04 output,
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.",Translation here,gerhardt_34E1778F_output (7),
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE, who now dwells, is the strength of the earth, and she is the support in the heart.",gerhardt_34E1778F_output (7),
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","I have a period where I can secure a little money, and I have to work hard.",gerhardt_34E1778F_output (7),
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah said, ""Siar, mother, and he gave his portion to Gad so that you may inherit,"" Yiedzi.",gerhardt_34E1778F_output (7),
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob came there, he encountered God, who spoke to him and gave him the name Mahanaim.",gerhardt_34E1778F_output (7),
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.",And God comes with mercy on the earth so that He may come with mercy; He comes to give His people an eternal life.,jonathan_AD0D6072_output,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE is the foundation on the earth, and she is the support in the heart.",jonathan_AD0D6072_output,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","I have a period where I provide myself with a little money, and I have to work hard.",jonathan_AD0D6072_output,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah saw her, Siaraba, and he gave his son Gad, who established Yiedzi.",jonathan_AD0D6072_output,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob saw them, God spoke to him: and he called the name of that place Mahanaim.",jonathan_AD0D6072_output,
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.","And so God comes with mercy in this land, Nyew; indeed, God comes with mercy; He comes there as the one who is the mother.",john_86344B85_output (7),
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE, who is a stranger on earth, now remains and is a companion within the heart.",john_86344B85_output (7),
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","And I have this matter of mine that requires a little money, and I have time to wait.",john_86344B85_output (7),
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah saw, Siar has come, and he gave his inheritance to Gad, which he established there, Yiedzi.",john_86344B85_output (7),
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob came to that place, he encountered God, who said to him: and He gave him his camp, Mahanaim.",john_86344B85_output (7),
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.","And God comes with mercy to the earth so that, Jesus, God so that He comes with mercy; He comes to His people to save them.",Dec 05 output,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE, whose soul dwells on earth as a protector, is your companion in the heart.",Dec 05 output,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","And I have this matter of mine that requires a little money, and I have time to wait.",Dec 05 output,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah saw, Siar has come, and he gave his inheritance to Gad, which he established there, Yiedzi.",Dec 05 output,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob came to that place, he encountered God, who said to him: and He gave him his camp, Mahanaim.",Dec 05 output,
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.",Translation here,onesimus_C968674F_Dec 07 output,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.",EWURADZE is the foundation of the earth and dwells in the heart.,onesimus_C968674F_Dec 07 output,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","I have a time when I provide myself with a little money, and I have to work hard.",onesimus_C968674F_Dec 07 output,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah said, ""Mother Siar, he gave his portion to Gad so that you may inherit,"" Yiedzi.",onesimus_C968674F_Dec 07 output,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob saw them, God spoke to him: so he called the name of that place Mahanaim.",onesimus_C968674F_Dec 07 output,
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.","Okay, I need to translate this Fante text into English. Let me start by looking at the original sentence:
+
+""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.""
+
+First, I'll break it down phrase by phrase. 
+
+""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do"" – ""Na"" is a conjunction, probably ""and"" or ""so"". ""Nyankopɔn"" is God. ""Bɔɔ"" means ""come"" or ""comes"". ""Nyimpa"" could be ""mercy"" or ""grace"". ""Wɔ nankasa"" might be ""in the earth"" or ""on the earth"". ""No su do"" – ""no"" is a relative pronoun, ""su do"" could be ""so that they do"" or ""so that they may"". 
+
+So maybe starting with ""And God comes with mercy on the earth so that they may..."" 
+
+Next part: ""Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa"" – ""Nyew"" is a name, maybe a place or a person. ""Na"" again, ""so that God may come with mercy"". 
+
+Then ""ɔbɔɔ hɔn ɔbanyin nye ɔbaa."" – ""ɔbɔɔ"" again ""comes"". ""hɔn"" could be ""his"" or ""their"". ""ɔbanyin"" might be ""the people"" or ""children"". ""nye"" is ""to give"" or ""give"". ""ɔbaa"" could be ""the mother"" or ""the source"".
+
+Putting it together, maybe something like: ""And God comes with mercy on the earth so that they may... Nyew, God so that He comes with mercy; He comes to give His people the mother.""
+
+Wait, that doesn't flow well. Let me check again. Maybe ""Nyew"" is part of a name or a title. Alternatively, ""Nyew"" could be a town or a reference to a place. Alternatively, maybe ""Nyew"" is part of a phrase. 
+
+Alternatively, ""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do"" – ""And so God comes with mercy to the earth so that they may..."" 
+
+Then ""Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa"" – ""Nyew, God so that He comes with mercy"". 
+
+Hmm, perhaps ""Nyew"" is an interjection or a name. Maybe ""Nyew"" is a name of a place or a person. Alternatively, maybe it's part of a phrase. 
+
+Looking at the structure, the sentence seems to be talking about God coming with mercy, and then mentioning Nyew, then repeating the idea. Maybe the translation should be more fluid. 
+
+Another approach: ""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do"" – ""And God comes with mercy to the earth so that they may..."" 
+
+Then ""Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa"" – ""Nyew, God so that He comes with mercy"". 
+
+Wait, maybe ""no su do"" is ""so that He may come"". 
+
+Alternatively, ""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do"" – ""And God comes with mercy to the earth so that they may..."" 
+
+Then ""Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa"" – ""Nyew, God so that He comes with mercy"". 
+
+The last part: ""ɔbɔɔ hɔn ɔbanyin nye ɔbaa."" – ""He comes to give His people the mother."" 
+
+Hmm, ""ɔbanyin"" could be ""children"" or ""people"". ""ɔbaa"" might be ""the mother"" or ""the source"". Maybe ""He comes to give His people the mother (or source of life)"". 
+
+Alternatively, ""ɔbanyin"" is ""children"", so ""He comes to give His children the mother"". 
+
+Putting it all together, maybe:
+
+""And so God comes with mercy to the earth, Nyew, God so that He comes with mercy; He comes to give His people the mother.""
+
+Wait, that still feels a bit off. Maybe ""Nyew"" is part of a name. Alternatively, perhaps ""Nyew"" is a town or a reference. Alternatively, maybe it's a name like ""Nyew"" as in a place. 
+
+Alternatively, maybe ""Nyew"" is part of a phrase. Let me think again. 
+
+Alternatively, ""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do"" – ""And God comes with mercy to the earth so that they may..."" 
+
+Then ""Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa"" – ""Nyew, God so that He comes with mercy"". 
+
+Perhaps ""Nyew"" is an interjection here, like ""listen"" or ""behold"". Maybe ""Nyew"" is similar to ""listen, O Nyew"" or ""O Nyew, God comes with mercy"". 
+
+Alternatively, maybe ""Nyew"" is a name, and the sentence is addressing someone named Nyew. 
+
+Alternatively, maybe ""Nyew"" is part of a title. 
+
+Alternatively, perhaps the structure is: 
+
+""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.""
+
+Breaking it into clauses:
+
+1. Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do,
+
+2. Nyew,
+
+3. Nyankopɔn no su do na ɔbɔɔ nyimpa;
+
+4. ɔbɔɔ hɔn ɔbanyin nye ɔbaa.
+
+Maybe the second part ""Nyew"" is a name, so the sentence is addressing someone named Nyew. 
+
+Alternatively, ""Nyew"" could be a town or a place. 
+
+Alternatively, maybe ""Nyew"" is part of a phrase. 
+
+Alternatively, perhaps ""Nyew"" is a name for God in this context. 
+
+Alternatively, maybe ""Nyew"" is a misspelling or a different term. 
+
+Alternatively, perhaps ""Nyew"" is ""now"" or a conjunction. 
+
+Hmm. Maybe I should look for common phrases. 
+
+Alternatively, maybe ""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do"" – ""And so God comes with mercy to the earth so that they may..."" 
+
+Then ""Nyew"" could be ""listen"" or ""behold"", so ""Listen, God so that He comes with mercy; He comes to give His people the mother.""
+
+Alternatively, ""He comes to give His people the mother"" might not make sense. Maybe ""the mother"" is symbolic, like the source of life. 
+
+Alternatively, ""ɔbaa"" could mean ""the mother"" or ""the womb"". 
+
+Alternatively, ""ɔbanyin"" is ""children"", so ""He comes to give His children the mother (or source)"". 
+
+Alternatively, maybe ""ɔbaa"" is ""the earth"" or ""the land"". 
+
+Alternatively, ""ɔbaa"" could be ""the motherland"". 
+
+Alternatively, maybe ""ɔbaa"" is ""the mother"" as in a maternal figure. 
+
+Putting it all together, perhaps the translation is:
+
+""And so God comes with mercy to the earth, O Nyew, God so that He comes with mercy; He comes to give His people the mother.""
+
+Alternatively, maybe ""Nyew"" is part of the name, so ""Nyew, God comes with mercy"". 
+
+Alternatively, maybe ""Nyew"" is a name of a place, so ""And God comes with mercy to the earth, Nyew, so that God comes with mercy; He comes to give His people the mother.""
+
+Alternatively, perhaps ""Nyew"" is a name of a person or a community. 
+
+Alternatively, maybe ""Nyew"" is part of a phrase like ""Nyew, God"" meaning ""God, the merciful one"". 
+
+Alternatively, maybe ""Nyew"" is a title. 
+
+Alternatively, perhaps the translation should be more fluid. Let me try again:
+
+""And God comes with mercy to the earth so that they may do so, O Nyew, God so that He comes with mercy; He comes to give His people the mother.""
+
+Hmm, not quite. Maybe ""no su do"" is ""so that they may do it"", but not sure. 
+
+Alternatively, ""no su do"" could be ""so that they may be"". 
+
+Alternatively, ""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do"" – ""And so God comes with mercy to the earth so that they may be..."" 
+
+Then ""Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa"" – ""O Nyew, God so that He comes with mercy"". 
+
+The last part: ""He comes to give His people the mother."" 
+
+Alternatively",john_C52DEBBB_output (10),
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.",EWURADZE is the foundation of the earth and dwells in the heart.,john_C52DEBBB_output (10),
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","I have a period where I provide myself with a little money, and I have hard work.",john_C52DEBBB_output (10),
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah saw her, Siar aba, and she gave her son Gad, who will inherit you, Yiedzi.",john_C52DEBBB_output (10),
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob and his household encountered God there, He said to him: 'I will give you this blessing at Mahanaim.'",john_C52DEBBB_output (10),
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.","Okay, I need to translate this Fante text into English. Let me start by looking at the original sentence:
+
+""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.""
+
+First, I'll break it down phrase by phrase. 
+
+""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do"" – ""Na"" is a conjunction, probably ""and"" or ""so"". ""Nyankopɔn"" is God. ""Bɔɔ"" means ""come"" or ""comes"". ""Nyimpa"" could be ""mercy"" or ""grace"". ""Wɔ nankasa"" might be ""in the earth"" or ""on the earth"". ""No su do"" – ""no"" is a relative pronoun, ""su do"" could be ""so that they do"" or ""so that they may"". 
+
+So maybe starting with ""And God comes with mercy on the earth so that they may..."" 
+
+Next part: ""Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa"" – ""Nyew"" is a name, maybe a place or a person. ""Na"" again, ""so that"". ""Nyankopɔn no su do"" same as before. ""Na ɔbɔɔ nyimpa"" – ""and he comes with mercy"". 
+
+Then the last part: ""ɔbɔɔ hɔn ɔbanyin nye ɔbaa."" – ""ɔbɔɔ hɔn"" could be ""he comes to them"". ""ɔbanyin"" might be ""the father"" or ""ancestor"". ""Nye"" is ""to give"". ""ɔbaa"" – ""the mother"" or ""female ancestor"". 
+
+Putting it together, maybe something like: ""And God comes with mercy on the earth so that they may... Nyew, God so that he comes with mercy; he comes to them, the father and the mother."" 
+
+Wait, maybe ""ɔbanyin nye ɔbaa"" is ""the father and the mother"". So the last part is ""he comes to them, the father and the mother"". 
+
+I should check if ""nankasa"" is indeed ""earth"" or maybe ""ground"". Also, ""Nyew"" could be a name or a place. Maybe ""Nyew"" is part of a phrase, but since it's capitalized, it's likely a proper noun. 
+
+Another point: ""no su do"" – ""no"" refers back to the subject, so ""so that God may come with mercy"". Wait, maybe the structure is ""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do"" – ""And God comes with mercy on the earth so that they may..."" 
+
+Alternatively, ""no su do"" could be ""so that they may do something"". Maybe ""so that they may receive mercy""? 
+
+Hmm, perhaps the translation needs to be more fluid. Let me try again:
+
+""And God comes with mercy on the earth so that they may do; Nyew, God so that he comes with mercy; he comes to them, the father and the mother.""
+
+Wait, that doesn't sound right. Maybe ""so that they may have mercy"" or ""so that they may be merciful"". 
+
+Alternatively, ""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do"" – ""And God comes with mercy on the earth so that they may..."" Maybe ""so that they may be saved"" or ""so that they may live"".
+
+Alternatively, ""no su do"" could mean ""so that they may do (something)"". Maybe ""so that they may follow"". 
+
+Alternatively, ""no su do"" could be ""so that they may do (the will of God)"". 
+
+Hmm, perhaps I need to look up some Fante phrases. Since I can't do that right now, I'll proceed with my best guess. 
+
+Putting it all together, maybe:
+
+""And God comes with mercy on the earth so that they may; Nyew, God so that he comes with mercy; he comes to them, the father and the mother.""
+
+Wait, that still feels off. Maybe ""Nyew"" is part of a name or a place. Alternatively, ""Nyew"" could be a vocative, like ""O Nyew"" or addressing someone. 
+
+Alternatively, the structure might be: 
+
+""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.""
+
+Breaking it into clauses:
+
+1. Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do,
+
+2. Nyew,
+
+3. Nyankopɔn no su do na ɔbɔɔ nyimpa;
+
+4. ɔbɔɔ hɔn ɔbanyin nye ɔbaa.
+
+Maybe ""Nyew"" is a name, so the second part is addressing someone. 
+
+Alternatively, ""Nyew"" could be a place, like ""in Nyew"". 
+
+Alternatively, ""Nyew"" might be part of a phrase. 
+
+Alternatively, maybe ""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do"" – ""And God comes with mercy on the earth so that they may do (something)"". 
+
+Then ""Nyew"" could be a name, so ""Nyew, God so that he comes with mercy; he comes to them, the father and the mother.""
+
+Alternatively, maybe ""Nyew"" is a title or a term. 
+
+Alternatively, ""Nyew"" could be ""now"" or ""thus"", but that's a stretch. 
+
+Alternatively, ""Nyew"" might be a place name, like a town. 
+
+Assuming ""Nyew"" is a proper noun, perhaps a name, then the translation would be:
+
+""And God comes with mercy on the earth so that they may do; Nyew, God so that he comes with mercy; he comes to them, the father and the mother.""
+
+But that still feels a bit awkward. Maybe ""so that they may be"" instead of ""may do"". 
+
+Alternatively, ""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do"" – ""And God comes with mercy on the earth so that they may have mercy"". 
+
+Then ""Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa"" – ""Nyew, God so that he comes with mercy; he comes to them, the father and the mother.""
+
+Hmm. Maybe the key is that ""no su do"" refers back to the subject. 
+
+Alternatively, ""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do"" – ""And God comes with mercy on the earth so that they may (do something, perhaps receive mercy)"". 
+
+Putting it all together, perhaps the best translation is:
+
+""And God comes with mercy on the earth so that they may; Nyew, God so that he comes with mercy; he comes to them, the father and the mother.""
+
+Alternatively, maybe ""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do"" – ""And God comes with mercy on the earth so that they may be saved"". 
+
+Then ""Nyew"" could be a name, so ""Nyew, God so that he comes with mercy; he comes to them, the father and the mother.""
+
+Alternatively, maybe ""Nyew"" is part of a phrase like ""in Nyew"" or ""to Nyew"". 
+
+Alternatively, maybe ""Nyew"" is a name of a person, like ""Nyew, God comes with mercy so that he comes with mercy; he comes to them, the father and the mother.""
+
+Alternatively, maybe ""Nyew"" is a place where God comes, so ""to Nyew"".
+
+Hmm, this is tricky. Maybe I should look for similar Fante phrases. Since I can't, I'll proceed with the best possible translation based on parts. 
+
+Final attempt:
+
+""And God comes with mercy on the earth so that they may do; Nyew, God so that he comes with mercy; he comes to them, the father and the mother.""
+
+Alternatively, maybe ""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do"" – ""And God comes with mercy on the earth so that they may (be merciful)"". 
+
+Then ""Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa"" – ""Nyew, God so that he comes with mercy; he comes to them, the father and the mother.""
+
+Alternatively, maybe ""so that they may follow"" or ""so that they may be guided"".
+
+Alternatively, perhaps ""no su do"" is ""so that they may do (the will of God)"". 
+
+Alternatively, maybe ""no su do"" is ""so that they may be"". 
+
+Alternatively, maybe ""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do"" – ""And God comes with mercy on the earth so that they may be (there)"". 
+
+Hmm. I think I'll go with the translation that makes the most sense contextually, even if some parts are uncertain. 
+
+Final translation",gerhardt_62CB5CC1_output (4),
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.",EWURADZE is the foundation of the earth and dwells in the heart.,gerhardt_62CB5CC1_output (4),
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","I have a period where I provide myself with a little money, and I have hard work.",gerhardt_62CB5CC1_output (4),
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah saw her, Siar aba, and she gave her son Gad, who will inherit you, Yiedzi.",gerhardt_62CB5CC1_output (4),
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob saw them, God spoke to him: and he named them Mahanaim.",gerhardt_62CB5CC1_output (4),
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.",Translation here,Dec 04 output,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE, who now dwells, is the strength of the earth, and she is the support in the heart.",Dec 04 output,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","I have my body to provide for myself, and I take a strong hand, and I have asked for help.",Dec 04 output,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","Then Leah said, ""Mother Siar, he gave his portion to Gad so that you may inherit,"" Yiedzi.",Dec 04 output,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob arrived there, he encountered God, who spoke to him and gave him the name Mahanaim.",Dec 04 output,
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.",Translation here,gerhardt_676E558A_output (6),
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE is the foundation of the earth, and it is within the heart.",gerhardt_676E558A_output (6),
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","I have a period where I provide myself with a little money, and I have to work hard.",gerhardt_676E558A_output (6),
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah saw her, Siar aba, and she gave her son Gad, who will inherit you, Yiedzi.",gerhardt_676E558A_output (6),
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob saw them, God spoke to him: so he named that place Mahanaim.",gerhardt_676E558A_output (6),
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.","God comes with mercy in the right way, so God brings mercy; He brings the proper path that one follows to the end.",gerhardt_107423D8_output (9),
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE is here, the strength on earth, and the support within his heart.",gerhardt_107423D8_output (9),
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","I have a time to provide myself with a little money, and I have to work hard.",gerhardt_107423D8_output (9),
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah saw her, Siaraba, and she gave her son Gad, who will inherit, Yiedzi.",gerhardt_107423D8_output (9),
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob saw them, God spoke to him, and he called the place Mahanaim.",gerhardt_107423D8_output (9),
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.",Translation here,gerhardt_E4F773B6_output (3),
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE is my strength on earth, and she is my companion within my heart.",gerhardt_E4F773B6_output (3),
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","Okay, I need to translate this Fante text into English. Let me start by looking at the sentence: ""Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo."" 
+
+First, I'll break it down word by word. ""Na"" is a conjunction, probably meaning ""and"" or ""so"". ""Mebɛma"" is a common word in Fante, which I think means ""I have"" or ""I hold"". Then ""m’ahyɛmu"" – the apostrophe might indicate a contraction. Maybe ""a hyɛmu""? ""Hyɛmu"" could be related to ""hyɛ"" (to know) but with a suffix. Maybe ""my knowledge"" or ""my understanding""?
+
+Next, ""ada emi nye ɔwo ntamu"". ""Ada"" is ""thing"" or ""matter"". ""Emi"" is ""my"". ""Nye"" might mean ""to take"" or ""to accept"". ""Owo"" is ""hand"", and ""ntamu"" could be an adjective or a verb form. Maybe ""ntamu"" means ""strong"" or ""firm""? So putting that together: ""the matter of my hand taking firmly""?
+
+Then the second part: ""na mebɛma adɔr mbordo"". ""Adɔr"" might be ""head"" or ""mind"", and ""mbordo"" could be ""to turn"" or ""to change direction"". So ""I have my head turned"" or ""my mind turned""?
+
+Putting it all together: ""And I have my understanding of the matter of my hand taking firmly, and I have my head turned."" That doesn't sound quite right. Maybe ""ada emi nye ɔwo ntamu"" is more like ""the matter that I have taken firmly in my hand""? 
+
+Alternatively, ""nye"" could be ""to take"" as in responsibility. So maybe ""the matter that I have taken upon myself firmly with my hand"". 
+
+The second part ""adɔr mbordo"" – ""adɔr"" could also mean ""face"" or ""front"", so ""my face turned"" or ""turned away""? Maybe ""I have turned my face"" or ""I have turned away"".
+
+Hmm, maybe the first part is about holding onto something firmly, and the second part about turning away or changing direction. 
+
+Alternatively, ""mbordo"" might be a verb meaning ""to turn around"". So ""I have turned my head"" or ""I have turned around"".
+
+Putting it all together again: ""And I have my understanding of the matter that I have firmly grasped with my hand, and I have turned my head."" But that still feels a bit off. Maybe ""ada emi nye ɔwo ntamu"" is ""the matter that I have taken in my strong hand""? 
+
+Alternatively, ""ntamu"" could be ""to hold tightly"". So ""the matter that I hold tightly in my hand"". 
+
+The second part: ""adɔr mbordo"" – ""adɔr"" as ""head"" and ""mbordo"" as ""turned"", so ""my head turned"". Maybe metaphorically, like ""I have turned my attention"" or ""I have turned away from something"".
+
+Alternatively, ""mbordo"" might be ""to look around"" or ""to look back"". 
+
+I think the best approach is to look for common phrases or structures in Fante. The phrase ""mebɛma m’ahyɛmu"" might be ""I have in my understanding"" or ""I understand that"". 
+
+So maybe the first part is ""I understand the matter that I have firmly taken in my hand"", and the second part ""I have turned my head/mind"". 
+
+Alternatively, ""ada emi nye ɔwo ntamu"" could mean ""the thing that I have taken in my strong hand"". 
+
+Putting it all together, perhaps: ""And I have my understanding of the matter that I have firmly grasped in my hand, and I have turned my head."" 
+
+But maybe ""mbordo"" is ""to turn away"", so ""I have turned away"". 
+
+Alternatively, ""adɔr mbordo"" could mean ""my face is turned"", implying looking elsewhere. 
+
+Alternatively, ""adɔr"" might mean ""front"" or ""face"", so ""my face is turned"" could mean ""I have turned my back on something"".
+
+Alternatively, maybe ""mbordo"" is a verb meaning ""to turn around"", so ""I have turned around"".
+
+Hmm. Maybe the translation is: ""And I have my understanding of the matter that I have firmly taken in my hand, and I have turned my head."" 
+
+Alternatively, ""I have my understanding of the matter that I have taken in my strong hand, and I have turned my head.""
+
+Alternatively, ""Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu"" could be ""I have in my understanding the matter that I have taken in my strong hand"".
+
+The second part: ""na mebɛma adɔr mbordo"" – ""and I have turned my head"".
+
+Putting it all together: ""And I have my understanding of the matter that I have firmly grasped in my hand, and I have turned my head.""
+
+Alternatively, maybe ""ada emi nye ɔwo ntamu"" is ""the matter that I have taken in my firm hand"".
+
+Alternatively, ""nye"" could be ""to take"" as in responsibility, so ""the matter that I have taken upon myself firmly with my hand"".
+
+Alternatively, maybe ""ada emi nye ɔwo ntamu"" is ""the thing that I have taken in my strong hand"".
+
+The second part: ""adɔr mbordo"" – ""adɔr"" as ""face"", so ""my face turned"", which could mean ""I have turned away"" or ""I have turned my back"".
+
+Alternatively, ""mbordo"" might mean ""to look around"", so ""I have looked around"".
+
+Alternatively, ""mbordo"" could be ""to turn around"", so ""I have turned around"".
+
+Putting it all together, maybe the translation is: ""And I have my understanding of the matter that I have firmly grasped in my hand, and I have turned my head.""
+
+Alternatively, ""I have my understanding of the matter that I have taken in my strong hand, and I have turned my head.""
+
+Alternatively, ""I have my understanding of the matter that I have firmly taken in my hand, and I have turned my face.""
+
+But I'm not entirely sure about ""mbordo"". Maybe ""mbordo"" is ""to turn away"", so ""I have turned away"".
+
+Alternatively, ""adɔr mbordo"" could mean ""my head is turned"", implying looking elsewhere.
+
+Alternatively, ""mbordo"" might be a verb meaning ""to look back"", so ""I have looked back"".
+
+Hmm. Maybe the best way is to go with the most straightforward translation even if it's a bit literal. Let me try again:
+
+""Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu"" – ""And I have in my understanding the matter that I have taken in my strong hand"".
+
+""na mebɛma adɔr mbordo"" – ""and I have turned my head"".
+
+So combining: ""And I have my understanding of the matter that I have firmly grasped in my hand, and I have turned my head.""
+
+Alternatively, ""And I have my understanding of the matter that I have taken in my strong hand, and I have turned my head.""
+
+Alternatively, maybe ""ada emi nye ɔwo ntamu"" is ""the matter that I have taken in my firm hand"".
+
+Alternatively, ""nye"" could be ""to take"" as in responsibility, so ""the matter that I have taken upon myself firmly with my hand"".
+
+Alternatively, ""ada emi nye ɔwo ntamu"" – ""the thing that I have taken in my strong hand"".
+
+The second part: ""adɔr mbordo"" – ""my head turned"", so ""I have turned my head"".
+
+Alternatively, ""mbordo"" might mean ""to turn around"", so ""I have turned around"".
+
+Alternatively, maybe ""mbordo"" is ""to look around"", so ""I have looked around"".
+
+Hmm. Maybe the translation is best as: ""And I have my understanding of the matter that I have firmly grasped in my hand, and I have turned my head.""
+
+Alternatively, ""I have my understanding of the matter that I have taken in my strong hand, and I have turned my head.""
+
+Alternatively, maybe ""ada emi nye ɔwo ntamu"" is ""the matter that I have taken in my firm hand"".
+
+Alternatively, ""ada emi nye ɔwo ntamu"" could be ""the thing that I have taken in my strong hand"".
+
+Putting it all together, the translation would be: ""And I have my understanding of the matter that I have firmly grasped in my hand, and I have turned my head.""
+
+Alternatively, maybe ""mbordo"" is ""to turn away"", so ""I have turned away"".
+
+Alternatively, ""adɔr mbordo"" could mean ""I have turned my face away"".
+
+Hmm. I think the best I can do with the given information is to translate it as:
+
+""And I have my understanding of the matter that I have firmly grasped in my hand, and I have turned my head.""
+
+But maybe ""ada emi nye ɔwo ntamu"" is better as ""the matter that I have taken in my strong hand"".
+
+Alternatively, ""ada emi nye ɔwo ntamu"" – ""the matter that I have taken in my strong hand"".
+
+So the final translation would be: ""And I have my understanding of the",gerhardt_E4F773B6_output (3),
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah saw her, Siar aba, and she gave her son Gad, who will inherit you, Yiedzi.",gerhardt_E4F773B6_output (3),
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob saw them, God spoke to him, and he called their name Mahanaim.",gerhardt_E4F773B6_output (3),
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.","And so God comes with mercy in this land, Nyew; indeed, God comes with mercy; He comes there as the one who is the mother.",john_B0DBB2CB_output (4),
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE, who is a stranger on earth, now remains and is a companion within the heart.",john_B0DBB2CB_output (4),
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","And I have this matter of mine that requires a little money, and I have time to wait.",john_B0DBB2CB_output (4),
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah saw, Siar has come, and he gave his inheritance to Gad, which he established there, Yiedzi.",john_B0DBB2CB_output (4),
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob came to that place, he encountered God, who said to him: and He gave him his camp, Mahanaim.",john_B0DBB2CB_output (4),
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.","And God comes with mercy on the earth so that they may, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.",gerhardt_E32D1C1E_output_mzX2S5,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE, who is a stranger on earth, now remains and is a companion within the heart.",gerhardt_E32D1C1E_output_mzX2S5,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","And I have this matter of mine that requires a little money, and I have time to wait.",gerhardt_E32D1C1E_output_mzX2S5,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah saw, Siar has come, and he gave his inheritance to Gad, which he established there, Yiedzi.",gerhardt_E32D1C1E_output_mzX2S5,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob came to that place, he encountered God, who said to him: and He gave him his camp, Mahanaim.",gerhardt_E32D1C1E_output_mzX2S5,
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.","And God comes with mercy on the earth so that they may, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.",gerhardt_145C11AE_output (2),
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.",EWURADZE is the foundation of the earth and dwells in the heart.,gerhardt_145C11AE_output (2),
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","And I have a time to provide for myself by taking little money, and I have to work hard.",gerhardt_145C11AE_output (2),
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","Then Leah said, 'Siar aba, he gave his son Gad the right to inherit, Yiedzi.'",gerhardt_145C11AE_output (2),
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And Jacob fought there, for he saw God there, and God gave him the name Mahanaim.",gerhardt_145C11AE_output (2),
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.",something,gerhardt_087BEB88_output_loRIsq,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE, who now dwells on earth, is strength, and she is the support in the heart.",gerhardt_087BEB88_output_loRIsq,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","And I have my body to sustain me, and I take a firm hand, and I have sought help.",gerhardt_087BEB88_output_loRIsq,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah saw her, Siaraba, and she gave her son Gad, who will inherit, Yiedzi.",gerhardt_087BEB88_output_loRIsq,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob saw them, God spoke to him: and he named them Mahanaim.",gerhardt_087BEB88_output_loRIsq,
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.",Translation here,john_C904F397_output (2),
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.",EWURADZE is the foundation of the earth and dwells in the heart.,john_C904F397_output (2),
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","I have my body to provide for myself, and I take a strong hand, and I have asked for help.",john_C904F397_output (2),
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah saw her, Siaraba, and she gave her son Gad, who inherited from Yiedzi.",john_C904F397_output (2),
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob saw them, God spoke to him: so he called their name Mahanaim.",john_C904F397_output (2),
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.","And God comes with praise in the morning, Nyew; God does so that He comes with praise; He comes to take His people with Him in the morning.",onesimus_E33AE420_Dec 11 output,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE is the foundation on the earth, and is in the heart.",onesimus_E33AE420_Dec 11 output,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","I have my body to provide for myself, and I take a strong hand, and I have asked for help.",onesimus_E33AE420_Dec 11 output,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah said, ""Mother Siar, he gave his portion to Gad so that you may inherit,"" Yiedzi.",onesimus_E33AE420_Dec 11 output,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob arrived there, he encountered God, who spoke to him and gave him His camp at Mahanaim.",onesimus_E33AE420_Dec 11 output,
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.","Okay, I need to translate this Fante text into English. Let me start by looking at the original sentence:
+
+""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.""
+
+First, I'll break it down phrase by phrase. 
+
+""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do"" – ""Na"" is a conjunction, probably ""and"" or ""so"". ""Nyankopɔn"" is God. ""Bɔɔ"" means ""come"" or ""comes"". ""Nyimpa"" could be ""mercy"" or ""grace"". ""Wɔ nankasa"" might be ""in the earth"" or ""on the earth"". ""No su do"" – ""no"" is a relative pronoun, ""su do"" could be ""so that they do"" or ""so that they may"". 
+
+So maybe starting with ""And God comes with mercy on the earth so that they may..."" 
+
+Next part: ""Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa"" – ""Nyew"" is a name, maybe a place or a person. ""Na"" again, ""so that God may come with mercy"". 
+
+Then ""ɔbɔɔ hɔn ɔbanyin nye ɔbaa."" – ""ɔbɔɔ"" again ""he comes"", ""hɔn"" is ""his"", ""ɔbanyin"" might be ""people"" or ""children"", ""nye"" could be ""to give"" or ""to provide"", ""ɔbaa"" maybe ""eternal"" or ""everlasting"". 
+
+Putting it together: ""He comes to give his people an everlasting... something."" 
+
+Wait, maybe ""ɔbaa"" is ""life""? Or ""eternal life""? 
+
+Putting the whole thing together, maybe:
+
+""And God comes with mercy on the earth so that they may, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+Hmm, ""Nyew"" might be a name or a place. Maybe it's part of a proper noun. Alternatively, could it be a verb? Maybe ""Nyew"" is a verb meaning ""to know"" or something else. But in this context, since it's after a comma, perhaps it's a name. Alternatively, maybe ""Nyew"" is part of a phrase. 
+
+Alternatively, ""Nyew"" could be a name like ""Jesus"" in another form? Wait, ""Nyankopɔn"" is God, so maybe ""Nyew"" is a title or another name. Alternatively, maybe it's a typo or mishearing. 
+
+Alternatively, maybe ""Nyew"" is part of the sentence structure. Let me check some Fante grammar. 
+
+In Fante, sometimes names are used in prayers or proverbs. ""Nyew"" might be a name, perhaps ""Jesus"" in Akan is ""Yeshua"", but in Fante it might be ""Nyew"". So maybe ""Nyew"" refers to Jesus. 
+
+So the sentence could be structured as:
+
+""And God comes with mercy on the earth, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+But that might not flow perfectly. Alternatively, maybe ""Nyew"" is part of the phrase. Let me see the structure again. 
+
+Breaking it down again:
+
+""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.""
+
+The structure after the comma ""Nyew"" might be a repetition or an interjection. Maybe it's ""O God"" or ""Lord"". Alternatively, ""Nyew"" could be ""now"" or another adverb. 
+
+Alternatively, maybe ""Nyew"" is a name, so the translation would include it as is. 
+
+Putting it all together, perhaps:
+
+""And God comes with mercy on the earth so that they may, O Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+Alternatively, maybe ""Nyew"" is part of a phrase like ""so that Nyew (God) may come with mercy"". 
+
+Alternatively, maybe the structure is:
+
+""And God comes with mercy on the earth, so that they may (do something). Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+Hmm, perhaps the first part is saying that God comes with mercy to the earth so that they (people) may do something, then the second part repeats or emphasizes with ""Nyew"" (maybe ""Lord"" or ""Jesus""), and then explains the purpose. 
+
+Alternatively, maybe ""Nyew"" is a name, so the translation would be:
+
+""And God comes with mercy on the earth so that they may, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+But that still feels a bit off. Maybe ""Nyew"" is part of the verb phrase. Alternatively, perhaps ""Nyew"" is ""now"" in Fante. Let me check. 
+
+Looking up ""Nyew"" in Fante: I think ""nyew"" can mean ""now"" or ""then"". So maybe the sentence is:
+
+""And God comes with mercy on the earth so that they may, now, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+But that still might not make perfect sense. Alternatively, maybe the structure is:
+
+""And God comes with mercy on the earth, so that they may (do something). Now, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+Alternatively, perhaps the first part is ""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do"" – ""And God comes with mercy to the earth so that they may..."" Then ""Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa"" – ""Now, God so that He may come with mercy..."" 
+
+Putting it all together, maybe the translation is:
+
+""And God comes with mercy to the earth so that they may, now, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+Alternatively, maybe ""no su do"" is ""so that they may do"", but the verb is missing. Maybe it's implied. 
+
+Alternatively, perhaps the structure is more like a poetic repetition. Maybe the first part is ""God comes with mercy to the earth so that they may..."", then ""Nyew, God so that He may come with mercy"", emphasizing again, and then the final part explains the purpose. 
+
+Alternatively, ""ɔbɔɔ hɔn ɔbanyin nye ɔbaa"" – ""He comes to give His people an everlasting life."" 
+
+Putting it all together, the translation might be:
+
+""And God comes with mercy on the earth so that they may, O Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+Alternatively, maybe ""Nyew"" is a name, so it's kept as is. 
+
+Alternatively, maybe ""Nyew"" is part of a phrase like ""so that Nyew (the people) may come with mercy"". But that might not fit. 
+
+Alternatively, perhaps ""Nyew"" is ""now"" and the sentence is structured as:
+
+""And God comes with mercy on the earth so that they may, now, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+But I'm not entirely sure. Since I'm not a native speaker, I might need to go with the best possible translation based on the components. 
+
+Another approach: ""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do"" – ""And God comes with mercy to the earth so that they may..."" 
+
+Then ""Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa"" – ""Now, God so that He may come with mercy..."" 
+
+Then the last part: ""He comes to give His people an everlasting life.""
+
+So combining: 
+
+""And God comes with mercy to the earth so that they may, now, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+Alternatively, maybe the first part is saying that God comes with mercy to the earth so that they (the people) may receive it, and then the second part emphasizes that God comes with mercy again, and the final part states the purpose. 
+
+Alternatively, maybe ""no su do"" is ""so that they may do"", but the verb is missing, so perhaps it's ""so that they may be saved"" or ""so that they may live"". 
+
+Alternatively, maybe ""nyimpa"" is ""grace"" and ""ɔbaa"" is ""everlasting life"". 
+
+Putting it all together, the most coherent translation might be:
+
+""And God comes with mercy to the earth so that they may, O Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+Alternatively, if ""Nyew"" is a name, perhaps it's better to keep it capitalized. 
+
+Alternatively, maybe the structure is more like a prayer",onesimus_48E85B7F_Dec 09 output,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE is here, who is strength on earth, and is the support within the heart.",onesimus_48E85B7F_Dec 09 output,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","I have my body to provide for myself, and I take a strong hand, and I have asked for help.",onesimus_48E85B7F_Dec 09 output,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","Then Leah said, ""Mother Siar, he gave his portion to Gad so that you may inherit,"" Yiedzi.",onesimus_48E85B7F_Dec 09 output,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob arrived there, he encountered God, who spoke to him and gave him the name Mahanaim.",onesimus_48E85B7F_Dec 09 output,
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.","And God comes with mercy on the earth so that they may, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.",Dec 01 output,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.",EWURADZE is the foundation of the earth and dwells in the heart.,Dec 01 output,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","I have my time to provide myself with a little money, and I have hard work.",Dec 01 output,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah said, ""Siar, mother, he gave his portion to Gad as he had blessed,"" Yiedzi.",Dec 01 output,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob saw them, God spoke to him: and he named them Mahanaim.",Dec 01 output,
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.","Okay, I need to translate this Fante text into English. Let me start by looking at the original sentence:
+
+""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.""
+
+First, I'll break it down phrase by phrase. 
+
+""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do"" – ""Na"" is a conjunction, probably ""and"" or ""so"". ""Nyankopɔn"" is God. ""Bɔɔ"" means ""come"" or ""comes"". ""Nyimpa"" could be ""mercy"" or ""grace"". ""Wɔ nankasa"" might be ""in the earth"" or ""on the earth"". ""No su do"" – ""no"" is a relative pronoun, ""su do"" could be ""so that they do"" or ""so that they may"". 
+
+So maybe starting with ""And God comes with mercy on the earth so that they may..."" 
+
+Next part: ""Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa"" – ""Nyew"" is a name, maybe a place or a person. ""Na"" again, ""so that God may come with mercy"". 
+
+Then ""ɔbɔɔ hɔn ɔbanyin nye ɔbaa."" – ""ɔbɔɔ"" again ""he comes"", ""hɔn"" is ""his"", ""ɔbanyin"" might be ""people"" or ""children"", ""nye"" could be ""to give"" or ""to provide"", ""ɔbaa"" maybe ""eternal"" or ""everlasting"". 
+
+Putting it together: ""He comes to give his people an everlasting... something."" 
+
+Wait, maybe ""ɔbaa"" is ""life""? Or ""eternal life""? 
+
+Putting the whole thing together, maybe:
+
+""And God comes with mercy on the earth so that they may, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+Hmm, ""Nyew"" might be a name or a place. Maybe it's part of a proper noun. Alternatively, could it be a verb? Maybe ""Nyew"" is a verb meaning ""to know"" or something else. But in this context, since it's after a comma, perhaps it's a name. Alternatively, maybe ""Nyew"" is part of a phrase. 
+
+Alternatively, ""Nyew"" could be a name like ""Jesus"" in another form? Wait, ""Nyankopɔn"" is God, so maybe ""Nyew"" is a title or another name. Alternatively, maybe it's a typo or mishearing. 
+
+Alternatively, maybe ""Nyew"" is part of the sentence structure. Let me check some Fante grammar. 
+
+In Fante, sometimes names are used in prayers or proverbs. ""Nyew"" might be a name, perhaps ""Jesus"" in Akan is ""Yeshua"", but in Fante it might be ""Nyew"". So maybe ""Nyew"" refers to Jesus. 
+
+So the sentence could be structured as:
+
+""And God comes with mercy on the earth, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+But that might not flow perfectly. Alternatively, maybe ""Nyew"" is part of the phrase. Let me see the structure again. 
+
+Breaking it down again:
+
+""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.""
+
+The structure after the comma ""Nyew"" might be a vocative, addressing someone. So perhaps:
+
+""And God comes with mercy on the earth so that they may..., Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+Alternatively, maybe ""Nyew"" is part of the clause. Maybe ""Nyew"" is a verb. Let me think of possible translations. 
+
+Alternatively, ""Nyew"" could be ""know"" or ""understand"". But in this context, maybe it's better to keep it as a name. 
+
+Putting it all together, the translation would be something like:
+
+""And God comes with mercy on the earth so that they may, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+But that feels a bit fragmented. Maybe the first part is ""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do"" – ""And God comes with mercy on the earth so that they may..."" Then ""Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa"" – ""Nyew, God so that He may come with mercy"". Then the last part is ""He comes to give His people an everlasting life.""
+
+Alternatively, maybe ""no su do"" is ""so that they may do"" but perhaps ""so that they may have mercy"". 
+
+Alternatively, ""na ɔbɔɔ nyimpa"" could be ""and He comes with mercy"". 
+
+Hmm, perhaps the structure is repetitive. Maybe it's a poetic or proverbial saying. 
+
+Another approach: ""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do"" – ""And God comes with mercy on the earth so that they may..."" 
+
+Then ""Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa"" – ""Nyew, God so that He may come with mercy"". 
+
+Then ""ɔbɔɔ hɔn ɔbanyin nye ɔbaa"" – ""He comes to give His people an everlasting life.""
+
+Putting it all together, maybe:
+
+""And God comes with mercy on the earth so that they may, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+Alternatively, maybe ""Nyew"" is part of the first clause. Maybe ""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew"" – ""And God comes with mercy on the earth so that they may, Nyew..."" 
+
+Alternatively, perhaps ""Nyew"" is a name being addressed, so ""O Nyew"" would be ""Oh Nyew"", but here it's ""Nyew"" after a comma. 
+
+Alternatively, maybe the translation should be:
+
+""God comes with mercy on the earth so that they may, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+But the user wants only the translation inside square brackets. Let me check again the original sentence structure for any possible misinterpretations.
+
+Another possibility: ""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do"" – ""And God comes with mercy on the earth so that they may do..."" 
+
+Then ""Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa"" – ""Nyew, God so that He may come with mercy"". 
+
+Then ""He comes to give His people an everlasting life.""
+
+Alternatively, maybe ""no su do"" is ""so that they may have mercy"", but that might not fit. 
+
+Alternatively, ""na su do"" could mean ""so that they may do something"". 
+
+Alternatively, maybe ""nyimpa"" is ""mercy"" and ""hɔn ɔbanyin"" is ""His people"", ""nye ɔbaa"" is ""to give eternal life"".
+
+Putting it all together, perhaps the best translation is:
+
+""And God comes with mercy on the earth so that they may, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+But I'm not entirely sure about ""Nyew"". If it's a name, it should be capitalized. Alternatively, maybe it's part of a phrase. Alternatively, maybe ""Nyew"" is a verb. Let me think of possible Fante verbs. 
+
+Wait, ""nyew"" could be ""to know"", but in this context, maybe ""knowing"" or ""understanding"". But that might not fit. Alternatively, ""Nyew"" could be ""now"" in some dialects, but that's a stretch. 
+
+Alternatively, maybe the comma after ""Nyew"" is separating a vocative. Like addressing someone named Nyew. 
+
+Alternatively, perhaps the sentence is structured as two clauses separated by a comma and semicolon. 
+
+Alternatively, maybe the translation should be:
+
+""God comes with mercy on the earth so that they may, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.""
+
+But the user might expect a more fluid translation. Maybe ""Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do"" – ""And God comes with mercy on the earth so that they may..."" 
+
+Perhaps ""no su do"" is ""so that they may have mercy"", but then the next part ""Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa"" – ""Nyew, God so that He may come with mercy"". 
+
+Putting it all together, maybe the translation is:
+
+""And God comes with mercy on the earth so that they",gerhardt_80805CFE_output_7z6RFo,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE is a new friend on earth, and she is her support within the heart.",gerhardt_80805CFE_output_7z6RFo,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","I have a period where I provide myself with a little money, and I have to work hard.",gerhardt_80805CFE_output_7z6RFo,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah saw her, Siar aba, and he gave his son Gad, who established Yiedzi.",gerhardt_80805CFE_output_7z6RFo,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob saw them, God spoke to him: so he called their name Mahanaim.",gerhardt_80805CFE_output_7z6RFo,
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.","God comes with mercy in the right way, Nyew; indeed, God does so and brings mercy; He leads him on the correct path to the end.",Dec 06 output,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.",EWURADZE is the foundation of the earth and dwells in the heart.,Dec 06 output,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","I have my own way of managing my money, and I have sought assistance.",Dec 06 output,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah said, ""My respected father, and he gave his son Gad, who established Yiedzi there.""",Dec 06 output,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And Jacob came to that place where he saw God, and God spoke to him, saying: and He gave him the camp called Mahanaim.",Dec 06 output,
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.",Translation here,onesimus_C6D92021_Dec 02 output,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE, who now dwells, is the strength of the earth, and she is the support in the heart.",onesimus_C6D92021_Dec 02 output,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","I have my body to provide for myself, and I take a strong hand, and I have asked for help.",onesimus_C6D92021_Dec 02 output,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","Then Leah said, ""Mother Siar, he gave his portion to Gad so that you may inherit,"" Yiedzi.",onesimus_C6D92021_Dec 02 output,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob arrived there, he encountered God, who spoke to him and gave him the name Mahanaim.",onesimus_C6D92021_Dec 02 output,
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.",Translation here,Jan output 1 ,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE, who now dwells, is the strength of the earth, and she is the support in the heart.",Jan output 1 ,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","I have my body to provide for myself, and I take a strong hand, and I have asked for help.",Jan output 1 ,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","Then Leah said, ""Mother Siar, he gave his portion to Gad so that you may inherit,"" Yiedzi.",Jan output 1 ,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob arrived there, he encountered God, who spoke to him and gave him the name Mahanaim.",Jan output 1 ,
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.","And God comes with mercy to the earth so that, Jesus, God so that He comes with mercy; He comes to His people to save them.",onesimus_5B146D14_Dec 05 output,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE, whose soul dwells on earth as a protector, is your companion in the heart.",onesimus_5B146D14_Dec 05 output,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","And I have this matter of mine that requires a little money, and I have time to wait.",onesimus_5B146D14_Dec 05 output,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah saw, Siar has come, and he gave his inheritance to Gad, which he established there, Yiedzi.",onesimus_5B146D14_Dec 05 output,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob came to that place, he encountered God, who said to him: and He gave him his camp, Mahanaim.",onesimus_5B146D14_Dec 05 output,
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.","And God comes to save in this world, Jesus; God does so that He comes to save; He comes to take His people into the kingdom.",gerhardt_428C0151_output_jQjr1f,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.",EWURADZE is the foundation of the earth and dwells in the heart.,gerhardt_428C0151_output_jQjr1f,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","And I have eaten my food and taken some money, and I have the rest.",gerhardt_428C0151_output_jQjr1f,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah saw her, Siar aba, and she gave her son Gad, who will inherit you, Yiedzi.",gerhardt_428C0151_output_jQjr1f,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And Jacob was in his camp when he saw there, so God said to him, and gave him an army at Mahanaim.",gerhardt_428C0151_output_jQjr1f,
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.","And God comes with mercy on the earth so that they may, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.",gerhardt_E4DFEBFE_output_T8d1lo,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE is the foundation of the earth, and she is in the heart.",gerhardt_E4DFEBFE_output_T8d1lo,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","And I have this matter of mine that requires a little money, and I have time to wait.",gerhardt_E4DFEBFE_output_T8d1lo,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah saw, Siar has come, and he gave his inheritance to Gad, which he established there, Yiedzi.",gerhardt_E4DFEBFE_output_T8d1lo,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob came to that place, he encountered God, who said to him: and He gave him his camp, Mahanaim.",gerhardt_E4DFEBFE_output_T8d1lo,
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.",Translation here,onesimus_4838858E_Jan output 1 ,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE, who now dwells, is the strength of the earth, and she is the support in the heart.",onesimus_4838858E_Jan output 1 ,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","I have my body to provide for myself, and I take a strong hand, and I have asked for help.",onesimus_4838858E_Jan output 1 ,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","Then Leah said, ""Mother Siar, he gave his portion to Gad so that you may inherit,"" Yiedzi.",onesimus_4838858E_Jan output 1 ,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob arrived there, he encountered God, who spoke to him and gave him the name Mahanaim.",onesimus_4838858E_Jan output 1 ,
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.","And God comes with mercy on the earth so that they may, Nyew, God so that He may come with mercy; He comes to give His people an everlasting life.",gerhardt_2F3FAF10_output (1),
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.",EWURADZE is the foundation of the earth and dwells in the heart.,gerhardt_2F3FAF10_output (1),
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","And I have a period when I provide myself with a little money, and I have hard work.",gerhardt_2F3FAF10_output (1),
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","Then Leah said, 'Siar father, he gave his portion of Gad to you to inherit, Yiedzi.'",gerhardt_2F3FAF10_output (1),
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob saw them, God spoke to him: and he named them Mahanaim.",gerhardt_2F3FAF10_output (1),
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.","God comes with mercy in the right way, Nyew; indeed, God does so and brings mercy; He leads him on the correct path to the end.",onesimus_778C5456_Dec 06 output,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.",EWURADZE is the foundation of the earth and dwells in the heart.,onesimus_778C5456_Dec 06 output,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","I have my own way of managing my money, and I have sought assistance.",onesimus_778C5456_Dec 06 output,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah said, ""My respected father, and he gave his son Gad, who established Yiedzi there.""",onesimus_778C5456_Dec 06 output,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And Jacob came to that place where he saw God, and God spoke to him, saying: and He gave him the camp called Mahanaim.",onesimus_778C5456_Dec 06 output,
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.","God comes with mercy in the right way, Nyew. God does so and brings mercy; he comes with the path he chooses to the end.",gerhardt_E3C23636_output_AHjhdB,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.",EWURADZE is the foundation of the earth and dwells in the heart.,gerhardt_E3C23636_output_AHjhdB,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","I have a period where I provide myself with a little money, and I have hard work.",gerhardt_E3C23636_output_AHjhdB,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah saw her, Siar aba, and she gave her son Gad, who will inherit you, Yiedzi.",gerhardt_E3C23636_output_AHjhdB,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob saw them, God spoke to him, so he named that place Mahanaim.",gerhardt_E3C23636_output_AHjhdB,
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.",Translation here,Dec 12 output,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE, who now dwells, is the strength of the earth, and she is the support in the heart.",Dec 12 output,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","I have my body to provide for myself, and I take a strong hand, and I have asked for help.",Dec 12 output,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","Then Leah said, ""Mother Siar, he gave his portion to Gad so that you may inherit,"" Yiedzi.",Dec 12 output,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob arrived there, he encountered God, who spoke to him and gave him the name Mahanaim.",Dec 12 output,
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.","God comes with mercy in the right way, so, Nyew, God does it right and brings mercy; He leads them on the right path to the end.",onesimus_CF2838B3_Dec 03 output,
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE, who now resides, is the strength on earth, and she is the support within her heart.",onesimus_CF2838B3_Dec 03 output,
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","The money you borrowed is in your hand, and I have a house nearby.",onesimus_CF2838B3_Dec 03 output,
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah saw her, Siaraba, and he gave his son Gad, who established the name Yiedzi.",onesimus_CF2838B3_Dec 03 output,
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob and his household encountered them, God spoke to him, saying: He gave him and his camp at Mahanaim.",onesimus_CF2838B3_Dec 03 output,
+So God created humans to be like himself; he made men and women.,"Na Nyankopɔn bɔɔ nyimpa wɔ nankasa no su do, Nyew, Nyankopɔn no su do na ɔbɔɔ nyimpa; ɔbɔɔ hɔn ɔbanyin nye ɔbaa.","So, God comes with mercy in the morning, Nyew; God comes with mercy and brings His mercy to give today.",john_BA3F5F9A_output (3),
+"He was sorry that he had made them,","EWURADZE nuu noho dɛ ɔyɛɛ nyimpa wɔ asaase do, na ɔyɛɛ no yaw wɔ n’akoma mu.","EWURADZE is the foundation on the earth, and she is the support in the heart.",john_BA3F5F9A_output (3),
+I will keep my solemn promise to you and give you more descendants than can be counted.”,"Na mebɛma m’ahyɛmu ada emi nye ɔwo ntamu, na mebɛma adɔr mbordo.","I have this time to provide my work for a little money, and I have daily labor.",john_BA3F5F9A_output (3),
+"“I'm really lucky,” Leah said, and she named the boy Gad.","Na Leah see dɛ, Siar aba, na ɔfrɛɛ ne dzin Gad a asekyerɛ nye, Yiedzi.","And Leah saw, Siar has come, and he gave his inheritance to Gad, which he established there, Yiedzi.",john_BA3F5F9A_output (3),
+"When Jacob saw them, he said, “This is God's camp.” So he named the place Mahanaim.","Na Jakob hun hɔn no ɔsee dɛ, Nyankopɔn no dɔm nye yi: na ɔfrɛɛ bea no ne dzin Mahanaim.","And when Jacob arrived there, he saw God, who said to him: and He gave him help at Mahanaim.",john_BA3F5F9A_output (3),
