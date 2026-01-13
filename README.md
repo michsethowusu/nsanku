@@ -4,15 +4,13 @@ A project by Ghana NLP to test the performance of Large Language Models (LLMs) o
 
 ## Project Overview
 
-Nsanku is an ongoing community-driven initiative that evaluates how well various open-source language models perform when working with Ghanaian languages. This project aims to benchmark model capabilities and identify areas for improvement in multilingual AI systems.
+Nsanku is an initiative that evaluates how well various open-source language models perform when working with Ghanaian languages. This project has evaluated at least 300 sentences per language across 43 languages and 10+ open source models. 
+
+Paper publication coming soon.
 
 ## Why Nsanku Matters
 
 As AI engineers work to bring Ghanaian languages into large language models, it’s essential to have reliable evidence on how existing models perform. Nsanku provides insights that help developers identify which open-source models are most suitable for building upon, and which languages currently have stronger or weaker support. This understanding enables realistic decisions about where to focus efforts and resources to advance multilingual AI in Ghana and across Africa.
-
-## Current Progress
-
-We're currently at 75 sentences evaluated for each of the 43 Ghanaian languages across 12 models which is a total of 41,280 model queries. This is possible because of our awesome [contributors](https://github.com/GhanaNLP/nsanku?tab=readme-ov-file#contributors). Watch [this video](https://www.youtube.com/watch?v=R5MB4lUvCe0) to learn how to contribute.
 
 ## Current Results
 
@@ -63,7 +61,7 @@ We are running evaluations of these models:
 
 ## Languages Evaluated
 
-The project currently evaluates **43 Ghanaian languages**:
+The project evaluated **43 Ghanaian languages**:
 
 | Language | Language | Language | Language |
 |----------|----------|----------|----------|
@@ -81,21 +79,17 @@ The project currently evaluates **43 Ghanaian languages**:
 
 ## Contributors
 
-We recognize our contributors:
+Thanks to our awesome contributors who made it possible:
 
-| Name | Model Queries |
-|------|----------------|
-| [Onesimus Addo Appiah](https://www.linkedin.com/in/onesimus-appiah/) | 18,060 |
-| [Mich-Seth Owusu](https://www.linkedin.com/in/mich-seth-owusu/) | 7,740 |
-| [Jonathan Asiamah](https://www.linkedin.com/in/jonathan-asiamah-4639a5147/) | 2,580 |
-| [Elias Dzobo](https://www.linkedin.com/in/eliasdzobo/) | 2,580 |
-| [Kelvin Newman](https://www.linkedin.com/in/kelvin-newman-09b961255/) | 2,580 |
-| [Edmund O. Benefo](https://www.linkedin.com/in/edmund-o-benefo/) | 2,580 |
-| [Gerhardt Datsomor](https://www.linkedin.com/in/gerhardt-datsomor/) | 2,580 |
-| [John Ayernor](https://www.linkedin.com/in/john-kwabena-ayernor-45b497186/) | 2,580 |
+ [Onesimus Addo Appiah](https://www.linkedin.com/in/onesimus-appiah/) 
+ [Mich-Seth Owusu](https://www.linkedin.com/in/mich-seth-owusu/) 
+ [Jonathan Asiamah](https://www.linkedin.com/in/jonathan-asiamah-4639a5147/) 
+ [Elias Dzobo](https://www.linkedin.com/in/eliasdzobo/) 
+ [Kelvin Newman](https://www.linkedin.com/in/kelvin-newman-09b961255/) 
+ [Edmund O. Benefo](https://www.linkedin.com/in/edmund-o-benefo/) 
+ [Gerhardt Datsomor](https://www.linkedin.com/in/gerhardt-datsomor/) 
+ [John Ayernor](https://www.linkedin.com/in/john-kwabena-ayernor-45b497186/) 
 
-
-*Your name could be here! Contribute to the project and we'll add you to our list of contributors, and you'll also get access to on of our curated datasets for Ghanaian languages*
 
 ## Contact
 
