@@ -81,14 +81,14 @@ The project evaluated **43 Ghanaian languages**:
 
 Thanks to our awesome contributors who made it possible:
 
- [Onesimus Addo Appiah](https://www.linkedin.com/in/onesimus-appiah/) 
- [Mich-Seth Owusu](https://www.linkedin.com/in/mich-seth-owusu/) 
- [Jonathan Asiamah](https://www.linkedin.com/in/jonathan-asiamah-4639a5147/) 
- [Elias Dzobo](https://www.linkedin.com/in/eliasdzobo/) 
- [Kelvin Newman](https://www.linkedin.com/in/kelvin-newman-09b961255/) 
- [Edmund O. Benefo](https://www.linkedin.com/in/edmund-o-benefo/) 
- [Gerhardt Datsomor](https://www.linkedin.com/in/gerhardt-datsomor/) 
- [John Ayernor](https://www.linkedin.com/in/john-kwabena-ayernor-45b497186/) 
+1. [Onesimus Addo Appiah](https://www.linkedin.com/in/onesimus-appiah/) 
+2. [Mich-Seth Owusu](https://www.linkedin.com/in/mich-seth-owusu/) 
+3. [Jonathan Asiamah](https://www.linkedin.com/in/jonathan-asiamah-4639a5147/) 
+4. [Elias Dzobo](https://www.linkedin.com/in/eliasdzobo/) 
+5. [Kelvin Newman](https://www.linkedin.com/in/kelvin-newman-09b961255/) 
+6. [Edmund O. Benefo](https://www.linkedin.com/in/edmund-o-benefo/) 
+7. [Gerhardt Datsomor](https://www.linkedin.com/in/gerhardt-datsomor/) 
+8. [John Ayernor](https://www.linkedin.com/in/john-kwabena-ayernor-45b497186/) 
 
 
 ## Contact
