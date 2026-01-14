@@ -1,0 +1,23 @@
+Translation Benchmark Results for acd-eng
+Generated on: 2026-01-14 12:27:14
+
+Model Performance:
+kimi-k2-instruct-0905: 49.49%
+llama-4-maverick-17b-128e-instruct: 40.97%
+deepseek-v3.1: 40.01%
+qwen3-235b-a22b: 37.37%
+llama-3.1-405b-instruct: 33.52%
+palmyra-med-70b: 32.98%
+mistral-medium-3-instruct: 32.90%
+qwq-32b: 32.51%
+llama-3.3-70b-instruct: 30.65%
+gemma-2-27b-it: 30.14%
+gemma2-9b-it: 27.37%
+qwen3-32b: 26.29%
+mistral-7b-instruct-v0.3: 24.26%
+gpt-oss-120b: 22.85%
+seed-oss-36b-instruct: 22.74%
+gemma-2-9b-it: 21.61%
+
+Best Model: kimi-k2-instruct-0905 (49.49%)
+Average Score: 31.60%

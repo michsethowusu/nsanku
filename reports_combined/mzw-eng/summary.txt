@@ -1,0 +1,23 @@
+Translation Benchmark Results for mzw-eng
+Generated on: 2026-01-14 12:27:13
+
+Model Performance:
+qwen3-32b: 36.73%
+palmyra-med-70b: 35.12%
+mistral-7b-instruct-v0.3: 29.57%
+gemma2-9b-it: 29.44%
+deepseek-v3.1: 23.78%
+kimi-k2-instruct-0905: 23.58%
+llama-4-maverick-17b-128e-instruct: 22.94%
+seed-oss-36b-instruct: 21.86%
+qwen3-235b-a22b: 21.44%
+gemma-2-9b-it: 20.32%
+llama-3.3-70b-instruct: 20.09%
+qwq-32b: 18.15%
+gemma-2-27b-it: 17.91%
+llama-3.1-405b-instruct: 17.46%
+gpt-oss-120b: 17.22%
+mistral-medium-3-instruct: 16.18%
+
+Best Model: qwen3-32b (36.73%)
+Average Score: 23.23%

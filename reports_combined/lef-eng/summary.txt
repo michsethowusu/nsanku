@@ -1,0 +1,23 @@
+Translation Benchmark Results for lef-eng
+Generated on: 2026-01-14 12:27:16
+
+Model Performance:
+mistral-7b-instruct-v0.3: 46.80%
+qwen3-235b-a22b: 46.44%
+kimi-k2-instruct-0905: 46.30%
+llama-3.1-405b-instruct: 45.39%
+palmyra-med-70b: 42.68%
+llama-4-maverick-17b-128e-instruct: 38.68%
+gemma2-9b-it: 37.71%
+qwq-32b: 37.63%
+qwen3-32b: 37.29%
+llama-3.3-70b-instruct: 37.29%
+deepseek-v3.1: 36.70%
+mistral-medium-3-instruct: 35.96%
+seed-oss-36b-instruct: 32.96%
+gemma-2-27b-it: 32.24%
+gpt-oss-120b: 31.38%
+gemma-2-9b-it: 30.64%
+
+Best Model: mistral-7b-instruct-v0.3 (46.80%)
+Average Score: 38.51%
