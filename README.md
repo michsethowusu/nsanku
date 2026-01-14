@@ -4,7 +4,7 @@ A project by Ghana NLP to test the performance of Large Language Models (LLMs) o
 
 ## Project Overview
 
-Nsanku is an initiative that evaluates how well various open-source language models perform when working with Ghanaian languages. This project has evaluated at least 300 sentences per language across 43 languages and 10+ open source models. 
+Nsanku is an initiative that evaluates how well various open-source language models perform when working with Ghanaian languages. **We have evaluated the performance of over 10 open-source models across 43 languages, using more than 300 sentences per language.** 
 
 Paper publication coming soon.
 
