@@ -1,0 +1,87 @@
+{
+  "sig-eng/sig-eng.csv/chatgpt": {
+    "translation_completed": true,
+    "rows_processed": 100,
+    "timestamp": "2026-01-16T12:04:13.705039"
+  },
+  "sil-eng/sil-eng.csv/chatgpt": {
+    "translation_completed": true,
+    "rows_processed": 100,
+    "timestamp": "2026-01-16T12:10:14.565133"
+  },
+  "naw-eng/naw-eng.csv/chatgpt": {
+    "translation_completed": true,
+    "rows_processed": 100,
+    "timestamp": "2026-01-16T12:15:51.229707"
+  },
+  "maw-eng/maw-eng.csv/chatgpt": {
+    "translation_completed": true,
+    "rows_processed": 100,
+    "timestamp": "2026-01-16T12:21:37.338254"
+  },
+  "any-eng/any-eng.csv/chatgpt": {
+    "translation_completed": true,
+    "rows_processed": 100,
+    "timestamp": "2026-01-16T12:27:31.265737"
+  },
+  "biv-eng/biv-eng.csv/chatgpt": {
+    "translation_completed": true,
+    "rows_processed": 100,
+    "timestamp": "2026-01-16T12:33:04.594902"
+  },
+  "snw-eng/snw-eng.csv/chatgpt": {
+    "translation_completed": true,
+    "rows_processed": 100,
+    "timestamp": "2026-01-16T12:38:41.322332"
+  },
+  "nko-eng/nko-eng.csv/chatgpt": {
+    "translation_completed": true,
+    "rows_processed": 100,
+    "timestamp": "2026-01-16T12:43:51.478098"
+  },
+  "ada-eng/ada-eng.csv/chatgpt": {
+    "translation_completed": true,
+    "rows_processed": 100,
+    "timestamp": "2026-01-16T12:49:36.868197"
+  },
+  "bib-eng/bib-eng.csv/chatgpt": {
+    "translation_completed": true,
+    "rows_processed": 100,
+    "timestamp": "2026-01-16T12:55:27.562931"
+  },
+  "bwu-eng/bwu-eng.csv/chatgpt": {
+    "translation_completed": true,
+    "rows_processed": 100,
+    "timestamp": "2026-01-16T13:01:22.827941"
+  },
+  "abr-eng/abr-eng.csv/chatgpt": {
+    "translation_completed": true,
+    "rows_processed": 100,
+    "timestamp": "2026-01-16T13:07:09.659426"
+  },
+  "akp-eng/akp-eng.csv/chatgpt": {
+    "translation_completed": true,
+    "rows_processed": 100,
+    "timestamp": "2026-01-16T13:12:50.320149"
+  },
+  "bim-eng/bim-eng.csv/chatgpt": {
+    "translation_completed": true,
+    "rows_processed": 100,
+    "timestamp": "2026-01-16T13:18:21.206156"
+  },
+  "tpm-eng/tpm-eng.csv/chatgpt": {
+    "translation_completed": true,
+    "rows_processed": 100,
+    "timestamp": "2026-01-16T13:23:50.991219"
+  },
+  "gaa-eng/gaa-eng.csv/chatgpt": {
+    "translation_completed": true,
+    "rows_processed": 100,
+    "timestamp": "2026-01-16T13:29:36.528316"
+  },
+  "tcd-eng/tcd-eng.csv/chatgpt": {
+    "translation_completed": true,
+    "rows_processed": 100,
+    "timestamp": "2026-01-16T13:35:18.329327"
+  }
+}
