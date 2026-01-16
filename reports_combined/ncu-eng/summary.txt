@@ -1,0 +1,26 @@
+Translation Benchmark Results for ncu-eng
+Generated on: 2026-01-16 14:45:14
+
+Model Performance:
+gemini: 56.26%
+kimi-k2-instruct-0905: 45.43%
+llama-3.1-405b-instruct: 45.35%
+claude: 44.31%
+mistral-medium-3-instruct: 42.06%
+chatgpt: 41.06%
+deepseek-v3.1: 40.38%
+qwen3-235b-a22b: 39.58%
+llama-4-maverick-17b-128e-instruct: 39.06%
+llama-3.3-70b-instruct: 38.37%
+gemma2-9b-it: 38.18%
+qwq-32b: 35.67%
+qwen3-32b: 33.60%
+gemma-2-9b-it: 31.95%
+palmyra-med-70b: 31.59%
+mistral-7b-instruct-v0.3: 28.27%
+gemma-2-27b-it: 27.02%
+seed-oss-36b-instruct: 27.00%
+gpt-oss-120b: 20.07%
+
+Best Model: gemini (56.26%)
+Average Score: 37.12%

@@ -1,0 +1,28 @@
+{
+  "language_pair": "bim-eng",
+  "timestamp": "2026-01-16T14:45:12.864385",
+  "models": {
+    "mistral-medium-3-instruct": 23.814627297764616,
+    "gemini": 46.58076477050781,
+    "seed-oss-36b-instruct": 23.883181884116684,
+    "qwen3-235b-a22b": 25.081504200882787,
+    "gpt-oss-120b": 11.843149520575441,
+    "claude": 38.858787536621094,
+    "kimi-k2-instruct-0905": 24.05057582028628,
+    "chatgpt": 33.58723449707031,
+    "palmyra-med-70b": 26.729853200000004,
+    "llama-3.3-70b-instruct": 25.3450237247066,
+    "llama-3.1-405b-instruct": 19.51746508269577,
+    "qwq-32b": 22.313138727014554,
+    "qwen3-32b": 30.026065708,
+    "llama-4-maverick-17b-128e-instruct": 25.689184284147387,
+    "gemma2-9b-it": 19.062045618,
+    "deepseek-v3.1": 25.853066134081214,
+    "gemma-2-9b-it": 19.639525952271295,
+    "mistral-7b-instruct-v0.3": 22.974313300000002,
+    "gemma-2-27b-it": 20.51103280363535
+  },
+  "average_score": 25.54529158223038,
+  "best_model": "gemini",
+  "best_score": 46.58076477050781
+}
