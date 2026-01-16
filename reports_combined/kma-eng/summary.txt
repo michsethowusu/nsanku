@@ -1,0 +1,26 @@
+Translation Benchmark Results for kma-eng
+Generated on: 2026-01-16 11:13:51
+
+Model Performance:
+gemini: 40.51%
+claude: 35.55%
+qwen3-235b-a22b: 35.11%
+llama-3.3-70b-instruct: 34.29%
+deepseek-v3.1: 34.17%
+kimi-k2-instruct-0905: 34.06%
+gemma2-9b-it: 31.90%
+seed-oss-36b-instruct: 31.52%
+mistral-medium-3-instruct: 30.73%
+llama-3.1-405b-instruct: 28.62%
+llama-4-maverick-17b-128e-instruct: 27.18%
+gemma-2-9b-it: 27.08%
+qwq-32b: 26.49%
+gemma-2-27b-it: 25.55%
+qwen3-32b: 24.73%
+palmyra-med-70b: 24.54%
+gpt-oss-120b: 18.73%
+mistral-7b-instruct-v0.3: 14.62%
+chatgpt: 13.71%
+
+Best Model: gemini (40.51%)
+Average Score: 28.37%

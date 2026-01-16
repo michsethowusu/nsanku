@@ -1,16 +1,16 @@
 # Nsanku
 
-A project by Ghana NLP to test the performance of Large Language Models (LLMs) on Ghanaian languages.
+A project by Ghana NLP to test the machine translation performance of Large Language Models (LLMs) on Ghanaian languages.
 
 ## Project Overview
 
-Nsanku is an initiative that evaluates how well various open-source language models perform when working with Ghanaian languages. **We have evaluated the performance of over 10 open-source models across 43 languages, using more than 300 sentences per language.** 
+Nsanku is an initiative that evaluates how well various open-source language models perform when working with Ghanaian languages. **We have evaluated the performance of over 14 open-source and closed models across 43 languages, using at least 300 sentences per language.** 
 
 Paper publication coming soon.
 
 ## Why Nsanku Matters
 
-As AI engineers work to bring Ghanaian languages into large language models, it’s essential to have reliable evidence on how existing models perform. Nsanku provides insights that help developers identify which open-source models are most suitable for building upon, and which languages currently have stronger or weaker support. This understanding enables realistic decisions about where to focus efforts and resources to advance multilingual AI in Ghana and across Africa.
+As AI engineers work to bring Ghanaian languages into large language models, it’s essential to have reliable evidence on how existing models perform. Nsanku provides insights that help developers identify which LLMs are most suitable for use in translating content in Ghanaian languages, and which languages currently have stronger or weaker support.
 
 ## Current Results
 
@@ -45,6 +45,9 @@ We welcome contributions from the community! To contribute:
 
 We are running evaluations of these models:
 
+- `gpt-4.1`  
+- `claude-sonnet-4-5`  
+- `gemini-2.5-flash`  
 - `deepseek-v3.1`  
 - `gemma-2-9b-it`  
 - `gemma-2-27b-it`  

@@ -1,0 +1,26 @@
+Translation Benchmark Results for gjn-eng
+Generated on: 2026-01-16 11:13:53
+
+Model Performance:
+gemini: 50.52%
+claude: 48.53%
+gemma2-9b-it: 40.38%
+llama-3.3-70b-instruct: 38.17%
+kimi-k2-instruct-0905: 38.00%
+qwen3-235b-a22b: 37.53%
+deepseek-v3.1: 36.92%
+qwen3-32b: 35.19%
+mistral-7b-instruct-v0.3: 32.92%
+qwq-32b: 31.95%
+seed-oss-36b-instruct: 31.42%
+palmyra-med-70b: 30.03%
+chatgpt: 29.87%
+gemma-2-27b-it: 28.73%
+mistral-medium-3-instruct: 27.72%
+llama-3.1-405b-instruct: 25.85%
+llama-4-maverick-17b-128e-instruct: 25.32%
+gemma-2-9b-it: 24.08%
+gpt-oss-120b: 22.28%
+
+Best Model: gemini (50.52%)
+Average Score: 33.44%

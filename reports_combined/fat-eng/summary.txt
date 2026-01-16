@@ -1,0 +1,26 @@
+Translation Benchmark Results for fat-eng
+Generated on: 2026-01-16 11:13:50
+
+Model Performance:
+gemini: 69.69%
+chatgpt: 69.38%
+claude: 69.22%
+deepseek-v3.1: 68.52%
+llama-4-maverick-17b-128e-instruct: 62.14%
+kimi-k2-instruct-0905: 60.21%
+gpt-oss-120b: 58.20%
+mistral-medium-3-instruct: 55.64%
+llama-3.3-70b-instruct: 53.79%
+llama-3.1-405b-instruct: 52.06%
+gemma-2-27b-it: 50.58%
+qwen3-235b-a22b: 49.51%
+gemma2-9b-it: 48.94%
+gemma-2-9b-it: 48.88%
+palmyra-med-70b: 46.87%
+qwen3-32b: 43.27%
+seed-oss-36b-instruct: 39.87%
+qwq-32b: 36.72%
+mistral-7b-instruct-v0.3: 32.97%
+
+Best Model: gemini (69.69%)
+Average Score: 53.50%

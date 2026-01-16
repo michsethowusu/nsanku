@@ -1,0 +1,26 @@
+Translation Benchmark Results for akp-eng
+Generated on: 2026-01-16 11:13:52
+
+Model Performance:
+kimi-k2-instruct-0905: 46.69%
+deepseek-v3.1: 43.38%
+mistral-medium-3-instruct: 41.23%
+gemini: 40.61%
+qwen3-32b: 40.50%
+claude: 39.69%
+llama-3.3-70b-instruct: 39.17%
+llama-4-maverick-17b-128e-instruct: 38.80%
+qwen3-235b-a22b: 38.17%
+llama-3.1-405b-instruct: 35.74%
+gemma-2-27b-it: 35.44%
+gpt-oss-120b: 34.80%
+seed-oss-36b-instruct: 34.15%
+qwq-32b: 31.86%
+mistral-7b-instruct-v0.3: 31.82%
+gemma-2-9b-it: 31.05%
+palmyra-med-70b: 29.92%
+gemma2-9b-it: 28.81%
+chatgpt: 0.00%
+
+Best Model: kimi-k2-instruct-0905 (46.69%)
+Average Score: 34.83%
