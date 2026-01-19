@@ -10,7 +10,7 @@ Nsanku is an initiative that evaluates how well various open-source language mod
 
 As AI engineers work to bring Ghanaian languages into large language models, it’s essential to have reliable evidence on how existing models perform. Nsanku provides insights that help developers identify which LLMs are most suitable for use in translating content in Ghanaian languages, and which languages currently have stronger or weaker support.
 
-## Current Results
+## Results (Overview)
 
 <div style="display:flex; flex-wrap:wrap; gap:10px;">
 
