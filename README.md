@@ -52,263 +52,134 @@ Detailed performance breakdown for each of the 43 evaluated languages.
 
 <!-- Iterating through all 43 language folders identified -->
 
-<div><strong>ABR-ENG</strong>
+<div><strong>ABR</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/abr-eng/performance_comparison.png" width="100%"></div>
 
+<div><strong>ACD</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/acd-eng/performance_comparison.png" width="100%"></div>
 
+<div><strong>ADA</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/ada-eng/performance_comparison.png" width="100%"></div>
 
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/abr-eng/performance_comparison.png" width="100%"></div>
+<div><strong>AKP</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/akp-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>ACD-ENG</strong>
+<div><strong>ANY</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/any-eng/performance_comparison.png" width="100%"></div>
 
+<div><strong>AVN</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/avn-eng/performance_comparison.png" width="100%"></div>
 
+<div><strong>BIB</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/bib-eng/performance_comparison.png" width="100%"></div>
 
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/acd-eng/performance_comparison.png" width="100%"></div>
+<div><strong>BIM</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/bim-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>ADA-ENG</strong>
+<div><strong>BIV</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/biv-eng/performance_comparison.png" width="100%"></div>
 
+<div><strong>BOV</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/bov-eng/performance_comparison.png" width="100%"></div>
 
+<div><strong>BUD</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/bud-eng/performance_comparison.png" width="100%"></div>
 
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/ada-eng/performance_comparison.png" width="100%"></div>
+<div><strong>BWU</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/bwu-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>AKP-ENG</strong>
+<div><strong>CKO</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/cko-eng/performance_comparison.png" width="100%"></div>
 
+<div><strong>DAG</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/dag-eng/performance_comparison.png" width="100%"></div>
 
+<div><strong>DGA</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/dga-eng/performance_comparison.png" width="100%"></div>
 
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/akp-eng/performance_comparison.png" width="100%"></div>
+<div><strong>EWE</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/ewe-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>ANY-ENG</strong>
+<div><strong>FAT</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/fat-eng/performance_comparison.png" width="100%"></div>
 
+<div><strong>GAA</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/gaa-eng/performance_comparison.png" width="100%"></div>
 
+<div><strong>GJN</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/gjn-eng/performance_comparison.png" width="100%"></div>
 
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/any-eng/performance_comparison.png" width="100%"></div>
+<div><strong>GUR</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/gur-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>AVN-ENG</strong>
+<div><strong>HAG</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/hag-eng/performance_comparison.png" width="100%"></div>
 
+<div><strong>KMA</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/kma-eng/performance_comparison.png" width="100%"></div>
 
+<div><strong>KUS</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/kus-eng/performance_comparison.png" width="100%"></div>
 
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/avn-eng/performance_comparison.png" width="100%"></div>
+<div><strong>LEF</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/lef-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>BIB-ENG</strong>
+<div><strong>LIP</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/lip-eng/performance_comparison.png" width="100%"></div>
 
+<div><strong>MAW</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/maw-eng/performance_comparison.png" width="100%"></div>
 
+<div><strong>MZW</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/mzw-eng/performance_comparison.png" width="100%"></div>
 
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/bib-eng/performance_comparison.png" width="100%"></div>
+<div><strong>NAW</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/naw-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>BIM-ENG</strong>
+<div><strong>NCU</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/ncu-eng/performance_comparison.png" width="100%"></div>
 
+<div><strong>NKO</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/nko-eng/performance_comparison.png" width="100%"></div>
 
+<div><strong>NTR</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/ntr-eng/performance_comparison.png" width="100%"></div>
 
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/bim-eng/performance_comparison.png" width="100%"></div>
+<div><strong>NYB</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/nyb-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>BIV-ENG</strong>
+<div><strong>NZI</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/nzi-eng/performance_comparison.png" width="100%"></div>
 
+<div><strong>SFW</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/sfw-eng/performance_comparison.png" width="100%"></div>
 
+<div><strong>SIG</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/sig-eng/performance_comparison.png" width="100%"></div>
 
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/biv-eng/performance_comparison.png" width="100%"></div>
+<div><strong>SIL</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/sil-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>BOV-ENG</strong>
+<div><strong>SNW</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/snw-eng/performance_comparison.png" width="100%"></div>
 
+<div><strong>TCD</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/tcd-eng/performance_comparison.png" width="100%"></div>
 
+<div><strong>TPM</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/tpm-eng/performance_comparison.png" width="100%"></div>
 
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/bov-eng/performance_comparison.png" width="100%"></div>
+<div><strong>TWI</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/twi-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>BUD-ENG</strong>
+<div><strong>VAG</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/vag-eng/performance_comparison.png" width="100%"></div>
 
+<div><strong>XON</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/xon-eng/performance_comparison.png" width="100%"></div>
 
-
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/bud-eng/performance_comparison.png" width="100%"></div>
-
-<div><strong>BWU-ENG</strong>
-
-
-
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/bwu-eng/performance_comparison.png" width="100%"></div>
-
-<div><strong>CKO-ENG</strong>
-
-
-
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/cko-eng/performance_comparison.png" width="100%"></div>
-
-<div><strong>DAG-ENG</strong>
-
-
-
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/dag-eng/performance_comparison.png" width="100%"></div>
-
-<div><strong>DGA-ENG</strong>
-
-
-
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/dga-eng/performance_comparison.png" width="100%"></div>
-
-<div><strong>EWE-ENG</strong>
-
-
-
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/ewe-eng/performance_comparison.png" width="100%"></div>
-
-<div><strong>FAT-ENG</strong>
-
-
-
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/fat-eng/performance_comparison.png" width="100%"></div>
-
-<div><strong>GAA-ENG</strong>
-
-
-
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/gaa-eng/performance_comparison.png" width="100%"></div>
-
-<div><strong>GJN-ENG</strong>
-
-
-
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/gjn-eng/performance_comparison.png" width="100%"></div>
-
-<div><strong>GUR-ENG</strong>
-
-
-
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/gur-eng/performance_comparison.png" width="100%"></div>
-
-<div><strong>HAG-ENG</strong>
-
-
-
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/hag-eng/performance_comparison.png" width="100%"></div>
-
-<div><strong>KMA-ENG</strong>
-
-
-
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/kma-eng/performance_comparison.png" width="100%"></div>
-
-<div><strong>KUS-ENG</strong>
-
-
-
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/kus-eng/performance_comparison.png" width="100%"></div>
-
-<div><strong>LEF-ENG</strong>
-
-
-
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/lef-eng/performance_comparison.png" width="100%"></div>
-
-<div><strong>LIP-ENG</strong>
-
-
-
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/lip-eng/performance_comparison.png" width="100%"></div>
-
-<div><strong>MAW-ENG</strong>
-
-
-
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/maw-eng/performance_comparison.png" width="100%"></div>
-
-<div><strong>MZW-ENG</strong>
-
-
-
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/mzw-eng/performance_comparison.png" width="100%"></div>
-
-<div><strong>NAW-ENG</strong>
-
-
-
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/naw-eng/performance_comparison.png" width="100%"></div>
-
-<div><strong>NCU-ENG</strong>
-
-
-
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/ncu-eng/performance_comparison.png" width="100%"></div>
-
-<div><strong>NKO-ENG</strong>
-
-
-
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/nko-eng/performance_comparison.png" width="100%"></div>
-
-<div><strong>NTR-ENG</strong>
-
-
-
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/ntr-eng/performance_comparison.png" width="100%"></div>
-
-<div><strong>NYB-ENG</strong>
-
-
-
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/nyb-eng/performance_comparison.png" width="100%"></div>
-
-<div><strong>NZI-ENG</strong>
-
-
-
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/nzi-eng/performance_comparison.png" width="100%"></div>
-
-<div><strong>SFW-ENG</strong>
-
-
-
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/sfw-eng/performance_comparison.png" width="100%"></div>
-
-<div><strong>SIG-ENG</strong>
-
-
-
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/sig-eng/performance_comparison.png" width="100%"></div>
-
-<div><strong>SIL-ENG</strong>
-
-
-
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/sil-eng/performance_comparison.png" width="100%"></div>
-
-<div><strong>SNW-ENG</strong>
-
-
-
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/snw-eng/performance_comparison.png" width="100%"></div>
-
-<div><strong>TCD-ENG</strong>
-
-
-
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/tcd-eng/performance_comparison.png" width="100%"></div>
-
-<div><strong>TPM-ENG</strong>
-
-
-
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/tpm-eng/performance_comparison.png" width="100%"></div>
-
-<div><strong>TWI-ENG</strong>
-
-
-
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/twi-eng/performance_comparison.png" width="100%"></div>
-
-<div><strong>VAG-ENG</strong>
-
-
-
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/vag-eng/performance_comparison.png" width="100%"></div>
-
-<div><strong>XON-ENG</strong>
-
-
-
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/xon-eng/performance_comparison.png" width="100%"></div>
-
-<div><strong>XSM-ENG</strong>
-
-
-
-<img src="https://www.google.com/search?q=https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/xsm-eng/performance_comparison.png" width="100%"></div>
+<div><strong>XSM</strong>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/xsm-eng/performance_comparison.png" width="100%"></div>
 
 </div>
 
