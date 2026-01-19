@@ -1,0 +1,26 @@
+Translation Benchmark Results for nzi-eng
+Generated on: 2026-01-19 11:10:31
+
+Model Performance:
+gemini-2.5-flash: 69.11%
+claude-sonnet-4-5: 37.02%
+gpt-4.1: 31.46%
+mistral-7b-instruct-v0.3: 26.60%
+kimi-k2-instruct-0905: 26.24%
+palmyra-med-70b: 25.72%
+qwen3-32b: 24.22%
+gemma2-9b-it: 24.21%
+qwen3-235b-a22b: 21.96%
+llama-4-maverick-17b-128e-instruct: 21.55%
+llama-3.1-405b-instruct: 21.42%
+gemma-2-27b-it: 20.92%
+mistral-medium-3-instruct: 20.52%
+deepseek-v3.1: 20.36%
+gemma-2-9b-it: 20.33%
+gpt-oss-120b: 20.25%
+llama-3.3-70b-instruct: 18.88%
+qwq-32b: 17.17%
+seed-oss-36b-instruct: 16.32%
+
+Best Model: gemini-2.5-flash (69.11%)
+Average Score: 25.49%

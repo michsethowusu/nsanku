@@ -1,0 +1,26 @@
+Translation Benchmark Results for bud-eng
+Generated on: 2026-01-19 11:10:28
+
+Model Performance:
+gemini-2.5-flash: 58.36%
+claude-sonnet-4-5: 47.36%
+palmyra-med-70b: 45.90%
+qwen3-32b: 39.32%
+gpt-4.1: 37.18%
+llama-3.1-405b-instruct: 34.06%
+llama-3.3-70b-instruct: 33.98%
+deepseek-v3.1: 33.96%
+gemma2-9b-it: 33.67%
+kimi-k2-instruct-0905: 30.96%
+llama-4-maverick-17b-128e-instruct: 30.16%
+qwen3-235b-a22b: 30.09%
+gemma-2-9b-it: 29.11%
+gemma-2-27b-it: 28.93%
+mistral-medium-3-instruct: 26.97%
+qwq-32b: 25.98%
+mistral-7b-instruct-v0.3: 25.96%
+seed-oss-36b-instruct: 25.41%
+gpt-oss-120b: 21.00%
+
+Best Model: gemini-2.5-flash (58.36%)
+Average Score: 33.60%

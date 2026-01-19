@@ -1,0 +1,26 @@
+Translation Benchmark Results for biv-eng
+Generated on: 2026-01-19 11:10:32
+
+Model Performance:
+gemini-2.5-flash: 44.29%
+claude-sonnet-4-5: 38.79%
+gemma2-9b-it: 37.80%
+gpt-4.1: 37.03%
+palmyra-med-70b: 33.70%
+qwen3-32b: 33.28%
+kimi-k2-instruct-0905: 32.84%
+deepseek-v3.1: 32.42%
+llama-3.1-405b-instruct: 30.92%
+gemma-2-27b-it: 30.39%
+seed-oss-36b-instruct: 28.87%
+qwen3-235b-a22b: 27.87%
+qwq-32b: 26.81%
+llama-3.3-70b-instruct: 26.00%
+llama-4-maverick-17b-128e-instruct: 25.21%
+mistral-7b-instruct-v0.3: 24.76%
+mistral-medium-3-instruct: 24.17%
+gpt-oss-120b: 23.01%
+gemma-2-9b-it: 21.35%
+
+Best Model: gemini-2.5-flash (44.29%)
+Average Score: 30.50%

@@ -1,0 +1,26 @@
+Translation Benchmark Results for gaa-eng
+Generated on: 2026-01-19 11:10:32
+
+Model Performance:
+gemini-2.5-flash: 61.64%
+kimi-k2-instruct-0905: 60.97%
+llama-4-maverick-17b-128e-instruct: 58.42%
+deepseek-v3.1: 56.14%
+llama-3.1-405b-instruct: 55.10%
+mistral-medium-3-instruct: 53.88%
+qwen3-235b-a22b: 51.67%
+llama-3.3-70b-instruct: 51.23%
+gemma-2-9b-it: 50.10%
+claude-sonnet-4-5: 47.39%
+gpt-4.1: 44.85%
+seed-oss-36b-instruct: 44.43%
+gemma-2-27b-it: 43.04%
+qwq-32b: 39.70%
+qwen3-32b: 38.67%
+gpt-oss-120b: 38.35%
+gemma2-9b-it: 37.53%
+palmyra-med-70b: 32.05%
+mistral-7b-instruct-v0.3: 31.21%
+
+Best Model: gemini-2.5-flash (61.64%)
+Average Score: 47.18%

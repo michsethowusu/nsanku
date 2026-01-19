@@ -1,0 +1,26 @@
+Translation Benchmark Results for dga-eng
+Generated on: 2026-01-19 11:10:34
+
+Model Performance:
+gemini-2.5-flash: 51.42%
+claude-sonnet-4-5: 39.79%
+gpt-4.1: 37.87%
+qwen3-32b: 37.06%
+gemma2-9b-it: 32.27%
+llama-4-maverick-17b-128e-instruct: 30.18%
+kimi-k2-instruct-0905: 28.04%
+llama-3.1-405b-instruct: 27.75%
+qwen3-235b-a22b: 26.46%
+deepseek-v3.1: 26.20%
+mistral-7b-instruct-v0.3: 24.51%
+llama-3.3-70b-instruct: 23.34%
+mistral-medium-3-instruct: 23.28%
+palmyra-med-70b: 22.86%
+gpt-oss-120b: 22.15%
+gemma-2-27b-it: 22.09%
+gemma-2-9b-it: 21.46%
+seed-oss-36b-instruct: 20.87%
+qwq-32b: 17.51%
+
+Best Model: gemini-2.5-flash (51.42%)
+Average Score: 28.16%
