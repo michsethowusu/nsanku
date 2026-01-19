@@ -1,5 +1,5 @@
 Translation Benchmark Results for nyb-eng
-Generated on: 2026-01-19 11:10:31
+Generated on: 2026-01-19 12:02:42
 
 Model Performance:
 claude-sonnet-4-5: 46.86%

@@ -1,6 +1,6 @@
 {
   "language_pair": "gur-eng",
-  "timestamp": "2026-01-19T11:10:30.158098",
+  "timestamp": "2026-01-19T12:02:41.188483",
   "models": {
     "llama-3.3-70b-instruct": 31.407786328177366,
     "mistral-medium-3-instruct": 37.820392966414005,

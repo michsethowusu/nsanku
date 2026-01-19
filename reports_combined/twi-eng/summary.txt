@@ -1,5 +1,5 @@
 Translation Benchmark Results for twi-eng
-Generated on: 2026-01-19 11:10:31
+Generated on: 2026-01-19 12:02:42
 
 Model Performance:
 kimi-k2-instruct-0905: 74.37%

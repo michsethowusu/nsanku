@@ -1,6 +1,6 @@
 {
   "language_pair": "akp-eng",
-  "timestamp": "2026-01-19T11:10:30.945419",
+  "timestamp": "2026-01-19T12:02:41.711847",
   "models": {
     "llama-4-maverick-17b-128e-instruct": 38.80458621219683,
     "gemma-2-9b-it": 33.778340558782205,

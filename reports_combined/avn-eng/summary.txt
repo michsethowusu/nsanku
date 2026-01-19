@@ -1,5 +1,5 @@
 Translation Benchmark Results for avn-eng
-Generated on: 2026-01-19 11:10:27
+Generated on: 2026-01-19 12:02:39
 
 Model Performance:
 palmyra-med-70b: 48.00%

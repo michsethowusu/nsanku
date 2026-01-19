@@ -1,6 +1,6 @@
 {
   "language_pair": "bim-eng",
-  "timestamp": "2026-01-19T11:10:30.616727",
+  "timestamp": "2026-01-19T12:02:41.458279",
   "models": {
     "mistral-medium-3-instruct": 23.814962006685985,
     "gemini-2.5-flash": 46.471930185953774,

@@ -166,17 +166,19 @@ def calculate_metrics(df):
         else:
             source_consistency = consistency
         
-        metrics.append({
-            'model': model,
-            'avg_score': avg_score,
-            'consistency': max(0, consistency),  # Ensure non-negative
-            'versatility': max(0, versatility),  # Ensure non-negative
-            'source_consistency': max(0, source_consistency),
-            'coverage': coverage,
-            'data_points': data_points,
-            'max_score': model_data['similarity_score_pct'].max(),
-            'min_score': model_data['similarity_score_pct'].min()
-        })
+        # Only include models with >= 10,000 data points
+        if data_points >= 10000:
+            metrics.append({
+                'model': model,
+                'avg_score': avg_score,
+                'consistency': max(0, consistency),  # Ensure non-negative
+                'versatility': max(0, versatility),  # Ensure non-negative
+                'source_consistency': max(0, source_consistency),
+                'coverage': coverage,
+                'data_points': data_points,
+                'max_score': model_data['similarity_score_pct'].max(),
+                'min_score': model_data['similarity_score_pct'].min()
+            })
     
     return pd.DataFrame(metrics)
 

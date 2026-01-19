@@ -1,5 +1,5 @@
 Translation Benchmark Results for dag-eng
-Generated on: 2026-01-19 11:10:34
+Generated on: 2026-01-19 12:02:44
 
 Model Performance:
 kimi-k2-instruct-0905: 72.73%

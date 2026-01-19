@@ -1,5 +1,5 @@
 Translation Benchmark Results for nko-eng
-Generated on: 2026-01-19 11:10:29
+Generated on: 2026-01-19 12:02:41
 
 Model Performance:
 gemini-2.5-flash: 26.88%

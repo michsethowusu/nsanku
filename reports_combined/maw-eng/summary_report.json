@@ -1,6 +1,6 @@
 {
   "language_pair": "maw-eng",
-  "timestamp": "2026-01-19T11:10:35.197828",
+  "timestamp": "2026-01-19T12:02:44.716892",
   "models": {
     "mistral-7b-instruct-v0.3": 13.0336618,
     "gemma-2-9b-it": 15.418700928346915,

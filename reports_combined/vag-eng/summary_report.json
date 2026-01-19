@@ -1,6 +1,6 @@
 {
   "language_pair": "vag-eng",
-  "timestamp": "2026-01-19T11:10:32.118879",
+  "timestamp": "2026-01-19T12:02:42.434970",
   "models": {
     "seed-oss-36b-instruct": 24.937384124393912,
     "llama-4-maverick-17b-128e-instruct": 26.13657067964312,

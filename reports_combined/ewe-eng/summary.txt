@@ -1,5 +1,5 @@
 Translation Benchmark Results for ewe-eng
-Generated on: 2026-01-19 11:10:29
+Generated on: 2026-01-19 12:02:40
 
 Model Performance:
 claude-sonnet-4-5: 70.68%

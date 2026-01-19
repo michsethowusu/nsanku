@@ -1,5 +1,5 @@
 Translation Benchmark Results for akp-eng
-Generated on: 2026-01-19 11:10:30
+Generated on: 2026-01-19 12:02:41
 
 Model Performance:
 kimi-k2-instruct-0905: 46.69%

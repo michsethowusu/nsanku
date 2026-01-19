@@ -1,6 +1,6 @@
 {
   "language_pair": "tcd-eng",
-  "timestamp": "2026-01-19T11:10:35.577980",
+  "timestamp": "2026-01-19T12:02:44.975097",
   "models": {
     "mistral-7b-instruct-v0.3": 28.0994234,
     "gemma2-9b-it": 33.416160044,

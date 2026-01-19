@@ -1,6 +1,6 @@
 {
   "language_pair": "dga-eng",
-  "timestamp": "2026-01-19T11:10:34.380841",
+  "timestamp": "2026-01-19T12:02:44.219800",
   "models": {
     "mistral-7b-instruct-v0.3": 24.51409825,
     "qwen3-235b-a22b": 26.464622295340234,

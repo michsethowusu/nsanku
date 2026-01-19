@@ -1,6 +1,6 @@
 {
   "language_pair": "ada-eng",
-  "timestamp": "2026-01-19T11:10:27.446109",
+  "timestamp": "2026-01-19T12:02:39.675234",
   "models": {
     "llama-3.1-405b-instruct": 25.901496152812502,
     "claude-sonnet-4-5": 42.024757385253906,

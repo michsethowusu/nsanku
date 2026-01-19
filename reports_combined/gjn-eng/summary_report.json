@@ -1,6 +1,6 @@
 {
   "language_pair": "gjn-eng",
-  "timestamp": "2026-01-19T11:10:33.218483",
+  "timestamp": "2026-01-19T12:02:43.349933",
   "models": {
     "llama-3.3-70b-instruct": 38.16847746764493,
     "seed-oss-36b-instruct": 31.42215460805129,

@@ -1,6 +1,6 @@
 {
   "language_pair": "biv-eng",
-  "timestamp": "2026-01-19T11:10:32.758687",
+  "timestamp": "2026-01-19T12:02:42.975017",
   "models": {
     "gemini-2.5-flash": 44.291491190592446,
     "llama-4-maverick-17b-128e-instruct": 25.209283037998194,

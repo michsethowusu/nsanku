@@ -1,6 +1,6 @@
 {
   "language_pair": "hag-eng",
-  "timestamp": "2026-01-19T11:10:34.059012",
+  "timestamp": "2026-01-19T12:02:43.978900",
   "models": {
     "llama-3.3-70b-instruct": 34.34383902996323,
     "claude-sonnet-4-5": 45.42255163192749,

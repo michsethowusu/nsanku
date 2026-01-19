@@ -1,5 +1,5 @@
 Translation Benchmark Results for xsm-eng
-Generated on: 2026-01-19 11:10:32
+Generated on: 2026-01-19 12:02:42
 
 Model Performance:
 gemini-2.5-flash: 48.75%

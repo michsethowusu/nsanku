@@ -1,6 +1,6 @@
 {
   "language_pair": "bwu-eng",
-  "timestamp": "2026-01-19T11:10:30.786555",
+  "timestamp": "2026-01-19T12:02:41.575345",
   "models": {
     "llama-3.1-405b-instruct": 27.15202500120179,
     "gemini-2.5-flash": 48.74519856770833,
