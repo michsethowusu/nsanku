@@ -98,7 +98,7 @@ def save_processing_state(state, state_file="processing_state.json"):
     except Exception as e:
         print(f"Error saving state: {str(e)}")
 
-def get_common_sentence_ids(input_dir, sample_size=100, random_seed=42):
+def get_common_sentence_ids(input_dir, sample_size=200, random_seed=42):
     """Get common sentence IDs that exist in all language pairs"""
     csv_files = [f for f in os.listdir(input_dir) if f.endswith(".csv")]
     
@@ -167,7 +167,7 @@ def run_translation_only(input_dir, output_dir, recipes, state):
     print(f"Initial state: {len(state)} entries")
     
     # Get common sentence IDs that will be used for ALL languages
-    sentence_ids = get_common_sentence_ids(input_dir, sample_size=100, random_seed=42)
+    sentence_ids = get_common_sentence_ids(input_dir, sample_size=200, random_seed=42)
     
     # Load the same sentences for all language pairs
     samples = load_sampled_data(input_dir, sentence_ids)
