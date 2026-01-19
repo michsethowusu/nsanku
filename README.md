@@ -52,133 +52,133 @@ Detailed performance breakdown for each of the 43 evaluated languages.
 
 <!-- Iterating through all 43 language folders identified -->
 
-<div><strong>ABR</strong>
+<div><strong>Abron</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/abr-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>ACD</strong>
+<div><strong>Gikyode</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/acd-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>ADA</strong>
+<div><strong>Dangme</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/ada-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>AKP</strong>
+<div><strong>Siwu</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/akp-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>ANY</strong>
+<div><strong>Anyin</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/any-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>AVN</strong>
+<div><strong>Avatime</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/avn-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>BIB</strong>
+<div><strong>Bisa</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/bib-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>BIM</strong>
+<div><strong>Bimoba</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/bim-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>BIV</strong>
+<div><strong>Southern Birifor</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/biv-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>BOV</strong>
+<div><strong>Tuwuli</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/bov-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>BUD</strong>
+<div><strong>Ntcham</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/bud-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>BWU</strong>
+<div><strong>Buli</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/bwu-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>CKO</strong>
+<div><strong>Anufo</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/cko-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>DAG</strong>
+<div><strong>Dagbani</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/dag-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>DGA</strong>
+<div><strong>Southern Dagaare</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/dga-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>EWE</strong>
+<div><strong>Ewe</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/ewe-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>FAT</strong>
+<div><strong>Fante</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/fat-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>GAA</strong>
+<div><strong>Ga</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/gaa-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>GJN</strong>
+<div><strong>Gonja</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/gjn-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>GUR</strong>
+<div><strong>Farefare</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/gur-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>HAG</strong>
+<div><strong>Hanga</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/hag-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>KMA</strong>
+<div><strong>Konni</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/kma-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>KUS</strong>
+<div><strong>Kusaal</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/kus-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>LEF</strong>
+<div><strong>Lelemi</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/lef-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>LIP</strong>
+<div><strong>Sekpele</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/lip-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>MAW</strong>
+<div><strong>Mampruli</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/maw-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>MZW</strong>
+<div><strong>Deg</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/mzw-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>NAW</strong>
+<div><strong>Nawuri</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/naw-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>NCU</strong>
+<div><strong>Chumburung</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/ncu-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>NKO</strong>
+<div><strong>Nkonya</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/nko-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>NTR</strong>
+<div><strong>Delo</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/ntr-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>NYB</strong>
+<div><strong>Nyagbo</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/nyb-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>NZI</strong>
+<div><strong>Nzema</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/nzi-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>SFW</strong>
+<div><strong>Esahie</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/sfw-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>SIG</strong>
+<div><strong>Paasaal</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/sig-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>SIL</strong>
+<div><strong>Tumulung Sisaala</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/sil-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>SNW</strong>
+<div><strong>Selee</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/snw-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>TCD</strong>
+<div><strong>Tafi</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/tcd-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>TPM</strong>
+<div><strong>Tampulma</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/tpm-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>TWI</strong>
+<div><strong>Twi</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/twi-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>VAG</strong>
+<div><strong>Vagla</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/vag-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>XON</strong>
+<div><strong>Konkomba</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/xon-eng/performance_comparison.png" width="100%"></div>
 
-<div><strong>XSM</strong>
+<div><strong>Kasem</strong>
 <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/xsm-eng/performance_comparison.png" width="100%"></div>
 
 </div>
