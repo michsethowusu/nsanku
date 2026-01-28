@@ -14,28 +14,20 @@ As AI engineers work to bring Ghanaian languages into large language models, itâ
 
 <div style="display:flex; flex-wrap:wrap; gap:10px;">
 
-<a href="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/language_performance_vs_consistency_quadrant.png">
-
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/language_performance_vs_consistency_quadrant.png" width="45%">
-
+<a href="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/overall_bleu.png">
+  <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/overall_bleu.png" width="45%" alt="Overall BLEU Scores">
 </a>
 
-<a href="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/language_performance.png">
-
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/language_performance.png" width="45%">
-
+<a href="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/overall_chrf.png">
+  <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/overall_chrf.png" width="45%" alt="Overall chrF Scores">
 </a>
 
-<a href="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/model_performance_vs_consistency_quadrant.png">
-
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/model_performance_vs_consistency_quadrant.png" width="45%">
-
+<a href="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/overall_metrics_comparison.png">
+  <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/overall_metrics_comparison.png" width="45%" alt="Overall Metrics Comparison">
 </a>
 
-<a href="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/model_performance.png">
-
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/model_performance.png" width="45%">
-
+<a href="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/overall_average.png">
+  <img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/overall_average.png" width="45%" alt="Overall Average Performance">
 </a>
 
 </div>
