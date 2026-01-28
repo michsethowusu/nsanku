@@ -1,26 +1,32 @@
-Translation Benchmark Results for kus-eng
-Generated on: 2026-01-19 12:02:42
+MT Evaluation Results for kus-eng
+Generated on: 2026-01-28 14:52:36
 
-Model Performance:
-claude-sonnet-4-5: 58.86%
-gemini-2.5-flash: 56.94%
-deepseek-v3.1: 55.20%
-kimi-k2-instruct-0905: 52.16%
-llama-3.3-70b-instruct: 51.56%
-llama-3.1-405b-instruct: 51.29%
-llama-4-maverick-17b-128e-instruct: 50.07%
-gemma2-9b-it: 49.99%
-qwen3-235b-a22b: 49.24%
-gpt-4.1: 48.86%
-palmyra-med-70b: 45.65%
-qwen3-32b: 41.17%
-seed-oss-36b-instruct: 40.53%
-gemma-2-9b-it: 40.25%
-gpt-oss-120b: 40.07%
-mistral-medium-3-instruct: 40.03%
-gemma-2-27b-it: 39.36%
-qwq-32b: 39.16%
-mistral-7b-instruct-v0.3: 22.05%
+Model Performance (sorted by Average score):
+----------------------------------------------------------------------
+Model                                BLEU       chrF    Average
+----------------------------------------------------------------------
+llama-3.1-405b-instruct             13.61      28.47      21.04
+claude-sonnet-4-5                    8.38      32.20      20.29
+llama-3.3-70b-instruct              10.58      29.89      20.23
+mistral-medium-3-instruct           12.21      27.38      19.80
+kimi-k2-instruct-0905                9.51      29.89      19.70
+gemini-2.5-flash                     7.65      30.09      18.87
+qwen3-235b-a22b                      9.79      25.90      17.84
+llama-4-maverick-17b-128e-instruct       7.47      27.58      17.53
+gpt-4.1                              6.62      27.86      17.24
+gpt-oss-120b                        10.23      24.13      17.18
+qwq-32b                             10.04      23.41      16.73
+gemma-2-27b-it                      10.21      22.44      16.32
+deepseek-v3.1                        6.37      25.16      15.77
+seed-oss-36b-instruct                6.88      23.88      15.38
+gemma-2-9b-it                        5.70      21.45      13.57
+gemma2-9b-it                         3.41      23.28      13.35
+palmyra-med-70b                      2.65      24.04      13.34
+qwen3-32b                            2.99      20.94      11.96
+mistral-7b-instruct-v0.3             2.34      18.20      10.27
+----------------------------------------------------------------------
 
-Best Model: claude-sonnet-4-5 (58.86%)
-Average Score: 45.92%
+Best Model (by Average): llama-3.1-405b-instruct
+  BLEU: 13.61
+  chrF: 28.47
+  Average: 21.04

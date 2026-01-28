@@ -1,26 +1,32 @@
-Translation Benchmark Results for mzw-eng
-Generated on: 2026-01-19 12:02:39
+MT Evaluation Results for mzw-eng
+Generated on: 2026-01-28 14:52:21
 
-Model Performance:
-gemini-2.5-flash: 42.57%
-claude-sonnet-4-5: 42.05%
-gpt-4.1: 39.05%
-qwen3-32b: 37.87%
-palmyra-med-70b: 35.12%
-mistral-7b-instruct-v0.3: 29.57%
-gemma2-9b-it: 29.44%
-deepseek-v3.1: 23.78%
-kimi-k2-instruct-0905: 23.58%
-llama-4-maverick-17b-128e-instruct: 22.94%
-qwen3-235b-a22b: 22.11%
-gemma-2-9b-it: 22.07%
-seed-oss-36b-instruct: 21.86%
-llama-3.3-70b-instruct: 20.09%
-gemma-2-27b-it: 18.79%
-qwq-32b: 18.32%
-llama-3.1-405b-instruct: 17.46%
-gpt-oss-120b: 17.22%
-mistral-medium-3-instruct: 16.18%
+Model Performance (sorted by Average score):
+----------------------------------------------------------------------
+Model                                BLEU       chrF    Average
+----------------------------------------------------------------------
+claude-sonnet-4-5                    4.85      24.48      14.67
+gemini-2.5-flash                     4.24      23.24      13.74
+gpt-4.1                              4.23      23.02      13.63
+mistral-7b-instruct-v0.3             2.39      20.45      11.42
+palmyra-med-70b                      3.63      19.01      11.32
+qwen3-32b                            2.63      20.00      11.32
+gemma2-9b-it                         2.62      20.01      11.32
+deepseek-v3.1                        2.68      19.28      10.98
+kimi-k2-instruct-0905                2.38      19.05      10.71
+llama-3.1-405b-instruct              1.73      18.85      10.29
+llama-3.3-70b-instruct               2.09      18.23      10.16
+llama-4-maverick-17b-128e-instruct       1.98      18.22      10.10
+seed-oss-36b-instruct                1.83      17.87       9.85
+qwen3-235b-a22b                      1.95      16.98       9.47
+gpt-oss-120b                         2.01      16.58       9.30
+mistral-medium-3-instruct            1.70      16.73       9.21
+gemma-2-27b-it                       1.85      15.37       8.61
+qwq-32b                              1.71      15.48       8.59
+gemma-2-9b-it                        1.49      15.18       8.34
+----------------------------------------------------------------------
 
-Best Model: gemini-2.5-flash (42.57%)
-Average Score: 26.32%
+Best Model (by Average): claude-sonnet-4-5
+  BLEU: 4.85
+  chrF: 24.48
+  Average: 14.67

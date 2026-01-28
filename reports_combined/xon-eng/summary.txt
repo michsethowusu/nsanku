@@ -1,26 +1,32 @@
-Translation Benchmark Results for xon-eng
-Generated on: 2026-01-19 12:02:40
+MT Evaluation Results for xon-eng
+Generated on: 2026-01-28 14:52:25
 
-Model Performance:
-gemini-2.5-flash: 59.03%
-claude-sonnet-4-5: 50.23%
-gpt-4.1: 43.09%
-qwen3-32b: 38.61%
-palmyra-med-70b: 37.16%
-qwen3-235b-a22b: 37.01%
-kimi-k2-instruct-0905: 36.11%
-gemma2-9b-it: 34.12%
-llama-3.1-405b-instruct: 31.82%
-llama-4-maverick-17b-128e-instruct: 31.35%
-gemma-2-9b-it: 30.81%
-deepseek-v3.1: 30.39%
-seed-oss-36b-instruct: 29.64%
-llama-3.3-70b-instruct: 29.59%
-mistral-7b-instruct-v0.3: 29.01%
-qwq-32b: 28.37%
-mistral-medium-3-instruct: 28.32%
-gemma-2-27b-it: 27.08%
-gpt-oss-120b: 26.27%
+Model Performance (sorted by Average score):
+----------------------------------------------------------------------
+Model                                BLEU       chrF    Average
+----------------------------------------------------------------------
+gemini-2.5-flash                     7.51      30.06      18.79
+claude-sonnet-4-5                    5.29      27.75      16.52
+gpt-4.1                              5.16      25.00      15.08
+palmyra-med-70b                      4.58      23.17      13.88
+qwen3-32b                            2.44      22.14      12.29
+llama-3.3-70b-instruct               2.69      21.29      11.99
+mistral-medium-3-instruct            2.48      21.17      11.82
+qwen3-235b-a22b                      2.67      20.95      11.81
+llama-4-maverick-17b-128e-instruct       2.50      21.08      11.79
+mistral-7b-instruct-v0.3             2.64      20.63      11.64
+deepseek-v3.1                        2.65      20.58      11.61
+seed-oss-36b-instruct                2.49      20.52      11.51
+kimi-k2-instruct-0905                2.71      20.25      11.48
+llama-3.1-405b-instruct              2.49      20.41      11.45
+gemma2-9b-it                         2.66      19.76      11.21
+qwq-32b                              2.08      19.94      11.01
+gemma-2-27b-it                       2.22      18.95      10.58
+gpt-oss-120b                         2.31      17.74      10.03
+gemma-2-9b-it                        2.09      15.77       8.93
+----------------------------------------------------------------------
 
-Best Model: gemini-2.5-flash (59.03%)
-Average Score: 34.63%
+Best Model (by Average): gemini-2.5-flash
+  BLEU: 7.51
+  chrF: 30.06
+  Average: 18.79

@@ -11,7 +11,6 @@ from datetime import timedelta
 
 # Add utils to path
 sys.path.append(os.path.join(os.path.dirname(__file__), 'utils'))
-from reporting import generate_report
 
 def setup_api_key():
     """Check for .env file and create it if missing with user-provided API key"""

@@ -1,26 +1,32 @@
-Translation Benchmark Results for nyb-eng
-Generated on: 2026-01-19 12:02:42
+MT Evaluation Results for nyb-eng
+Generated on: 2026-01-28 14:52:32
 
-Model Performance:
-claude-sonnet-4-5: 46.86%
-gemini-2.5-flash: 42.70%
-gpt-4.1: 39.90%
-palmyra-med-70b: 37.61%
-deepseek-v3.1: 36.54%
-llama-4-maverick-17b-128e-instruct: 35.81%
-qwen3-235b-a22b: 35.65%
-qwen3-32b: 34.21%
-gemma-2-27b-it: 33.31%
-gemma2-9b-it: 33.00%
-llama-3.3-70b-instruct: 32.62%
-gemma-2-9b-it: 31.28%
-seed-oss-36b-instruct: 30.51%
-mistral-medium-3-instruct: 30.21%
-kimi-k2-instruct-0905: 29.95%
-llama-3.1-405b-instruct: 29.12%
-mistral-7b-instruct-v0.3: 26.45%
-qwq-32b: 25.53%
-gpt-oss-120b: 23.18%
+Model Performance (sorted by Average score):
+----------------------------------------------------------------------
+Model                                BLEU       chrF    Average
+----------------------------------------------------------------------
+claude-sonnet-4-5                    7.12      29.47      18.29
+gpt-4.1                              5.88      26.46      16.17
+gemini-2.5-flash                     4.96      25.93      15.44
+deepseek-v3.1                        3.96      25.17      14.57
+mistral-medium-3-instruct            4.04      24.84      14.44
+gemma2-9b-it                         3.38      24.37      13.88
+palmyra-med-70b                      3.07      24.53      13.80
+llama-3.3-70b-instruct               3.42      23.65      13.53
+llama-3.1-405b-instruct              2.82      24.22      13.52
+kimi-k2-instruct-0905                3.44      23.39      13.41
+qwen3-235b-a22b                      3.65      23.15      13.40
+llama-4-maverick-17b-128e-instruct       2.81      23.17      12.99
+seed-oss-36b-instruct                2.57      22.97      12.77
+qwq-32b                              2.69      22.27      12.48
+qwen3-32b                            3.37      21.18      12.28
+gemma-2-9b-it                        2.81      20.86      11.83
+mistral-7b-instruct-v0.3             1.65      21.98      11.81
+gemma-2-27b-it                       2.89      20.63      11.76
+gpt-oss-120b                         3.86      16.98      10.42
+----------------------------------------------------------------------
 
-Best Model: claude-sonnet-4-5 (46.86%)
-Average Score: 33.39%
+Best Model (by Average): claude-sonnet-4-5
+  BLEU: 7.12
+  chrF: 29.47
+  Average: 18.29

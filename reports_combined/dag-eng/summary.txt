@@ -1,26 +1,32 @@
-Translation Benchmark Results for dag-eng
-Generated on: 2026-01-19 12:02:44
+MT Evaluation Results for dag-eng
+Generated on: 2026-01-28 14:52:43
 
-Model Performance:
-kimi-k2-instruct-0905: 72.73%
-deepseek-v3.1: 70.82%
-llama-3.1-405b-instruct: 66.40%
-gemini-2.5-flash: 66.05%
-llama-4-maverick-17b-128e-instruct: 65.85%
-llama-3.3-70b-instruct: 60.23%
-mistral-medium-3-instruct: 52.74%
-claude-sonnet-4-5: 49.14%
-gemma-2-9b-it: 46.90%
-gpt-4.1: 45.09%
-qwen3-235b-a22b: 44.53%
-gemma-2-27b-it: 43.00%
-qwen3-32b: 40.78%
-palmyra-med-70b: 39.55%
-gemma2-9b-it: 34.78%
-seed-oss-36b-instruct: 27.69%
-qwq-32b: 27.28%
-gpt-oss-120b: 27.15%
-mistral-7b-instruct-v0.3: 25.78%
+Model Performance (sorted by Average score):
+----------------------------------------------------------------------
+Model                                BLEU       chrF    Average
+----------------------------------------------------------------------
+kimi-k2-instruct-0905               15.46      37.00      26.23
+llama-3.3-70b-instruct              13.65      33.48      23.56
+gemini-2.5-flash                     9.70      34.96      22.33
+llama-3.1-405b-instruct              8.52      34.47      21.49
+deepseek-v3.1                        7.37      33.81      20.59
+mistral-medium-3-instruct            9.42      29.58      19.50
+claude-sonnet-4-5                    6.27      29.04      17.66
+llama-4-maverick-17b-128e-instruct       4.89      30.02      17.45
+gpt-4.1                              5.88      27.36      16.62
+gemma-2-9b-it                        5.82      24.89      15.35
+qwen3-235b-a22b                      4.68      24.80      14.74
+gemma-2-27b-it                       4.43      23.00      13.71
+palmyra-med-70b                      3.82      23.50      13.66
+qwen3-32b                            2.88      20.35      11.62
+gemma2-9b-it                         2.77      20.24      11.50
+seed-oss-36b-instruct                2.31      20.57      11.44
+qwq-32b                              2.71      20.08      11.40
+gpt-oss-120b                         3.03      19.11      11.07
+mistral-7b-instruct-v0.3             1.85      18.83      10.34
+----------------------------------------------------------------------
 
-Best Model: kimi-k2-instruct-0905 (72.73%)
-Average Score: 47.71%
+Best Model (by Average): kimi-k2-instruct-0905
+  BLEU: 15.46
+  chrF: 37.00
+  Average: 26.23

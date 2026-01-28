@@ -1,11 +1,13 @@
-sentence-transformers>=2.2.0
-torch>=1.9.0
-numpy>=1.21.0
-python-dotenv
-openai
-groq
-pandas
-plotly>=6.1.1
-kaleido>=1.1.0
+# Core dependencies
+pandas>=2.0.0
+numpy>=1.24.0
 
+# MT Evaluation Metrics
+sacrebleu>=2.3.1
 
+# Visualization
+plotly>=5.18.0
+kaleido>=0.2.1
+
+# Progress bars
+tqdm>=4.66.0

@@ -1,26 +1,32 @@
-Translation Benchmark Results for tcd-eng
-Generated on: 2026-01-19 12:02:44
+MT Evaluation Results for tcd-eng
+Generated on: 2026-01-28 14:52:47
 
-Model Performance:
-palmyra-med-70b: 40.83%
-claude-sonnet-4-5: 37.19%
-kimi-k2-instruct-0905: 37.07%
-gemini-2.5-flash: 35.52%
-deepseek-v3.1: 35.00%
-qwen3-235b-a22b: 34.95%
-gemma-2-9b-it: 34.79%
-seed-oss-36b-instruct: 33.51%
-gemma2-9b-it: 33.42%
-gpt-4.1: 33.13%
-llama-3.1-405b-instruct: 31.97%
-gemma-2-27b-it: 31.30%
-llama-4-maverick-17b-128e-instruct: 31.19%
-qwen3-32b: 29.15%
-qwq-32b: 28.79%
-llama-3.3-70b-instruct: 28.74%
-mistral-7b-instruct-v0.3: 28.10%
-mistral-medium-3-instruct: 26.27%
-gpt-oss-120b: 20.75%
+Model Performance (sorted by Average score):
+----------------------------------------------------------------------
+Model                                BLEU       chrF    Average
+----------------------------------------------------------------------
+claude-sonnet-4-5                    5.25      25.13      15.19
+gemini-2.5-flash                     4.78      24.13      14.46
+gpt-4.1                              4.48      23.30      13.89
+palmyra-med-70b                      3.07      22.84      12.95
+llama-4-maverick-17b-128e-instruct       2.35      23.22      12.79
+llama-3.1-405b-instruct              2.55      22.77      12.66
+deepseek-v3.1                        2.62      22.56      12.59
+kimi-k2-instruct-0905                2.94      21.85      12.39
+seed-oss-36b-instruct                1.86      22.89      12.38
+llama-3.3-70b-instruct               2.73      21.55      12.14
+gemma2-9b-it                         3.35      20.82      12.09
+qwq-32b                              2.25      21.36      11.80
+mistral-medium-3-instruct            2.06      21.40      11.73
+qwen3-32b                            2.85      20.60      11.73
+qwen3-235b-a22b                      2.17      21.24      11.70
+mistral-7b-instruct-v0.3             2.01      20.04      11.03
+gemma-2-27b-it                       2.37      19.54      10.96
+gemma-2-9b-it                        2.06      19.49      10.77
+gpt-oss-120b                         1.82      17.64       9.73
+----------------------------------------------------------------------
 
-Best Model: palmyra-med-70b (40.83%)
-Average Score: 32.19%
+Best Model (by Average): claude-sonnet-4-5
+  BLEU: 5.25
+  chrF: 25.13
+  Average: 15.19
