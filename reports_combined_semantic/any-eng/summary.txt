@@ -1,0 +1,26 @@
+Translation Benchmark Results for any-eng
+Generated on: 2026-01-19 12:02:44
+
+Model Performance:
+gemini-2.5-flash: 56.55%
+claude-sonnet-4-5: 37.34%
+llama-4-maverick-17b-128e-instruct: 30.82%
+kimi-k2-instruct-0905: 30.37%
+qwen3-235b-a22b: 30.37%
+gemma-2-9b-it: 28.78%
+gpt-4.1: 28.76%
+llama-3.3-70b-instruct: 28.65%
+gemma-2-27b-it: 28.54%
+deepseek-v3.1: 27.54%
+gemma2-9b-it: 26.77%
+mistral-medium-3-instruct: 25.64%
+qwen3-32b: 23.50%
+seed-oss-36b-instruct: 22.94%
+gpt-oss-120b: 22.44%
+llama-3.1-405b-instruct: 22.42%
+palmyra-med-70b: 19.75%
+qwq-32b: 19.58%
+mistral-7b-instruct-v0.3: 14.05%
+
+Best Model: gemini-2.5-flash (56.55%)
+Average Score: 27.62%

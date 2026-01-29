@@ -1,32 +1,32 @@
 MT Evaluation Results for dga-eng
-Generated on: 2026-01-28 14:52:43
+Generated on: 2026-01-29 11:31:17
 
 Model Performance (sorted by Average score):
 ----------------------------------------------------------------------
 Model                                BLEU       chrF    Average
 ----------------------------------------------------------------------
-gemini-2.5-flash                     7.99      30.29      19.14
-claude-sonnet-4-5                    4.81      25.08      14.95
-gpt-4.1                              4.80      24.08      14.44
-palmyra-med-70b                      3.75      22.29      13.02
-kimi-k2-instruct-0905                3.60      22.02      12.81
-llama-4-maverick-17b-128e-instruct       2.36      22.50      12.43
-qwen3-32b                            2.95      21.83      12.39
-mistral-medium-3-instruct            2.74      21.53      12.13
-deepseek-v3.1                        2.51      21.07      11.79
-llama-3.1-405b-instruct              2.17      20.74      11.46
-seed-oss-36b-instruct                2.17      20.63      11.40
-qwen3-235b-a22b                      2.40      20.38      11.39
-llama-3.3-70b-instruct               1.81      20.51      11.16
-gemma2-9b-it                         2.36      19.81      11.09
-gemma-2-27b-it                       2.47      19.20      10.84
-gpt-oss-120b                         2.51      18.79      10.65
-mistral-7b-instruct-v0.3             2.26      18.31      10.28
-qwq-32b                              1.95      17.27       9.61
-gemma-2-9b-it                        1.55      14.99       8.27
+gemini-2.5-flash                    29.29      30.29      29.79
+claude-sonnet-4-5                   17.80      25.08      21.44
+gpt-4.1                              9.73      24.08      16.90
+gemma2-9b-it                        12.80      19.81      16.31
+llama-4-maverick-17b-128e-instruct       8.21      22.50      15.36
+kimi-k2-instruct-0905                7.30      22.02      14.66
+llama-3.1-405b-instruct              8.27      20.74      14.51
+palmyra-med-70b                      4.89      22.29      13.59
+deepseek-v3.1                        6.09      21.07      13.58
+qwen3-32b                            4.36      21.83      13.10
+llama-3.3-70b-instruct               5.52      20.51      13.01
+mistral-medium-3-instruct            3.71      21.53      12.62
+gpt-oss-120b                         5.55      18.79      12.17
+qwen3-235b-a22b                      2.92      20.38      11.65
+gemma-2-27b-it                       3.57      19.20      11.39
+seed-oss-36b-instruct                1.32      20.63      10.97
+qwq-32b                              4.07      17.27      10.67
+mistral-7b-instruct-v0.3             2.65      18.31      10.48
+gemma-2-9b-it                        2.71      14.99       8.85
 ----------------------------------------------------------------------
 
 Best Model (by Average): gemini-2.5-flash
-  BLEU: 7.99
+  BLEU: 29.29
   chrF: 30.29
-  Average: 19.14
+  Average: 29.79

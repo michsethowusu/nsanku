@@ -1,32 +1,32 @@
 MT Evaluation Results for snw-eng
-Generated on: 2026-01-28 14:52:45
+Generated on: 2026-01-29 11:31:19
 
 Model Performance (sorted by Average score):
 ----------------------------------------------------------------------
 Model                                BLEU       chrF    Average
 ----------------------------------------------------------------------
-kimi-k2-instruct-0905                5.38      28.60      16.99
-gemini-2.5-flash                     4.89      24.84      14.87
-gemma2-9b-it                         4.11      24.26      14.19
-claude-sonnet-4-5                    4.01      24.32      14.17
-gpt-4.1                              4.13      23.85      13.99
-qwq-32b                              2.88      24.66      13.77
-qwen3-235b-a22b                      3.54      23.86      13.70
-seed-oss-36b-instruct                2.30      24.73      13.51
-mistral-medium-3-instruct            2.96      23.90      13.43
-llama-4-maverick-17b-128e-instruct       2.72      23.04      12.88
-deepseek-v3.1                        2.31      22.41      12.36
-qwen3-32b                            2.07      21.86      11.96
-llama-3.3-70b-instruct               2.46      21.37      11.92
-palmyra-med-70b                      2.20      21.36      11.78
-gemma-2-27b-it                       1.86      21.11      11.49
-llama-3.1-405b-instruct              1.64      20.44      11.04
-mistral-7b-instruct-v0.3             2.18      19.05      10.61
-gemma-2-9b-it                        1.93      18.48      10.20
-gpt-oss-120b                         1.92      17.68       9.80
+gemini-2.5-flash                    12.46      24.84      18.65
+claude-sonnet-4-5                   12.24      24.32      18.28
+qwq-32b                             11.82      24.66      18.24
+kimi-k2-instruct-0905                7.14      28.60      17.87
+gemma2-9b-it                        10.13      24.26      17.20
+llama-4-maverick-17b-128e-instruct      10.32      23.04      16.68
+deepseek-v3.1                        9.09      22.41      15.75
+gpt-4.1                              7.45      23.85      15.65
+qwen3-235b-a22b                      7.34      23.86      15.60
+llama-3.3-70b-instruct               9.72      21.37      15.55
+gemma-2-9b-it                       10.99      18.48      14.73
+seed-oss-36b-instruct                3.50      24.73      14.11
+qwen3-32b                            5.92      21.86      13.89
+mistral-medium-3-instruct            3.52      23.90      13.71
+llama-3.1-405b-instruct              5.78      20.44      13.11
+palmyra-med-70b                      3.26      21.36      12.31
+gemma-2-27b-it                       3.28      21.11      12.19
+gpt-oss-120b                         4.96      17.68      11.32
+mistral-7b-instruct-v0.3             3.11      19.05      11.08
 ----------------------------------------------------------------------
 
-Best Model (by Average): kimi-k2-instruct-0905
-  BLEU: 5.38
-  chrF: 28.60
-  Average: 16.99
+Best Model (by Average): gemini-2.5-flash
+  BLEU: 12.46
+  chrF: 24.84
+  Average: 18.65

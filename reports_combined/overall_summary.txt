@@ -1,36 +1,36 @@
 OVERALL MT EVALUATION SUMMARY
 ======================================================================
-Generated on: 2026-01-28 14:52:48
+Generated on: 2026-01-29 11:31:22
 Total Language Pairs: 43
 Total Models: 19
 
 BEST OVERALL MODEL
 ----------------------------------------------------------------------
 Model: gemini-2.5-flash
-  BLEU: 7.18
+  BLEU: 24.60
   chrF: 29.16
-  Average: 18.17
+  Average: 26.88
 
 MODEL RANKINGS (by Average Score)
 ----------------------------------------------------------------------
 Rank   Model                                BLEU       chrF    Average
 ----------------------------------------------------------------------
-1      gemini-2.5-flash                     7.18      29.16      18.17
-2      claude-sonnet-4-5                    5.98      27.28      16.63
-3      gpt-4.1                              5.43      25.24      15.34
-4      kimi-k2-instruct-0905                5.38      25.25      15.31
-5      deepseek-v3.1                        4.79      24.87      14.83
-6      llama-4-maverick-17b-128e-instruct       4.28      24.16      14.22
-7      mistral-medium-3-instruct            4.57      23.45      14.01
-8      llama-3.1-405b-instruct              3.99      23.66      13.82
-9      llama-3.3-70b-instruct               3.72      22.73      13.23
-10     qwen3-235b-a22b                      3.59      22.38      12.98
-11     palmyra-med-70b                      3.08      21.80      12.44
-12     seed-oss-36b-instruct                2.65      21.65      12.15
-13     gemma2-9b-it                         3.33      20.76      12.04
-14     qwen3-32b                            2.84      20.95      11.89
-15     gemma-2-27b-it                       3.03      20.39      11.71
-16     qwq-32b                              2.75      20.42      11.58
-17     gpt-oss-120b                         3.23      19.35      11.29
-18     mistral-7b-instruct-v0.3             2.28      19.91      11.10
-19     gemma-2-9b-it                        2.63      18.93      10.78
+1      gemini-2.5-flash                    24.60      29.16      26.88
+2      claude-sonnet-4-5                   22.46      27.28      24.87
+3      gpt-4.1                             21.15      25.24      23.20
+4      kimi-k2-instruct-0905               16.48      25.25      20.87
+5      deepseek-v3.1                       13.72      24.87      19.29
+6      llama-4-maverick-17b-128e-instruct      12.91      24.16      18.53
+7      llama-3.1-405b-instruct             13.23      23.66      18.44
+8      mistral-medium-3-instruct           12.23      23.45      17.84
+9      llama-3.3-70b-instruct              11.38      22.73      17.05
+10     qwen3-235b-a22b                      9.61      22.38      15.99
+11     gemma2-9b-it                         7.90      20.76      14.33
+12     qwen3-32b                            7.15      20.95      14.05
+13     palmyra-med-70b                      5.54      21.80      13.67
+14     seed-oss-36b-instruct                4.95      21.65      13.30
+15     gpt-oss-120b                         6.78      19.35      13.06
+16     gemma-2-27b-it                       5.68      20.39      13.04
+17     qwq-32b                              4.97      20.42      12.70
+18     gemma-2-9b-it                        5.52      18.93      12.23
+19     mistral-7b-instruct-v0.3             4.15      19.91      12.03

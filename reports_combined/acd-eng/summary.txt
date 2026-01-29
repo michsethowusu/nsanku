@@ -1,32 +1,32 @@
 MT Evaluation Results for acd-eng
-Generated on: 2026-01-28 14:52:28
+Generated on: 2026-01-29 11:31:04
 
 Model Performance (sorted by Average score):
 ----------------------------------------------------------------------
 Model                                BLEU       chrF    Average
 ----------------------------------------------------------------------
-kimi-k2-instruct-0905               10.67      29.77      20.22
-gemini-2.5-flash                     7.31      30.91      19.11
-deepseek-v3.1                        8.65      27.50      18.07
-claude-sonnet-4-5                    4.21      25.61      14.91
-gpt-4.1                              4.15      24.63      14.39
-llama-4-maverick-17b-128e-instruct       3.90      24.82      14.36
-qwen3-235b-a22b                      3.79      23.91      13.85
-llama-3.1-405b-instruct              2.95      24.11      13.53
-qwq-32b                              3.65      23.23      13.44
-mistral-medium-3-instruct            2.88      22.91      12.90
-llama-3.3-70b-instruct               2.73      22.36      12.54
-palmyra-med-70b                      2.11      22.01      12.06
-seed-oss-36b-instruct                2.48      21.22      11.85
-qwen3-32b                            1.99      21.13      11.56
-gemma-2-27b-it                       2.41      20.51      11.46
-gpt-oss-120b                         2.96      19.12      11.04
-gemma-2-9b-it                        2.19      19.52      10.85
-gemma2-9b-it                         2.26      18.89      10.58
-mistral-7b-instruct-v0.3             1.41      15.81       8.61
+kimi-k2-instruct-0905               72.06      29.77      50.92
+deepseek-v3.1                       70.01      27.50      48.75
+gemini-2.5-flash                    39.82      30.91      35.37
+gpt-4.1                             42.13      24.63      33.38
+claude-sonnet-4-5                   35.59      25.61      30.60
+llama-3.1-405b-instruct             31.77      24.11      27.94
+llama-4-maverick-17b-128e-instruct      15.73      24.82      20.28
+qwen3-235b-a22b                      9.11      23.91      16.51
+mistral-medium-3-instruct            6.77      22.91      14.84
+gemma-2-27b-it                       8.30      20.51      14.40
+llama-3.3-70b-instruct               5.76      22.36      14.06
+qwen3-32b                            5.73      21.13      13.43
+palmyra-med-70b                      4.09      22.01      13.05
+gemma-2-9b-it                        6.26      19.52      12.89
+seed-oss-36b-instruct                2.81      21.22      12.01
+qwq-32b                              0.00      23.23      11.61
+gemma2-9b-it                         4.08      18.89      11.49
+mistral-7b-instruct-v0.3             4.67      15.81      10.24
+gpt-oss-120b                         0.00      19.12       9.56
 ----------------------------------------------------------------------
 
 Best Model (by Average): kimi-k2-instruct-0905
-  BLEU: 10.67
+  BLEU: 72.06
   chrF: 29.77
-  Average: 20.22
+  Average: 50.92

@@ -1,32 +1,32 @@
 MT Evaluation Results for kma-eng
-Generated on: 2026-01-28 14:52:26
+Generated on: 2026-01-29 11:31:02
 
 Model Performance (sorted by Average score):
 ----------------------------------------------------------------------
 Model                                BLEU       chrF    Average
 ----------------------------------------------------------------------
-gemini-2.5-flash                     5.21      25.21      15.21
-claude-sonnet-4-5                    5.01      24.57      14.79
-llama-3.3-70b-instruct               4.57      24.07      14.32
-kimi-k2-instruct-0905                4.40      23.03      13.72
-deepseek-v3.1                        4.02      22.74      13.38
-palmyra-med-70b                      2.36      22.73      12.54
-qwen3-235b-a22b                      3.03      21.42      12.22
-mistral-medium-3-instruct            2.94      21.30      12.12
-llama-4-maverick-17b-128e-instruct       3.38      20.59      11.99
-gemma-2-9b-it                        3.37      20.50      11.94
-gpt-4.1                              3.72      19.75      11.73
-llama-3.1-405b-instruct              2.94      20.50      11.72
-gemma-2-27b-it                       3.20      19.65      11.43
-seed-oss-36b-instruct                2.47      20.02      11.24
-gemma2-9b-it                         2.32      19.99      11.15
-qwen3-32b                            2.34      19.73      11.03
-qwq-32b                              2.68      17.68      10.18
-gpt-oss-120b                         2.87      16.66       9.76
-mistral-7b-instruct-v0.3             1.73      16.53       9.13
+claude-sonnet-4-5                   44.95      24.57      34.76
+gemini-2.5-flash                    35.54      25.21      30.37
+gpt-4.1                             25.59      19.75      22.67
+deepseek-v3.1                       10.86      22.74      16.80
+llama-3.3-70b-instruct               9.14      24.07      16.60
+kimi-k2-instruct-0905                7.73      23.03      15.38
+qwen3-235b-a22b                      8.28      21.42      14.85
+palmyra-med-70b                      6.14      22.73      14.43
+qwen3-32b                            9.13      19.73      14.43
+llama-4-maverick-17b-128e-instruct       8.19      20.59      14.39
+llama-3.1-405b-instruct              6.65      20.50      13.58
+gemma-2-27b-it                       7.24      19.65      13.45
+gemma2-9b-it                         5.71      19.99      12.85
+mistral-medium-3-instruct            4.15      21.30      12.73
+gemma-2-9b-it                        4.56      20.50      12.53
+gpt-oss-120b                         6.39      16.66      11.52
+seed-oss-36b-instruct                2.75      20.02      11.38
+qwq-32b                              2.77      17.68      10.22
+mistral-7b-instruct-v0.3             3.48      16.53      10.01
 ----------------------------------------------------------------------
 
-Best Model (by Average): gemini-2.5-flash
-  BLEU: 5.21
-  chrF: 25.21
-  Average: 15.21
+Best Model (by Average): claude-sonnet-4-5
+  BLEU: 44.95
+  chrF: 24.57
+  Average: 34.76

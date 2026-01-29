@@ -1,32 +1,32 @@
 MT Evaluation Results for dag-eng
-Generated on: 2026-01-28 14:52:43
+Generated on: 2026-01-29 11:31:18
 
 Model Performance (sorted by Average score):
 ----------------------------------------------------------------------
 Model                                BLEU       chrF    Average
 ----------------------------------------------------------------------
-kimi-k2-instruct-0905               15.46      37.00      26.23
-llama-3.3-70b-instruct              13.65      33.48      23.56
-gemini-2.5-flash                     9.70      34.96      22.33
-llama-3.1-405b-instruct              8.52      34.47      21.49
-deepseek-v3.1                        7.37      33.81      20.59
-mistral-medium-3-instruct            9.42      29.58      19.50
-claude-sonnet-4-5                    6.27      29.04      17.66
-llama-4-maverick-17b-128e-instruct       4.89      30.02      17.45
-gpt-4.1                              5.88      27.36      16.62
-gemma-2-9b-it                        5.82      24.89      15.35
-qwen3-235b-a22b                      4.68      24.80      14.74
-gemma-2-27b-it                       4.43      23.00      13.71
-palmyra-med-70b                      3.82      23.50      13.66
-qwen3-32b                            2.88      20.35      11.62
-gemma2-9b-it                         2.77      20.24      11.50
-seed-oss-36b-instruct                2.31      20.57      11.44
-qwq-32b                              2.71      20.08      11.40
-gpt-oss-120b                         3.03      19.11      11.07
-mistral-7b-instruct-v0.3             1.85      18.83      10.34
+deepseek-v3.1                       28.12      33.81      30.96
+gemini-2.5-flash                    22.65      34.96      28.81
+kimi-k2-instruct-0905               12.06      37.00      24.53
+llama-4-maverick-17b-128e-instruct      12.71      30.02      21.37
+gpt-4.1                             13.73      27.36      20.54
+llama-3.1-405b-instruct              6.09      34.47      20.28
+llama-3.3-70b-instruct               6.02      33.48      19.75
+mistral-medium-3-instruct            6.90      29.58      18.24
+palmyra-med-70b                     11.99      23.50      17.74
+claude-sonnet-4-5                    5.93      29.04      17.48
+qwen3-235b-a22b                      8.00      24.80      16.40
+gemma-2-9b-it                        5.88      24.89      15.38
+gemma-2-27b-it                       7.51      23.00      15.25
+qwq-32b                              6.45      20.08      13.27
+qwen3-32b                            5.13      20.35      12.74
+gpt-oss-120b                         5.95      19.11      12.53
+gemma2-9b-it                         4.00      20.24      12.12
+seed-oss-36b-instruct                3.60      20.57      12.09
+mistral-7b-instruct-v0.3             1.79      18.83      10.31
 ----------------------------------------------------------------------
 
-Best Model (by Average): kimi-k2-instruct-0905
-  BLEU: 15.46
-  chrF: 37.00
-  Average: 26.23
+Best Model (by Average): deepseek-v3.1
+  BLEU: 28.12
+  chrF: 33.81
+  Average: 30.96

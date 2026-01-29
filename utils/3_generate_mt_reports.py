@@ -13,6 +13,8 @@ import json
 import numpy as np
 from datetime import datetime
 import re
+from collections import defaultdict
+from tqdm import tqdm
 
 # ------------------------------------------------------------------
 # Configure PNG export settings
@@ -229,19 +231,22 @@ def create_metric_comparison_chart(model_metrics, title, filename, output_dir):
 def collect_results(input_dir="/home/owusus/Documents/GitHub/nsanku/output_combined"):
     """
     Collect results for all models and language pairs
-    Returns results for each metric separately
+    IMPORTANT: For BLEU, we recalculate at corpus level across all files
+    for each model+language pair combination
     """
-    results = {
-        'bleu': {},
-        'chrf': {},
-        'average': {}
-    }
-    source_breakdown = {}
+    import sacrebleu
+    
+    # Storage for raw translation data (for corpus-level BLEU recalculation)
+    translation_data = defaultdict(lambda: {'hypotheses': [], 'references': []})
+    
+    # Storage for chrF scores (can be averaged)
+    chrf_results = {}
     
     print("Collecting results from processed data...")
     
     recipes = get_available_recipes()
     
+    # First pass: collect all translations for corpus-level BLEU
     for root, _, files in os.walk(input_dir):
         for file in files:
             if not file.endswith(".csv"):
@@ -258,39 +263,91 @@ def collect_results(input_dir="/home/owusus/Documents/GitHub/nsanku/output_combi
             try:
                 df = pd.read_csv(os.path.join(root, file))
                 
-                # Initialize language pair in results if not exists
-                for metric in results:
-                    if language_pair not in results[metric]:
-                        results[metric][language_pair] = {}
-                
-                # Calculate average scores for each metric
-                if 'bleu_score' in df.columns:
-                    bleu_avg = df['bleu_score'].mean()
-                    results['bleu'][language_pair][recipe] = bleu_avg
-                
-                if 'chrf_score' in df.columns:
-                    chrf_avg = df['chrf_score'].mean()
-                    results['chrf'][language_pair][recipe] = chrf_avg
-                
-                if 'avg_score' in df.columns:
-                    avg_score = df['avg_score'].mean()
-                    results['average'][language_pair][recipe] = avg_score
-                
-                # Source breakdown if available
-                if 'source_zip_file' in df.columns:
-                    if language_pair not in source_breakdown:
-                        source_breakdown[language_pair] = {}
-                    if recipe not in source_breakdown[language_pair]:
-                        source_breakdown[language_pair][recipe] = {}
+                # Collect translations for corpus-level BLEU
+                if 'translated' in df.columns and 'ref' in df.columns:
+                    valid_mask = (
+                        df['translated'].notna() & 
+                        df['ref'].notna() & 
+                        (df['translated'] != 'nan') & 
+                        (df['ref'] != 'nan') &
+                        (df['translated'].astype(str).str.strip() != '') &
+                        (df['ref'].astype(str).str.strip() != '')
+                    )
                     
-                    for source in df['source_zip_file'].unique():
-                        source_df = df[df['source_zip_file'] == source]
-                        if 'avg_score' in source_df.columns:
-                            source_breakdown[language_pair][recipe][source] = source_df['avg_score'].mean()
+                    if valid_mask.any():
+                        key = (language_pair, recipe)
+                        translation_data[key]['hypotheses'].extend(
+                            df.loc[valid_mask, 'translated'].astype(str).str.strip().tolist()
+                        )
+                        translation_data[key]['references'].extend(
+                            df.loc[valid_mask, 'ref'].astype(str).str.strip().tolist()
+                        )
+                
+                # Collect chrF scores for averaging
+                if 'chrf_score' in df.columns:
+                    if language_pair not in chrf_results:
+                        chrf_results[language_pair] = {}
+                    
+                    # Average chrF for this file
+                    chrf_avg = df['chrf_score'].mean()
+                    if recipe in chrf_results[language_pair]:
+                        # If we have multiple files, collect them for averaging
+                        if not isinstance(chrf_results[language_pair][recipe], list):
+                            chrf_results[language_pair][recipe] = [chrf_results[language_pair][recipe]]
+                        chrf_results[language_pair][recipe].append(chrf_avg)
+                    else:
+                        chrf_results[language_pair][recipe] = chrf_avg
                 
             except Exception as e:
                 print(f"Error processing {file}: {e}")
                 continue
+    
+    # Second pass: calculate corpus-level BLEU for each model+language pair
+    print("\nCalculating corpus-level BLEU scores for each model+language pair...")
+    bleu_results = {}
+    
+    for (language_pair, recipe), data in tqdm(translation_data.items(), desc="Computing BLEU"):
+        hypotheses = data['hypotheses']
+        references = data['references']
+        
+        if hypotheses and references:
+            try:
+                refs = [[ref] for ref in references]
+                bleu = sacrebleu.corpus_bleu(hypotheses, refs)
+                
+                if language_pair not in bleu_results:
+                    bleu_results[language_pair] = {}
+                bleu_results[language_pair][recipe] = bleu.score
+                
+            except Exception as e:
+                print(f"  Error calculating BLEU for {language_pair}/{recipe}: {e}")
+    
+    # Average chrF scores if we have multiple files per model
+    for lang_pair in chrf_results:
+        for recipe in chrf_results[lang_pair]:
+            if isinstance(chrf_results[lang_pair][recipe], list):
+                chrf_results[lang_pair][recipe] = np.mean(chrf_results[lang_pair][recipe])
+    
+    # Combine results
+    results = {
+        'bleu': bleu_results,
+        'chrf': chrf_results,
+        'average': {}
+    }
+    
+    # Calculate averages
+    for language_pair in bleu_results:
+        results['average'][language_pair] = {}
+        for recipe in bleu_results[language_pair]:
+            bleu_score = bleu_results[language_pair].get(recipe, 0)
+            chrf_score = chrf_results.get(language_pair, {}).get(recipe, 0)
+            results['average'][language_pair][recipe] = (bleu_score + chrf_score) / 2
+    
+    # Note: source_breakdown is not implemented in this version
+    # since we're doing corpus-level calculation
+    source_breakdown = {}
+    
+    print(f"\n✓ Calculated BLEU for {len(translation_data)} model+language combinations")
     
     return results, source_breakdown
 

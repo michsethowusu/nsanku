@@ -1,0 +1,26 @@
+Translation Benchmark Results for lip-eng
+Generated on: 2026-01-19 12:02:42
+
+Model Performance:
+gemini-2.5-flash: 45.43%
+qwen3-32b: 38.36%
+claude-sonnet-4-5: 37.68%
+palmyra-med-70b: 37.16%
+llama-4-maverick-17b-128e-instruct: 36.89%
+kimi-k2-instruct-0905: 36.28%
+gpt-4.1: 35.18%
+llama-3.1-405b-instruct: 34.98%
+qwen3-235b-a22b: 34.57%
+mistral-medium-3-instruct: 33.95%
+gemma2-9b-it: 31.39%
+llama-3.3-70b-instruct: 30.18%
+qwq-32b: 30.11%
+gemma-2-27b-it: 28.72%
+seed-oss-36b-instruct: 28.70%
+deepseek-v3.1: 28.62%
+gemma-2-9b-it: 28.37%
+mistral-7b-instruct-v0.3: 27.51%
+gpt-oss-120b: 23.37%
+
+Best Model: gemini-2.5-flash (45.43%)
+Average Score: 33.02%

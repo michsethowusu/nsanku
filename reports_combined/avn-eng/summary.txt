@@ -1,32 +1,32 @@
 MT Evaluation Results for avn-eng
-Generated on: 2026-01-28 14:52:18
+Generated on: 2026-01-29 11:30:57
 
 Model Performance (sorted by Average score):
 ----------------------------------------------------------------------
 Model                                BLEU       chrF    Average
 ----------------------------------------------------------------------
-palmyra-med-70b                      6.20      25.29      15.75
-gpt-4.1                              5.94      24.91      15.43
-claude-sonnet-4-5                    5.03      25.05      15.04
-mistral-medium-3-instruct            3.61      25.86      14.73
-gemini-2.5-flash                     4.68      24.16      14.42
-llama-3.1-405b-instruct              3.93      24.59      14.26
-seed-oss-36b-instruct                2.92      24.30      13.61
-qwen3-235b-a22b                      2.69      22.90      12.79
-kimi-k2-instruct-0905                2.67      22.52      12.60
-llama-3.3-70b-instruct               2.45      22.49      12.47
-qwen3-32b                            2.33      20.43      11.38
-llama-4-maverick-17b-128e-instruct       2.26      20.09      11.17
-qwq-32b                              2.28      19.81      11.05
-gemma2-9b-it                         2.76      19.10      10.93
-gemma-2-27b-it                       2.04      19.81      10.93
-gemma-2-9b-it                        2.11      19.58      10.85
-deepseek-v3.1                        2.02      19.53      10.78
-mistral-7b-instruct-v0.3             1.76      19.50      10.63
-gpt-oss-120b                         1.95      15.29       8.62
+gpt-4.1                             42.99      24.91      33.95
+claude-sonnet-4-5                   41.09      25.05      33.07
+gemini-2.5-flash                    35.68      24.16      29.92
+llama-3.1-405b-instruct             25.97      24.59      25.28
+mistral-medium-3-instruct           14.37      25.86      20.11
+llama-3.3-70b-instruct              11.08      22.49      16.79
+qwen3-235b-a22b                      9.11      22.90      16.00
+seed-oss-36b-instruct                4.44      24.30      14.37
+qwen3-32b                            7.98      20.43      14.20
+kimi-k2-instruct-0905                5.70      22.52      14.11
+deepseek-v3.1                        8.42      19.53      13.98
+palmyra-med-70b                      1.73      25.29      13.51
+qwq-32b                              6.42      19.81      13.12
+llama-4-maverick-17b-128e-instruct       4.78      20.09      12.43
+mistral-7b-instruct-v0.3             4.43      19.50      11.97
+gemma-2-9b-it                        4.28      19.58      11.93
+gemma-2-27b-it                       3.15      19.81      11.48
+gemma2-9b-it                         3.51      19.10      11.31
+gpt-oss-120b                         0.00      15.29       7.65
 ----------------------------------------------------------------------
 
-Best Model (by Average): palmyra-med-70b
-  BLEU: 6.20
-  chrF: 25.29
-  Average: 15.75
+Best Model (by Average): gpt-4.1
+  BLEU: 42.99
+  chrF: 24.91
+  Average: 33.95

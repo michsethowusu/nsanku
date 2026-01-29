@@ -1,0 +1,26 @@
+Translation Benchmark Results for naw-eng
+Generated on: 2026-01-19 12:02:40
+
+Model Performance:
+gemini-2.5-flash: 49.93%
+claude-sonnet-4-5: 41.06%
+gpt-4.1: 36.17%
+kimi-k2-instruct-0905: 35.94%
+qwen3-32b: 33.27%
+deepseek-v3.1: 32.60%
+gemma2-9b-it: 32.51%
+llama-4-maverick-17b-128e-instruct: 31.14%
+llama-3.1-405b-instruct: 30.57%
+mistral-medium-3-instruct: 29.82%
+qwen3-235b-a22b: 29.39%
+llama-3.3-70b-instruct: 28.56%
+palmyra-med-70b: 27.92%
+qwq-32b: 26.67%
+gemma-2-27b-it: 26.42%
+gemma-2-9b-it: 24.38%
+mistral-7b-instruct-v0.3: 24.37%
+seed-oss-36b-instruct: 24.02%
+gpt-oss-120b: 20.58%
+
+Best Model: gemini-2.5-flash (49.93%)
+Average Score: 30.81%

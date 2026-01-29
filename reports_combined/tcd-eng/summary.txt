@@ -1,32 +1,32 @@
 MT Evaluation Results for tcd-eng
-Generated on: 2026-01-28 14:52:47
+Generated on: 2026-01-29 11:31:21
 
 Model Performance (sorted by Average score):
 ----------------------------------------------------------------------
 Model                                BLEU       chrF    Average
 ----------------------------------------------------------------------
-claude-sonnet-4-5                    5.25      25.13      15.19
-gemini-2.5-flash                     4.78      24.13      14.46
-gpt-4.1                              4.48      23.30      13.89
-palmyra-med-70b                      3.07      22.84      12.95
-llama-4-maverick-17b-128e-instruct       2.35      23.22      12.79
-llama-3.1-405b-instruct              2.55      22.77      12.66
-deepseek-v3.1                        2.62      22.56      12.59
-kimi-k2-instruct-0905                2.94      21.85      12.39
-seed-oss-36b-instruct                1.86      22.89      12.38
-llama-3.3-70b-instruct               2.73      21.55      12.14
-gemma2-9b-it                         3.35      20.82      12.09
-qwq-32b                              2.25      21.36      11.80
-mistral-medium-3-instruct            2.06      21.40      11.73
-qwen3-32b                            2.85      20.60      11.73
-qwen3-235b-a22b                      2.17      21.24      11.70
-mistral-7b-instruct-v0.3             2.01      20.04      11.03
+claude-sonnet-4-5                   38.15      25.13      31.64
+gemini-2.5-flash                    25.13      24.13      24.63
+gpt-4.1                             14.91      23.30      19.11
+llama-4-maverick-17b-128e-instruct       9.15      23.22      16.19
+llama-3.3-70b-instruct              10.30      21.55      15.92
+llama-3.1-405b-instruct              8.86      22.77      15.81
+seed-oss-36b-instruct                7.26      22.89      15.08
+deepseek-v3.1                        7.18      22.56      14.87
+qwen3-235b-a22b                      8.31      21.24      14.77
+kimi-k2-instruct-0905                7.67      21.85      14.76
+qwq-32b                              7.56      21.36      14.46
+palmyra-med-70b                      3.43      22.84      13.14
+gemma2-9b-it                         4.81      20.82      12.82
+qwen3-32b                            4.47      20.60      12.53
+gemma-2-9b-it                        4.71      19.49      12.10
+mistral-7b-instruct-v0.3             3.58      20.04      11.81
+mistral-medium-3-instruct            1.66      21.40      11.53
+gpt-oss-120b                         4.97      17.64      11.30
 gemma-2-27b-it                       2.37      19.54      10.96
-gemma-2-9b-it                        2.06      19.49      10.77
-gpt-oss-120b                         1.82      17.64       9.73
 ----------------------------------------------------------------------
 
 Best Model (by Average): claude-sonnet-4-5
-  BLEU: 5.25
+  BLEU: 38.15
   chrF: 25.13
-  Average: 15.19
+  Average: 31.64

@@ -1,0 +1,26 @@
+Translation Benchmark Results for tpm-eng
+Generated on: 2026-01-19 12:02:43
+
+Model Performance:
+llama-3.1-405b-instruct: 48.92%
+llama-4-maverick-17b-128e-instruct: 47.59%
+llama-3.3-70b-instruct: 46.87%
+deepseek-v3.1: 45.24%
+qwen3-235b-a22b: 44.57%
+mistral-medium-3-instruct: 44.49%
+gemma-2-27b-it: 44.34%
+kimi-k2-instruct-0905: 43.11%
+seed-oss-36b-instruct: 42.66%
+gemma-2-9b-it: 42.13%
+claude-sonnet-4-5: 40.98%
+gemini-2.5-flash: 37.57%
+gpt-4.1: 37.06%
+mistral-7b-instruct-v0.3: 36.71%
+qwq-32b: 36.58%
+gpt-oss-120b: 34.19%
+gemma2-9b-it: 30.46%
+qwen3-32b: 29.87%
+palmyra-med-70b: 28.23%
+
+Best Model: llama-3.1-405b-instruct (48.92%)
+Average Score: 40.08%

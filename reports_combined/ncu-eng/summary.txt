@@ -1,32 +1,32 @@
 MT Evaluation Results for ncu-eng
-Generated on: 2026-01-28 14:52:40
+Generated on: 2026-01-29 11:31:14
 
 Model Performance (sorted by Average score):
 ----------------------------------------------------------------------
 Model                                BLEU       chrF    Average
 ----------------------------------------------------------------------
-gemini-2.5-flash                     7.91      32.25      20.08
-kimi-k2-instruct-0905               10.44      28.31      19.38
-deepseek-v3.1                       10.27      27.79      19.03
-llama-3.1-405b-instruct              7.25      29.89      18.57
-mistral-medium-3-instruct            9.29      27.51      18.40
-gemma2-9b-it                         8.01      26.31      17.16
-claude-sonnet-4-5                    5.14      27.81      16.47
-gpt-4.1                              4.81      26.23      15.52
-qwen3-235b-a22b                      4.71      24.84      14.78
-llama-3.3-70b-instruct               3.73      25.29      14.51
-llama-4-maverick-17b-128e-instruct       4.18      22.86      13.52
-qwen3-32b                            2.56      22.10      12.33
-gemma-2-9b-it                        2.64      21.83      12.23
-mistral-7b-instruct-v0.3             2.51      21.42      11.96
-palmyra-med-70b                      2.35      21.13      11.74
-qwq-32b                              2.70      20.62      11.66
-gemma-2-27b-it                       2.54      20.74      11.64
-seed-oss-36b-instruct                2.59      20.55      11.57
-gpt-oss-120b                         2.74      18.47      10.60
+kimi-k2-instruct-0905               56.64      28.31      42.48
+deepseek-v3.1                       55.25      27.79      41.52
+gpt-4.1                             50.10      26.23      38.16
+mistral-medium-3-instruct           43.34      27.51      35.43
+claude-sonnet-4-5                   35.26      27.81      31.53
+llama-3.1-405b-instruct             31.08      29.89      30.49
+gemini-2.5-flash                    27.15      32.25      29.70
+qwen3-235b-a22b                     24.43      24.84      24.64
+llama-4-maverick-17b-128e-instruct      25.34      22.86      24.10
+gemma2-9b-it                         9.11      26.31      17.71
+llama-3.3-70b-instruct               8.42      25.29      16.86
+gemma-2-9b-it                        9.48      21.83      15.65
+qwen3-32b                            7.05      22.10      14.57
+qwq-32b                              8.04      20.62      14.33
+seed-oss-36b-instruct                5.51      20.55      13.03
+palmyra-med-70b                      3.71      21.13      12.42
+mistral-7b-instruct-v0.3             2.80      21.42      12.11
+gpt-oss-120b                         5.34      18.47      11.91
+gemma-2-27b-it                       2.22      20.74      11.48
 ----------------------------------------------------------------------
 
-Best Model (by Average): gemini-2.5-flash
-  BLEU: 7.91
-  chrF: 32.25
-  Average: 20.08
+Best Model (by Average): kimi-k2-instruct-0905
+  BLEU: 56.64
+  chrF: 28.31
+  Average: 42.48

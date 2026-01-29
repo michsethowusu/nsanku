@@ -1,0 +1,26 @@
+Translation Benchmark Results for sil-eng
+Generated on: 2026-01-19 12:02:40
+
+Model Performance:
+gemini-2.5-flash: 53.81%
+claude-sonnet-4-5: 51.44%
+llama-4-maverick-17b-128e-instruct: 49.08%
+deepseek-v3.1: 48.44%
+kimi-k2-instruct-0905: 47.93%
+gpt-4.1: 44.13%
+gemma-2-27b-it: 43.27%
+llama-3.3-70b-instruct: 42.84%
+gemma2-9b-it: 40.55%
+qwen3-235b-a22b: 40.15%
+qwq-32b: 37.42%
+palmyra-med-70b: 37.32%
+seed-oss-36b-instruct: 36.39%
+mistral-medium-3-instruct: 35.00%
+qwen3-32b: 34.73%
+mistral-7b-instruct-v0.3: 34.63%
+gpt-oss-120b: 34.56%
+gemma-2-9b-it: 33.69%
+llama-3.1-405b-instruct: 31.94%
+
+Best Model: gemini-2.5-flash (53.81%)
+Average Score: 40.91%

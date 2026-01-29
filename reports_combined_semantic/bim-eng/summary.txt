@@ -1,0 +1,26 @@
+Translation Benchmark Results for bim-eng
+Generated on: 2026-01-19 12:02:41
+
+Model Performance:
+gemini-2.5-flash: 46.47%
+claude-sonnet-4-5: 38.56%
+gpt-4.1: 32.07%
+qwen3-32b: 30.03%
+palmyra-med-70b: 26.73%
+deepseek-v3.1: 25.86%
+llama-4-maverick-17b-128e-instruct: 25.69%
+llama-3.3-70b-instruct: 25.35%
+qwen3-235b-a22b: 25.23%
+kimi-k2-instruct-0905: 24.05%
+seed-oss-36b-instruct: 23.88%
+mistral-medium-3-instruct: 23.81%
+mistral-7b-instruct-v0.3: 22.97%
+qwq-32b: 22.90%
+gemma-2-9b-it: 21.36%
+gemma-2-27b-it: 21.18%
+llama-3.1-405b-instruct: 19.52%
+gemma2-9b-it: 19.06%
+gpt-oss-120b: 12.06%
+
+Best Model: gemini-2.5-flash (46.47%)
+Average Score: 25.62%

@@ -1,32 +1,32 @@
 MT Evaluation Results for nko-eng
-Generated on: 2026-01-28 14:52:27
+Generated on: 2026-01-29 11:31:03
 
 Model Performance (sorted by Average score):
 ----------------------------------------------------------------------
 Model                                BLEU       chrF    Average
 ----------------------------------------------------------------------
-kimi-k2-instruct-0905                2.93      20.17      11.55
-gemini-2.5-flash                     3.27      18.53      10.90
-claude-sonnet-4-5                    3.07      18.03      10.55
-llama-4-maverick-17b-128e-instruct       2.28      18.40      10.34
-deepseek-v3.1                        2.29      18.25      10.27
-gpt-4.1                              2.85      17.08       9.97
-mistral-7b-instruct-v0.3             2.68      17.17       9.92
-mistral-medium-3-instruct            2.33      17.11       9.72
-palmyra-med-70b                      2.77      16.56       9.67
-seed-oss-36b-instruct                2.16      16.81       9.48
-qwq-32b                              2.20      16.43       9.32
-llama-3.3-70b-instruct               2.28      16.27       9.27
-qwen3-235b-a22b                      2.44      15.58       9.01
-llama-3.1-405b-instruct              2.13      15.81       8.97
-gpt-oss-120b                         2.52      15.05       8.79
-gemma-2-27b-it                       2.32      15.24       8.78
-gemma2-9b-it                         2.77      14.63       8.70
-qwen3-32b                            2.34      14.94       8.64
-gemma-2-9b-it                        2.33      14.92       8.62
+gpt-4.1                             15.85      17.08      16.47
+claude-sonnet-4-5                   13.33      18.03      15.68
+gemini-2.5-flash                     9.42      18.53      13.97
+deepseek-v3.1                        9.17      18.25      13.71
+kimi-k2-instruct-0905                6.85      20.17      13.51
+gpt-oss-120b                        10.68      15.05      12.87
+llama-4-maverick-17b-128e-instruct       5.72      18.40      12.06
+llama-3.3-70b-instruct               7.69      16.27      11.98
+seed-oss-36b-instruct                6.26      16.81      11.53
+mistral-7b-instruct-v0.3             4.55      17.17      10.86
+qwen3-235b-a22b                      5.90      15.58      10.74
+llama-3.1-405b-instruct              5.54      15.81      10.67
+gemma-2-9b-it                        6.15      14.92      10.54
+mistral-medium-3-instruct            3.04      17.11      10.08
+qwq-32b                              3.22      16.43       9.82
+qwen3-32b                            4.39      14.94       9.67
+palmyra-med-70b                      2.15      16.56       9.35
+gemma-2-27b-it                       3.36      15.24       9.30
+gemma2-9b-it                         2.34      14.63       8.49
 ----------------------------------------------------------------------
 
-Best Model (by Average): kimi-k2-instruct-0905
-  BLEU: 2.93
-  chrF: 20.17
-  Average: 11.55
+Best Model (by Average): gpt-4.1
+  BLEU: 15.85
+  chrF: 17.08
+  Average: 16.47

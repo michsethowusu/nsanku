@@ -1,32 +1,32 @@
 MT Evaluation Results for fat-eng
-Generated on: 2026-01-28 14:52:22
+Generated on: 2026-01-29 11:30:59
 
 Model Performance (sorted by Average score):
 ----------------------------------------------------------------------
 Model                                BLEU       chrF    Average
 ----------------------------------------------------------------------
-deepseek-v3.1                       12.14      37.21      24.68
-gpt-4.1                             11.51      36.79      24.15
-gemini-2.5-flash                    10.70      36.40      23.55
-claude-sonnet-4-5                   10.37      35.72      23.05
-kimi-k2-instruct-0905               12.68      33.00      22.84
-mistral-medium-3-instruct           10.85      34.06      22.45
-llama-4-maverick-17b-128e-instruct       9.32      34.73      22.02
-gpt-oss-120b                        10.07      31.96      21.02
-llama-3.3-70b-instruct               6.73      31.29      19.01
-llama-3.1-405b-instruct              5.21      28.74      16.97
-qwen3-235b-a22b                      6.30      27.61      16.95
-gemma2-9b-it                         6.46      25.73      16.10
-palmyra-med-70b                      3.61      26.32      14.96
-gemma-2-27b-it                       4.53      24.32      14.43
-mistral-7b-instruct-v0.3             2.92      24.59      13.76
-seed-oss-36b-instruct                4.13      23.19      13.66
-qwen3-32b                            3.77      22.88      13.32
-gemma-2-9b-it                        4.14      22.24      13.19
-qwq-32b                              4.04      21.80      12.92
+claude-sonnet-4-5                   21.26      35.72      28.49
+gpt-4.1                             20.16      36.79      28.47
+gemini-2.5-flash                    20.16      36.40      28.28
+llama-4-maverick-17b-128e-instruct      10.13      34.73      22.43
+deepseek-v3.1                        6.41      37.21      21.81
+gpt-oss-120b                         9.34      31.96      20.65
+kimi-k2-instruct-0905                6.87      33.00      19.94
+mistral-medium-3-instruct            4.90      34.06      19.48
+llama-3.3-70b-instruct               6.77      31.29      19.03
+qwen3-235b-a22b                     10.17      27.61      18.89
+llama-3.1-405b-instruct              7.16      28.74      17.95
+gemma2-9b-it                         8.42      25.73      17.07
+qwen3-32b                            9.87      22.88      16.37
+gemma-2-27b-it                       6.43      24.32      15.37
+gemma-2-9b-it                        6.09      22.24      14.16
+palmyra-med-70b                      1.93      26.32      14.12
+seed-oss-36b-instruct                3.94      23.19      13.57
+mistral-7b-instruct-v0.3             1.63      24.59      13.11
+qwq-32b                              0.14      21.80      10.97
 ----------------------------------------------------------------------
 
-Best Model (by Average): deepseek-v3.1
-  BLEU: 12.14
-  chrF: 37.21
-  Average: 24.68
+Best Model (by Average): claude-sonnet-4-5
+  BLEU: 21.26
+  chrF: 35.72
+  Average: 28.49

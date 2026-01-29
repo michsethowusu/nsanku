@@ -1,0 +1,26 @@
+Translation Benchmark Results for nko-eng
+Generated on: 2026-01-19 12:02:41
+
+Model Performance:
+gemini-2.5-flash: 26.88%
+kimi-k2-instruct-0905: 26.35%
+claude-sonnet-4-5: 23.97%
+deepseek-v3.1: 20.87%
+gemma-2-9b-it: 20.86%
+gpt-4.1: 19.56%
+mistral-medium-3-instruct: 18.47%
+llama-4-maverick-17b-128e-instruct: 18.35%
+llama-3.3-70b-instruct: 17.82%
+seed-oss-36b-instruct: 17.69%
+gemma-2-27b-it: 17.12%
+gemma2-9b-it: 17.04%
+qwen3-32b: 16.52%
+qwen3-235b-a22b: 14.93%
+gpt-oss-120b: 13.96%
+qwq-32b: 13.38%
+llama-3.1-405b-instruct: 13.11%
+palmyra-med-70b: 12.90%
+mistral-7b-instruct-v0.3: 11.51%
+
+Best Model: gemini-2.5-flash (26.88%)
+Average Score: 17.96%
