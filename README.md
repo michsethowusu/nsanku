@@ -6,7 +6,7 @@ A project by Ghana NLP to test the machine translation performance of Large Lang
 
 Nsanku is an initiative that evaluates how well various open-source language models perform when working with Ghanaian languages. **We have evaluated the performance of over 14 open-source and closed models across 43 languages, using at least 300 sentences per language** Paper publication coming soon.
 
-**Note about data:** Sentences used in the current evaluation were sources from biblical text.
+**Note about data:** Sentences used in the current evaluation were sourced from biblical text.
 
 ## Why Nsanku Matters
 
