@@ -47,133 +47,133 @@ Detailed performance breakdown for each of the 43 evaluated languages.
 <!-- Iterating through all 43 language folders identified -->
 
 <div><strong>Abron</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/abr-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/abr-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Gikyode</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/acd-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/acd-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Dangme</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/ada-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/ada-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Siwu</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/akp-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/akp-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Anyin</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/any-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/any-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Avatime</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/avn-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/avn-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Bisa</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/bib-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/bib-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Bimoba</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/bim-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/bim-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Southern Birifor</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/biv-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/biv-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Tuwuli</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/bov-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/bov-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Ntcham</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/bud-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/bud-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Buli</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/bwu-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/bwu-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Anufo</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/cko-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/cko-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Dagbani</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/dag-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/dag-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Southern Dagaare</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/dga-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/dga-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Ewe</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/ewe-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/ewe-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Fante</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/fat-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/fat-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Ga</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/gaa-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/gaa-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Gonja</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/gjn-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/gjn-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Farefare</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/gur-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/gur-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Hanga</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/hag-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/hag-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Konni</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/kma-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/kma-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Kusaal</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/kus-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/kus-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Lelemi</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/lef-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/lef-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Sekpele</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/lip-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/lip-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Mampruli</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/maw-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/maw-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Deg</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/mzw-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/mzw-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Nawuri</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/naw-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/naw-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Chumburung</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/ncu-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/ncu-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Nkonya</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/nko-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/nko-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Delo</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/ntr-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/ntr-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Nyagbo</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/nyb-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/nyb-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Nzema</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/nzi-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/nzi-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Esahie</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/sfw-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/sfw-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Paasaal</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/sig-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/sig-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Tumulung Sisaala</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/sil-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/sil-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Selee</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/snw-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/snw-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Tafi</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/tcd-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/tcd-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Tampulma</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/tpm-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/tpm-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Twi</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/twi-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/twi-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Vagla</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/vag-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/vag-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Konkomba</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/xon-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/xon-eng/bleu_scores.png" width="100%"></div>
 
 <div><strong>Kasem</strong>
-<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined_semantic/xsm-eng/performance_comparison.png" width="100%"></div>
+<img src="https://github.com/GhanaNLP/nsanku/raw/main/reports_combined/xsm-eng/bleu_scores.png" width="100%"></div>
 
 </div>
 
