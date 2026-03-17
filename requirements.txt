@@ -11,10 +11,3 @@ kaleido>=0.2.1
 
 # Progress bars
 tqdm>=4.66.0
-
-ctranslate2>=3.22.0
-git+https://github.com/michsethowusu/py-googletrans.git 
-
-google-generativeai
-openai
-python-dotenv
