@@ -98,16 +98,77 @@ def translation_only(df, source_lang, target_lang, model_id, provider):
     result_df['translated'] = ""
     total_texts = len(result_df)
     
+    # BCP-47 mapping shared across NLLB variants
+    NLLB_LANG_MAP = {
+        'en': 'eng_Latn', 'fr': 'fra_Latn', 'es': 'spa_Latn',
+        'de': 'deu_Latn', 'it': 'ita_Latn', 'zh': 'zho_Hans',
+        'ar': 'arb_Arab', 'pt': 'por_Latn', 'ru': 'rus_Cyrl',
+        'ja': 'jpn_Jpan', 'ko': 'kor_Hang', 'nl': 'nld_Latn',
+        'pl': 'pol_Latn', 'tr': 'tur_Latn', 'vi': 'vie_Latn',
+    }
+
+    # 0. Handle CTranslate2 quantized NLLB (3.3B ct2-int8)
+    if provider == "nllb-ct2":
+        import ctranslate2
+        import torch
+        from transformers import NllbTokenizer
+
+        src_bcp47 = NLLB_LANG_MAP.get(source_lang, f"{source_lang}_Latn")
+        tgt_bcp47 = NLLB_LANG_MAP.get(target_lang, f"{target_lang}_Latn")
+
+        device = "cuda" if torch.cuda.is_available() else "cpu"
+        compute_type = "int8_float16" if device == "cuda" else "int8"
+        print(f"CTranslate2 device={device}, compute_type={compute_type}")
+
+        # model_id should be the HF repo, e.g. "OpenNMT/nllb-200-3.3B-ct2-int8"
+        translator_ct2 = ctranslate2.Translator(
+            model_id,
+            device=device,
+            compute_type=compute_type,
+        )
+        tokenizer = NllbTokenizer.from_pretrained(model_id, src_lang=src_bcp47)
+
+        for i, row in result_df.iterrows():
+            text = row['text']
+            print(f"Translating {i+1}/{total_texts}: {text[:50]}...")
+            try:
+                tokens = tokenizer.convert_ids_to_tokens(
+                    tokenizer.encode(text, add_special_tokens=True)
+                )
+                results = translator_ct2.translate_batch(
+                    [tokens],
+                    target_prefix=[[tgt_bcp47]],
+                    beam_size=4,
+                    max_decoding_length=256,
+                )
+                output_tokens = results[0].hypotheses[0][1:]  # strip the lang token prefix
+                translation = tokenizer.convert_tokens_to_string(output_tokens)
+                result_df.at[i, 'translated'] = translation
+                print(f"  → {translation[:50]}...")
+            except Exception as e:
+                print(f"  → [Failed]: {e}")
+                result_df.at[i, 'translated'] = ""
+
+        return result_df
+
     # 1. Handle Local/Transformers Models (Load ONCE per dataframe to save time)
     if provider in ["nllb", "opus-mt"]:
         from transformers import pipeline
         
         if provider == "nllb":
             # Basic NLLB BCP-47 Mapping (Expand as needed)
-            nllb_map = {'en': 'eng_Latn', 'fr': 'fra_Latn', 'es': 'spa_Latn', 'de': 'deu_Latn', 'it': 'ita_Latn', 'zh': 'zho_Hans'}
+            nllb_map = NLLB_LANG_MAP
             src = nllb_map.get(source_lang, f"{source_lang}_Latn")
             tgt = nllb_map.get(target_lang, f"{target_lang}_Latn")
-            translator = pipeline('translation', model=model_id, src_lang=src, tgt_lang=tgt)
+            # Use fp16 for smaller models on GPU for speed
+            import torch
+            use_fp16 = torch.cuda.is_available()
+            translator = pipeline(
+                'translation', model=model_id,
+                src_lang=src, tgt_lang=tgt,
+                torch_dtype=torch.float16 if use_fp16 else torch.float32,
+                device=0 if use_fp16 else -1,
+            )
             
         elif provider == "opus-mt":
             # Opus-MT requires specific directional models
