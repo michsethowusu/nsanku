@@ -1,0 +1,12 @@
+model_id,provider,tested
+claude-sonnet-4-6,anthropic,yes
+claude-opus-4-6,anthropic,yes
+googletrans,googletrans,yes
+gemini-2.5-pro,gemini,yes
+gemini-2.5-flash,gemini,yes
+gemini-3.1-pro,gemini,yes
+gemini-3.1-flash,gemini,yes
+facebook/nllb-200-distilled-600M,nllb,yes
+facebook/facebook/nllb-200-1.3B,nllb,yes
+facebook/facebook/nllb-200-3.3B,nllb,yes
+opus-mt,opus-mt,yes
